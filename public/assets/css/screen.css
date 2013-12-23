@@ -473,7 +473,7 @@ body{font-size:16px;line-height:1.5;font-family:'Helvetica Neue',Arial,Helvetica
 .bar.active .label{color:#fff;}
 .bar.active .label i.fa{color:#fff}
 .bar.active .icon{color:#80caff !important}
-.bar .label{float:left;white-space:nowrap;overflow:hidden;-o()-text-overflow:ellipsis;text-overflow:ellipsis;margin-right:44px;}
+.bar .label{float:left;white-space:nowrap;overflow:hidden;-o()-text-overflow:ellipsis;text-overflow:ellipsis;margin-right:28px;}
 .bar .label .logo,.bar .label i.fa{display:block;width:28px;height:28px;float:left;margin:8px 12px 0 0}
 .bar .label i.fa{font-size:24px;line-height:28px;text-align:center;color:#006ebd;}
 .bar .label i.fa.large{font-size:30px}
@@ -586,13 +586,13 @@ body.categories.show #container .content-side{width:192px !important;position:fi
 body.categories.show #container .content-main{width:1008px;}
 body.categories.show #container .content-main .box{margin-bottom:3em}
 body .sections .section{float:right;}
-body .sections .section.free{width:70%;}
+body .sections .section.free{width:75%;}
 body .sections .section.free .pipe{border-right:1px solid #ddd}
-body .sections .section.prop{border-left:none;width:30%;}
+body .sections .section.prop{border-left:none;width:25%;}
 body .sections .section.prop.empty{display:block}
 body .sections .section .pipe i.fa{display:none}
 body .sections .section .bar{width:100% !important;float:none;border-right:none;}
-body .sections .section .bar .label{font-size:90%}
+body .sections .section .bar .label{font-size:80%}
 body .sections .section .filler-columns-two{display:none}
 }body.ar,body.fa,body.he{direction:rtl;}
 body.ar .ltr,body.fa .ltr,body.he .ltr{display:none}
