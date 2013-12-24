@@ -585,6 +585,9 @@ body.categories.show #container .content-main .box{margin-bottom:3em}
 body.categories.show #container .content-side{width:192px !important;position:fixed;top:76px;margin-left:1008px;background:#fff;z-index:100}
 body.categories.show #container .content-main{width:1008px;}
 body.categories.show #container .content-main .box{margin-bottom:3em}
+body .sections{zoom:1;}
+body .sections:before,body .sections:after{content:"";display:table}
+body .sections:after{clear:both}
 body .sections .section{float:right;}
 body .sections .section.free{width:75%;}
 body .sections .section.free .pipe{border-right:1px solid #ddd}
@@ -617,14 +620,17 @@ body.ar .card-logo,body.fa .card-logo,body.he .card-logo{float:right;margin-righ
 body.ar.root.index .pipe,body.fa.root.index .pipe,body.he.root.index .pipe,body.ar.protocols.index .pipe,body.fa.protocols.index .pipe,body.he.protocols.index .pipe,body.ar.categories.index .pipe,body.fa.categories.index .pipe,body.he.categories.index .pipe,body.ar.about.index .pipe,body.fa.about.index .pipe,body.he.about.index .pipe{float:right}
 body.ar.root.index .bars,body.fa.root.index .bars,body.he.root.index .bars,body.ar.protocols.index .bars,body.fa.protocols.index .bars,body.he.protocols.index .bars,body.ar.categories.index .bars,body.fa.categories.index .bars,body.he.categories.index .bars,body.ar.about.index .bars,body.fa.about.index .bars,body.he.about.index .bars{float:right;border-left:none;border-right:1px solid #ddd}
 body.ar.root.index .bar,body.fa.root.index .bar,body.he.root.index .bar,body.ar.protocols.index .bar,body.fa.protocols.index .bar,body.he.protocols.index .bar,body.ar.categories.index .bar,body.fa.categories.index .bar,body.he.categories.index .bar,body.ar.about.index .bar,body.fa.about.index .bar,body.he.about.index .bar{border-left:none}
-}@media (min-width: 980px){body.ar,body.fa,body.he{padding:0 40px 40px;}
-body.ar .content-side,body.fa .content-side,body.he .content-side{float:right;}
+}@media (min-width: 980px){body.ar .content-side,body.fa .content-side,body.he .content-side{float:right;}
 body.ar .content-side .text-block,body.fa .content-side .text-block,body.he .content-side .text-block{padding-left:0;padding-right:1.5em}
 body.ar .content-side .section,body.fa .content-side .section,body.he .content-side .section{margin-left:0;margin-right:1em;border-right:none;}
 body.ar .content-side .section .bar,body.fa .content-side .section .bar,body.he .content-side .section .bar{border-left:none;}
 body.ar .content-side .section .bar.child,body.fa .content-side .section .bar.child,body.he .content-side .section .bar.child{padding-left:0;padding-right:2em}
 body.ar .content-main,body.fa .content-main,body.he .content-main{float:right}
-body.ar.categories.show #container .content-side,body.fa.categories.show #container .content-side,body.he.categories.show #container .content-side,body.ar.subcategories.show #container .content-side,body.fa.subcategories.show #container .content-side,body.he.subcategories.show #container .content-side,body.ar.protocols.show #container .content-side,body.fa.protocols.show #container .content-side,body.he.protocols.show #container .content-side,body.ar.projects.show #container .content-side,body.fa.projects.show #container .content-side,body.he.projects.show #container .content-side{float:left;}
 body.ar.categories.show #container .content-side .section,body.fa.categories.show #container .content-side .section,body.he.categories.show #container .content-side .section,body.ar.subcategories.show #container .content-side .section,body.fa.subcategories.show #container .content-side .section,body.he.subcategories.show #container .content-side .section,body.ar.protocols.show #container .content-side .section,body.fa.protocols.show #container .content-side .section,body.he.protocols.show #container .content-side .section,body.ar.projects.show #container .content-side .section,body.fa.projects.show #container .content-side .section,body.he.projects.show #container .content-side .section{margin:0 0 0 1em}
 body.ar.categories.show #container .content-main,body.fa.categories.show #container .content-main,body.he.categories.show #container .content-main,body.ar.subcategories.show #container .content-main,body.fa.subcategories.show #container .content-main,body.he.subcategories.show #container .content-main,body.ar.protocols.show #container .content-main,body.fa.protocols.show #container .content-main,body.he.protocols.show #container .content-main,body.ar.projects.show #container .content-main,body.fa.projects.show #container .content-main,body.he.projects.show #container .content-main{float:left}
+}@media (min-width: 1200px){body .sections .section{float:left;}
+body .sections .section.free{width:75%;}
+body .sections .section.free .pipe{border-right:none;border-left:1px solid #ddd}
+body .sections .section.prop{border-right:none;width:25%;}
+body .sections .section.prop .bar{border-left:none}
 }
