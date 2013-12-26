@@ -7522,6 +7522,33 @@
     "protocolsSlugged": []
   },
   {
+    "description": "Validating, recursive, and caching DNS server.",
+    "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
+    "logo": "unbound.png",
+    "notes": "",
+    "privacy_url": "",
+    "source_url": "http://unbound.nlnetlabs.nl/svn/",
+    "name": "Unbound",
+    "tos_url": "",
+    "url": "http://www.unbound.net/",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Unbound_%28DNS_Server%29",
+    "protocols": [],
+    "categories": [
+      {
+        "name": "Servers",
+        "subcategories": [
+          {
+            "name": "DNS",
+            "slug": "dns"
+          }
+        ],
+        "slug": "servers"
+      }
+    ],
+    "slug": "unbound",
+    "protocolsSlugged": []
+  },
+  {
     "description": "کلاینت گپ توسعه‌پذیر و قابل شخصی‌سازی برای IRC و XMPP/Jabber",
     "license_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
     "logo": "weechat.png",

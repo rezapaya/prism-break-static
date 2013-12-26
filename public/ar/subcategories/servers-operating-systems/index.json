@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -819,15 +819,43 @@
             ],
             "slug": "opennic",
             "protocolsSlugged": []
+          },
+          {
+            "description": "Validating, recursive, and caching DNS server.",
+            "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
+            "logo": "unbound.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "http://unbound.nlnetlabs.nl/svn/",
+            "name": "Unbound",
+            "tos_url": "",
+            "url": "http://www.unbound.net/",
+            "wikipedia_url": "http://en.wikipedia.org/wiki/Unbound_%28DNS_Server%29",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "servers"
+              }
+            ],
+            "slug": "unbound",
+            "protocolsSlugged": []
           }
         ],
         "projectLogos": [
           "cloudns.png",
           "dnscrypt.png",
           "namecoin.png",
-          "opennic.png"
+          "opennic.png",
+          "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "namecoin.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1137,7 +1165,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "owncloud.png"
+        "randomLogo": "tahoe-lafs.png"
       },
       {
         "name": "Groupware",
@@ -1950,7 +1978,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -2490,7 +2518,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "dragonfly-bsd.png"
+        "randomLogo": "debian.png"
       },
       {
         "name": "Productivity",
@@ -2620,7 +2648,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -3718,7 +3746,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "openvpn.png"
       },
       {
         "name": "Web Analytics",
@@ -3967,7 +3995,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "prosody.png"
+        "randomLogo": "tigase.png"
       }
     ]
   },
@@ -4509,7 +4537,7 @@
       "sme-server.png",
       "yunohost.png"
     ],
-    "randomLogo": "dragonfly-bsd.png"
+    "randomLogo": "debian.png"
   },
   "projects": [
     {

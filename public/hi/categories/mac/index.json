@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -846,7 +846,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "bitmessage.png",
       "projectsRejected": []
     },
     {
@@ -1133,7 +1133,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "sylpheed.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1515,7 +1515,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "torbirdy.png",
       "projectsRejected": []
     },
     {
@@ -1696,7 +1696,7 @@
         "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "sparkleshare.png",
+      "randomLogo": "git-annex.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3417,7 +3417,7 @@
         "mozilla-thunderbird.png",
         "weechat.png"
       ],
-      "randomLogo": "adium.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -3651,7 +3651,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -4342,7 +4342,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "gnewsense.png",
+      "randomLogo": "arch-linux.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5227,7 +5227,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6036,7 +6036,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "https-everywhere.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {

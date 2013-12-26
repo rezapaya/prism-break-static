@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "gnupg-for-android.png"
+        "randomLogo": "openpgp-keychain.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1578,7 +1578,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "VPN Clients",

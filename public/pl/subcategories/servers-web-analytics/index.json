@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Communication Protocols",
@@ -819,15 +819,43 @@
             ],
             "slug": "opennic",
             "protocolsSlugged": []
+          },
+          {
+            "description": "Validating, recursive, and caching DNS server.",
+            "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
+            "logo": "unbound.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "http://unbound.nlnetlabs.nl/svn/",
+            "name": "Unbound",
+            "tos_url": "",
+            "url": "http://www.unbound.net/",
+            "wikipedia_url": "http://en.wikipedia.org/wiki/Unbound_%28DNS_Server%29",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "servers"
+              }
+            ],
+            "slug": "unbound",
+            "protocolsSlugged": []
           }
         ],
         "projectLogos": [
           "cloudns.png",
           "dnscrypt.png",
           "namecoin.png",
-          "opennic.png"
+          "opennic.png",
+          "unbound.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1137,7 +1165,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "cozy.png"
+        "randomLogo": "git-annex.png"
       },
       {
         "name": "Groupware",
@@ -1623,7 +1651,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "wordpress.png"
       },
       {
         "name": "Mesh Networks",
@@ -1950,7 +1978,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -2490,7 +2518,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "debian.png"
+        "randomLogo": "freebsd.png"
       },
       {
         "name": "Productivity",
@@ -2620,7 +2648,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2844,7 +2872,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "freeswitch.png"
+        "randomLogo": "asterisk.png"
       },
       {
         "name": "Social Networks",
@@ -3365,7 +3393,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnu-social.png"
       },
       {
         "name": "Video & Voice",
@@ -3718,7 +3746,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "libreswan.png"
+        "randomLogo": "openswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3783,7 +3811,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "piwik.png"
+        "randomLogo": "open-web-analytics.png"
       },
       {
         "name": "XMPP Servers",
@@ -4034,7 +4062,7 @@
       "open-web-analytics.png",
       "piwik.png"
     ],
-    "randomLogo": "piwik.png"
+    "randomLogo": "open-web-analytics.png"
   },
   "projects": [
     {

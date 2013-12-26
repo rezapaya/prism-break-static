@@ -155,7 +155,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -341,7 +341,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -704,7 +704,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": []
     },
     {
@@ -865,7 +865,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": []
     },
     {
@@ -1372,7 +1372,7 @@
         "linphone.png",
         "ostel.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "ostel.png",
       "projectsRejected": []
     },
     {
@@ -1490,7 +1490,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -1741,7 +1741,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "disconnect-search.png",
+      "randomLogo": "startpage.png",
       "projectsRejected": []
     },
     {

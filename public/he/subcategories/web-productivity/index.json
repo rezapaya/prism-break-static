@@ -156,7 +156,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -341,7 +341,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -703,7 +703,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Media Publishing",
@@ -1085,7 +1085,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "protextedtext.png"
       },
       {
         "name": "Social Networks",
@@ -1733,7 +1733,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "disconnect-search.png"
       },
       {
         "name": "World Maps",
@@ -1838,7 +1838,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2062,7 +2062,7 @@
       "protextedtext.png",
       "riseup.png"
     ],
-    "randomLogo": "dudle.png"
+    "randomLogo": "protextedtext.png"
   },
   "projects": [
     {

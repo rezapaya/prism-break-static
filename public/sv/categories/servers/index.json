@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "luks.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -879,15 +879,43 @@
           ],
           "slug": "opennic",
           "protocolsSlugged": []
+        },
+        {
+          "description": "Validating, recursive, and caching DNS server.",
+          "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
+          "logo": "unbound.png",
+          "notes": "",
+          "privacy_url": "",
+          "source_url": "http://unbound.nlnetlabs.nl/svn/",
+          "name": "Unbound",
+          "tos_url": "",
+          "url": "http://www.unbound.net/",
+          "wikipedia_url": "http://en.wikipedia.org/wiki/Unbound_%28DNS_Server%29",
+          "protocols": [],
+          "categories": [
+            {
+              "name": "Servers",
+              "subcategories": [
+                {
+                  "name": "DNS",
+                  "slug": "dns"
+                }
+              ],
+              "slug": "servers"
+            }
+          ],
+          "slug": "unbound",
+          "protocolsSlugged": []
         }
       ],
       "projectLogos": [
         "cloudns.png",
         "dnscrypt.png",
         "namecoin.png",
-        "opennic.png"
+        "opennic.png",
+        "unbound.png"
       ],
-      "randomLogo": "dnscrypt.png",
+      "randomLogo": "namecoin.png",
       "projectsRejected": []
     },
     {
@@ -1198,7 +1226,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "pydio.png",
+      "randomLogo": "git-annex.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1520,7 +1548,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "kolab.png",
+      "randomLogo": "indimail.png",
       "projectsRejected": []
     },
     {
@@ -1836,7 +1864,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "piwigo.png",
+      "randomLogo": "zenphoto.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2383,7 +2411,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "librevpn.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2924,7 +2952,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "scientific-linux.png",
+      "randomLogo": "yunohost.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3090,7 +3118,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3447,7 +3475,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "freeswitch.png",
+      "randomLogo": "asterisk.png",
       "projectsRejected": []
     },
     {
@@ -3969,7 +3997,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "sat.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4581,7 +4609,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "tinc.png",
+      "randomLogo": "libreswan.png",
       "projectsRejected": []
     },
     {
@@ -4647,7 +4675,7 @@
         "open-web-analytics.png",
         "piwik.png"
       ],
-      "randomLogo": "open-web-analytics.png",
+      "randomLogo": "piwik.png",
       "projectsRejected": []
     },
     {
@@ -4832,7 +4860,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "prosody.png",
+      "randomLogo": "ejabberd.png",
       "projectsRejected": [
         {
           "status": "rejected",

@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "apg.png"
+        "randomLogo": "openpgp-keychain.png"
       },
       {
         "name": "File Storage & Sync",
@@ -905,7 +905,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "chatsecure.png"
       },
       {
         "name": "Mesh Networks",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -1578,7 +1578,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -1827,7 +1827,7 @@
           "disconnect.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -2069,7 +2069,7 @@
       "gnupg-for-android.png",
       "openpgp-keychain.png"
     ],
-    "randomLogo": "apg.png"
+    "randomLogo": "openpgp-keychain.png"
   },
   "projects": [
     {

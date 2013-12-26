@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -819,15 +819,43 @@
             ],
             "slug": "opennic",
             "protocolsSlugged": []
+          },
+          {
+            "description": "Validating, recursive, and caching DNS server.",
+            "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
+            "logo": "unbound.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "http://unbound.nlnetlabs.nl/svn/",
+            "name": "Unbound",
+            "tos_url": "",
+            "url": "http://www.unbound.net/",
+            "wikipedia_url": "http://en.wikipedia.org/wiki/Unbound_%28DNS_Server%29",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "servers"
+              }
+            ],
+            "slug": "unbound",
+            "protocolsSlugged": []
           }
         ],
         "projectLogos": [
           "cloudns.png",
           "dnscrypt.png",
           "namecoin.png",
-          "opennic.png"
+          "opennic.png",
+          "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1137,7 +1165,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "pydio.png"
+        "randomLogo": "cozy.png"
       },
       {
         "name": "Groupware",
@@ -1374,7 +1402,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "postfix.png"
+        "randomLogo": "exim.png"
       },
       {
         "name": "Media Publishing",
@@ -1623,7 +1651,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "wordpress.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -1950,7 +1978,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "librevpn.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -2490,7 +2518,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Productivity",
@@ -2620,7 +2648,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2844,7 +2872,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "kamailio.png"
+        "randomLogo": "freeswitch.png"
       },
       {
         "name": "Social Networks",
@@ -3365,7 +3393,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "pumpio.png"
+        "randomLogo": "friendica.png"
       },
       {
         "name": "Video & Voice",
@@ -3718,7 +3746,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openvpn.png"
+        "randomLogo": "openswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3967,7 +3995,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "tigase.png"
+        "randomLogo": "ejabberd.png"
       }
     ]
   },
@@ -4218,7 +4246,7 @@
       "wordpress.png",
       "zenphoto.png"
     ],
-    "randomLogo": "wordpress.png"
+    "randomLogo": "imgbi.png"
   },
   "projects": [
     {

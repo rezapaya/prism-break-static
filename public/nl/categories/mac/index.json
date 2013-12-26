@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "gnunet.png",
       "projectsRejected": []
     },
     {
@@ -621,7 +621,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "truecrypt.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -846,7 +846,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "bitmessage.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -1133,7 +1133,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1515,7 +1515,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "torbirdy.png",
       "projectsRejected": []
     },
     {
@@ -1696,7 +1696,7 @@
         "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "mykolab.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2059,7 +2059,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -2800,7 +2800,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "adium.png",
+      "randomLogo": "jitsi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3417,7 +3417,7 @@
         "mozilla-thunderbird.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -3651,7 +3651,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -4342,7 +4342,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "dragonfly-bsd.png",
+      "randomLogo": "gnewsense.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4621,7 +4621,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "tails.png",
       "projectsRejected": []
     },
     {
@@ -6036,7 +6036,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "noscript.png",
+      "randomLogo": "request-policy.png",
       "projectsRejected": []
     },
     {

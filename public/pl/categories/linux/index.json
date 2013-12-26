@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "truecrypt.png",
+      "randomLogo": "luks.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -976,7 +976,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "bitmessage.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -1383,7 +1383,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "claws-mail.png",
+      "randomLogo": "evolution.png",
       "projectsRejected": []
     },
     {
@@ -1669,7 +1669,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -3041,7 +3041,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3542,7 +3542,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "weechat.png",
       "projectsRejected": []
     },
     {
@@ -3870,7 +3870,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "librevpn.png",
       "projectsRejected": []
     },
     {
@@ -4387,7 +4387,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "qubes-os.png",
+      "randomLogo": "gentoo.png",
       "projectsRejected": []
     },
     {
@@ -4625,7 +4625,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "tails.png",
       "projectsRejected": []
     },
     {
@@ -4920,7 +4920,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -5983,7 +5983,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "https-everywhere.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
@@ -6208,7 +6208,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "tor-browser-bundle.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": [
         {
           "status": "rejected",

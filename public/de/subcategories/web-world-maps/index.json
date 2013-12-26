@@ -156,7 +156,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -703,7 +703,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Media Publishing",
@@ -1733,7 +1733,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1838,7 +1838,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "openstreetmap.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -1945,7 +1945,7 @@
       "osrm.png",
       "openstreetmap.png"
     ],
-    "randomLogo": "openstreetmap.png"
+    "randomLogo": "osrm.png"
   },
   "projects": [
     {

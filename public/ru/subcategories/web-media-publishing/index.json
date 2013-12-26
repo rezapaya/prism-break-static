@@ -703,7 +703,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "Media Publishing",
@@ -863,7 +863,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Productivity",
@@ -1085,7 +1085,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Social Networks",
@@ -1189,7 +1189,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -1733,7 +1733,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "startpage.png"
       },
       {
         "name": "World Maps",
@@ -2000,7 +2000,7 @@
       "imgbi.png",
       "mediacrush.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "mediacrush.png"
   },
   "projects": [
     {
