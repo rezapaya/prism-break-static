@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -915,7 +915,7 @@
         "opennic.png",
         "unbound.png"
       ],
-      "randomLogo": "namecoin.png",
+      "randomLogo": "opennic.png",
       "projectsRejected": []
     },
     {
@@ -1548,7 +1548,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "indimail.png",
+      "randomLogo": "iredmail.png",
       "projectsRejected": []
     },
     {
@@ -1614,7 +1614,7 @@
         "exim.png",
         "postfix.png"
       ],
-      "randomLogo": "postfix.png",
+      "randomLogo": "exim.png",
       "projectsRejected": []
     },
     {
@@ -2411,7 +2411,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "cjdns.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -2952,7 +2952,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "yunohost.png",
+      "randomLogo": "arkos.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3118,7 +3118,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "ethercalc.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3340,7 +3340,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": []
     },
     {
@@ -3475,7 +3475,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "asterisk.png",
+      "randomLogo": "kamailio.png",
       "projectsRejected": []
     },
     {
@@ -3997,7 +3997,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "sat.png",
+      "randomLogo": "movim.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4609,7 +4609,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "libreswan.png",
+      "randomLogo": "strongswan.png",
       "projectsRejected": []
     },
     {
@@ -4860,7 +4860,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "ejabberd.png",
+      "randomLogo": "tigase.png",
       "projectsRejected": [
         {
           "status": "rejected",

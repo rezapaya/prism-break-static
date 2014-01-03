@@ -384,7 +384,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "openpgp-keychain.png",
+      "randomLogo": "gnupg-for-android.png",
       "projectsRejected": []
     },
     {
@@ -1991,7 +1991,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",

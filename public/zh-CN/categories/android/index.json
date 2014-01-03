@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "xabber.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1429,7 +1429,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "cjdns.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -1553,7 +1553,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "replicant.png",
+      "randomLogo": "cyanogenmod.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1991,7 +1991,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",

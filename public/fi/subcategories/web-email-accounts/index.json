@@ -98,7 +98,7 @@
             "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -156,7 +156,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -341,7 +341,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -643,7 +643,7 @@
             "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -703,7 +703,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
@@ -1025,7 +1025,7 @@
             "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -1427,7 +1427,7 @@
             "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -1733,7 +1733,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1838,7 +1838,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -1937,7 +1937,7 @@
         "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
         "license_url": "",
         "logo": "riseup.png",
-        "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+        "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
         "privacy_url": "https://help.riseup.net/en/privacy-policy",
         "source_url": "http://riseuplabs.org/",
         "name": "Riseup",
@@ -1995,7 +1995,7 @@
       "mykolab.png",
       "riseup.png"
     ],
-    "randomLogo": "riseup.png"
+    "randomLogo": "autistici-inventati.png"
   },
   "projects": [
     {
@@ -2089,7 +2089,7 @@
       "description": "Turvalliset ja tietoturvalliset sähköpostitilit.",
       "license_url": "",
       "logo": "riseup.png",
-      "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+      "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
       "privacy_url": "https://help.riseup.net/en/privacy-policy",
       "source_url": "http://riseuplabs.org/",
       "name": "Riseup",
