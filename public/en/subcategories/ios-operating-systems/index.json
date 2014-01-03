@@ -11,7 +11,7 @@
             "description": "P2P digital currency with no central authority.",
             "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
             "logo": "bitcoin.png",
-            "notes": "",
+            "notes": "Please note that new, digital currencies may be very volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
             "privacy_url": "",
             "source_url": "https://github.com/bitcoin/bitcoin",
             "name": "Bitcoin",
@@ -98,7 +98,7 @@
             "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
-            "notes": "",
+            "notes": "Please note that new, digital currencies may be very volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
             "privacy_url": "",
             "source_url": "https://github.com/litecoin-project/litecoin",
             "name": "Litecoin",
@@ -186,7 +186,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Operating Systems",
@@ -487,7 +487,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "replicant.png"
+        "randomLogo": "cyanogenmod.png"
       },
       {
         "name": "Video & Voice",
@@ -889,7 +889,7 @@
       "mozilla-firefox.png",
       "replicant.png"
     ],
-    "randomLogo": "replicant.png"
+    "randomLogo": "cyanogenmod.png"
   },
   "projects": [
     {

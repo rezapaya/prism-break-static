@@ -887,14 +887,14 @@
     "protocols": [],
     "categories": [
       {
-        "name": "Servers",
+        "name": "Web",
         "subcategories": [
           {
             "name": "DNS",
             "slug": "dns"
           }
         ],
-        "slug": "servers"
+        "slug": "web"
       }
     ],
     "slug": "cloudns",
@@ -5421,14 +5421,14 @@
     "protocols": [],
     "categories": [
       {
-        "name": "Servers",
+        "name": "Web",
         "subcategories": [
           {
             "name": "DNS",
             "slug": "dns"
           }
         ],
-        "slug": "servers"
+        "slug": "web"
       }
     ],
     "slug": "opennic",

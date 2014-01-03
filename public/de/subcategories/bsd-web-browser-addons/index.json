@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "geli.png"
       },
       {
         "name": "Email Alternatives",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "Finance",
@@ -1257,7 +1257,7 @@
             "description": "P2P-basierte digitale Währung ohne zentrale Autorität.",
             "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
             "logo": "bitcoin.png",
-            "notes": "",
+            "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
             "privacy_url": "",
             "source_url": "https://github.com/bitcoin/bitcoin",
             "name": "Bitcoin",
@@ -1344,7 +1344,7 @@
             "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
-            "notes": "",
+            "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
             "privacy_url": "",
             "source_url": "https://github.com/litecoin-project/litecoin",
             "name": "Litecoin",
@@ -2129,7 +2129,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "pidgin.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "IRC",
@@ -2886,7 +2886,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3123,7 +3123,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -3343,7 +3343,7 @@
           "nightweb.png",
           "retroshare.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -4112,7 +4112,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "noscript.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Web Browsers",
@@ -4971,7 +4971,7 @@
       "request-policy.png",
       "self-destructing-cookies.png"
     ],
-    "randomLogo": "noscript.png"
+    "randomLogo": "mailvelope.png"
   },
   "projects": [
     {

@@ -3,6 +3,72 @@
   "slug": "web",
   "subcategories": [
     {
+      "name": "DNS",
+      "slug": "dns",
+      "projects": [
+        {
+          "description": "שירות אחסון DNS עם DNSCrypt&#8206, DNSSec&#8206, ותמיכה ב-Namecoin&#8206.",
+          "license_url": "",
+          "logo": "cloudns.png",
+          "notes": "",
+          "privacy_url": "https://cloudns.com.au/",
+          "source_url": "",
+          "name": "CloudNS",
+          "tos_url": "",
+          "url": "https://cloudns.com.au/",
+          "wikipedia_url": "",
+          "protocols": [],
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                {
+                  "name": "DNS",
+                  "slug": "dns"
+                }
+              ],
+              "slug": "web"
+            }
+          ],
+          "slug": "cloudns",
+          "protocolsSlugged": []
+        },
+        {
+          "description": "ספק DNS פתוח, דמוקרטי ומתנגד לצנזורה.",
+          "license_url": "",
+          "logo": "opennic.png",
+          "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
+          "privacy_url": "http://wiki.opennicproject.org/Tier2",
+          "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
+          "name": "OpenNIC",
+          "tos_url": "",
+          "url": "http://www.opennicproject.org/",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNIC",
+          "protocols": [],
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                {
+                  "name": "DNS",
+                  "slug": "dns"
+                }
+              ],
+              "slug": "web"
+            }
+          ],
+          "slug": "opennic",
+          "protocolsSlugged": []
+        }
+      ],
+      "projectLogos": [
+        "cloudns.png",
+        "opennic.png"
+      ],
+      "randomLogo": "cloudns.png",
+      "projectsRejected": []
+    },
+    {
       "name": "Email Accounts",
       "slug": "email-accounts",
       "projects": [
@@ -155,7 +221,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "mykolab.png",
       "projectsRejected": []
     },
     {
@@ -704,7 +770,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -865,7 +931,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -1088,7 +1154,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": []
     },
     {
@@ -1490,7 +1556,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -1741,7 +1807,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "startpage.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {

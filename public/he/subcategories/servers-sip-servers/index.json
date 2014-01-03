@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,39 +706,12 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
         "slug": "dns",
         "projects": [
-          {
-            "description": "שירות אחסון DNS עם DNSCrypt&#8206, DNSSec&#8206, ותמיכה ב-Namecoin&#8206.",
-            "license_url": "",
-            "logo": "cloudns.png",
-            "notes": "",
-            "privacy_url": "https://cloudns.com.au/",
-            "source_url": "",
-            "name": "CloudNS",
-            "tos_url": "",
-            "url": "https://cloudns.com.au/",
-            "wikipedia_url": "",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Servers",
-                "subcategories": [
-                  {
-                    "name": "DNS",
-                    "slug": "dns"
-                  }
-                ],
-                "slug": "servers"
-              }
-            ],
-            "slug": "cloudns",
-            "protocolsSlugged": []
-          },
           {
             "description": "כלי לאבטחת תקשורת בין תוכנת לקוח ונתב DNS&#8206.",
             "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
@@ -794,33 +767,6 @@
             "protocolsSlugged": []
           },
           {
-            "description": "ספק DNS פתוח, דמוקרטי ומתנגד לצנזורה.",
-            "license_url": "",
-            "logo": "opennic.png",
-            "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
-            "privacy_url": "http://wiki.opennicproject.org/Tier2",
-            "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
-            "name": "OpenNIC",
-            "tos_url": "",
-            "url": "http://www.opennicproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNIC",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Servers",
-                "subcategories": [
-                  {
-                    "name": "DNS",
-                    "slug": "dns"
-                  }
-                ],
-                "slug": "servers"
-              }
-            ],
-            "slug": "opennic",
-            "protocolsSlugged": []
-          },
-          {
             "description": "Validating, recursive, and caching DNS server.",
             "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
             "logo": "unbound.png",
@@ -849,13 +795,11 @@
           }
         ],
         "projectLogos": [
-          "cloudns.png",
           "dnscrypt.png",
           "namecoin.png",
-          "opennic.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "dnscrypt.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1651,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "piwigo.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -1978,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -2518,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "freebsd.png"
+        "randomLogo": "openbsd.png"
       },
       {
         "name": "Productivity",
@@ -2648,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2738,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2872,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "asterisk.png"
+        "randomLogo": "freeswitch.png"
       },
       {
         "name": "Social Networks",
@@ -3393,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "pumpio.png"
       },
       {
         "name": "Video & Voice",
@@ -4131,7 +4075,7 @@
       "freeswitch.png",
       "kamailio.png"
     ],
-    "randomLogo": "asterisk.png"
+    "randomLogo": "freeswitch.png"
   },
   "projects": [
     {

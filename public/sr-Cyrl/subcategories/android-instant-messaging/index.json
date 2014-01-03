@@ -905,7 +905,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Mesh Networks",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -2222,7 +2222,7 @@
       "linphone.png",
       "xabber.png"
     ],
-    "randomLogo": "chatsecure.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {

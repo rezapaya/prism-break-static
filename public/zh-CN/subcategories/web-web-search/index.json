@@ -4,6 +4,71 @@
     "slug": "web",
     "subcategories": [
       {
+        "name": "DNS",
+        "slug": "dns",
+        "projects": [
+          {
+            "description": "DNS hosting service with DNSCrypt, DNSSec, and Namecoin support.",
+            "license_url": "",
+            "logo": "cloudns.png",
+            "notes": "",
+            "privacy_url": "https://cloudns.com.au/",
+            "source_url": "",
+            "name": "CloudNS",
+            "tos_url": "",
+            "url": "https://cloudns.com.au/",
+            "wikipedia_url": "",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Web",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "web"
+              }
+            ],
+            "slug": "cloudns",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Open, democratic, and anti-censorship DNS provider.",
+            "license_url": "",
+            "logo": "opennic.png",
+            "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
+            "privacy_url": "http://wiki.opennicproject.org/Tier2",
+            "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
+            "name": "OpenNIC",
+            "tos_url": "",
+            "url": "http://www.opennicproject.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNIC",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Web",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "web"
+              }
+            ],
+            "slug": "opennic",
+            "protocolsSlugged": []
+          }
+        ],
+        "projectLogos": [
+          "cloudns.png",
+          "opennic.png"
+        ],
+        "randomLogo": "cloudns.png"
+      },
+      {
         "name": "Email Accounts",
         "slug": "email-accounts",
         "projects": [
@@ -156,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Finance",
@@ -863,7 +928,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Productivity",
@@ -1085,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Social Networks",
@@ -1367,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1733,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "startpage.png"
       },
       {
         "name": "World Maps",
@@ -2029,7 +2094,7 @@
       "metager.png",
       "startpage.png"
     ],
-    "randomLogo": "duckduckgo.png"
+    "randomLogo": "startpage.png"
   },
   "projects": [
     {

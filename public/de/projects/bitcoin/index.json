@@ -2,7 +2,7 @@
   "description": "P2P-basierte digitale Währung ohne zentrale Autorität.",
   "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
   "logo": "bitcoin.png",
-  "notes": "",
+  "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
   "privacy_url": "",
   "source_url": "https://github.com/bitcoin/bitcoin",
   "name": "Bitcoin",

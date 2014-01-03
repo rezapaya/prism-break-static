@@ -773,33 +773,6 @@
       "slug": "dns",
       "projects": [
         {
-          "description": "DNS hosting service with DNSCrypt, DNSSec, and Namecoin support.",
-          "license_url": "",
-          "logo": "cloudns.png",
-          "notes": "",
-          "privacy_url": "https://cloudns.com.au/",
-          "source_url": "",
-          "name": "CloudNS",
-          "tos_url": "",
-          "url": "https://cloudns.com.au/",
-          "wikipedia_url": "",
-          "protocols": [],
-          "categories": [
-            {
-              "name": "Servers",
-              "subcategories": [
-                {
-                  "name": "DNS",
-                  "slug": "dns"
-                }
-              ],
-              "slug": "servers"
-            }
-          ],
-          "slug": "cloudns",
-          "protocolsSlugged": []
-        },
-        {
           "description": "A tool to secure communications between a client and a DNS resolver.",
           "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
           "logo": "dnscrypt.png",
@@ -854,33 +827,6 @@
           "protocolsSlugged": []
         },
         {
-          "description": "Open, democratic, and anti-censorship DNS provider.",
-          "license_url": "",
-          "logo": "opennic.png",
-          "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
-          "privacy_url": "http://wiki.opennicproject.org/Tier2",
-          "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
-          "name": "OpenNIC",
-          "tos_url": "",
-          "url": "http://www.opennicproject.org/",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNIC",
-          "protocols": [],
-          "categories": [
-            {
-              "name": "Servers",
-              "subcategories": [
-                {
-                  "name": "DNS",
-                  "slug": "dns"
-                }
-              ],
-              "slug": "servers"
-            }
-          ],
-          "slug": "opennic",
-          "protocolsSlugged": []
-        },
-        {
           "description": "Validating, recursive, and caching DNS server.",
           "license_url": "http://unbound.nlnetlabs.nl/svn/trunk/LICENSE",
           "logo": "unbound.png",
@@ -909,13 +855,11 @@
         }
       ],
       "projectLogos": [
-        "cloudns.png",
         "dnscrypt.png",
         "namecoin.png",
-        "opennic.png",
         "unbound.png"
       ],
-      "randomLogo": "dnscrypt.png",
+      "randomLogo": "namecoin.png",
       "projectsRejected": []
     },
     {
@@ -1226,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "owncloud.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1548,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "indimail.png",
+      "randomLogo": "iredmail.png",
       "projectsRejected": []
     },
     {
@@ -1614,7 +1558,7 @@
         "exim.png",
         "postfix.png"
       ],
-      "randomLogo": "postfix.png",
+      "randomLogo": "exim.png",
       "projectsRejected": []
     },
     {
@@ -1864,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "zenphoto.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2411,7 +2355,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2952,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "sme-server.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3118,7 +3062,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "etherpad.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3475,7 +3419,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "asterisk.png",
+      "randomLogo": "freeswitch.png",
       "projectsRejected": []
     },
     {
@@ -3997,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4609,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "openvpn.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {
@@ -4675,7 +4619,7 @@
         "open-web-analytics.png",
         "piwik.png"
       ],
-      "randomLogo": "open-web-analytics.png",
+      "randomLogo": "piwik.png",
       "projectsRejected": []
     },
     {
@@ -4860,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "ejabberd.png",
+      "randomLogo": "metronome.png",
       "projectsRejected": [
         {
           "status": "rejected",
