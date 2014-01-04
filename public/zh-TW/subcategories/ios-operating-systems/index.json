@@ -186,7 +186,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -715,7 +715,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "mumble.png"
       },
       {
         "name": "Web Browsers",
@@ -1014,6 +1014,28 @@
       "logo": "apple-ios.png",
       "name": "Apple iOS",
       "categories": [
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Operating Systems"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "blackberry.png",
+      "name": "BlackBerry",
+      "categories": [
+        {
+          "name": "Android",
+          "subcategories": [
+            "Operating Systems"
+          ]
+        },
         {
           "name": "iOS",
           "subcategories": [

@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "gnunet.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "pydio.png",
+      "randomLogo": "buddycloud.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "imgbi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2896,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "openbsd.png",
+      "randomLogo": "arkos.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3062,7 +3062,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3941,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "lorea.png",
+      "randomLogo": "friendica.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "openswan.png",
+      "randomLogo": "openvpn.png",
       "projectsRejected": []
     },
     {
@@ -4619,7 +4619,7 @@
         "open-web-analytics.png",
         "piwik.png"
       ],
-      "randomLogo": "piwik.png",
+      "randomLogo": "open-web-analytics.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "openfire.png",
+      "randomLogo": "ejabberd.png",
       "projectsRejected": [
         {
           "status": "rejected",

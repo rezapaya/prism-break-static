@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "luks.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "dnscrypt.png",
+      "randomLogo": "namecoin.png",
       "projectsRejected": []
     },
     {
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "pydio.png",
+      "randomLogo": "tahoe-lafs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1492,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "iredmail.png",
+      "randomLogo": "indimail.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "piwigo.png",
+      "randomLogo": "imgbi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2355,7 +2355,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2896,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "netbsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3062,7 +3062,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3941,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "gnu-social.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "openswan.png",
+      "randomLogo": "strongswan.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "ejabberd.png",
+      "randomLogo": "openfire.png",
       "projectsRejected": [
         {
           "status": "rejected",

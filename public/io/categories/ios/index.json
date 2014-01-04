@@ -185,7 +185,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -364,7 +364,7 @@
         "chatsecure.png",
         "linphone.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -720,7 +720,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "replicant.png",
+      "randomLogo": "cyanogenmod.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -731,6 +731,28 @@
           "logo": "apple-ios.png",
           "name": "Apple iOS",
           "categories": [
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "blackberry.png",
+          "name": "BlackBerry",
+          "categories": [
+            {
+              "name": "Android",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            },
             {
               "name": "iOS",
               "subcategories": [
@@ -990,7 +1012,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",

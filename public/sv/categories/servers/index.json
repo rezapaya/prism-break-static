@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "freenet.png",
       "projectsRejected": []
     },
     {
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "dnscrypt.png",
+      "randomLogo": "namecoin.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "piwigo.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2355,7 +2355,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2896,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "freebsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3284,7 +3284,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": []
     },
     {
@@ -3941,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "pumpio.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "strongswan.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "metronome.png",
+      "randomLogo": "openfire.png",
       "projectsRejected": [
         {
           "status": "rejected",

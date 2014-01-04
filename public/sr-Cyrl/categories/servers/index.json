@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "truecrypt.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "dnscrypt.png",
+      "randomLogo": "unbound.png",
       "projectsRejected": []
     },
     {
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "cozy.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1492,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "indimail.png",
+      "randomLogo": "iredmail.png",
       "projectsRejected": []
     },
     {
@@ -1558,7 +1558,7 @@
         "exim.png",
         "postfix.png"
       ],
-      "randomLogo": "postfix.png",
+      "randomLogo": "exim.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "zenphoto.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2355,7 +2355,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "librevpn.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2896,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "sme-server.png",
+      "randomLogo": "yunohost.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3284,7 +3284,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "freedombox.png",
+      "randomLogo": "arkos.png",
       "projectsRejected": []
     },
     {
@@ -3419,7 +3419,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "kamailio.png",
+      "randomLogo": "asterisk.png",
       "projectsRejected": []
     },
     {
@@ -3941,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "buddycloud.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "libreswan.png",
+      "randomLogo": "openswan.png",
       "projectsRejected": []
     },
     {
@@ -4619,7 +4619,7 @@
         "open-web-analytics.png",
         "piwik.png"
       ],
-      "randomLogo": "piwik.png",
+      "randomLogo": "open-web-analytics.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "prosody.png",
+      "randomLogo": "ejabberd.png",
       "projectsRejected": [
         {
           "status": "rejected",

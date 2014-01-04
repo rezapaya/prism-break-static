@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "apg.png"
+        "randomLogo": "gnupg-for-android.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -2189,6 +2189,28 @@
     }
   ],
   "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "blackberry.png",
+      "name": "BlackBerry",
+      "categories": [
+        {
+          "name": "Android",
+          "subcategories": [
+            "Operating Systems"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Operating Systems"
+          ]
+        }
+      ]
+    },
     {
       "status": "rejected",
       "tags": [

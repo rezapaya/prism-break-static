@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "orbot.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1555,6 +1555,28 @@
       ],
       "randomLogo": "cyanogenmod.png",
       "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "blackberry.png",
+          "name": "BlackBerry",
+          "categories": [
+            {
+              "name": "Android",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        },
         {
           "status": "rejected",
           "tags": [
@@ -2303,7 +2325,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {

@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "orbot.png",
       "projectsRejected": []
     },
     {
@@ -384,7 +384,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "openpgp-keychain.png",
+      "randomLogo": "gnupg-for-android.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1558,6 +1558,28 @@
         {
           "status": "rejected",
           "tags": [
+            "Proprietary"
+          ],
+          "logo": "blackberry.png",
+          "name": "BlackBerry",
+          "categories": [
+            {
+              "name": "Android",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
             "Proprietary",
             "PRISM"
           ],
@@ -1991,7 +2013,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2303,7 +2325,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {

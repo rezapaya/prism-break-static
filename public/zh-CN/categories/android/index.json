@@ -384,7 +384,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "openpgp-keychain.png",
+      "randomLogo": "apg.png",
       "projectsRejected": []
     },
     {
@@ -803,7 +803,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1558,6 +1558,28 @@
         {
           "status": "rejected",
           "tags": [
+            "Proprietary"
+          ],
+          "logo": "blackberry.png",
+          "name": "BlackBerry",
+          "categories": [
+            {
+              "name": "Android",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
             "Proprietary",
             "PRISM"
           ],
@@ -1991,7 +2013,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",

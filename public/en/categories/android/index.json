@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "orbot.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "chatsecure.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1429,7 +1429,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -1553,8 +1553,30 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "cyanogenmod.png",
       "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "blackberry.png",
+          "name": "BlackBerry",
+          "categories": [
+            {
+              "name": "Android",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        },
         {
           "status": "rejected",
           "tags": [
@@ -2303,7 +2325,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
