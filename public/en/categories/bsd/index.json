@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "gnunet.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": []
     },
     {
@@ -964,7 +964,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "claws-mail.png",
+      "randomLogo": "sylpheed.png",
       "projectsRejected": []
     },
     {
@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "torbirdy.png",
       "projectsRejected": []
     },
     {
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -2574,7 +2574,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "pidgin.png",
       "projectsRejected": []
     },
     {
@@ -3132,7 +3132,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {

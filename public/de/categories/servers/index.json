@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "luks.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "unbound.png",
+      "randomLogo": "dnscrypt.png",
       "projectsRejected": []
     },
     {
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "owncloud.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1492,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "indimail.png",
+      "randomLogo": "kolab.png",
       "projectsRejected": []
     },
     {
@@ -1558,7 +1558,7 @@
         "exim.png",
         "postfix.png"
       ],
-      "randomLogo": "exim.png",
+      "randomLogo": "postfix.png",
       "projectsRejected": []
     },
     {
@@ -1569,7 +1569,7 @@
           "description": "Image hosting with in-browser AES-256 encryption.",
           "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
           "logo": "imgbi.png",
-          "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+          "notes": "Der img.bi-Dienst ist auch [via Tor ](http://imgbifwwqoixh7te.onion/) und als [I2P eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA) verfügbar.",
           "privacy_url": "https://img.bi/",
           "source_url": "https://github.com/imgbi",
           "name": "img.bi",
@@ -1623,7 +1623,7 @@
           "description": "Privatsphäreorientiertes, schnelles Medien (Bilder, Audio, Video) Hosting.",
           "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
           "logo": "mediacrush.png",
-          "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+          "notes": "Warnung: MediaCrush beinhaltet Googles Analytics- und Adsense-Dienste wenn im Browser die Option \"Nicht verfolgen\" deaktiviert ist.",
           "privacy_url": "https://mediacru.sh/serious",
           "source_url": "https://github.com/MediaCrush/MediaCrush",
           "name": "MediaCrush",
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "wordpress.png",
+      "randomLogo": "imgbi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2182,7 +2182,7 @@
           "description": "Benutzt Smartphones, Computer und WLAN-Router um ein dezentrales Mesh-Netzwerk aufzuspannen.",
           "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
           "logo": "commotion.png",
-          "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+          "notes": "Bitte lies [Commotions Warnhinweise](https://commotionwireless.net/understanding-commotions-warning-label).",
           "privacy_url": "https://commotionwireless.net/about/license-privacy",
           "source_url": "https://github.com/opentechinstitute",
           "name": "Commotion",
@@ -2259,7 +2259,7 @@
           "description": "Ein freies Netzwerk, das über andere Netzinfrastrukturen läuft.",
           "license_url": "https://github.com/fauno/librevpn/blob/master/LICENSE",
           "logo": "librevpn.png",
-          "notes": "This project is experimental, and the site is in Spanish only.",
+          "notes": "Dieses Projekt ist noch experimentell und hat nur eine Spanische Webseite.",
           "privacy_url": "",
           "source_url": "https://github.com/fauno/librevpn",
           "name": "LibreVPN",
@@ -2355,7 +2355,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {
@@ -2896,7 +2896,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "scientific-linux.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3062,7 +3062,7 @@
         "ethercalc.png",
         "etherpad.png"
       ],
-      "randomLogo": "etherpad.png",
+      "randomLogo": "dudle.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3284,7 +3284,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": []
     },
     {
@@ -3941,7 +3941,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "lorea.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "openswan.png",
+      "randomLogo": "libreswan.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4804,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "metronome.png",
+      "randomLogo": "prosody.png",
       "projectsRejected": [
         {
           "status": "rejected",

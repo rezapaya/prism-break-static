@@ -95,7 +95,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Litecoin (sign : Ł ; code : LTC) ist eine Peer-to-Peer-Kryptowährung und ein quelloffenes Softwareprojekt unter der MIT/X11-Lizens. Inspiriert von (und technisch nahezu identisch mit) Bitcoin (BTC), werden Litecoins auf Basis eines quelloffenen Protokolls erstellt und transferiert, anstatt von einer zentralen Autorität. Litecoin ist von seinen Entwicklern als Verbesserung von Bitcoin vorgesehen und bietet 3 wichtige Unterschiede: schnellere Transaktionen, 4 Mal mehr Geldeinheiten und langsamere Deflation.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
@@ -186,7 +186,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -487,7 +487,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "cyanogenmod.png"
       },
       {
         "name": "Video & Voice",
@@ -889,7 +889,7 @@
       "mozilla-firefox.png",
       "replicant.png"
     ],
-    "randomLogo": "mozilla-firefox.png"
+    "randomLogo": "cyanogenmod.png"
   },
   "projects": [
     {

@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "diskcryptor.png"
       },
       {
         "name": "Email Alternatives",
@@ -862,7 +862,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitmessage.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Email Clients",
@@ -1208,7 +1208,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Email Encryption",
@@ -1343,7 +1343,7 @@
             ]
           },
           {
-            "description": "Gpg4win is an installation package for Windows (XP, Vista, 7 and 8) with software tools and manuals for email and file encryption on behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
+            "description": "Gpg4win (GNU Privacy Guard for Windows) ist ein Kryptografie-Werkzeugpaket zum Verschlüsseln und Signieren unter Windows (XP, Vista, 7 und 8). Es beinhaltet Softwarewerkzeuge und Anleitungen für E-Mail- und Dateiverschlüsselung und wurde im Auftrag des Bundesamt für Sicherheit in der Informationstechnik (BSI) erstellt. Es benutzt vor allem Kryptografiemethoden auf Grundlage öffentlicher Schlüssel.",
             "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=COPYING;h=623b6258a134210f0b0ada106fdaab7f0370d9c5;hb=HEAD",
             "logo": "gpg4win.png",
             "notes": "",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gpg4win.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1764,7 +1764,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Litecoin (sign : Ł ; code : LTC) ist eine Peer-to-Peer-Kryptowährung und ein quelloffenes Softwareprojekt unter der MIT/X11-Lizens. Inspiriert von (und technisch nahezu identisch mit) Bitcoin (BTC), werden Litecoins auf Basis eines quelloffenen Protokolls erstellt und transferiert, anstatt von einer zentralen Autorität. Litecoin ist von seinen Entwicklern als Verbesserung von Bitcoin vorgesehen und bietet 3 wichtige Unterschiede: schnellere Transaktionen, 4 Mal mehr Geldeinheiten und langsamere Deflation.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
@@ -2798,7 +2798,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -3324,7 +3324,7 @@
             "description": "Benutzt Smartphones, Computer und WLAN-Router um ein dezentrales Mesh-Netzwerk aufzuspannen.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Bitte lies [Commotions Warnhinweise](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -4092,7 +4092,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "linux-mint.png"
+        "randomLogo": "parabola.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4329,7 +4329,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4623,7 +4623,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -4933,7 +4933,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -5593,7 +5593,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "https-everywhere.png"
       },
       {
         "name": "Web Browsers",
@@ -6088,7 +6088,7 @@
         "description": "Benutzt Smartphones, Computer und WLAN-Router um ein dezentrales Mesh-Netzwerk aufzuspannen.",
         "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
         "logo": "commotion.png",
-        "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+        "notes": "Bitte lies [Commotions Warnhinweise](https://commotionwireless.net/understanding-commotions-warning-label).",
         "privacy_url": "https://commotionwireless.net/about/license-privacy",
         "source_url": "https://github.com/opentechinstitute",
         "name": "Commotion",
@@ -6250,7 +6250,7 @@
       "description": "Benutzt Smartphones, Computer und WLAN-Router um ein dezentrales Mesh-Netzwerk aufzuspannen.",
       "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
       "logo": "commotion.png",
-      "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+      "notes": "Bitte lies [Commotions Warnhinweise](https://commotionwireless.net/understanding-commotions-warning-label).",
       "privacy_url": "https://commotionwireless.net/about/license-privacy",
       "source_url": "https://github.com/opentechinstitute",
       "name": "Commotion",

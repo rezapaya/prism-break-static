@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "luks.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "dnscrypt.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "cozy.png"
+        "randomLogo": "buddycloud.png"
       },
       {
         "name": "Groupware",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "postfix.png"
+        "randomLogo": "exim.png"
       },
       {
         "name": "Media Publishing",
@@ -1356,7 +1356,7 @@
             "description": "Image hosting with in-browser AES-256 encryption.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Der img.bi-Dienst ist auch [via Tor ](http://imgbifwwqoixh7te.onion/) und als [I2P eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA) verfügbar.",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -1410,7 +1410,7 @@
             "description": "Privatsphäreorientiertes, schnelles Medien (Bilder, Audio, Video) Hosting.",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Warnung: MediaCrush beinhaltet Googles Analytics- und Adsense-Dienste wenn im Browser die Option \"Nicht verfolgen\" deaktiviert ist.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -1749,7 +1749,7 @@
             "description": "Benutzt Smartphones, Computer und WLAN-Router um ein dezentrales Mesh-Netzwerk aufzuspannen.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Bitte lies [Commotions Warnhinweise](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -1826,7 +1826,7 @@
             "description": "Ein freies Netzwerk, das über andere Netzinfrastrukturen läuft.",
             "license_url": "https://github.com/fauno/librevpn/blob/master/LICENSE",
             "logo": "librevpn.png",
-            "notes": "This project is experimental, and the site is in Spanish only.",
+            "notes": "Dieses Projekt ist noch experimentell und hat nur eine Spanische Webseite.",
             "privacy_url": "",
             "source_url": "https://github.com/fauno/librevpn",
             "name": "LibreVPN",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "librevpn.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "sme-server.png"
+        "randomLogo": "freebsd.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "kamailio.png"
+        "randomLogo": "freeswitch.png"
       },
       {
         "name": "Social Networks",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "friendica.png"
+        "randomLogo": "lorea.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "libreswan.png"
+        "randomLogo": "openvpn.png"
       },
       {
         "name": "Web Analytics",
@@ -4006,7 +4006,7 @@
       "exim.png",
       "postfix.png"
     ],
-    "randomLogo": "postfix.png"
+    "randomLogo": "exim.png"
   },
   "projects": [
     {
