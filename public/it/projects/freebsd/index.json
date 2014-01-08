@@ -1,5 +1,5 @@
 {
-  "description": "A free BSD-derived operating system.",
+  "description": "Un sistema operativo libero derivato da BSD.",
   "license_url": "https://www.freebsd.org/copyright/freebsd-license.html",
   "logo": "freebsd.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "FreeBSD",
   "tos_url": "",
   "url": "https://www.freebsd.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/FreeBSD",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/FreeBSD",
   "protocols": [],
   "categories": [
     {

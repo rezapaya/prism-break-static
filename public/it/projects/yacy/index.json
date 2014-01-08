@@ -1,5 +1,5 @@
 {
-  "description": "Ricerca decentralizzata.",
+  "description": "Ricerca web decentralizzata.",
   "license_url": "https://gitorious.org/yacy/rc1/source/234a974955c0ab4f7de63157738e4b00a8ffcae8:COPYRIGHT",
   "logo": "yacy.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "YaCy",
   "tos_url": "",
   "url": "http://yacy.de/en/index.html",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/YaCy",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/YaCy",
   "protocols": [],
   "categories": [
     {

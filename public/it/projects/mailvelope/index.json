@@ -1,5 +1,5 @@
 {
-  "description": "Cifratura OpenPGP per webmail.",
+  "description": "Strumento di cifratura OpenPGP per webmail.",
   "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
   "logo": "mailvelope.png",
   "notes": "",

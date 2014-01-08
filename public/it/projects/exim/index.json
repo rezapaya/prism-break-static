@@ -1,5 +1,5 @@
 {
-  "description": "MTA used on approximately 43% of all mail servers&mdash;the default on Debian GNU/Linux.",
+  "description": "MTA usato su circa il 43% di tutti i server email&mdash;predefinito su Debian GNU/Linux.",
   "license_url": "https://github.com/Exim/exim/blob/master/src/LICENCE",
   "logo": "exim.png",
   "notes": "",

@@ -1,5 +1,5 @@
 {
-  "description": "Cross-platform XMPP server written in Java.",
+  "description": "Server XMPP multipiattaforma scritto in Java.",
   "license_url": "http://fisheye.igniterealtime.org/browse/openfire/trunk/documentation/docs/licenses",
   "logo": "openfire.png",
   "notes": "",

@@ -11,7 +11,7 @@
   "slug": "irc",
   "projects": [
     {
-      "description": "Programma open source per chat multiprotocollo per OS X.",
+      "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
       "license_url": "https://trac.adium.im/wiki/Development",
       "logo": "adium.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Adium",
       "tos_url": "",
       "url": "https://adium.im/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
       "protocols": [
         "IRC",
         "OTR",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+      "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
       "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
       "logo": "bitlbee.png",
       "notes": "",
@@ -149,10 +149,10 @@
       ]
     },
     {
-      "description": "Cross-platform IRC client.",
+      "description": "Client IRC multipiattaforma.",
       "license_url": "https://github.com/hexchat/hexchat/blob/master/COPYING",
       "logo": "hexchat.png",
-      "notes": "HexChat does not offer encrypted IRC by default. You need to enable the FiSHLiM plugin for IRC message encryption.",
+      "notes": "HexChat non offre una chat criptata in modo predefinito. Devi abilitare il plugin FiSHLiM per cifrare i messaggi IRC.",
       "privacy_url": "",
       "source_url": "https://github.com/HexChat/hexchat",
       "name": "HexChat",
@@ -213,16 +213,16 @@
       ]
     },
     {
-      "description": "Client email open source.",
+      "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
       "license_url": "https://www.mozilla.org/MPL/",
       "logo": "mozilla-thunderbird.png",
-      "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+      "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
       "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-      "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+      "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
       "name": "Mozilla Thunderbird",
       "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-      "url": "https://www.mozilla.org/en-US/thunderbird/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+      "url": "https://www.mozilla.org/it/thunderbird/",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
       "protocols": [
         "GPG",
         "IRC",
@@ -339,16 +339,16 @@
       ]
     },
     {
-      "description": "Programma open source per chat multiprotocollo.",
+      "description": "Programma libero per messaggistica istantanea multiprotocollo.",
       "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
       "logo": "pidgin.png",
-      "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+      "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
       "privacy_url": "",
       "source_url": "http://hg.pidgin.im/pidgin/main/",
       "name": "Pidgin",
       "tos_url": "",
       "url": "https://www.pidgin.im/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
       "protocols": [
         "IRC",
         "OTR",
@@ -420,16 +420,16 @@
       ]
     },
     {
-      "description": "Extensible and customisable chat client for IRC and XMPP/Jabber.",
+      "description": "Client CLI di chat estensibile e personalizzabile per IRC e XMPP/Jabber.",
       "license_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
       "logo": "weechat.png",
-      "notes": "WeeChat does not offer encryption by default, but there is a FiSH encryption plugin available.",
+      "notes": "WeeChat non offre la cifratura in modo predefinito, ma &egrave; disponibile un plugin FiSH.",
       "privacy_url": "",
       "source_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=summary",
       "name": "WeeChat",
       "tos_url": "",
       "url": "http://www.weechat.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/WeeChat",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/WeeChat",
       "protocols": [
         "IRC"
       ],

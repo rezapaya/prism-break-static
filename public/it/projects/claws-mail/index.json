@@ -1,5 +1,5 @@
 {
-  "description": "Leggero client email con supporto GnuPG.",
+  "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
   "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
   "logo": "claws-mail.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Claws Mail",
   "tos_url": "",
   "url": "http://www.claws-mail.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
   "protocols": [
     "GPG",
     "RSS",

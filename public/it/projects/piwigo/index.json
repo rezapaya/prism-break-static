@@ -1,14 +1,14 @@
 {
-  "description": "Piattaforma di foto-gallery libera.",
+  "description": "Piattaforma di foto-gallery self-hosted.",
   "license_url": "http://piwigo.org/basics/license",
   "logo": "piwigo.png",
-  "notes": "Piwigo does not encrypt any of your data by default.",
+  "notes": "Piwigo non cripta alcun dato in modo predefinito.",
   "privacy_url": "",
   "source_url": "http://piwigo.org/dev/browser",
   "name": "Piwigo",
   "tos_url": "",
   "url": "http://piwigo.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Piwigo",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Piwigo",
   "protocols": [
     "SSL/TLS"
   ],

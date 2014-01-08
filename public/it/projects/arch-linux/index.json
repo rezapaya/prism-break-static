@@ -1,5 +1,5 @@
 {
-  "description": "Elegant, minimal, and flexible Linux&reg; distribution.",
+  "description": "Distribuzione GNU/Linux elegante, minimale e flessibile.",
   "license_url": "https://wiki.archlinux.org/index.php/Licenses",
   "logo": "arch-linux.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Arch Linux",
   "tos_url": "",
   "url": "https://www.archlinux.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Arch_Linux",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Arch_Linux",
   "protocols": [],
   "categories": [
     {

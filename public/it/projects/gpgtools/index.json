@@ -1,5 +1,5 @@
 {
-  "description": "OpenPGP add-on for Apple OS X Mail.",
+  "description": "Componente aggiuntivo OpenPGP per Apple OS X Mail.",
   "license_url": "https://github.com/GPGTools/MacGPG2/blob/dev/LICENSE.txt",
   "logo": "gpgtools.png",
   "notes": "",

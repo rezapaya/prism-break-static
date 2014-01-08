@@ -1,5 +1,5 @@
 {
-  "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+  "description": "Tor (precedentemente TOR, acronimo di The Onion Router)[citazione non necessaria] &egrave; un software libero per una navigazione anonima online. Tor indirizza il traffico attraverso una rete libera, mondiale, volontaria, formata da pi&ugrave; di quattromila relay per nascondere la posizione dell&#39;utente da chiunque conduca una sorveglianza della rete o un&#39;analisi del traffico. L&#39;uso di Tor rende pi&ugrave; difficoltoso il tracciamento dell&#39;attivit&agrave; online, incluse \"le visite ai siti, i post online, i messaggi istantanei e altre forme di comunicazione\", ed &egrave; destinato a proteggere la privacy degli utenti, cos&igrave; come la loro libert&agrave; e la capacit&agrave; di condurre attivit&agrave; riservate evitando di essere monitorati.",
   "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
   "logo": "tor.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Tor",
   "tos_url": "",
   "url": "https://www.torproject.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Tor_%28software%29",
   "protocols": [
     "Tor"
   ],

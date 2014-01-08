@@ -11,7 +11,7 @@
   "slug": "voip",
   "projects": [
     {
-      "description": "PBX implementation with VoIP/SIP support.",
+      "description": "Implementazione PBX con supporto VoIP/SIP.",
       "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
       "logo": "asterisk.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Asterisk",
       "tos_url": "",
       "url": "http://www.asterisk.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
       "protocols": [
         "SIP",
         "VoIP"
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "description": "Cross-platform soft switch software with VoIP/SIP support.",
+      "description": "Software softswitch multipiattaforma con supporto VoIP/SIP.",
       "license_url": "http://fisheye.freeswitch.org/browse/freeswitch.git/docs/COPYING?hb=true",
       "logo": "freeswitch.png",
       "notes": "",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "description": "Open source VoIP/SIP server.",
+      "description": "Server VoIP/SIP open source.",
       "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
       "logo": "kamailio.png",
       "notes": "",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "description": "Chat vocale cifrata e a bassa latenza.",
+      "description": "Chat vocale cifrata multiutente e a bassa latenza.",
       "license_url": "http://mumble.sourceforge.net/License",
       "logo": "mumble.png",
       "notes": "",
@@ -142,7 +142,7 @@
       "name": "Mumble",
       "tos_url": "",
       "url": "http://mumble.sourceforge.net/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
       "protocols": [
         "VoIP",
         "ZRTP"
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+      "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
       "license_url": "",
       "logo": "ostel.png",
       "notes": "",
@@ -281,16 +281,16 @@
       ]
     },
     {
-      "description": "Piattaforma P2P e libera per comunicazioni protette.",
+      "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
       "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
       "logo": "retroshare.png",
-      "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+      "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
       "privacy_url": "",
       "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
       "name": "RetroShare",
       "tos_url": "",
       "url": "http://retroshare.sourceforge.net/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
       "protocols": [
         "GPG",
         "VoIP"

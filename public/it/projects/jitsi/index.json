@@ -1,8 +1,8 @@
 {
-  "description": "Chat e videoconferenze cifrate.",
+  "description": "Chat e videoconferenze cifrate, multipiattaforma.",
   "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
   "logo": "jitsi.png",
-  "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+  "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
   "privacy_url": "",
   "source_url": "https://github.com/jitsi",
   "name": "Jitsi",

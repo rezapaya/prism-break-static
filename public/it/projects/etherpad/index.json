@@ -1,8 +1,8 @@
 {
-  "description": "Sistema open source per documenti collaborativi in real-time.",
+  "description": "Sistema autogestito per documenti collaborativi in tempo reale.",
   "license_url": "https://github.com/ether/etherpad-lite/blob/develop/LICENSE",
   "logo": "etherpad.png",
-  "notes": "The etherpad project maintains a list of [sites that run etherpad services](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Please only choose from the services that use SSL, and research the site's background before trusting them with your data.",
+  "notes": "Il progetto etherpad mantiene una lista di [siti che ospitano servizi etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Si consiglia di scegliere solo servizi che usano SSL e controllare la storia del sito prima di affidare loro i tuoi dati.",
   "privacy_url": "",
   "source_url": "https://github.com/ether/etherpad-lite",
   "name": "Etherpad",

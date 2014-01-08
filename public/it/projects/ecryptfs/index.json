@@ -1,5 +1,5 @@
 {
-  "description": "POSIX-compliant enterprise cryptographic stacked filesystem for GNU/Linux.",
+  "description": "Stacked filesystem per GNU/Linux in ambito enterprise, criptato e conforme agli standard POSIX.",
   "license_url": "https://git.kernel.org/cgit/linux/kernel/git/tyhicks/ecryptfs.git/tree/COPYING",
   "logo": "geli.png",
   "notes": "",

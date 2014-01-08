@@ -1,5 +1,5 @@
 {
-  "description": "Free software VPN client.",
+  "description": "Client VPN libero.",
   "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
   "logo": "openvpn.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "OpenVPN",
   "tos_url": "",
   "url": "http://openvpn.net/index.php/open-source.html",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
   "protocols": [
     "SSL/TLS"
   ],

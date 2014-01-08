@@ -1,8 +1,8 @@
 {
-  "description": "Anonymous VPN service for popular search engines like Google, Bing, and Yahoo.",
+  "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
   "license_url": "",
   "logo": "disconnect-search.png",
-  "notes": "The source code can be downloaded for viewing by right clicking \"Get Disconnect Search\" on the official website and selecting \"Save Link As...\".\n\nWith \"search.xpi\" downloaded, change the file extension to \".zip\" and extract it to view the source code.",
+  "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
   "privacy_url": "",
   "source_url": "https://disconnect.me/search",
   "name": "Disconnect Search",

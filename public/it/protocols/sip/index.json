@@ -11,7 +11,7 @@
   "slug": "sip",
   "projects": [
     {
-      "description": "PBX implementation with VoIP/SIP support.",
+      "description": "Implementazione PBX con supporto VoIP/SIP.",
       "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
       "logo": "asterisk.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Asterisk",
       "tos_url": "",
       "url": "http://www.asterisk.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
       "protocols": [
         "SIP",
         "VoIP"
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "description": "Cross-platform soft switch software with VoIP/SIP support.",
+      "description": "Software softswitch multipiattaforma con supporto VoIP/SIP.",
       "license_url": "http://fisheye.freeswitch.org/browse/freeswitch.git/docs/COPYING?hb=true",
       "logo": "freeswitch.png",
       "notes": "",
@@ -137,10 +137,10 @@
       ]
     },
     {
-      "description": "Chat e videoconferenze cifrate.",
+      "description": "Chat e videoconferenze cifrate, multipiattaforma.",
       "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
       "logo": "jitsi.png",
-      "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+      "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
       "privacy_url": "",
       "source_url": "https://github.com/jitsi",
       "name": "Jitsi",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "description": "Open source VoIP/SIP server.",
+      "description": "Server VoIP/SIP open source.",
       "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
       "logo": "kamailio.png",
       "notes": "",
@@ -262,8 +262,8 @@
       ]
     },
     {
-      "description": "Client per VoIP e videoconferenze cifrate.",
-      "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+      "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+      "license_url": "http://www.linphone.org/eng/linphone/license.html",
       "logo": "linphone.png",
       "notes": "",
       "privacy_url": "",
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+      "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
       "license_url": "",
       "logo": "ostel.png",
       "notes": "",
@@ -429,16 +429,16 @@
       ]
     },
     {
-      "description": "Programma open source per chat multiprotocollo.",
+      "description": "Programma libero per messaggistica istantanea multiprotocollo.",
       "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
       "logo": "pidgin.png",
-      "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+      "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
       "privacy_url": "",
       "source_url": "http://hg.pidgin.im/pidgin/main/",
       "name": "Pidgin",
       "tos_url": "",
       "url": "https://www.pidgin.im/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
       "protocols": [
         "IRC",
         "OTR",

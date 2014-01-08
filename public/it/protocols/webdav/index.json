@@ -11,7 +11,7 @@
   "slug": "webdav",
   "projects": [
     {
-      "description": "Client email e calendario libero.",
+      "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
       "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
       "logo": "evolution.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Evolution",
       "tos_url": "",
       "url": "https://projects.gnome.org/evolution/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
       "protocols": [
         "CalDAV",
         "GPG",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "description": "Open source email app for Android with PGP support.",
+      "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
       "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
       "logo": "k9-mail.png",
       "notes": "",
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+      "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
       "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
       "logo": "kolab.png",
       "notes": "",

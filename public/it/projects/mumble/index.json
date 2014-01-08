@@ -1,5 +1,5 @@
 {
-  "description": "Chat vocale cifrata e a bassa latenza.",
+  "description": "Chat vocale cifrata multiutente e a bassa latenza.",
   "license_url": "http://mumble.sourceforge.net/License",
   "logo": "mumble.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Mumble",
   "tos_url": "",
   "url": "http://mumble.sourceforge.net/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
   "protocols": [
     "VoIP",
     "ZRTP"

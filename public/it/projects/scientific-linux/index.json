@@ -1,5 +1,5 @@
 {
-  "description": "Scientific Linux (SL) is a Linux distribution produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN). ",
+  "description": "Scientific Linux (SL) &egrave; una distribuzione Linux prodotta dal Fermi National Accelerator Laboratory (Fermilab) e l&#39;Organizzazione Europea per la Ricerca Nucleare (CERN). ",
   "license_url": "https://www.scientificlinux.org/documentation/faq/legal",
   "logo": "scientific-linux.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Scientific Linux",
   "tos_url": "",
   "url": "https://www.scientificlinux.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_Linux",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Scientific_Linux",
   "protocols": [],
   "categories": [
     {

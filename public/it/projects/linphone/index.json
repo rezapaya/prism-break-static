@@ -1,6 +1,6 @@
 {
-  "description": "Client per VoIP e videoconferenze cifrate.",
-  "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+  "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+  "license_url": "http://www.linphone.org/eng/linphone/license.html",
   "logo": "linphone.png",
   "notes": "",
   "privacy_url": "",

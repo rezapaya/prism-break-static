@@ -1,5 +1,5 @@
 {
-  "description": "Sistema DNS distribuito basato sulla tecnologia Bitcoin.",
+  "description": "Sistema DNS distribuito per i domini di primo livello .bit, basato sulla tecnologia Bitcoin.",
   "license_url": "https://github.com/namecoin/namecoin/blob/master/COPYING",
   "logo": "namecoin.png",
   "notes": "",

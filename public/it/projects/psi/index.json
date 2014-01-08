@@ -1,5 +1,5 @@
 {
-  "description": "Multi-platform IM client for power users with built-in OTR support.",
+  "description": "Client di messaggistica istantanea per utenti avanzati con supporto OTR integrato.",
   "license_url": "https://github.com/psi-plus/main/blob/master/copying-psi.txt",
   "logo": "psi-plus.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Psi+",
   "tos_url": "",
   "url": "http://psi-plus.com/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Psi_%28software%29",
   "protocols": [
     "GPG",
     "XMPP"

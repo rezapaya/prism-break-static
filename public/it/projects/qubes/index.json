@@ -1,5 +1,5 @@
 {
-  "description": "Fedora/Xen-based OS designed to provide strong security through isolation.",
+  "description": "Sistema operativo basato su Fedora/Xen progettato per offrire un&#39;elevato livello di sicurezza grazie all&#39;isolamento.",
   "license_url": "http://qubes-os.org/trac/wiki/QubesLicensing",
   "logo": "qubes-os.png",
   "notes": "",

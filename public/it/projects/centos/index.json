@@ -1,5 +1,5 @@
 {
-  "description": "Enterprise class computing platform with 100% binary compatbility with RHEL.",
+  "description": "Piattaforma informatica di classe enterprise compatibile al 100% con RHEL.",
   "license_url": "http://mirror.centos.org/centos/6/os/x86_64/GPL",
   "logo": "centos.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "CentOS",
   "tos_url": "",
   "url": "https://www.centos.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/CentOS",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/CentOS",
   "protocols": [],
   "categories": [
     {

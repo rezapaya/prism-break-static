@@ -1,14 +1,14 @@
 {
-  "description": "Piattaforma P2P e libera per comunicazioni protette.",
+  "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
   "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
   "logo": "retroshare.png",
-  "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+  "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
   "privacy_url": "",
   "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
   "name": "RetroShare",
   "tos_url": "",
   "url": "http://retroshare.sourceforge.net/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
   "protocols": [
     "GPG",
     "VoIP"

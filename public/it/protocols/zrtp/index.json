@@ -59,10 +59,10 @@
       ]
     },
     {
-      "description": "Chat e videoconferenze cifrate.",
+      "description": "Chat e videoconferenze cifrate, multipiattaforma.",
       "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
       "logo": "jitsi.png",
-      "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+      "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
       "privacy_url": "",
       "source_url": "https://github.com/jitsi",
       "name": "Jitsi",
@@ -140,8 +140,8 @@
       ]
     },
     {
-      "description": "Client per VoIP e videoconferenze cifrate.",
-      "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+      "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+      "license_url": "http://www.linphone.org/eng/linphone/license.html",
       "logo": "linphone.png",
       "notes": "",
       "privacy_url": "",
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "description": "Chat vocale cifrata e a bassa latenza.",
+      "description": "Chat vocale cifrata multiutente e a bassa latenza.",
       "license_url": "http://mumble.sourceforge.net/License",
       "logo": "mumble.png",
       "notes": "",
@@ -267,7 +267,7 @@
       "name": "Mumble",
       "tos_url": "",
       "url": "http://mumble.sourceforge.net/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
       "protocols": [
         "VoIP",
         "ZRTP"
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+      "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
       "license_url": "",
       "logo": "ostel.png",
       "notes": "",

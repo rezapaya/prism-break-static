@@ -1,8 +1,8 @@
 {
-  "description": "File based encryption tool with support for Linux, Mac OS and Windows.",
+  "description": "Strumento di crittografia basato sui file con supporto per Linux, Mac OS e Windows.",
   "license_url": "https://code.google.com/p/encfs/source/browse/trunk/COPYING",
   "logo": "encfs.png",
-  "notes": "EncFS is available for Windows through the \"encfs4win\" port.",
+  "notes": "EncFS &egrave; disponibile per Windows grazie al port \"encfs4win\".",
   "privacy_url": "",
   "source_url": "https://code.google.com/p/encfs/source/browse/#svn%2Ftrunk",
   "name": "encfs",

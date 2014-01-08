@@ -1,8 +1,8 @@
 {
-  "description": "Free online encrypted notepad.",
+  "description": "Blocco note online libero e criptato.",
   "license_url": "",
   "logo": "protextedtext.png",
-  "notes": "ProtectedText encrypts/decrypts text in the browser, and password (or it's hash) is never sent to the server - so that text can't be decrypted even if requested by authorities.",
+  "notes": "ProtectedText cifra/decifra i testi nel browser, mentre la password (o il suo hash) non &egrave; mai inviata al server - quindi i testi non possono essere decifrati anche se venisse richiesto dalle autorit&agrave;.",
   "privacy_url": "",
   "source_url": "https://www.protectedtext.com/js/main.js",
   "name": "ProtectedText",

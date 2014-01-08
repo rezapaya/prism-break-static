@@ -1,5 +1,5 @@
 {
-  "description": "A tool to secure communications between a client and a DNS resolver.",
+  "description": "Strumento per proteggere le comunicazioni tra client e resolver DNS.",
   "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
   "logo": "dnscrypt.png",
   "notes": "",

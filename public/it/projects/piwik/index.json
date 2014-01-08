@@ -1,5 +1,5 @@
 {
-  "description": "Analisi web self-hosted e open source.",
+  "description": "Statistiche web self-hosted e open source.",
   "license_url": "https://github.com/piwik/piwik/blob/master/LEGALNOTICE",
   "logo": "piwik.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Piwik",
   "tos_url": "",
   "url": "https://piwik.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Piwik",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Piwik",
   "protocols": [],
   "categories": [
     {

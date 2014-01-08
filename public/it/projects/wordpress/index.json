@@ -2,13 +2,13 @@
   "description": "CMS libero per siti/blog.",
   "license_url": "http://wordpress.org/about/license/",
   "logo": "wordpress.png",
-  "notes": "WordPress does not encrypt any of your data by default.\n\nUsing avatars in WordPress will activate Gravatar, which which will send your email address to gravatar.com. Avatars are activated by default and can be turned off under \"Settings > Discussion > Avatars\".\r",
+  "notes": "WordPress non cripta alcun dato in modo predefinito.\n\nL&#39;uso di avatar in WordPress attiver&agrave; Gravatar, che invier&agrave; il tuo indirizzo email a gravatar.com. Gli avatar vengono attivati in modo predefinito, ma possono essere disabilitati andando in \"Impostazioni > Discussione > Avatar\".\r",
   "privacy_url": "http://wordpress.org/about/privacy/",
   "source_url": "http://core.trac.wordpress.org/browser",
   "name": "WordPress",
   "tos_url": "",
   "url": "https://wordpress.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/WordPress",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/WordPress",
   "protocols": [
     "SSL/TLS"
   ],

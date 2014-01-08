@@ -1,8 +1,8 @@
 {
-  "description": "VM-friendly OS based on Debian and Tor focused on anonymity, privacy and security.",
+  "description": "Sistema operativo VM-compatibile basato su Debian e Tor incentrato sull&#39;anonimato, privacy e sicurezza.",
   "license_url": "https://github.com/Whonix/Whonix/blob/master/GPLv3",
   "logo": "whonix.png",
-  "notes": "Whonix is designed to be run inside of a virtualization package like [VirtualBox](https://www.virtualbox.org/). VirtualBox can be installed on Windows, Linux, OS X, and Solaris. This means that if you're stuck using Windows or OS X for whatever reason, you can install VirtualBox and use Whonix to increase your privacy and security.",
+  "notes": "Whonix &egrave; progettato per essere eseguito all&#39;interno di un pacchetto di virtualizzazione come [VirtualBox](https://www.virtualbox.org/). VirtualBox pu&ograve; essere installato su Windows, Linux, OS X e Solaris. Quindi se sarai obbligato ad usare Windows o OS X per qualsiasi ragione, potrai installare VirtualBox e usare Whonix per aumentare la tua privacy e sicurezza.",
   "privacy_url": "",
   "source_url": "https://github.com/Whonix/Whonix/",
   "name": "Whonix",

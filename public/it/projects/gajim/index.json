@@ -1,5 +1,5 @@
 {
-  "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+  "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
   "license_url": "https://trac.gajim.org/browser/COPYING",
   "logo": "gajim.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Gajim",
   "tos_url": "",
   "url": "http://gajim.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
   "protocols": [
     "GPG",
     "OTR",

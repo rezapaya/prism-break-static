@@ -1,8 +1,8 @@
 {
-  "description": "Encrypted, decentralized P2P messaging service based on Bitcoin technology.",
+  "description": "Servizio di messaggistica P2P criptato e decentralizzato, basato sulla tecnologia Bitcoin.",
   "license_url": "https://github.com/Bitmessage/PyBitmessage/blob/master/LICENSE",
   "logo": "bitmessage.png",
-  "notes": "Bitmessage is a promising alternative to email, but it has not yet been audited by security professionals. Use at your own risk. If you decide to try out Bitmessage, make sure to generate a completely random ID to greatly reduce the probability of ID collisions.",
+  "notes": "Bitmessage &egrave; una promettente alternativa all&#39;email, ma non &egrave; ancora stato revisionato da professionisti di sicurezza. Usare a proprio rischio. Se decidi di provare Bitmessage, assicurati di generare un ID completamente casuale per ridurre notevolmente la possibilit&agrave; di collisioni tra ID.",
   "privacy_url": "",
   "source_url": "https://github.com/Bitmessage/PyBitmessage",
   "name": "Bitmessage",

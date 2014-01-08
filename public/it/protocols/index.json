@@ -25,7 +25,7 @@
             "name": "I2P",
             "tos_url": "",
             "url": "https://www.i2p2.de/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/I2P",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/I2P",
             "protocols": [
               "I2P"
             ],
@@ -90,10 +90,10 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -144,7 +144,7 @@
             ]
           },
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -266,10 +266,10 @@
         "slug": "tor",
         "projects": [
           {
-            "description": "Encrypted, decentralized P2P messaging service based on Bitcoin technology.",
+            "description": "Servizio di messaggistica P2P criptato e decentralizzato, basato sulla tecnologia Bitcoin.",
             "license_url": "https://github.com/Bitmessage/PyBitmessage/blob/master/LICENSE",
             "logo": "bitmessage.png",
-            "notes": "Bitmessage is a promising alternative to email, but it has not yet been audited by security professionals. Use at your own risk. If you decide to try out Bitmessage, make sure to generate a completely random ID to greatly reduce the probability of ID collisions.",
+            "notes": "Bitmessage &egrave; una promettente alternativa all&#39;email, ma non &egrave; ancora stato revisionato da professionisti di sicurezza. Usare a proprio rischio. Se decidi di provare Bitmessage, assicurati di generare un ID completamente casuale per ridurre notevolmente la possibilit&agrave; di collisioni tra ID.",
             "privacy_url": "",
             "source_url": "https://github.com/Bitmessage/PyBitmessage",
             "name": "Bitmessage",
@@ -323,13 +323,13 @@
             "description": "Ricerche anonime e non registrate.",
             "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
             "logo": "duckduckgo.png",
-            "notes": "DuckDuckGo is a software-as-a-service (SaaS) hosted around the world that provides you with anonymous search results from [these sources](https://dukgo.com/help/en_US/results/sources). DDG open source components are [available here](https://github.com/duckduckgo).\n\nThere is also a DuckDuckGo hidden service at [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) for Tor users.",
+            "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
             "privacy_url": "https://duckduckgo.com/privacy",
             "source_url": "https://github.com/duckduckgo/duckduckgo",
             "name": "DuckDuckGo",
             "tos_url": "",
             "url": "https://duckduckgo.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDuckGo",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
             "protocols": [
               "SSL/TLS",
               "Tor"
@@ -359,10 +359,10 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -413,7 +413,7 @@
             ]
           },
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -497,7 +497,7 @@
             ]
           },
           {
-            "description": "Private browsing with the JonDo IP anonymization service and JonDoFox profile for Firefox.",
+            "description": "Navigazione anonima con il servizio JonDo e il profilo JonDoFox per Firefox.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -566,16 +566,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -692,7 +692,7 @@
             ]
           },
           {
-            "description": "Surf the web through the Tor network with this open source browser for iOS devices.",
+            "description": "Naviga in internet attraverso la rete Tor con questo browser open source per iOS.",
             "license_url": "https://github.com/mtigas/iOS-OnionBrowser/blob/master/LICENSE",
             "logo": "onion-browser.png",
             "notes": "",
@@ -731,7 +731,7 @@
             ]
           },
           {
-            "description": "Sevizio proxy Tor per Android.",
+            "description": "Tutte le caratteristiche e funzionalit&agrave; di Tor per Android.",
             "license_url": "https://gitweb.torproject.org/orbot.git/blob/HEAD:/LICENSE",
             "logo": "orbot.png",
             "notes": "",
@@ -765,10 +765,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -821,7 +821,7 @@
             ]
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -905,7 +905,7 @@
             ]
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Tor (precedentemente TOR, acronimo di The Onion Router)[citazione non necessaria] &egrave; un software libero per una navigazione anonima online. Tor indirizza il traffico attraverso una rete libera, mondiale, volontaria, formata da pi&ugrave; di quattromila relay per nascondere la posizione dell&#39;utente da chiunque conduca una sorveglianza della rete o un&#39;analisi del traffico. L&#39;uso di Tor rende pi&ugrave; difficoltoso il tracciamento dell&#39;attivit&agrave; online, incluse \"le visite ai siti, i post online, i messaggi istantanei e altre forme di comunicazione\", ed &egrave; destinato a proteggere la privacy degli utenti, cos&igrave; come la loro libert&agrave; e la capacit&agrave; di condurre attivit&agrave; riservate evitando di essere monitorati.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -914,7 +914,7 @@
             "name": "Tor",
             "tos_url": "",
             "url": "https://www.torproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Tor_%28software%29",
             "protocols": [
               "Tor"
             ],
@@ -979,10 +979,10 @@
             ]
           },
           {
-            "description": "Navigazione anonima e criptata.",
+            "description": "Navigazione anonima e criptata grazie alla rete Tor.",
             "license_url": "https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE",
             "logo": "tor-browser-bundle.png",
-            "notes": "Using the TBB to sign into websites that contain your real ID is counterproductive, and may trip the site's fraud protection. Make sure to check for HTTPS before signing in to a website through Tor.\n\nSigning into HTTP websites can result in your ID being captured by a Tor exit node.",
+            "notes": "Usare TBB per accedere a siti che contengono la tua vera identit&agrave; &egrave; controproducente e pu&ograve; far saltare la protezione contro le frodi del sito. Accertati di una connessione HTTPS prima di accedere ad un sito con Tor.\n\nAccedere ai siti in HTTP pu&ograve; portare alla rilevazione della tua identit&agrave; da un nodo di uscita di Tor.",
             "privacy_url": "https://www.torproject.org/about/overview.html.en",
             "source_url": "https://gitweb.torproject.org/tor.git",
             "name": "Tor Browser Bundle",
@@ -1048,10 +1048,10 @@
             ]
           },
           {
-            "description": "Plugin per l'utilizzo di Thunderbird/Icedove attraverso Tor.",
+            "description": "Componente aggiuntivo di Thunderbird/Icedove per l&#39;utilizzo di Tor.",
             "license_url": "https://github.com/ioerror/torbirdy/blob/master/LICENSE",
             "logo": "torbirdy.png",
-            "notes": " TorBirdy is in beta and should be considered experimental. Please make sure that before using it, you are aware of the known issues and leaks by reading the \"Before using TorBirdy\" and \"Known TorBirdy\" Issues sections on the project website.",
+            "notes": " TorBirdy &egrave; in beta e dovrebbe essere considerato sperimentale. Prima di usarlo assicurati di dare un&#39;occhiata ai problemi conosciuti consultando le sezioni \"Before using TorBirdy\" e \"Known TorBirdy Issues\" sul sito ufficiale.",
             "privacy_url": "",
             "source_url": "https://github.com/ioerror/torbirdy",
             "name": "TorBirdy",
@@ -1112,7 +1112,7 @@
             ]
           },
           {
-            "description": "Messaggistica anonima e decentralizzata P2P basata su Tor Hidden Services",
+            "description": "Chat P2P anonima costruita sui Servizi Nascosti di Tor (non sponsorizzata dal Tor Project)",
             "license_url": "https://www.gnu.org/copyleft/gpl.html",
             "logo": "torchat.png",
             "notes": "",
@@ -1121,7 +1121,7 @@
             "name": "TorChat",
             "tos_url": "",
             "url": "https://github.com/prof7bit/TorChat/wiki",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/TorChat",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/TorChat",
             "protocols": [
               "Tor"
             ],
@@ -1156,10 +1156,10 @@
             ]
           },
           {
-            "description": "VM-friendly OS based on Debian and Tor focused on anonymity, privacy and security.",
+            "description": "Sistema operativo VM-compatibile basato su Debian e Tor incentrato sull&#39;anonimato, privacy e sicurezza.",
             "license_url": "https://github.com/Whonix/Whonix/blob/master/GPLv3",
             "logo": "whonix.png",
-            "notes": "Whonix is designed to be run inside of a virtualization package like [VirtualBox](https://www.virtualbox.org/). VirtualBox can be installed on Windows, Linux, OS X, and Solaris. This means that if you're stuck using Windows or OS X for whatever reason, you can install VirtualBox and use Whonix to increase your privacy and security.",
+            "notes": "Whonix &egrave; progettato per essere eseguito all&#39;interno di un pacchetto di virtualizzazione come [VirtualBox](https://www.virtualbox.org/). VirtualBox pu&ograve; essere installato su Windows, Linux, OS X e Solaris. Quindi se sarai obbligato ad usare Windows o OS X per qualsiasi ragione, potrai installare VirtualBox e usare Whonix per aumentare la tua privacy e sicurezza.",
             "privacy_url": "",
             "source_url": "https://github.com/Whonix/Whonix/",
             "name": "Whonix",
@@ -1230,7 +1230,7 @@
         "slug": "irc",
         "projects": [
           {
-            "description": "Programma open source per chat multiprotocollo per OS X.",
+            "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
             "license_url": "https://trac.adium.im/wiki/Development",
             "logo": "adium.png",
             "notes": "",
@@ -1239,7 +1239,7 @@
             "name": "Adium",
             "tos_url": "",
             "url": "https://adium.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
             "protocols": [
               "IRC",
               "OTR",
@@ -1278,7 +1278,7 @@
             ]
           },
           {
-            "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+            "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
             "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
             "logo": "bitlbee.png",
             "notes": "",
@@ -1368,10 +1368,10 @@
             ]
           },
           {
-            "description": "Cross-platform IRC client.",
+            "description": "Client IRC multipiattaforma.",
             "license_url": "https://github.com/hexchat/hexchat/blob/master/COPYING",
             "logo": "hexchat.png",
-            "notes": "HexChat does not offer encrypted IRC by default. You need to enable the FiSHLiM plugin for IRC message encryption.",
+            "notes": "HexChat non offre una chat criptata in modo predefinito. Devi abilitare il plugin FiSHLiM per cifrare i messaggi IRC.",
             "privacy_url": "",
             "source_url": "https://github.com/HexChat/hexchat",
             "name": "HexChat",
@@ -1432,16 +1432,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -1558,16 +1558,16 @@
             ]
           },
           {
-            "description": "Programma open source per chat multiprotocollo.",
+            "description": "Programma libero per messaggistica istantanea multiprotocollo.",
             "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
             "logo": "pidgin.png",
-            "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+            "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
             "privacy_url": "",
             "source_url": "http://hg.pidgin.im/pidgin/main/",
             "name": "Pidgin",
             "tos_url": "",
             "url": "https://www.pidgin.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
             "protocols": [
               "IRC",
               "OTR",
@@ -1639,16 +1639,16 @@
             ]
           },
           {
-            "description": "Extensible and customisable chat client for IRC and XMPP/Jabber.",
+            "description": "Client CLI di chat estensibile e personalizzabile per IRC e XMPP/Jabber.",
             "license_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "weechat.png",
-            "notes": "WeeChat does not offer encryption by default, but there is a FiSH encryption plugin available.",
+            "notes": "WeeChat non offre la cifratura in modo predefinito, ma &egrave; disponibile un plugin FiSH.",
             "privacy_url": "",
             "source_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=summary",
             "name": "WeeChat",
             "tos_url": "",
             "url": "http://www.weechat.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/WeeChat",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/WeeChat",
             "protocols": [
               "IRC"
             ],
@@ -1717,7 +1717,7 @@
         "slug": "sip",
         "projects": [
           {
-            "description": "PBX implementation with VoIP/SIP support.",
+            "description": "Implementazione PBX con supporto VoIP/SIP.",
             "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
             "logo": "asterisk.png",
             "notes": "",
@@ -1726,7 +1726,7 @@
             "name": "Asterisk",
             "tos_url": "",
             "url": "http://www.asterisk.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
             "protocols": [
               "SIP",
               "VoIP"
@@ -1804,7 +1804,7 @@
             ]
           },
           {
-            "description": "Cross-platform soft switch software with VoIP/SIP support.",
+            "description": "Software softswitch multipiattaforma con supporto VoIP/SIP.",
             "license_url": "http://fisheye.freeswitch.org/browse/freeswitch.git/docs/COPYING?hb=true",
             "logo": "freeswitch.png",
             "notes": "",
@@ -1843,10 +1843,10 @@
             ]
           },
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -1924,7 +1924,7 @@
             ]
           },
           {
-            "description": "Open source VoIP/SIP server.",
+            "description": "Server VoIP/SIP open source.",
             "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
             "logo": "kamailio.png",
             "notes": "",
@@ -1968,8 +1968,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -2086,7 +2086,7 @@
             ]
           },
           {
-            "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
             "license_url": "",
             "logo": "ostel.png",
             "notes": "",
@@ -2135,16 +2135,16 @@
             ]
           },
           {
-            "description": "Programma open source per chat multiprotocollo.",
+            "description": "Programma libero per messaggistica istantanea multiprotocollo.",
             "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
             "logo": "pidgin.png",
-            "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+            "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
             "privacy_url": "",
             "source_url": "http://hg.pidgin.im/pidgin/main/",
             "name": "Pidgin",
             "tos_url": "",
             "url": "https://www.pidgin.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
             "protocols": [
               "IRC",
               "OTR",
@@ -2230,7 +2230,7 @@
         "slug": "voip",
         "projects": [
           {
-            "description": "PBX implementation with VoIP/SIP support.",
+            "description": "Implementazione PBX con supporto VoIP/SIP.",
             "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
             "logo": "asterisk.png",
             "notes": "",
@@ -2239,7 +2239,7 @@
             "name": "Asterisk",
             "tos_url": "",
             "url": "http://www.asterisk.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
             "protocols": [
               "SIP",
               "VoIP"
@@ -2269,7 +2269,7 @@
             ]
           },
           {
-            "description": "Cross-platform soft switch software with VoIP/SIP support.",
+            "description": "Software softswitch multipiattaforma con supporto VoIP/SIP.",
             "license_url": "http://fisheye.freeswitch.org/browse/freeswitch.git/docs/COPYING?hb=true",
             "logo": "freeswitch.png",
             "notes": "",
@@ -2308,7 +2308,7 @@
             ]
           },
           {
-            "description": "Open source VoIP/SIP server.",
+            "description": "Server VoIP/SIP open source.",
             "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
             "logo": "kamailio.png",
             "notes": "",
@@ -2352,7 +2352,7 @@
             ]
           },
           {
-            "description": "Chat vocale cifrata e a bassa latenza.",
+            "description": "Chat vocale cifrata multiutente e a bassa latenza.",
             "license_url": "http://mumble.sourceforge.net/License",
             "logo": "mumble.png",
             "notes": "",
@@ -2361,7 +2361,7 @@
             "name": "Mumble",
             "tos_url": "",
             "url": "http://mumble.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
             "protocols": [
               "VoIP",
               "ZRTP"
@@ -2451,7 +2451,7 @@
             ]
           },
           {
-            "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
             "license_url": "",
             "logo": "ostel.png",
             "notes": "",
@@ -2500,16 +2500,16 @@
             ]
           },
           {
-            "description": "Piattaforma P2P e libera per comunicazioni protette.",
+            "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
             "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
             "logo": "retroshare.png",
-            "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+            "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
             "privacy_url": "",
             "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
             "name": "RetroShare",
             "tos_url": "",
             "url": "http://retroshare.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
             "protocols": [
               "GPG",
               "VoIP"
@@ -2615,7 +2615,7 @@
         "slug": "xmpp",
         "projects": [
           {
-            "description": "Programma open source per chat multiprotocollo per OS X.",
+            "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
             "license_url": "https://trac.adium.im/wiki/Development",
             "logo": "adium.png",
             "notes": "",
@@ -2624,7 +2624,7 @@
             "name": "Adium",
             "tos_url": "",
             "url": "https://adium.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
             "protocols": [
               "IRC",
               "OTR",
@@ -2663,7 +2663,7 @@
             ]
           },
           {
-            "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+            "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
             "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
             "logo": "bitlbee.png",
             "notes": "",
@@ -2753,7 +2753,7 @@
             ]
           },
           {
-            "description": "Open source, federated social network.",
+            "description": "Social network open source, federato.",
             "license_url": "https://github.com/buddycloud/buddycloud-server-java/blob/master/LICENSE",
             "logo": "buddycloud.png",
             "notes": "",
@@ -2799,7 +2799,7 @@
             "description": "Messaggistica cifrata per iOS.",
             "license_url": "https://github.com/guardianproject/ChatSecureAndroid/blob/master/LICENSE",
             "logo": "chatsecure.png",
-            "notes": "The Guardian Project hosts <a href='https://guardianproject.info/howto/chatsecurely/'>a fantastic how-to guide</a> to chatting securely on Android.",
+            "notes": "The Guardian Project ha <a href='https://guardianproject.info/howto/chatsecurely/'>un&#39;ottima guida</a> per chattare in sicurezza con Android.",
             "privacy_url": "",
             "source_url": "https://github.com/guardianproject/ChatSecureAndroid",
             "name": "ChatSecure",
@@ -2845,7 +2845,7 @@
             ]
           },
           {
-            "description": "Private XMPP service run on the DuckDuckGo Community Platform&mdash;guide included.",
+            "description": "Servizio XMPP privato gestito dalla DuckDuckGo Community Platform&mdash;guida inclusa.",
             "license_url": "",
             "logo": "duckduckgo.png",
             "notes": "",
@@ -2879,7 +2879,7 @@
             ]
           },
           {
-            "description": "XMPP server written in Erlang/OTP for GNU/Linux and OS X.",
+            "description": "Server XMPP scritto in Erlang/OTP per GNU/Linux e OS X.",
             "license_url": "https://github.com/processone/ejabberd/blob/master/COPYING",
             "logo": "ejabberd.png",
             "notes": "",
@@ -2888,7 +2888,7 @@
             "name": "ejabberd",
             "tos_url": "",
             "url": "http://www.ejabberd.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Ejabberd",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Ejabberd",
             "protocols": [
               "XMPP"
             ],
@@ -2913,7 +2913,7 @@
             ]
           },
           {
-            "description": "Web server sociale libero, open source e distribuito.",
+            "description": "Software per social network libero, open source e distribuito.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -2922,7 +2922,7 @@
             "name": "friendica",
             "tos_url": "",
             "url": "http://friendica.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
             "protocols": [
               "RSS",
               "SSL/TLS",
@@ -2957,7 +2957,7 @@
             ]
           },
           {
-            "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+            "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
             "license_url": "https://trac.gajim.org/browser/COPYING",
             "logo": "gajim.png",
             "notes": "",
@@ -2966,7 +2966,7 @@
             "name": "Gajim",
             "tos_url": "",
             "url": "http://gajim.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
             "protocols": [
               "GPG",
               "OTR",
@@ -3026,10 +3026,10 @@
             ]
           },
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -3107,7 +3107,7 @@
             ]
           },
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -3191,16 +3191,16 @@
             ]
           },
           {
-            "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+            "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
             "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
             "logo": "kopete.png",
-            "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+            "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
             "privacy_url": "",
             "source_url": "http://kopete.kde.org/svnaccess.php",
             "name": "Kopete",
             "tos_url": "",
             "url": "http://kopete.kde.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
             "protocols": [
               "GPG",
               "OTR",
@@ -3235,7 +3235,7 @@
             ]
           },
           {
-            "description": "XMPP server based on Prosody, with advanced management/microblogging features.",
+            "description": "Server XMPP basato su Prosody, con gestione avanzata/funzioni di microblogging.",
             "license_url": "https://code.lightwitch.org/metronome/file/f9f76843539a/COPYING",
             "logo": "metronome.png",
             "notes": "",
@@ -3318,16 +3318,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -3444,7 +3444,7 @@
             ]
           },
           {
-            "description": "Cross-platform XMPP server written in Java.",
+            "description": "Server XMPP multipiattaforma scritto in Java.",
             "license_url": "http://fisheye.igniterealtime.org/browse/openfire/trunk/documentation/docs/licenses",
             "logo": "openfire.png",
             "notes": "",
@@ -3478,16 +3478,16 @@
             ]
           },
           {
-            "description": "Programma open source per chat multiprotocollo.",
+            "description": "Programma libero per messaggistica istantanea multiprotocollo.",
             "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
             "logo": "pidgin.png",
-            "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+            "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
             "privacy_url": "",
             "source_url": "http://hg.pidgin.im/pidgin/main/",
             "name": "Pidgin",
             "tos_url": "",
             "url": "https://www.pidgin.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
             "protocols": [
               "IRC",
               "OTR",
@@ -3559,7 +3559,7 @@
             ]
           },
           {
-            "description": "Flexible lightweight XMPP server written in Lua.",
+            "description": "Server XMPP flessibile e leggero, scritto in Lua.",
             "license_url": "https://hg.prosody.im/trunk/file/b3d5aa57c454/COPYING",
             "logo": "prosody.png",
             "notes": "",
@@ -3593,7 +3593,7 @@
             ]
           },
           {
-            "description": "Multi-platform IM client for power users with built-in OTR support.",
+            "description": "Client di messaggistica istantanea per utenti avanzati con supporto OTR integrato.",
             "license_url": "https://github.com/psi-plus/main/blob/master/copying-psi.txt",
             "logo": "psi-plus.png",
             "notes": "",
@@ -3602,7 +3602,7 @@
             "name": "Psi+",
             "tos_url": "",
             "url": "http://psi-plus.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Psi_%28software%29",
             "protocols": [
               "GPG",
               "XMPP"
@@ -3662,10 +3662,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -3718,13 +3718,13 @@
             ]
           },
           {
-            "description": "Strumento di comunicazione multi-frontend e multipurpose.",
+            "description": "Strumento di comunicazione multi-frontend e polivalente.",
             "license_url": "http://repos.goffi.org/sat/file/6aa71c853bf5/COPYING",
             "logo": "sat.png",
             "notes": "",
             "privacy_url": "",
             "source_url": "http://sat.goffi.org/developers.html",
-            "name": "Salut à Toi",
+            "name": "Salut &agrave; Toi",
             "tos_url": "",
             "url": "http://sat.goffi.org/",
             "wikipedia_url": "",
@@ -3744,7 +3744,7 @@
                 "slug": "servers"
               }
             ],
-            "slug": "salut-a-toi",
+            "slug": "salut-agrave-toi",
             "protocolsSlugged": [
               {
                 "name": "SSL/TLS",
@@ -3757,7 +3757,7 @@
             ]
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -3841,7 +3841,7 @@
             ]
           },
           {
-            "description": "Cross-platform XMPP server written in Java.",
+            "description": "Server XMPP multipiattaforma scritto in Java.",
             "license_url": "https://projects.tigase.org/projects/tigase-server/repository/revisions/master/changes/COPYING",
             "logo": "tigase.png",
             "notes": "",
@@ -3939,7 +3939,7 @@
         "slug": "gpg",
         "projects": [
           {
-            "description": "OpenPGP implementation for Android.",
+            "description": "Implementazione OpenPGP per Android.",
             "license_url": "https://github.com/thialfihar/apg/blob/master/AndroidManifest.xml",
             "logo": "apg.png",
             "notes": "",
@@ -3973,7 +3973,7 @@
             ]
           },
           {
-            "description": "Leggero client email con supporto GnuPG.",
+            "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
             "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
             "logo": "claws-mail.png",
             "notes": "",
@@ -3982,7 +3982,7 @@
             "name": "Claws Mail",
             "tos_url": "",
             "url": "http://www.claws-mail.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
             "protocols": [
               "GPG",
               "RSS",
@@ -4047,16 +4047,16 @@
             ]
           },
           {
-            "description": "Plugin per Thunderbird/Icedove con supporto OpenPGP.",
+            "description": "Plugin per Thunderbird e Icedove con supporto OpenPGP.",
             "license_url": "http://sourceforge.net/p/enigmail/source/ci/master/tree/genxpi",
             "logo": "enigmail.png",
-            "notes": "[Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.",
+            "notes": "[Qua si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.",
             "privacy_url": "",
             "source_url": "https://www.enigmail.net/download/source.php",
             "name": "Enigmail",
             "tos_url": "",
             "url": "https://www.enigmail.net/home/index.php",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Enigmail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Enigmail",
             "protocols": [
               "GPG"
             ],
@@ -4111,7 +4111,7 @@
             ]
           },
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -4120,7 +4120,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -4170,7 +4170,7 @@
             ]
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "FreedomBox integra protezioni per la privacy per server personali basati su software libero.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -4179,7 +4179,7 @@
             "name": "FreedomBox",
             "tos_url": "",
             "url": "https://www.freedomboxfoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreedomBox",
             "protocols": [
               "GPG",
               "TOR",
@@ -4218,7 +4218,7 @@
             ]
           },
           {
-            "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+            "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
             "license_url": "https://trac.gajim.org/browser/COPYING",
             "logo": "gajim.png",
             "notes": "",
@@ -4227,7 +4227,7 @@
             "name": "Gajim",
             "tos_url": "",
             "url": "http://gajim.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
             "protocols": [
               "GPG",
               "OTR",
@@ -4361,7 +4361,7 @@
             ]
           },
           {
-            "description": "Implementazione libera di OpenPGP.",
+            "description": "Implementazione libera di OpenPGP per vari programmi, inclusi Thunderbird/Icedove.",
             "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=blob;f=COPYING;h=443254047416efc10bc53cb1adb5421680d5a647;hb=refs/heads/master",
             "logo": "gnupg.png",
             "notes": "",
@@ -4370,7 +4370,7 @@
             "name": "GNU Privacy Guard",
             "tos_url": "",
             "url": "http://www.gnupg.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNU_Privacy_Guard",
             "protocols": [
               "GPG"
             ],
@@ -4425,7 +4425,7 @@
             ]
           },
           {
-            "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+            "description": "Un port per Android dell&#39;intera suite GnuPG 2.1 .\n\nGnu Privacy Guard (GPG) ti d&agrave; accesso all&#39;intera suite di crittografia GnuPG. GnuPG &egrave; lo strumento di GNU per comunicazioni e memorizzazione di dati in modo sicuro. Questo protocollo fidato &egrave; l&#39;alternativa libera a PGP. GnuPG 2.1 &egrave; la nuova versione modulare di GnuPG che ora supporta OpenPGP e S/MIME.",
             "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
             "logo": "gnupg-for-android.png",
             "notes": "",
@@ -4464,7 +4464,7 @@
             ]
           },
           {
-            "description": "Gpg4win is an installation package for Windows (XP, Vista, 7 and 8) with software tools and manuals for email and file encryption on behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
+            "description": "Gpg4win &egrave; un pacchetto di installazione per Windows (XP, Vista, 7 e 8) con strumenti e manuali per cifrare email e file a nome della German Information Security Agency. Lo stesso Gpg4win e tutti i suoi strumenti sono programmi liberi e open source. Il software usa principalmente la crittografia a chiave pubblica per i dati e le firme digitali.",
             "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=COPYING;h=623b6258a134210f0b0ada106fdaab7f0370d9c5;hb=HEAD",
             "logo": "gpg4win.png",
             "notes": "",
@@ -4473,7 +4473,7 @@
             "name": "Gpg4win",
             "tos_url": "",
             "url": "http://www.gpg4win.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gpg4win",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gpg4win",
             "protocols": [
               "GPG"
             ],
@@ -4498,7 +4498,7 @@
             ]
           },
           {
-            "description": "OpenPGP add-on for Apple OS X Mail.",
+            "description": "Componente aggiuntivo OpenPGP per Apple OS X Mail.",
             "license_url": "https://github.com/GPGTools/MacGPG2/blob/dev/LICENSE.txt",
             "logo": "gpgtools.png",
             "notes": "",
@@ -4532,7 +4532,7 @@
             ]
           },
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -4616,7 +4616,7 @@
             ]
           },
           {
-            "description": "Open source email app for Android with PGP support.",
+            "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
             "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
             "logo": "k9-mail.png",
             "notes": "",
@@ -4660,7 +4660,7 @@
             ]
           },
           {
-            "description": "Client email per ambiente KDE con supporto GnuPG.",
+            "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
             "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
             "logo": "kontact.png",
             "notes": "",
@@ -4669,7 +4669,7 @@
             "name": "Kontact",
             "tos_url": "",
             "url": "http://www.kontact.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
             "protocols": [
               "GPG",
               "RSS",
@@ -4719,16 +4719,16 @@
             ]
           },
           {
-            "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+            "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
             "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
             "logo": "kopete.png",
-            "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+            "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
             "privacy_url": "",
             "source_url": "http://kopete.kde.org/svnaccess.php",
             "name": "Kopete",
             "tos_url": "",
             "url": "http://kopete.kde.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
             "protocols": [
               "GPG",
               "OTR",
@@ -4763,7 +4763,7 @@
             ]
           },
           {
-            "description": "Cifratura OpenPGP per webmail.",
+            "description": "Strumento di cifratura OpenPGP per webmail.",
             "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
             "logo": "mailvelope.png",
             "notes": "",
@@ -4843,16 +4843,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -4969,10 +4969,10 @@
             ]
           },
           {
-            "description": "OpenPGP Keychain is an OpenPGP implementation for Android.",
+            "description": "OpenPGP Keychain &egrave; un&#39;implementazione OpenPGP per Android.",
             "license_url": "https://github.com/dschuermann/openpgp-keychain/blob/master/LICENSE",
             "logo": "openpgp-keychain.png",
-            "notes": "OpenPGP Keychain is EXPERIMENTAL software. Use at your own risk!\r",
+            "notes": "OpenPGP Keychain &egrave; un software SPERIMENTALE. Usare a proprio rischio!\r",
             "privacy_url": "",
             "source_url": "https://github.com/dschuermann/openpgp-keychain",
             "name": "OpenPGP Keychain",
@@ -5003,7 +5003,7 @@
             ]
           },
           {
-            "description": "Multi-platform IM client for power users with built-in OTR support.",
+            "description": "Client di messaggistica istantanea per utenti avanzati con supporto OTR integrato.",
             "license_url": "https://github.com/psi-plus/main/blob/master/copying-psi.txt",
             "logo": "psi-plus.png",
             "notes": "",
@@ -5012,7 +5012,7 @@
             "name": "Psi+",
             "tos_url": "",
             "url": "http://psi-plus.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Psi_%28software%29",
             "protocols": [
               "GPG",
               "XMPP"
@@ -5072,16 +5072,16 @@
             ]
           },
           {
-            "description": "Piattaforma P2P e libera per comunicazioni protette.",
+            "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
             "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
             "logo": "retroshare.png",
-            "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+            "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
             "privacy_url": "",
             "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
             "name": "RetroShare",
             "tos_url": "",
             "url": "http://retroshare.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
             "protocols": [
               "GPG",
               "VoIP"
@@ -5173,7 +5173,7 @@
             ]
           },
           {
-            "description": "Lightweight and user-friendly e-mail client.",
+            "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
             "license_url": "https://www.gnu.org/copyleft/gpl.html",
             "logo": "sylpheed.png",
             "notes": "",
@@ -5247,7 +5247,7 @@
             ]
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -5345,7 +5345,7 @@
         "slug": "otr",
         "projects": [
           {
-            "description": "Programma open source per chat multiprotocollo per OS X.",
+            "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
             "license_url": "https://trac.adium.im/wiki/Development",
             "logo": "adium.png",
             "notes": "",
@@ -5354,7 +5354,7 @@
             "name": "Adium",
             "tos_url": "",
             "url": "https://adium.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
             "protocols": [
               "IRC",
               "OTR",
@@ -5393,7 +5393,7 @@
             ]
           },
           {
-            "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+            "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
             "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
             "logo": "bitlbee.png",
             "notes": "",
@@ -5486,7 +5486,7 @@
             "description": "Messaggistica cifrata per iOS.",
             "license_url": "https://github.com/guardianproject/ChatSecureAndroid/blob/master/LICENSE",
             "logo": "chatsecure.png",
-            "notes": "The Guardian Project hosts <a href='https://guardianproject.info/howto/chatsecurely/'>a fantastic how-to guide</a> to chatting securely on Android.",
+            "notes": "The Guardian Project ha <a href='https://guardianproject.info/howto/chatsecurely/'>un&#39;ottima guida</a> per chattare in sicurezza con Android.",
             "privacy_url": "",
             "source_url": "https://github.com/guardianproject/ChatSecureAndroid",
             "name": "ChatSecure",
@@ -5532,7 +5532,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -5622,7 +5622,7 @@
             ]
           },
           {
-            "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+            "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
             "license_url": "https://trac.gajim.org/browser/COPYING",
             "logo": "gajim.png",
             "notes": "",
@@ -5631,7 +5631,7 @@
             "name": "Gajim",
             "tos_url": "",
             "url": "http://gajim.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
             "protocols": [
               "GPG",
               "OTR",
@@ -5691,10 +5691,10 @@
             ]
           },
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -5772,7 +5772,7 @@
             ]
           },
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -5856,16 +5856,16 @@
             ]
           },
           {
-            "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+            "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
             "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
             "logo": "kopete.png",
-            "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+            "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
             "privacy_url": "",
             "source_url": "http://kopete.kde.org/svnaccess.php",
             "name": "Kopete",
             "tos_url": "",
             "url": "http://kopete.kde.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
             "protocols": [
               "GPG",
               "OTR",
@@ -5900,7 +5900,7 @@
             ]
           },
           {
-            "description": "Da installare e abilitare su Pidgin/Adium per cifrare le proprie chat.",
+            "description": "Da installare e abilitare su Pidgin per cifrare le proprie chat.",
             "license_url": "http://sourceforge.net/p/otr/pidgin-otr/ci/master/tree/COPYING",
             "logo": "otr.png",
             "notes": "",
@@ -5954,16 +5954,16 @@
             ]
           },
           {
-            "description": "Programma open source per chat multiprotocollo.",
+            "description": "Programma libero per messaggistica istantanea multiprotocollo.",
             "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
             "logo": "pidgin.png",
-            "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+            "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
             "privacy_url": "",
             "source_url": "http://hg.pidgin.im/pidgin/main/",
             "name": "Pidgin",
             "tos_url": "",
             "url": "https://www.pidgin.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
             "protocols": [
               "IRC",
               "OTR",
@@ -6035,7 +6035,7 @@
             ]
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -6177,7 +6177,7 @@
         "slug": "s-mime",
         "projects": [
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -6186,7 +6186,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -6236,7 +6236,7 @@
             ]
           },
           {
-            "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+            "description": "Un port per Android dell&#39;intera suite GnuPG 2.1 .\n\nGnu Privacy Guard (GPG) ti d&agrave; accesso all&#39;intera suite di crittografia GnuPG. GnuPG &egrave; lo strumento di GNU per comunicazioni e memorizzazione di dati in modo sicuro. Questo protocollo fidato &egrave; l&#39;alternativa libera a PGP. GnuPG 2.1 &egrave; la nuova versione modulare di GnuPG che ora supporta OpenPGP e S/MIME.",
             "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
             "logo": "gnupg-for-android.png",
             "notes": "",
@@ -6275,7 +6275,7 @@
             ]
           },
           {
-            "description": "Client email per ambiente KDE con supporto GnuPG.",
+            "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
             "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
             "logo": "kontact.png",
             "notes": "",
@@ -6284,7 +6284,7 @@
             "name": "Kontact",
             "tos_url": "",
             "url": "http://www.kontact.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
             "protocols": [
               "GPG",
               "RSS",
@@ -6334,16 +6334,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -6474,7 +6474,7 @@
         "slug": "ssl-tls",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -6482,7 +6482,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -6524,7 +6524,7 @@
             ]
           },
           {
-            "description": "Open source, federated social network.",
+            "description": "Social network open source, federato.",
             "license_url": "https://github.com/buddycloud/buddycloud-server-java/blob/master/LICENSE",
             "logo": "buddycloud.png",
             "notes": "",
@@ -6567,7 +6567,7 @@
             ]
           },
           {
-            "description": "Leggero client email con supporto GnuPG.",
+            "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
             "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
             "logo": "claws-mail.png",
             "notes": "",
@@ -6576,7 +6576,7 @@
             "name": "Claws Mail",
             "tos_url": "",
             "url": "http://www.claws-mail.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
             "protocols": [
               "GPG",
               "RSS",
@@ -6698,7 +6698,7 @@
             "name": "diaspora*",
             "tos_url": "",
             "url": "https://diasporafoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
             "protocols": [
               "SSL/TLS"
             ],
@@ -6733,10 +6733,10 @@
             ]
           },
           {
-            "description": "Anonymous VPN service for popular search engines like Google, Bing, and Yahoo.",
+            "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
             "license_url": "",
             "logo": "disconnect-search.png",
-            "notes": "The source code can be downloaded for viewing by right clicking \"Get Disconnect Search\" on the official website and selecting \"Save Link As...\".\n\nWith \"search.xpi\" downloaded, change the file extension to \".zip\" and extract it to view the source code.",
+            "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
             "privacy_url": "",
             "source_url": "https://disconnect.me/search",
             "name": "Disconnect Search",
@@ -6770,13 +6770,13 @@
             "description": "Ricerche anonime e non registrate.",
             "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
             "logo": "duckduckgo.png",
-            "notes": "DuckDuckGo is a software-as-a-service (SaaS) hosted around the world that provides you with anonymous search results from [these sources](https://dukgo.com/help/en_US/results/sources). DDG open source components are [available here](https://github.com/duckduckgo).\n\nThere is also a DuckDuckGo hidden service at [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) for Tor users.",
+            "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
             "privacy_url": "https://duckduckgo.com/privacy",
             "source_url": "https://github.com/duckduckgo/duckduckgo",
             "name": "DuckDuckGo",
             "tos_url": "",
             "url": "https://duckduckgo.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDuckGo",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
             "protocols": [
               "SSL/TLS",
               "Tor"
@@ -6806,10 +6806,10 @@
             ]
           },
           {
-            "description": "Sistema open source per documenti collaborativi in real-time.",
+            "description": "Sistema autogestito per documenti collaborativi in tempo reale.",
             "license_url": "https://github.com/ether/etherpad-lite/blob/develop/LICENSE",
             "logo": "etherpad.png",
-            "notes": "The etherpad project maintains a list of [sites that run etherpad services](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Please only choose from the services that use SSL, and research the site's background before trusting them with your data.",
+            "notes": "Il progetto etherpad mantiene una lista di [siti che ospitano servizi etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Si consiglia di scegliere solo servizi che usano SSL e controllare la storia del sito prima di affidare loro i tuoi dati.",
             "privacy_url": "",
             "source_url": "https://github.com/ether/etherpad-lite",
             "name": "Etherpad",
@@ -6850,7 +6850,7 @@
             ]
           },
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -6859,7 +6859,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -6909,7 +6909,7 @@
             ]
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "FreedomBox integra protezioni per la privacy per server personali basati su software libero.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -6918,7 +6918,7 @@
             "name": "FreedomBox",
             "tos_url": "",
             "url": "https://www.freedomboxfoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreedomBox",
             "protocols": [
               "GPG",
               "TOR",
@@ -6957,7 +6957,7 @@
             ]
           },
           {
-            "description": "Web server sociale libero, open source e distribuito.",
+            "description": "Software per social network libero, open source e distribuito.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -6966,7 +6966,7 @@
             "name": "friendica",
             "tos_url": "",
             "url": "http://friendica.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
             "protocols": [
               "RSS",
               "SSL/TLS",
@@ -7001,7 +7001,7 @@
             ]
           },
           {
-            "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+            "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
             "license_url": "https://trac.gajim.org/browser/COPYING",
             "logo": "gajim.png",
             "notes": "",
@@ -7010,7 +7010,7 @@
             "name": "Gajim",
             "tos_url": "",
             "url": "http://gajim.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
             "protocols": [
               "GPG",
               "OTR",
@@ -7104,7 +7104,7 @@
             ]
           },
           {
-            "description": "GNUnet is a fully free P2P network.",
+            "description": "GNUnet &egrave; una rete P2P completamente libera.",
             "license_url": "https://gnunet.org/svn/gnunet/COPYING",
             "logo": "gnunet.png",
             "notes": "",
@@ -7113,7 +7113,7 @@
             "name": "GNUnet",
             "tos_url": "",
             "url": "https://gnunet.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNUnet",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNUnet",
             "protocols": [
               "SSL/TLS"
             ],
@@ -7178,7 +7178,7 @@
             ]
           },
           {
-            "description": "Cripta le tue comunicazioni con molti importanti siti internet.",
+            "description": "Cripta le tue comunicazioni con molti siti internet forzando una connessione HTTPS.",
             "license_url": "https://gitweb.torproject.org/https-everywhere.git/blob_plain/HEAD:/LICENSE.txt",
             "logo": "https-everywhere.png",
             "notes": "",
@@ -7242,10 +7242,10 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -7296,7 +7296,7 @@
             ]
           },
           {
-            "description": "Ixquick is a metasearch engine based in New York and the Netherlands. ",
+            "description": "Ixquick &egrave; un metamotore di ricerca situato a New York e nei Paesi Bassi. ",
             "license_url": "",
             "logo": "ixquick.png",
             "notes": "",
@@ -7305,7 +7305,7 @@
             "name": "Ixquick",
             "tos_url": "",
             "url": "https://ixquick.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Ixquick",
             "protocols": [
               "SSL/TLS"
             ],
@@ -7330,7 +7330,7 @@
             ]
           },
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -7414,7 +7414,7 @@
             ]
           },
           {
-            "description": "Private browsing with the JonDo IP anonymization service and JonDoFox profile for Firefox.",
+            "description": "Navigazione anonima con il servizio JonDo e il profilo JonDoFox per Firefox.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -7483,7 +7483,7 @@
             ]
           },
           {
-            "description": "Open source email app for Android with PGP support.",
+            "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
             "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
             "logo": "k9-mail.png",
             "notes": "",
@@ -7527,7 +7527,7 @@
             ]
           },
           {
-            "description": "Open source VoIP/SIP server.",
+            "description": "Server VoIP/SIP open source.",
             "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
             "logo": "kamailio.png",
             "notes": "",
@@ -7571,7 +7571,7 @@
             ]
           },
           {
-            "description": "Client email per ambiente KDE con supporto GnuPG.",
+            "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
             "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
             "logo": "kontact.png",
             "notes": "",
@@ -7580,7 +7580,7 @@
             "name": "Kontact",
             "tos_url": "",
             "url": "http://www.kontact.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
             "protocols": [
               "GPG",
               "RSS",
@@ -7630,8 +7630,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -7782,10 +7782,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Hosting veloce incentrato sulla privacy, per immagini, audio e video.",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Attenzione: MediaCrush include Google Analytics e Google Adsense se non hai l&#39;opzione Do Not Track abilitata.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -7829,7 +7829,7 @@
             "description": "Piattaforma di pubblicazione decentralizzata.",
             "license_url": "https://gitorious.org/mediagoblin/mediagoblin/source/a442823bc1d8bc4946749a036a5460ceea456a9b:COPYING",
             "logo": "mediagoblin.png",
-            "notes": "MediaGoblin does not encrypt any of your data by default.",
+            "notes": "MediaGoblin non cripta alcun dato in modo predefinito.",
             "privacy_url": "",
             "source_url": "https://gitorious.org/mediagoblin/mediagoblin",
             "name": "MediaGoblin",
@@ -7860,7 +7860,7 @@
             ]
           },
           {
-            "description": "Meta search engine that proxies your queries to multiple search providers.",
+            "description": "Metamotore di ricerca che inoltra le tue richieste via proxy ad altri motori di ricerca.",
             "license_url": "",
             "logo": "metager.png",
             "notes": "",
@@ -7943,16 +7943,16 @@
             ]
           },
           {
-            "description": "Browser internet open source.",
+            "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+            "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
             "url": "https://mozilla.org/firefox",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Firefox",
             "protocols": [
               "SSL/TLS"
             ],
@@ -8017,16 +8017,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -8143,7 +8143,7 @@
             ]
           },
           {
-            "description": "Surf the web through the Tor network with this open source browser for iOS devices.",
+            "description": "Naviga in internet attraverso la rete Tor con questo browser open source per iOS.",
             "license_url": "https://github.com/mtigas/iOS-OnionBrowser/blob/master/LICENSE",
             "logo": "onion-browser.png",
             "notes": "",
@@ -8182,7 +8182,7 @@
             ]
           },
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -8191,7 +8191,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -8276,7 +8276,7 @@
             ]
           },
           {
-            "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
             "license_url": "",
             "logo": "ostel.png",
             "notes": "",
@@ -8325,16 +8325,16 @@
             ]
           },
           {
-            "description": "Piattaforma di foto-gallery libera.",
+            "description": "Piattaforma di foto-gallery self-hosted.",
             "license_url": "http://piwigo.org/basics/license",
             "logo": "piwigo.png",
-            "notes": "Piwigo does not encrypt any of your data by default.",
+            "notes": "Piwigo non cripta alcun dato in modo predefinito.",
             "privacy_url": "",
             "source_url": "http://piwigo.org/dev/browser",
             "name": "Piwigo",
             "tos_url": "",
             "url": "http://piwigo.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Piwigo",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Piwigo",
             "protocols": [
               "SSL/TLS"
             ],
@@ -8359,10 +8359,10 @@
             ]
           },
           {
-            "description": "Free online encrypted notepad.",
+            "description": "Blocco note online libero e criptato.",
             "license_url": "",
             "logo": "protextedtext.png",
-            "notes": "ProtectedText encrypts/decrypts text in the browser, and password (or it's hash) is never sent to the server - so that text can't be decrypted even if requested by authorities.",
+            "notes": "ProtectedText cifra/decifra i testi nel browser, mentre la password (o il suo hash) non &egrave; mai inviata al server - quindi i testi non possono essere decifrati anche se venisse richiesto dalle autorit&agrave;.",
             "privacy_url": "",
             "source_url": "https://www.protectedtext.com/js/main.js",
             "name": "ProtectedText",
@@ -8427,10 +8427,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -8483,13 +8483,13 @@
             ]
           },
           {
-            "description": "Strumento di comunicazione multi-frontend e multipurpose.",
+            "description": "Strumento di comunicazione multi-frontend e polivalente.",
             "license_url": "http://repos.goffi.org/sat/file/6aa71c853bf5/COPYING",
             "logo": "sat.png",
             "notes": "",
             "privacy_url": "",
             "source_url": "http://sat.goffi.org/developers.html",
-            "name": "Salut à Toi",
+            "name": "Salut &agrave; Toi",
             "tos_url": "",
             "url": "http://sat.goffi.org/",
             "wikipedia_url": "",
@@ -8509,7 +8509,7 @@
                 "slug": "servers"
               }
             ],
-            "slug": "salut-a-toi",
+            "slug": "salut-agrave-toi",
             "protocolsSlugged": [
               {
                 "name": "SSL/TLS",
@@ -8522,10 +8522,10 @@
             ]
           },
           {
-            "description": "Ricerche private e non registrate.",
+            "description": "Ricerche web private e non registrate.",
             "license_url": "",
             "logo": "startpage.png",
-            "notes": "Startpage is a SaaS hosted in the USA and the Netherlands that provides you with anonymous Google search and image results through a free proxy.",
+            "notes": "Startpage &egrave; un SaaS situato in USA e nei Paesi Bassi che offre ricerche Google anonime attraverso un proxy.",
             "privacy_url": "https://startpage.com/eng/protect-privacy.html",
             "source_url": "",
             "name": "Startpage",
@@ -8556,7 +8556,7 @@
             ]
           },
           {
-            "description": "Lightweight and user-friendly e-mail client.",
+            "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
             "license_url": "https://www.gnu.org/copyleft/gpl.html",
             "logo": "sylpheed.png",
             "notes": "",
@@ -8630,7 +8630,7 @@
             ]
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -8714,10 +8714,10 @@
             ]
           },
           {
-            "description": "Navigazione anonima e criptata.",
+            "description": "Navigazione anonima e criptata grazie alla rete Tor.",
             "license_url": "https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE",
             "logo": "tor-browser-bundle.png",
-            "notes": "Using the TBB to sign into websites that contain your real ID is counterproductive, and may trip the site's fraud protection. Make sure to check for HTTPS before signing in to a website through Tor.\n\nSigning into HTTP websites can result in your ID being captured by a Tor exit node.",
+            "notes": "Usare TBB per accedere a siti che contengono la tua vera identit&agrave; &egrave; controproducente e pu&ograve; far saltare la protezione contro le frodi del sito. Accertati di una connessione HTTPS prima di accedere ad un sito con Tor.\n\nAccedere ai siti in HTTP pu&ograve; portare alla rilevazione della tua identit&agrave; da un nodo di uscita di Tor.",
             "privacy_url": "https://www.torproject.org/about/overview.html.en",
             "source_url": "https://gitweb.torproject.org/tor.git",
             "name": "Tor Browser Bundle",
@@ -8786,13 +8786,13 @@
             "description": "CMS libero per siti/blog.",
             "license_url": "http://wordpress.org/about/license/",
             "logo": "wordpress.png",
-            "notes": "WordPress does not encrypt any of your data by default.\n\nUsing avatars in WordPress will activate Gravatar, which which will send your email address to gravatar.com. Avatars are activated by default and can be turned off under \"Settings > Discussion > Avatars\".\r",
+            "notes": "WordPress non cripta alcun dato in modo predefinito.\n\nL&#39;uso di avatar in WordPress attiver&agrave; Gravatar, che invier&agrave; il tuo indirizzo email a gravatar.com. Gli avatar vengono attivati in modo predefinito, ma possono essere disabilitati andando in \"Impostazioni > Discussione > Avatar\".\r",
             "privacy_url": "http://wordpress.org/about/privacy/",
             "source_url": "http://core.trac.wordpress.org/browser",
             "name": "WordPress",
             "tos_url": "",
             "url": "https://wordpress.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/WordPress",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/WordPress",
             "protocols": [
               "SSL/TLS"
             ],
@@ -8864,7 +8864,7 @@
             "description": "CMS libero per multimedia.",
             "license_url": "http://www.zenphoto.org/pages/licenses",
             "logo": "zenphoto.png",
-            "notes": "Zenphoto does not encrypt any of your data by default.",
+            "notes": "Zenphoto non cripta alcun dato in modo predefinito.",
             "privacy_url": "http://www.zenphoto.org/pages/privacy",
             "source_url": "https://github.com/zenphoto/zenphoto",
             "name": "Zenphoto",
@@ -8957,10 +8957,10 @@
             ]
           },
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -9038,8 +9038,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -9156,7 +9156,7 @@
             ]
           },
           {
-            "description": "Chat vocale cifrata e a bassa latenza.",
+            "description": "Chat vocale cifrata multiutente e a bassa latenza.",
             "license_url": "http://mumble.sourceforge.net/License",
             "logo": "mumble.png",
             "notes": "",
@@ -9165,7 +9165,7 @@
             "name": "Mumble",
             "tos_url": "",
             "url": "http://mumble.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
             "protocols": [
               "VoIP",
               "ZRTP"
@@ -9255,7 +9255,7 @@
             ]
           },
           {
-            "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
             "license_url": "",
             "logo": "ostel.png",
             "notes": "",
@@ -9324,7 +9324,7 @@
         "slug": "caldav",
         "projects": [
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -9333,7 +9333,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -9383,7 +9383,7 @@
             ]
           },
           {
-            "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+            "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
             "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
             "logo": "kolab.png",
             "notes": "",
@@ -9484,7 +9484,7 @@
         "slug": "carddav",
         "projects": [
           {
-            "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+            "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
             "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
             "logo": "kolab.png",
             "notes": "",
@@ -9585,7 +9585,7 @@
         "slug": "webdav",
         "projects": [
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -9594,7 +9594,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -9644,7 +9644,7 @@
             ]
           },
           {
-            "description": "Open source email app for Android with PGP support.",
+            "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
             "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
             "logo": "k9-mail.png",
             "notes": "",
@@ -9688,7 +9688,7 @@
             ]
           },
           {
-            "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+            "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
             "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
             "logo": "kolab.png",
             "notes": "",
@@ -9756,7 +9756,7 @@
         "slug": "rss",
         "projects": [
           {
-            "description": "Leggero client email con supporto GnuPG.",
+            "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
             "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
             "logo": "claws-mail.png",
             "notes": "",
@@ -9765,7 +9765,7 @@
             "name": "Claws Mail",
             "tos_url": "",
             "url": "http://www.claws-mail.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
             "protocols": [
               "GPG",
               "RSS",
@@ -9830,7 +9830,7 @@
             ]
           },
           {
-            "description": "Client email e calendario libero.",
+            "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
             "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
             "logo": "evolution.png",
             "notes": "",
@@ -9839,7 +9839,7 @@
             "name": "Evolution",
             "tos_url": "",
             "url": "https://projects.gnome.org/evolution/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
             "protocols": [
               "CalDAV",
               "GPG",
@@ -9889,7 +9889,7 @@
             ]
           },
           {
-            "description": "Web server sociale libero, open source e distribuito.",
+            "description": "Software per social network libero, open source e distribuito.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -9898,7 +9898,7 @@
             "name": "friendica",
             "tos_url": "",
             "url": "http://friendica.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
             "protocols": [
               "RSS",
               "SSL/TLS",
@@ -9933,7 +9933,7 @@
             ]
           },
           {
-            "description": "Client email per ambiente KDE con supporto GnuPG.",
+            "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
             "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
             "logo": "kontact.png",
             "notes": "",
@@ -9942,7 +9942,7 @@
             "name": "Kontact",
             "tos_url": "",
             "url": "http://www.kontact.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
             "protocols": [
               "GPG",
               "RSS",
@@ -9992,16 +9992,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -10118,7 +10118,7 @@
             ]
           },
           {
-            "description": "Lightweight and user-friendly e-mail client.",
+            "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
             "license_url": "https://www.gnu.org/copyleft/gpl.html",
             "logo": "sylpheed.png",
             "notes": "",

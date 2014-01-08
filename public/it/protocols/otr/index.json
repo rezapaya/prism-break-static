@@ -11,7 +11,7 @@
   "slug": "otr",
   "projects": [
     {
-      "description": "Programma open source per chat multiprotocollo per OS X.",
+      "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
       "license_url": "https://trac.adium.im/wiki/Development",
       "logo": "adium.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Adium",
       "tos_url": "",
       "url": "https://adium.im/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
       "protocols": [
         "IRC",
         "OTR",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+      "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
       "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
       "logo": "bitlbee.png",
       "notes": "",
@@ -152,7 +152,7 @@
       "description": "Messaggistica cifrata per iOS.",
       "license_url": "https://github.com/guardianproject/ChatSecureAndroid/blob/master/LICENSE",
       "logo": "chatsecure.png",
-      "notes": "The Guardian Project hosts <a href='https://guardianproject.info/howto/chatsecurely/'>a fantastic how-to guide</a> to chatting securely on Android.",
+      "notes": "The Guardian Project ha <a href='https://guardianproject.info/howto/chatsecurely/'>un&#39;ottima guida</a> per chattare in sicurezza con Android.",
       "privacy_url": "",
       "source_url": "https://github.com/guardianproject/ChatSecureAndroid",
       "name": "ChatSecure",
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "description": "Private and encrypted instant messaging within the web browser.",
+      "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
       "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
       "logo": "cryptocat.png",
       "notes": "",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+      "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
       "license_url": "https://trac.gajim.org/browser/COPYING",
       "logo": "gajim.png",
       "notes": "",
@@ -297,7 +297,7 @@
       "name": "Gajim",
       "tos_url": "",
       "url": "http://gajim.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
       "protocols": [
         "GPG",
         "OTR",
@@ -357,10 +357,10 @@
       ]
     },
     {
-      "description": "Chat e videoconferenze cifrate.",
+      "description": "Chat e videoconferenze cifrate, multipiattaforma.",
       "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
       "logo": "jitsi.png",
-      "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+      "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
       "privacy_url": "",
       "source_url": "https://github.com/jitsi",
       "name": "Jitsi",
@@ -438,7 +438,7 @@
       ]
     },
     {
-      "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+      "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
       "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
       "logo": "jondonym.png",
       "notes": "",
@@ -522,16 +522,16 @@
       ]
     },
     {
-      "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+      "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
       "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
       "logo": "kopete.png",
-      "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+      "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
       "privacy_url": "",
       "source_url": "http://kopete.kde.org/svnaccess.php",
       "name": "Kopete",
       "tos_url": "",
       "url": "http://kopete.kde.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
       "protocols": [
         "GPG",
         "OTR",
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "description": "Da installare e abilitare su Pidgin/Adium per cifrare le proprie chat.",
+      "description": "Da installare e abilitare su Pidgin per cifrare le proprie chat.",
       "license_url": "http://sourceforge.net/p/otr/pidgin-otr/ci/master/tree/COPYING",
       "logo": "otr.png",
       "notes": "",
@@ -620,16 +620,16 @@
       ]
     },
     {
-      "description": "Programma open source per chat multiprotocollo.",
+      "description": "Programma libero per messaggistica istantanea multiprotocollo.",
       "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
       "logo": "pidgin.png",
-      "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+      "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
       "privacy_url": "",
       "source_url": "http://hg.pidgin.im/pidgin/main/",
       "name": "Pidgin",
       "tos_url": "",
       "url": "https://www.pidgin.im/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
       "protocols": [
         "IRC",
         "OTR",
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+      "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
       "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
       "logo": "tails.png",
       "notes": "",

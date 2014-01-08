@@ -1,5 +1,5 @@
 {
-  "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+  "description": "Cjdns &egrave; un protocollo di rete, un sistema di regole digitali per scambio di messaggi tra computer. \"Invece di permettere agli altri computer di connettersi a te tramite un indirizzo IP che tutti possono usare, cjdns permette ai computer di comunicare solo dopo aver verificato l&#39;un l&#39;altro in modo criptato. ",
   "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
   "logo": "cjdns.png",
   "notes": "",

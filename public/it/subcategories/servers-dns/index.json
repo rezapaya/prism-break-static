@@ -17,7 +17,7 @@
             "name": "Freenet",
             "tos_url": "",
             "url": "https://freenetproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Freenet",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Freenet",
             "protocols": [],
             "categories": [
               {
@@ -75,7 +75,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "GNUnet is a fully free P2P network.",
+            "description": "GNUnet &egrave; una rete P2P completamente libera.",
             "license_url": "https://gnunet.org/svn/gnunet/COPYING",
             "logo": "gnunet.png",
             "notes": "",
@@ -84,7 +84,7 @@
             "name": "GNUnet",
             "tos_url": "",
             "url": "https://gnunet.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNUnet",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNUnet",
             "protocols": [
               "SSL/TLS"
             ],
@@ -158,7 +158,7 @@
             "name": "I2P",
             "tos_url": "",
             "url": "https://www.i2p2.de/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/I2P",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/I2P",
             "protocols": [
               "I2P"
             ],
@@ -223,7 +223,7 @@
             ]
           },
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -404,7 +404,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Tor (precedentemente TOR, acronimo di The Onion Router)[citazione non necessaria] &egrave; un software libero per una navigazione anonima online. Tor indirizza il traffico attraverso una rete libera, mondiale, volontaria, formata da pi&ugrave; di quattromila relay per nascondere la posizione dell&#39;utente da chiunque conduca una sorveglianza della rete o un&#39;analisi del traffico. L&#39;uso di Tor rende pi&ugrave; difficoltoso il tracciamento dell&#39;attivit&agrave; online, incluse \"le visite ai siti, i post online, i messaggi istantanei e altre forme di comunicazione\", ed &egrave; destinato a proteggere la privacy degli utenti, cos&igrave; come la loro libert&agrave; e la capacit&agrave; di condurre attivit&agrave; riservate evitando di essere monitorati.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -413,7 +413,7 @@
             "name": "Tor",
             "tos_url": "",
             "url": "https://www.torproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Tor_%28software%29",
             "protocols": [
               "Tor"
             ],
@@ -486,17 +486,17 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Communication Protocols",
         "slug": "communication-protocols",
         "projects": [
           {
-            "description": "Protocol for realtime decentralized communication and personal data storage.",
+            "description": "Protocollo per comunicazioni decentralizzate in tempo reale e archivizione di dati personali.",
             "license_url": "https://github.com/tent/tentd/blob/master/README.md",
             "logo": "tent.png",
-            "notes": "Tent mentions that it's still in alpha:\n*\"Remember, Tent is still in alpha, so it’s not safe to use with information you would not want to be public and should not be considered reliable.\"*",
+            "notes": "Tent dichiara che &egrave; ancora in alpha:\n*\"Ricorda, Tent &egrave; ancora in alpha, perci&ograve; non &egrave; sicuro da usare con informazioni private e non dovrebbe essere considerato affidabile.\"*",
             "privacy_url": "",
             "source_url": "https://github.com/tent",
             "name": "Tent",
@@ -530,10 +530,10 @@
         "slug": "disk-encryption",
         "projects": [
           {
-            "description": "LUKS is a convenience and ease-of-use layer for use on top of dm-crypt.",
+            "description": "LUKS &egrave; un layer conveniente e semplice da usare con dm-crypt.",
             "license_url": "https://code.google.com/p/cryptsetup/source/browse/COPYING",
             "logo": "luks.png",
-            "notes": "Gentoo maintains [a guide](https://wiki.gentoo.org/wiki/DM-Crypt_LUKS) for dm-crypt with LUKS.\n\nArch Linux also maintains [a guide](https://wiki.archlinux.org/index.php/Dm-crypt_with_LUKS) to dm-crypt with LUKS.\n\ndm-crypt is available for DragonFly BSD.",
+            "notes": "Gentoo ha [una guida](https://wiki.gentoo.org/wiki/DM-Crypt_LUKS) per dm-crypt con LUKS.\n\nAnche Arch Linux mantiene [una guida](https://wiki.archlinux.org/index.php/Dm-crypt_with_LUKS) per dm-crypt con LUKS.\n\ndm-crypt &egrave; disponibile per DragonFly BSD.",
             "privacy_url": "",
             "source_url": "https://code.google.com/p/cryptsetup/source/browse/",
             "name": "cryptsetup",
@@ -577,10 +577,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "File based encryption tool with support for Linux, Mac OS and Windows.",
+            "description": "Strumento di crittografia basato sui file con supporto per Linux, Mac OS e Windows.",
             "license_url": "https://code.google.com/p/encfs/source/browse/trunk/COPYING",
             "logo": "encfs.png",
-            "notes": "EncFS is available for Windows through the \"encfs4win\" port.",
+            "notes": "EncFS &egrave; disponibile per Windows grazie al port \"encfs4win\".",
             "privacy_url": "",
             "source_url": "https://code.google.com/p/encfs/source/browse/#svn%2Ftrunk",
             "name": "encfs",
@@ -644,16 +644,16 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Real-time disk and partition encryption software for multiple platforms.",
+            "description": "Programma multipiattaforma per criptare dischi e partizioni in tempo reale.",
             "license_url": "http://www.truecrypt.org/legal/license",
             "logo": "truecrypt.png",
-            "notes": "While TrueCrypt is open source, it is developed in a closed fashion and may receive less review than a comparably openly developed project. That said, it is still probably the best option for file encryption on Windows and OS X.",
+            "notes": "Sebbene TrueCrypt sia open source, viene sviluppato in modo chiuso e potrebbe essere meno controllato rispetto ad altri progetti open source. Detto questo, si tratta probabilmente ancora della migliore scelta la cifratura dei file su Windows e OS X.",
             "privacy_url": "",
             "source_url": "http://www.truecrypt.org/downloads2",
             "name": "TrueCrypt",
             "tos_url": "",
             "url": "http://www.truecrypt.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/TrueCrypt",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/TrueCrypt",
             "protocols": [],
             "categories": [
               {
@@ -706,14 +706,14 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "DNS",
         "slug": "dns",
         "projects": [
           {
-            "description": "A tool to secure communications between a client and a DNS resolver.",
+            "description": "Strumento per proteggere le comunicazioni tra client e resolver DNS.",
             "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
             "logo": "dnscrypt.png",
             "notes": "",
@@ -740,7 +740,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Sistema DNS distribuito basato sulla tecnologia Bitcoin.",
+            "description": "Sistema DNS distribuito per i domini di primo livello .bit, basato sulla tecnologia Bitcoin.",
             "license_url": "https://github.com/namecoin/namecoin/blob/master/COPYING",
             "logo": "namecoin.png",
             "notes": "",
@@ -806,7 +806,7 @@
         "slug": "file-storage-sync",
         "projects": [
           {
-            "description": "Open source, federated social network.",
+            "description": "Social network open source, federato.",
             "license_url": "https://github.com/buddycloud/buddycloud-server-java/blob/master/LICENSE",
             "logo": "buddycloud.png",
             "notes": "",
@@ -849,7 +849,7 @@
             ]
           },
           {
-            "description": "A personal PaaS you can host, hack and delete",
+            "description": "Una PaaS personale che puoi hostare, hackare ed eliminare",
             "license_url": "https://github.com/mycozycloud/cozy-setup/blob/master/LICENSE",
             "logo": "cozy.png",
             "notes": "",
@@ -989,7 +989,7 @@
             ]
           },
           {
-            "description": "Instantly turn any server into a file sharing platform.",
+            "description": "Trasforma istantaneamente qualsiasi server in una piattaforma di condivisione file.",
             "license_url": "https://github.com/pydio/pydio-core/blob/master/README.md",
             "logo": "pydio.png",
             "notes": "",
@@ -1109,14 +1109,14 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "owncloud.png"
+        "randomLogo": "tahoe-lafs.png"
       },
       {
         "name": "Groupware",
         "slug": "groupware",
         "projects": [
           {
-            "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+            "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
             "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
             "logo": "kolab.png",
             "notes": "",
@@ -1174,7 +1174,7 @@
         "slug": "mail-servers",
         "projects": [
           {
-            "description": "Highly scalable and configurable messaging platform based on the MTA qmail.",
+            "description": "Piattaforma di messaggistica molto scalabile e configurabile basata sull&#39;MTA qmail.",
             "license_url": "http://sourceforge.net/p/indimail/code/ci/master/tree/indimail-1.8.8/doc/COPYING",
             "logo": "indimail.png",
             "notes": "",
@@ -1201,7 +1201,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Install and configure mail server packages automatically in GNU/Linux and BSD.",
+            "description": "Installa e configura pacchetti per mail server automaticamente in GNU/Linux e BSD.",
             "license_url": "https://bitbucket.org/zhb/iredmail/src/25104d946d9531c7f8a423183cc3d3325eedb23f/iRedMail/README?at=default",
             "logo": "iredmail.png",
             "notes": "",
@@ -1228,7 +1228,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Groupware solution for email, files, calendars, address books and mobile sync.",
+            "description": "Software collaborativi per email, file, calendari, rubriche e sincronizzazione mobile.",
             "license_url": "http://git.kolab.org/kolab-wap/tree/doc/LICENSE",
             "logo": "kolab.png",
             "notes": "",
@@ -1288,7 +1288,7 @@
         "slug": "mail-transfer-agents",
         "projects": [
           {
-            "description": "MTA used on approximately 43% of all mail servers&mdash;the default on Debian GNU/Linux.",
+            "description": "MTA usato su circa il 43% di tutti i server email&mdash;predefinito su Debian GNU/Linux.",
             "license_url": "https://github.com/Exim/exim/blob/master/src/LICENCE",
             "logo": "exim.png",
             "notes": "",
@@ -1315,7 +1315,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Easy-to-setup MTA used by approximately 23% of all mail servers.",
+            "description": "MTA facile da configurare usato su circa il 23% di tutti i server email.",
             "license_url": "ftp://ftp.porcupine.org/mirrors/postfix-release/LICENSE",
             "logo": "postfix.png",
             "notes": "",
@@ -1324,7 +1324,7 @@
             "name": "Postfix",
             "tos_url": "",
             "url": "http://www.postfix.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Postfix_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Postfix",
             "protocols": [],
             "categories": [
               {
@@ -1346,17 +1346,17 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "exim.png"
+        "randomLogo": "postfix.png"
       },
       {
         "name": "Media Publishing",
         "slug": "media-publishing",
         "projects": [
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -1407,10 +1407,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Hosting veloce incentrato sulla privacy, per immagini, audio e video.",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Attenzione: MediaCrush include Google Analytics e Google Adsense se non hai l&#39;opzione Do Not Track abilitata.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -1454,7 +1454,7 @@
             "description": "Piattaforma di pubblicazione decentralizzata.",
             "license_url": "https://gitorious.org/mediagoblin/mediagoblin/source/a442823bc1d8bc4946749a036a5460ceea456a9b:COPYING",
             "logo": "mediagoblin.png",
-            "notes": "MediaGoblin does not encrypt any of your data by default.",
+            "notes": "MediaGoblin non cripta alcun dato in modo predefinito.",
             "privacy_url": "",
             "source_url": "https://gitorious.org/mediagoblin/mediagoblin",
             "name": "MediaGoblin",
@@ -1485,16 +1485,16 @@
             ]
           },
           {
-            "description": "Piattaforma di foto-gallery libera.",
+            "description": "Piattaforma di foto-gallery self-hosted.",
             "license_url": "http://piwigo.org/basics/license",
             "logo": "piwigo.png",
-            "notes": "Piwigo does not encrypt any of your data by default.",
+            "notes": "Piwigo non cripta alcun dato in modo predefinito.",
             "privacy_url": "",
             "source_url": "http://piwigo.org/dev/browser",
             "name": "Piwigo",
             "tos_url": "",
             "url": "http://piwigo.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Piwigo",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Piwigo",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1522,13 +1522,13 @@
             "description": "CMS libero per siti/blog.",
             "license_url": "http://wordpress.org/about/license/",
             "logo": "wordpress.png",
-            "notes": "WordPress does not encrypt any of your data by default.\n\nUsing avatars in WordPress will activate Gravatar, which which will send your email address to gravatar.com. Avatars are activated by default and can be turned off under \"Settings > Discussion > Avatars\".\r",
+            "notes": "WordPress non cripta alcun dato in modo predefinito.\n\nL&#39;uso di avatar in WordPress attiver&agrave; Gravatar, che invier&agrave; il tuo indirizzo email a gravatar.com. Gli avatar vengono attivati in modo predefinito, ma possono essere disabilitati andando in \"Impostazioni > Discussione > Avatar\".\r",
             "privacy_url": "http://wordpress.org/about/privacy/",
             "source_url": "http://core.trac.wordpress.org/browser",
             "name": "WordPress",
             "tos_url": "",
             "url": "https://wordpress.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/WordPress",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/WordPress",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1556,7 +1556,7 @@
             "description": "CMS libero per multimedia.",
             "license_url": "http://www.zenphoto.org/pages/licenses",
             "logo": "zenphoto.png",
-            "notes": "Zenphoto does not encrypt any of your data by default.",
+            "notes": "Zenphoto non cripta alcun dato in modo predefinito.",
             "privacy_url": "http://www.zenphoto.org/pages/privacy",
             "source_url": "https://github.com/zenphoto/zenphoto",
             "name": "Zenphoto",
@@ -1602,7 +1602,7 @@
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+            "description": "Byzantium &egrave; una distribuzione live di Linux che offre una mesh network di semplice utilizzo.",
             "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
             "logo": "byzantium.png",
             "notes": "",
@@ -1679,7 +1679,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "Cjdns &egrave; un protocollo di rete, un sistema di regole digitali per scambio di messaggi tra computer. \"Invece di permettere agli altri computer di connettersi a te tramite un indirizzo IP che tutti possono usare, cjdns permette ai computer di comunicare solo dopo aver verificato l&#39;un l&#39;altro in modo criptato. ",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -1746,10 +1746,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Uses mobile phones, computers, and wireless routers to create decentralized mesh networks.",
+            "description": "Usa cellulari, computer e router wireless per creare mesh network decentralizzate.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Fare riferimento al [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -1823,10 +1823,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "A free network that runs over other networks.",
+            "description": "Una rete libera che funziona sopra altre reti.",
             "license_url": "https://github.com/fauno/librevpn/blob/master/LICENSE",
             "logo": "librevpn.png",
-            "notes": "This project is experimental, and the site is in Spanish only.",
+            "notes": "Questo progetto &egrave; sperimentale e il sito &egrave; solo in spagnolo.",
             "privacy_url": "",
             "source_url": "https://github.com/fauno/librevpn",
             "name": "LibreVPN",
@@ -1860,7 +1860,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Free software daemon that uses tunnelling and encryption to create a secure private network",
+            "description": "Software demone libero che usa il tunnelling e la cifratura pre creare una rete privata sicura.",
             "license_url": "http://tinc-vpn.org/git/browse?p=tinc;a=blob;f=COPYING.README;h=2eb9c1facc212244a4103f9f9b81149c6f6a9d44;hb=HEAD",
             "logo": "tinc.png",
             "notes": "",
@@ -1922,14 +1922,14 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "librevpn.png"
       },
       {
         "name": "Operating Systems",
         "slug": "operating-systems",
         "projects": [
           {
-            "description": "arkOS is a lightweight software stack that runs on a Raspberry Pi to securely self-host your websites, email, files and more.",
+            "description": "arkOS &egrave; un sistema operativo leggero per Raspberry Pi per ospitare in modo sicuro i tuoi siti, email, file e altro.",
             "license_url": "https://github.com/cznweb/genesis/blob/master/LICENSE",
             "logo": "arkos.png",
             "notes": "",
@@ -1960,7 +1960,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Enterprise class computing platform with 100% binary compatbility with RHEL.",
+            "description": "Piattaforma informatica di classe enterprise compatibile al 100% con RHEL.",
             "license_url": "http://mirror.centos.org/centos/6/os/x86_64/GPL",
             "logo": "centos.png",
             "notes": "",
@@ -1969,7 +1969,7 @@
             "name": "CentOS",
             "tos_url": "",
             "url": "https://www.centos.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/CentOS",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/CentOS",
             "protocols": [],
             "categories": [
               {
@@ -1996,7 +1996,7 @@
             "name": "Debian",
             "tos_url": "",
             "url": "http://debian.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Debian",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Debian",
             "protocols": [],
             "categories": [
               {
@@ -2044,7 +2044,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "DragonFly BSD is a free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
+            "description": "DragonFly BSD &egrave; un sistema operativo libero Unix-like creato come fork di FreeBSD 4.8. Matthew Dillon, sviluppatore Amiga tra fine anni &#39;80 e inizio anni &#39;90 e sviluppatore FreeBSD tra il 1994 e il 2003, inizi&ograve; a lavorare a DragonFly BSD nel giugno 2003 e lo annunci&ograve; nella mailing list di FreeBSD il 16 luglio 2003.",
             "license_url": "https://www.dragonflybsd.org/docs/developer/DragonFly_BSD_License/",
             "logo": "dragonfly-bsd.png",
             "notes": "",
@@ -2053,7 +2053,7 @@
             "name": "DragonFly BSD",
             "tos_url": "",
             "url": "https://www.dragonflybsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/PC-BSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/PC-BSD",
             "protocols": [],
             "categories": [
               {
@@ -2101,7 +2101,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "A free BSD-derived operating system.",
+            "description": "Un sistema operativo libero derivato da BSD.",
             "license_url": "https://www.freebsd.org/copyright/freebsd-license.html",
             "logo": "freebsd.png",
             "notes": "",
@@ -2110,7 +2110,7 @@
             "name": "FreeBSD",
             "tos_url": "",
             "url": "https://www.freebsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreeBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreeBSD",
             "protocols": [],
             "categories": [
               {
@@ -2158,7 +2158,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "FreedomBox integra protezioni per la privacy per server personali basati su software libero.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -2167,7 +2167,7 @@
             "name": "FreedomBox",
             "tos_url": "",
             "url": "https://www.freedomboxfoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreedomBox",
             "protocols": [
               "GPG",
               "TOR",
@@ -2206,7 +2206,7 @@
             ]
           },
           {
-            "description": "NetBSD is an open-source Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
+            "description": "NetBSD &egrave; un sistema operativo Unix-like open source che discende dalla Berkeley Software Distribution (BSD), una derivata di Unix sviluppata nell&#39;Universit&agrave; della California, Berkeley. &Egrave; stato il secondo discendente BSD open source ad essere pubblicato ufficialmente, dopo 386BSD, e il suo sviluppo continua tuttora. Il progetto NetBSD &egrave; incentrato principalmente su un design accattivante, stabilit&agrave; e prestazioni del sistema. ",
             "license_url": "https://www.netbsd.org/about/redistribution.html",
             "logo": "netbsd.png",
             "notes": "",
@@ -2215,7 +2215,7 @@
             "name": "NetBSD",
             "tos_url": "",
             "url": "https://www.netbsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/NetBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/NetBSD",
             "protocols": [],
             "categories": [
               {
@@ -2263,7 +2263,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "A secure BSD operating system.",
+            "description": "Un sistema operativo BSD sicuro.",
             "license_url": "http://openbsd.org/policy.html",
             "logo": "openbsd.png",
             "notes": "",
@@ -2272,7 +2272,7 @@
             "name": "OpenBSD",
             "tos_url": "",
             "url": "http://openbsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenBSD",
             "protocols": [],
             "categories": [
               {
@@ -2319,7 +2319,7 @@
             "name": "OpenSUSE",
             "tos_url": "https://en.opensuse.org/Terms_of_site",
             "url": "https://www.opensuse.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenSUSE",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenSUSE",
             "protocols": [],
             "categories": [
               {
@@ -2367,7 +2367,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Scientific Linux (SL) is a Linux distribution produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN). ",
+            "description": "Scientific Linux (SL) &egrave; una distribuzione Linux prodotta dal Fermi National Accelerator Laboratory (Fermilab) e l&#39;Organizzazione Europea per la Ricerca Nucleare (CERN). ",
             "license_url": "https://www.scientificlinux.org/documentation/faq/legal",
             "logo": "scientific-linux.png",
             "notes": "",
@@ -2376,7 +2376,7 @@
             "name": "Scientific Linux",
             "tos_url": "",
             "url": "https://www.scientificlinux.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_Linux",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Scientific_Linux",
             "protocols": [],
             "categories": [
               {
@@ -2394,7 +2394,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Simple distro based on CentOS with preconfigured mail, file sharing, web server, and more.",
+            "description": "Semplice distribuzione basata su CentOS con email preconfigurata, condivisione file, web server e altro.",
             "license_url": "http://wiki.contribs.org/SME_Server:Documentation:Developers_Manual:Chapter14#Configuring_your_development_environment",
             "logo": "sme-server.png",
             "notes": "",
@@ -2403,7 +2403,7 @@
             "name": "SME Server",
             "tos_url": "",
             "url": "http://wiki.contribs.org/Main_Page",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/SME_Server",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/SME_Server",
             "protocols": [],
             "categories": [
               {
@@ -2421,7 +2421,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Personal distribution based on Debian with preconfigured mail, IM, and web server.",
+            "description": "Distribuzione personale basata su Debian con email, messaggistica istantanea e server web preconfigurati.",
             "license_url": "https://github.com/YunoHost/admin_v1/blob/master/LICENCE",
             "logo": "yunohost.png",
             "notes": "",
@@ -2462,14 +2462,14 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "scientific-linux.png"
       },
       {
         "name": "Productivity",
         "slug": "productivity",
         "projects": [
           {
-            "description": "A free securely-hosted online poll, with a privacy-enhanced version.",
+            "description": "Un sito per sondaggi libero e sicuro, con una versione dedicata alla privacy.",
             "license_url": "https://dudle.inf.tu-dresden.de/about.cgi",
             "logo": "dudle.png",
             "notes": "",
@@ -2509,7 +2509,7 @@
             "description": "Server per fogli di calcolo multi-utente.",
             "license_url": "https://github.com/audreyt/ethercalc/blob/master/LICENSE.txt",
             "logo": "ethercalc.png",
-            "notes": "The EtherCalc service does not encrypt your data transmission with HTTPS, and there's no privacy policy regarding what is done with your data either. Download and run your own EtherCalc server if you care about privacy.",
+            "notes": "Il servizio EtherCalc non cripta la trasmissione dei dati  con HTTPS e non si trova alcuna politica sulla privacy su ci&ograve; che fanno con i tuoi dati. Scarica e gestisci un server EtherCalc personale se ci tieni alla privacy.",
             "privacy_url": "",
             "source_url": "https://github.com/audreyt/ethercalc",
             "name": "EtherCalc",
@@ -2543,10 +2543,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Sistema open source per documenti collaborativi in real-time.",
+            "description": "Sistema autogestito per documenti collaborativi in tempo reale.",
             "license_url": "https://github.com/ether/etherpad-lite/blob/develop/LICENSE",
             "logo": "etherpad.png",
-            "notes": "The etherpad project maintains a list of [sites that run etherpad services](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Please only choose from the services that use SSL, and research the site's background before trusting them with your data.",
+            "notes": "Il progetto etherpad mantiene una lista di [siti che ospitano servizi etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Si consiglia di scegliere solo servizi che usano SSL e controllare la storia del sito prima di affidare loro i tuoi dati.",
             "privacy_url": "",
             "source_url": "https://github.com/ether/etherpad-lite",
             "name": "Etherpad",
@@ -2592,14 +2592,14 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
         "slug": "raspberry-pi",
         "projects": [
           {
-            "description": "arkOS is a lightweight software stack that runs on a Raspberry Pi to securely self-host your websites, email, files and more.",
+            "description": "arkOS &egrave; un sistema operativo leggero per Raspberry Pi per ospitare in modo sicuro i tuoi siti, email, file e altro.",
             "license_url": "https://github.com/cznweb/genesis/blob/master/LICENSE",
             "logo": "arkos.png",
             "notes": "",
@@ -2630,7 +2630,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "FreedomBox integra protezioni per la privacy per server personali basati su software libero.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -2639,7 +2639,7 @@
             "name": "FreedomBox",
             "tos_url": "",
             "url": "https://www.freedomboxfoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreedomBox",
             "protocols": [
               "GPG",
               "TOR",
@@ -2682,14 +2682,14 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "freedombox.png"
       },
       {
         "name": "SIP Servers",
         "slug": "sip-servers",
         "projects": [
           {
-            "description": "PBX implementation with VoIP/SIP support.",
+            "description": "Implementazione PBX con supporto VoIP/SIP.",
             "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
             "logo": "asterisk.png",
             "notes": "",
@@ -2698,7 +2698,7 @@
             "name": "Asterisk",
             "tos_url": "",
             "url": "http://www.asterisk.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
             "protocols": [
               "SIP",
               "VoIP"
@@ -2728,7 +2728,7 @@
             ]
           },
           {
-            "description": "Cross-platform soft switch software with VoIP/SIP support.",
+            "description": "Software softswitch multipiattaforma con supporto VoIP/SIP.",
             "license_url": "http://fisheye.freeswitch.org/browse/freeswitch.git/docs/COPYING?hb=true",
             "logo": "freeswitch.png",
             "notes": "",
@@ -2767,7 +2767,7 @@
             ]
           },
           {
-            "description": "Open source VoIP/SIP server.",
+            "description": "Server VoIP/SIP open source.",
             "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
             "logo": "kamailio.png",
             "notes": "",
@@ -2823,7 +2823,7 @@
         "slug": "social-networks",
         "projects": [
           {
-            "description": "Open source, federated social network.",
+            "description": "Social network open source, federato.",
             "license_url": "https://github.com/buddycloud/buddycloud-server-java/blob/master/LICENSE",
             "logo": "buddycloud.png",
             "notes": "",
@@ -2875,7 +2875,7 @@
             "name": "diaspora*",
             "tos_url": "",
             "url": "https://diasporafoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
             "protocols": [
               "SSL/TLS"
             ],
@@ -2910,7 +2910,7 @@
             ]
           },
           {
-            "description": "Web server sociale libero, open source e distribuito.",
+            "description": "Software per social network libero, open source e distribuito.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -2919,7 +2919,7 @@
             "name": "friendica",
             "tos_url": "",
             "url": "http://friendica.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
             "protocols": [
               "RSS",
               "SSL/TLS",
@@ -3071,7 +3071,7 @@
             ]
           },
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -3213,13 +3213,13 @@
             ]
           },
           {
-            "description": "Strumento di comunicazione multi-frontend e multipurpose.",
+            "description": "Strumento di comunicazione multi-frontend e polivalente.",
             "license_url": "http://repos.goffi.org/sat/file/6aa71c853bf5/COPYING",
             "logo": "sat.png",
             "notes": "",
             "privacy_url": "",
             "source_url": "http://sat.goffi.org/developers.html",
-            "name": "Salut à Toi",
+            "name": "Salut &agrave; Toi",
             "tos_url": "",
             "url": "http://sat.goffi.org/",
             "wikipedia_url": "",
@@ -3239,7 +3239,7 @@
                 "slug": "servers"
               }
             ],
-            "slug": "salut-a-toi",
+            "slug": "salut-agrave-toi",
             "protocolsSlugged": [
               {
                 "name": "SSL/TLS",
@@ -3337,14 +3337,14 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnu-social.png"
       },
       {
         "name": "Video & Voice",
         "slug": "video-voice",
         "projects": [
           {
-            "description": "Chat vocale cifrata e a bassa latenza.",
+            "description": "Chat vocale cifrata multiutente e a bassa latenza.",
             "license_url": "http://mumble.sourceforge.net/License",
             "logo": "mumble.png",
             "notes": "",
@@ -3353,7 +3353,7 @@
             "name": "Mumble",
             "tos_url": "",
             "url": "http://mumble.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
             "protocols": [
               "VoIP",
               "ZRTP"
@@ -3453,7 +3453,7 @@
         "slug": "vpn-servers",
         "projects": [
           {
-            "description": "Free software VPN client (3rd generation) derived from Openswan.",
+            "description": "Client VPN libero (terza generazione) derivato da Openswan.",
             "license_url": "https://github.com/libreswan/libreswan/blob/master/COPYING",
             "logo": "libreswan.png",
             "notes": "",
@@ -3480,7 +3480,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Free software VPN client derived from FreeS/WAN.",
+            "description": "Client VPN libero derivato da FreeS/WAN.",
             "license_url": "https://github.com/xelerance/Openswan/blob/master/COPYING",
             "logo": "openswan.png",
             "notes": "",
@@ -3507,7 +3507,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -3516,7 +3516,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -3601,7 +3601,7 @@
             ]
           },
           {
-            "description": "Free software VPN client derived from FreeS/WAN.",
+            "description": "Client VPN libero derivato da FreeS/WAN.",
             "license_url": "http://git.strongswan.org/?p=strongswan.git;a=blob;f=COPYING;h=d159169d1050894d3ea3b98e1c965c4058208fe1;hb=HEAD",
             "logo": "strongswan.png",
             "notes": "",
@@ -3628,7 +3628,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Free software daemon that uses tunnelling and encryption to create a secure private network",
+            "description": "Software demone libero che usa il tunnelling e la cifratura pre creare una rete privata sicura.",
             "license_url": "http://tinc-vpn.org/git/browse?p=tinc;a=blob;f=COPYING.README;h=2eb9c1facc212244a4103f9f9b81149c6f6a9d44;hb=HEAD",
             "logo": "tinc.png",
             "notes": "",
@@ -3690,14 +3690,14 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openswan.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
         "slug": "web-analytics",
         "projects": [
           {
-            "description": "Alternative open source web analytics.",
+            "description": "Statistiche web open source.",
             "license_url": "http://wiki.openwebanalytics.com/index.php?title=License",
             "logo": "open-web-analytics.png",
             "notes": "",
@@ -3724,7 +3724,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Analisi web self-hosted e open source.",
+            "description": "Statistiche web self-hosted e open source.",
             "license_url": "https://github.com/piwik/piwik/blob/master/LEGALNOTICE",
             "logo": "piwik.png",
             "notes": "",
@@ -3733,7 +3733,7 @@
             "name": "Piwik",
             "tos_url": "",
             "url": "https://piwik.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Piwik",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Piwik",
             "protocols": [],
             "categories": [
               {
@@ -3762,7 +3762,7 @@
         "slug": "xmpp-servers",
         "projects": [
           {
-            "description": "XMPP server written in Erlang/OTP for GNU/Linux and OS X.",
+            "description": "Server XMPP scritto in Erlang/OTP per GNU/Linux e OS X.",
             "license_url": "https://github.com/processone/ejabberd/blob/master/COPYING",
             "logo": "ejabberd.png",
             "notes": "",
@@ -3771,7 +3771,7 @@
             "name": "ejabberd",
             "tos_url": "",
             "url": "http://www.ejabberd.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Ejabberd",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Ejabberd",
             "protocols": [
               "XMPP"
             ],
@@ -3796,7 +3796,7 @@
             ]
           },
           {
-            "description": "XMPP server based on Prosody, with advanced management/microblogging features.",
+            "description": "Server XMPP basato su Prosody, con gestione avanzata/funzioni di microblogging.",
             "license_url": "https://code.lightwitch.org/metronome/file/f9f76843539a/COPYING",
             "logo": "metronome.png",
             "notes": "",
@@ -3830,7 +3830,7 @@
             ]
           },
           {
-            "description": "Cross-platform XMPP server written in Java.",
+            "description": "Server XMPP multipiattaforma scritto in Java.",
             "license_url": "http://fisheye.igniterealtime.org/browse/openfire/trunk/documentation/docs/licenses",
             "logo": "openfire.png",
             "notes": "",
@@ -3864,7 +3864,7 @@
             ]
           },
           {
-            "description": "Flexible lightweight XMPP server written in Lua.",
+            "description": "Server XMPP flessibile e leggero, scritto in Lua.",
             "license_url": "https://hg.prosody.im/trunk/file/b3d5aa57c454/COPYING",
             "logo": "prosody.png",
             "notes": "",
@@ -3898,7 +3898,7 @@
             ]
           },
           {
-            "description": "Cross-platform XMPP server written in Java.",
+            "description": "Server XMPP multipiattaforma scritto in Java.",
             "license_url": "https://projects.tigase.org/projects/tigase-server/repository/revisions/master/changes/COPYING",
             "logo": "tigase.png",
             "notes": "",
@@ -3948,7 +3948,7 @@
     "slug": "dns",
     "projects": [
       {
-        "description": "A tool to secure communications between a client and a DNS resolver.",
+        "description": "Strumento per proteggere le comunicazioni tra client e resolver DNS.",
         "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
         "logo": "dnscrypt.png",
         "notes": "",
@@ -3975,7 +3975,7 @@
         "protocolsSlugged": []
       },
       {
-        "description": "Sistema DNS distribuito basato sulla tecnologia Bitcoin.",
+        "description": "Sistema DNS distribuito per i domini di primo livello .bit, basato sulla tecnologia Bitcoin.",
         "license_url": "https://github.com/namecoin/namecoin/blob/master/COPYING",
         "logo": "namecoin.png",
         "notes": "",
@@ -4038,7 +4038,7 @@
   },
   "projects": [
     {
-      "description": "A tool to secure communications between a client and a DNS resolver.",
+      "description": "Strumento per proteggere le comunicazioni tra client e resolver DNS.",
       "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
       "logo": "dnscrypt.png",
       "notes": "",
@@ -4065,7 +4065,7 @@
       "protocolsSlugged": []
     },
     {
-      "description": "Sistema DNS distribuito basato sulla tecnologia Bitcoin.",
+      "description": "Sistema DNS distribuito per i domini di primo livello .bit, basato sulla tecnologia Bitcoin.",
       "license_url": "https://github.com/namecoin/namecoin/blob/master/COPYING",
       "logo": "namecoin.png",
       "notes": "",

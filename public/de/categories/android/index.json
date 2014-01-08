@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2013,7 +2013,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",

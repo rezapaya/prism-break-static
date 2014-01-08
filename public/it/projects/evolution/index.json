@@ -1,5 +1,5 @@
 {
-  "description": "Client email e calendario libero.",
+  "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
   "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
   "logo": "evolution.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Evolution",
   "tos_url": "",
   "url": "https://projects.gnome.org/evolution/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
   "protocols": [
     "CalDAV",
     "GPG",

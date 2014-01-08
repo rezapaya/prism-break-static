@@ -1,5 +1,5 @@
 {
-  "description": "Flexible lightweight XMPP server written in Lua.",
+  "description": "Server XMPP flessibile e leggero, scritto in Lua.",
   "license_url": "https://hg.prosody.im/trunk/file/b3d5aa57c454/COPYING",
   "logo": "prosody.png",
   "notes": "",

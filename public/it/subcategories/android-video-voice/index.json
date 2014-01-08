@@ -8,7 +8,7 @@
         "slug": "anonymizing-networks",
         "projects": [
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -116,7 +116,7 @@
             ]
           },
           {
-            "description": "Sevizio proxy Tor per Android.",
+            "description": "Tutte le caratteristiche e funzionalit&agrave; di Tor per Android.",
             "license_url": "https://gitweb.torproject.org/orbot.git/blob/HEAD:/LICENSE",
             "logo": "orbot.png",
             "notes": "",
@@ -161,7 +161,7 @@
         "slug": "app-store",
         "projects": [
           {
-            "description": "Applicazioni libere e open source per Android.",
+            "description": "Alternativa libera e open source allo store Google Play per Android.",
             "license_url": "https://f-droid.org/about/",
             "logo": "f-droid.png",
             "notes": "",
@@ -198,7 +198,7 @@
         "slug": "email-clients",
         "projects": [
           {
-            "description": "Open source email app for Android with PGP support.",
+            "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
             "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
             "logo": "k9-mail.png",
             "notes": "",
@@ -252,7 +252,7 @@
         "slug": "email-encryption",
         "projects": [
           {
-            "description": "OpenPGP implementation for Android.",
+            "description": "Implementazione OpenPGP per Android.",
             "license_url": "https://github.com/thialfihar/apg/blob/master/AndroidManifest.xml",
             "logo": "apg.png",
             "notes": "",
@@ -286,7 +286,7 @@
             ]
           },
           {
-            "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+            "description": "Un port per Android dell&#39;intera suite GnuPG 2.1 .\n\nGnu Privacy Guard (GPG) ti d&agrave; accesso all&#39;intera suite di crittografia GnuPG. GnuPG &egrave; lo strumento di GNU per comunicazioni e memorizzazione di dati in modo sicuro. Questo protocollo fidato &egrave; l&#39;alternativa libera a PGP. GnuPG 2.1 &egrave; la nuova versione modulare di GnuPG che ora supporta OpenPGP e S/MIME.",
             "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
             "logo": "gnupg-for-android.png",
             "notes": "",
@@ -325,10 +325,10 @@
             ]
           },
           {
-            "description": "OpenPGP Keychain is an OpenPGP implementation for Android.",
+            "description": "OpenPGP Keychain &egrave; un&#39;implementazione OpenPGP per Android.",
             "license_url": "https://github.com/dschuermann/openpgp-keychain/blob/master/LICENSE",
             "logo": "openpgp-keychain.png",
-            "notes": "OpenPGP Keychain is EXPERIMENTAL software. Use at your own risk!\r",
+            "notes": "OpenPGP Keychain &egrave; un software SPERIMENTALE. Usare a proprio rischio!\r",
             "privacy_url": "",
             "source_url": "https://github.com/dschuermann/openpgp-keychain",
             "name": "OpenPGP Keychain",
@@ -455,7 +455,7 @@
         "slug": "finance",
         "projects": [
           {
-            "description": "Valuta digitale P2P senza un'autorit&agrave; centrale.",
+            "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
             "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
             "logo": "bitcoin.png",
             "notes": "",
@@ -464,7 +464,7 @@
             "name": "Bitcoin",
             "tos_url": "",
             "url": "http://bitcoin.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
             "protocols": [],
             "categories": [
               {
@@ -542,7 +542,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Litecoin (simbolo : Ł ; codice : LTC) &egrave; una criptovaluta peer-to-peer e progetto open source pubblicato con licenza MIT/X11. Ispirato e tecnicamente quasi identico a Bitcoin (BTC), la creazione e il trasferimento di Litecoin sono basati su un protocollo open source e non sono gestiti da un&#39;autorit&agrave; centrale. Litecoin &egrave;, secondo i suoi sviluppatori, progettato per migliorare Bitcoin e offre tre differenze chiave.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "",
@@ -643,7 +643,7 @@
             "description": "Messaggistica cifrata per iOS.",
             "license_url": "https://github.com/guardianproject/ChatSecureAndroid/blob/master/LICENSE",
             "logo": "chatsecure.png",
-            "notes": "The Guardian Project hosts <a href='https://guardianproject.info/howto/chatsecurely/'>a fantastic how-to guide</a> to chatting securely on Android.",
+            "notes": "The Guardian Project ha <a href='https://guardianproject.info/howto/chatsecurely/'>un&#39;ottima guida</a> per chattare in sicurezza con Android.",
             "privacy_url": "",
             "source_url": "https://github.com/guardianproject/ChatSecureAndroid",
             "name": "ChatSecure",
@@ -737,8 +737,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -905,14 +905,14 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Mesh Networks",
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "Cjdns &egrave; un protocollo di rete, un sistema di regole digitali per scambio di messaggi tra computer. \"Invece di permettere agli altri computer di connettersi a te tramite un indirizzo IP che tutti possono usare, cjdns permette ai computer di comunicare solo dopo aver verificato l&#39;un l&#39;altro in modo criptato. ",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -979,10 +979,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Uses mobile phones, computers, and wireless routers to create decentralized mesh networks.",
+            "description": "Usa cellulari, computer e router wireless per creare mesh network decentralizzate.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Fare riferimento al [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1076,7 +1076,7 @@
             "name": "CyanogenMod",
             "tos_url": "http://www.cyanogenmod.org/docs/terms",
             "url": "http://www.cyanogenmod.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/CyanogenMod",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/CyanogenMod",
             "protocols": [],
             "categories": [
               {
@@ -1104,7 +1104,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Firefox OS is a free open-source operating system for Android-compatible smartphones and tablet computers.",
+            "description": "Sistema operativo libero e open source per dispositivi compatibili con Android.",
             "license_url": "https://www.mozilla.org/en-US/foundation/licensing/",
             "logo": "mozilla-firefox.png",
             "notes": "",
@@ -1112,8 +1112,8 @@
             "source_url": "https://github.com/mozilla-b2g",
             "name": "Firefox OS",
             "tos_url": "",
-            "url": "https://www.mozilla.org/en-US/firefox/os/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox_OS",
+            "url": "https://www.mozilla.org/it/firefox/os/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Firefox_OS",
             "protocols": [],
             "categories": [
               {
@@ -1141,7 +1141,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Distribuzione Android completamente libera.",
+            "description": "Distribuzione Android completamente libera basata su CyanogenMod.",
             "license_url": "http://replicant.us/about/",
             "logo": "replicant.png",
             "notes": "",
@@ -1190,7 +1190,7 @@
         "slug": "social-networks",
         "projects": [
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -1356,8 +1356,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -1474,7 +1474,7 @@
             ]
           },
           {
-            "description": "Chat vocale cifrata e a bassa latenza.",
+            "description": "Chat vocale cifrata multiutente e a bassa latenza.",
             "license_url": "http://mumble.sourceforge.net/License",
             "logo": "mumble.png",
             "notes": "",
@@ -1483,7 +1483,7 @@
             "name": "Mumble",
             "tos_url": "",
             "url": "http://mumble.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
             "protocols": [
               "VoIP",
               "ZRTP"
@@ -1578,14 +1578,14 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
         "slug": "vpn-clients",
         "projects": [
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -1594,7 +1594,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1689,7 +1689,7 @@
         "slug": "web-browser-addons",
         "projects": [
           {
-            "description": "Blocca il tracciamento dati di siti di terze parti.",
+            "description": "Blocca il tracciamento invisibile dei siti e delle ricerche in rete.",
             "license_url": "https://github.com/disconnectme/disconnect/blob/master/README.markdown",
             "logo": "disconnect.png",
             "notes": "",
@@ -1756,15 +1756,15 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Automatically delete cookies and local storage when they are no longer used by open browser tabs.",
-            "license_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/file/LICENSE",
+            "description": "Elimina automaticamente i cookie e il LocalStorage quando non vengono pi&ugrave; usati dalle schede aperte del browser.",
+            "license_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/file/LICENSE",
             "logo": "self-destructing-cookies.png",
-            "notes": "Only works with Firefox version 24 and above.\n\n The Android version is [available here](https://addons.mozilla.org/en-US/android/addon/self-destructing-cookies/).",
+            "notes": "Funziona solo con le versione 24 di Firefox e superiori.\n\n La verione per Android &egrave; [disponibile qui](https://addons.mozilla.org/it/android/addon/self-destructing-cookies/).",
             "privacy_url": "",
-            "source_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/",
+            "source_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/",
             "name": "Self-Destructing Cookies",
             "tos_url": "",
-            "url": "https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/",
+            "url": "https://addons.mozilla.org/it/firefox/addon/self-destructing-cookies/",
             "wikipedia_url": "",
             "protocols": [],
             "categories": [
@@ -1834,16 +1834,16 @@
         "slug": "web-browsers",
         "projects": [
           {
-            "description": "Browser internet open source.",
+            "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+            "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
             "url": "https://mozilla.org/firefox",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Firefox",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1918,7 +1918,7 @@
         "slug": "world-maps",
         "projects": [
           {
-            "description": "OsmAnd (OSM Automated Navigation Directions) is a map and navigation app that uses OpenStreetMap data.",
+            "description": "OsmAnd (OSM Automated Navigation Directions) &egrave; un&#39;applicazione per mappe e navigazione che usa i dati di OpenStreetMap.",
             "license_url": "https://github.com/osmandapp/Osmand/blob/master/LICENSE",
             "logo": "osmand.png",
             "notes": "",
@@ -1927,7 +1927,7 @@
             "name": "OsmAnd",
             "tos_url": "",
             "url": "http://osmand.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OsmAnd",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OsmAnd",
             "protocols": [],
             "categories": [
               {
@@ -2005,8 +2005,8 @@
         ]
       },
       {
-        "description": "Client per VoIP e videoconferenze cifrate.",
-        "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+        "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+        "license_url": "http://www.linphone.org/eng/linphone/license.html",
         "logo": "linphone.png",
         "notes": "",
         "privacy_url": "",
@@ -2123,7 +2123,7 @@
         ]
       },
       {
-        "description": "Chat vocale cifrata e a bassa latenza.",
+        "description": "Chat vocale cifrata multiutente e a bassa latenza.",
         "license_url": "http://mumble.sourceforge.net/License",
         "logo": "mumble.png",
         "notes": "",
@@ -2132,7 +2132,7 @@
         "name": "Mumble",
         "tos_url": "",
         "url": "http://mumble.sourceforge.net/",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
         "protocols": [
           "VoIP",
           "ZRTP"
@@ -2227,7 +2227,7 @@
       "linphone.png",
       "mumble.png"
     ],
-    "randomLogo": "csipsimple.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {
@@ -2279,8 +2279,8 @@
       ]
     },
     {
-      "description": "Client per VoIP e videoconferenze cifrate.",
-      "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+      "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+      "license_url": "http://www.linphone.org/eng/linphone/license.html",
       "logo": "linphone.png",
       "notes": "",
       "privacy_url": "",
@@ -2397,7 +2397,7 @@
       ]
     },
     {
-      "description": "Chat vocale cifrata e a bassa latenza.",
+      "description": "Chat vocale cifrata multiutente e a bassa latenza.",
       "license_url": "http://mumble.sourceforge.net/License",
       "logo": "mumble.png",
       "notes": "",
@@ -2406,7 +2406,7 @@
       "name": "Mumble",
       "tos_url": "",
       "url": "http://mumble.sourceforge.net/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
       "protocols": [
         "VoIP",
         "ZRTP"

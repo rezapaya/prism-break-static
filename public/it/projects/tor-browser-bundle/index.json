@@ -1,8 +1,8 @@
 {
-  "description": "Navigazione anonima e criptata.",
+  "description": "Navigazione anonima e criptata grazie alla rete Tor.",
   "license_url": "https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE",
   "logo": "tor-browser-bundle.png",
-  "notes": "Using the TBB to sign into websites that contain your real ID is counterproductive, and may trip the site's fraud protection. Make sure to check for HTTPS before signing in to a website through Tor.\n\nSigning into HTTP websites can result in your ID being captured by a Tor exit node.",
+  "notes": "Usare TBB per accedere a siti che contengono la tua vera identit&agrave; &egrave; controproducente e pu&ograve; far saltare la protezione contro le frodi del sito. Accertati di una connessione HTTPS prima di accedere ad un sito con Tor.\n\nAccedere ai siti in HTTP pu&ograve; portare alla rilevazione della tua identit&agrave; da un nodo di uscita di Tor.",
   "privacy_url": "https://www.torproject.org/about/overview.html.en",
   "source_url": "https://gitweb.torproject.org/tor.git",
   "name": "Tor Browser Bundle",

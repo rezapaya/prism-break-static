@@ -1,14 +1,14 @@
 {
-  "description": "Browser internet open source.",
+  "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
   "license_url": "https://www.mozilla.org/MPL/",
   "logo": "mozilla-firefox.png",
-  "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+  "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
   "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-  "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+  "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
   "name": "Mozilla Firefox",
   "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
   "url": "https://mozilla.org/firefox",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Firefox",
   "protocols": [
     "SSL/TLS"
   ],

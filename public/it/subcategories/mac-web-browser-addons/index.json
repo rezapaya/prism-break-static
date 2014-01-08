@@ -17,7 +17,7 @@
             "name": "Freenet",
             "tos_url": "",
             "url": "https://freenetproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Freenet",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Freenet",
             "protocols": [],
             "categories": [
               {
@@ -75,7 +75,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "GNUnet is a fully free P2P network.",
+            "description": "GNUnet &egrave; una rete P2P completamente libera.",
             "license_url": "https://gnunet.org/svn/gnunet/COPYING",
             "logo": "gnunet.png",
             "notes": "",
@@ -84,7 +84,7 @@
             "name": "GNUnet",
             "tos_url": "",
             "url": "https://gnunet.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNUnet",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNUnet",
             "protocols": [
               "SSL/TLS"
             ],
@@ -158,7 +158,7 @@
             "name": "I2P",
             "tos_url": "",
             "url": "https://www.i2p2.de/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/I2P",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/I2P",
             "protocols": [
               "I2P"
             ],
@@ -223,7 +223,7 @@
             ]
           },
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -404,7 +404,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Tor (precedentemente TOR, acronimo di The Onion Router)[citazione non necessaria] &egrave; un software libero per una navigazione anonima online. Tor indirizza il traffico attraverso una rete libera, mondiale, volontaria, formata da pi&ugrave; di quattromila relay per nascondere la posizione dell&#39;utente da chiunque conduca una sorveglianza della rete o un&#39;analisi del traffico. L&#39;uso di Tor rende pi&ugrave; difficoltoso il tracciamento dell&#39;attivit&agrave; online, incluse \"le visite ai siti, i post online, i messaggi istantanei e altre forme di comunicazione\", ed &egrave; destinato a proteggere la privacy degli utenti, cos&igrave; come la loro libert&agrave; e la capacit&agrave; di condurre attivit&agrave; riservate evitando di essere monitorati.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -413,7 +413,7 @@
             "name": "Tor",
             "tos_url": "",
             "url": "https://www.torproject.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Tor_%28software%29",
             "protocols": [
               "Tor"
             ],
@@ -486,17 +486,17 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Disk Encryption",
         "slug": "disk-encryption",
         "projects": [
           {
-            "description": "File based encryption tool with support for Linux, Mac OS and Windows.",
+            "description": "Strumento di crittografia basato sui file con supporto per Linux, Mac OS e Windows.",
             "license_url": "https://code.google.com/p/encfs/source/browse/trunk/COPYING",
             "logo": "encfs.png",
-            "notes": "EncFS is available for Windows through the \"encfs4win\" port.",
+            "notes": "EncFS &egrave; disponibile per Windows grazie al port \"encfs4win\".",
             "privacy_url": "",
             "source_url": "https://code.google.com/p/encfs/source/browse/#svn%2Ftrunk",
             "name": "encfs",
@@ -560,16 +560,16 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Real-time disk and partition encryption software for multiple platforms.",
+            "description": "Programma multipiattaforma per criptare dischi e partizioni in tempo reale.",
             "license_url": "http://www.truecrypt.org/legal/license",
             "logo": "truecrypt.png",
-            "notes": "While TrueCrypt is open source, it is developed in a closed fashion and may receive less review than a comparably openly developed project. That said, it is still probably the best option for file encryption on Windows and OS X.",
+            "notes": "Sebbene TrueCrypt sia open source, viene sviluppato in modo chiuso e potrebbe essere meno controllato rispetto ad altri progetti open source. Detto questo, si tratta probabilmente ancora della migliore scelta la cifratura dei file su Windows e OS X.",
             "privacy_url": "",
             "source_url": "http://www.truecrypt.org/downloads2",
             "name": "TrueCrypt",
             "tos_url": "",
             "url": "http://www.truecrypt.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/TrueCrypt",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/TrueCrypt",
             "protocols": [],
             "categories": [
               {
@@ -621,17 +621,17 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
         "slug": "email-alternatives",
         "projects": [
           {
-            "description": "Encrypted, decentralized P2P messaging service based on Bitcoin technology.",
+            "description": "Servizio di messaggistica P2P criptato e decentralizzato, basato sulla tecnologia Bitcoin.",
             "license_url": "https://github.com/Bitmessage/PyBitmessage/blob/master/LICENSE",
             "logo": "bitmessage.png",
-            "notes": "Bitmessage is a promising alternative to email, but it has not yet been audited by security professionals. Use at your own risk. If you decide to try out Bitmessage, make sure to generate a completely random ID to greatly reduce the probability of ID collisions.",
+            "notes": "Bitmessage &egrave; una promettente alternativa all&#39;email, ma non &egrave; ancora stato revisionato da professionisti di sicurezza. Usare a proprio rischio. Se decidi di provare Bitmessage, assicurati di generare un ID completamente casuale per ridurre notevolmente la possibilit&agrave; di collisioni tra ID.",
             "privacy_url": "",
             "source_url": "https://github.com/Bitmessage/PyBitmessage",
             "name": "Bitmessage",
@@ -682,16 +682,16 @@
             ]
           },
           {
-            "description": "Piattaforma P2P e libera per comunicazioni protette.",
+            "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
             "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
             "logo": "retroshare.png",
-            "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+            "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
             "privacy_url": "",
             "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
             "name": "RetroShare",
             "tos_url": "",
             "url": "http://retroshare.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
             "protocols": [
               "GPG",
               "VoIP"
@@ -794,7 +794,7 @@
         "slug": "email-clients",
         "projects": [
           {
-            "description": "Leggero client email con supporto GnuPG.",
+            "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
             "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
             "logo": "claws-mail.png",
             "notes": "",
@@ -803,7 +803,7 @@
             "name": "Claws Mail",
             "tos_url": "",
             "url": "http://www.claws-mail.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
             "protocols": [
               "GPG",
               "RSS",
@@ -868,16 +868,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -994,7 +994,7 @@
             ]
           },
           {
-            "description": "Lightweight and user-friendly e-mail client.",
+            "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
             "license_url": "https://www.gnu.org/copyleft/gpl.html",
             "logo": "sylpheed.png",
             "notes": "",
@@ -1073,23 +1073,23 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
         "slug": "email-encryption",
         "projects": [
           {
-            "description": "Plugin per Thunderbird/Icedove con supporto OpenPGP.",
+            "description": "Plugin per Thunderbird e Icedove con supporto OpenPGP.",
             "license_url": "http://sourceforge.net/p/enigmail/source/ci/master/tree/genxpi",
             "logo": "enigmail.png",
-            "notes": "[Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.",
+            "notes": "[Qua si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.",
             "privacy_url": "",
             "source_url": "https://www.enigmail.net/download/source.php",
             "name": "Enigmail",
             "tos_url": "",
             "url": "https://www.enigmail.net/home/index.php",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Enigmail",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Enigmail",
             "protocols": [
               "GPG"
             ],
@@ -1144,7 +1144,7 @@
             ]
           },
           {
-            "description": "Implementazione libera di OpenPGP.",
+            "description": "Implementazione libera di OpenPGP per vari programmi, inclusi Thunderbird/Icedove.",
             "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=blob;f=COPYING;h=443254047416efc10bc53cb1adb5421680d5a647;hb=refs/heads/master",
             "logo": "gnupg.png",
             "notes": "",
@@ -1153,7 +1153,7 @@
             "name": "GNU Privacy Guard",
             "tos_url": "",
             "url": "http://www.gnupg.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNU_Privacy_Guard",
             "protocols": [
               "GPG"
             ],
@@ -1208,7 +1208,7 @@
             ]
           },
           {
-            "description": "OpenPGP add-on for Apple OS X Mail.",
+            "description": "Componente aggiuntivo OpenPGP per Apple OS X Mail.",
             "license_url": "https://github.com/GPGTools/MacGPG2/blob/dev/LICENSE.txt",
             "logo": "gpgtools.png",
             "notes": "",
@@ -1242,7 +1242,7 @@
             ]
           },
           {
-            "description": "Cifratura OpenPGP per webmail.",
+            "description": "Strumento di cifratura OpenPGP per webmail.",
             "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
             "logo": "mailvelope.png",
             "notes": "",
@@ -1322,10 +1322,10 @@
             ]
           },
           {
-            "description": "Plugin per l'utilizzo di Thunderbird/Icedove attraverso Tor.",
+            "description": "Componente aggiuntivo di Thunderbird/Icedove per l&#39;utilizzo di Tor.",
             "license_url": "https://github.com/ioerror/torbirdy/blob/master/LICENSE",
             "logo": "torbirdy.png",
-            "notes": " TorBirdy is in beta and should be considered experimental. Please make sure that before using it, you are aware of the known issues and leaks by reading the \"Before using TorBirdy\" and \"Known TorBirdy\" Issues sections on the project website.",
+            "notes": " TorBirdy &egrave; in beta e dovrebbe essere considerato sperimentale. Prima di usarlo assicurati di dare un&#39;occhiata ai problemi conosciuti consultando le sezioni \"Before using TorBirdy\" e \"Known TorBirdy Issues\" sul sito ufficiale.",
             "privacy_url": "",
             "source_url": "https://github.com/ioerror/torbirdy",
             "name": "TorBirdy",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gpgtools.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1474,10 +1474,10 @@
             ]
           },
           {
-            "description": "Secure and private Kolab accounts hosted in Switzerland.",
+            "description": "Account Kolab sicuri e privati mantenuti in Svizzera per 10 CHF mensili.",
             "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
             "logo": "mykolab.png",
-            "notes": "MyKolab is hosted in Switzerland and benefits from the [strong Swiss privacy laws](https://MyKolab.com/privacy). It is run exclusively with free software and using the service supports the development of Kolab. \nAlso, you can export all your data at any time.",
+            "notes": "MyKolab &egrave; situato in Svizzera e trae beneficio dalle [severe leggi sulla privacy svizzere](https://MyKolab.com/privacy). &Egrave; composto esclusivamente da software libero e l&#39;uso del servizio supporta lo sviluppo di Kolab. \nInoltre, puoi esportare tutti i tuoi dati in qualsiasi momento.",
             "privacy_url": "https://mykolab.com/privacy",
             "source_url": "http://git.kolab.org/",
             "name": "MyKolab",
@@ -1573,14 +1573,14 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
         "slug": "finance",
         "projects": [
           {
-            "description": "Valuta digitale P2P senza un'autorit&agrave; centrale.",
+            "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
             "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
             "logo": "bitcoin.png",
             "notes": "",
@@ -1589,7 +1589,7 @@
             "name": "Bitcoin",
             "tos_url": "",
             "url": "http://bitcoin.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
             "protocols": [],
             "categories": [
               {
@@ -1667,7 +1667,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Litecoin (simbolo : Ł ; codice : LTC) &egrave; una criptovaluta peer-to-peer e progetto open source pubblicato con licenza MIT/X11. Ispirato e tecnicamente quasi identico a Bitcoin (BTC), la creazione e il trasferimento di Litecoin sono basati su un protocollo open source e non sono gestiti da un&#39;autorit&agrave; centrale. Litecoin &egrave;, secondo i suoi sviluppatori, progettato per migliorare Bitcoin e offre tre differenze chiave.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "",
@@ -1758,14 +1758,14 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
         "slug": "instant-messaging",
         "projects": [
           {
-            "description": "Programma open source per chat multiprotocollo per OS X.",
+            "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
             "license_url": "https://trac.adium.im/wiki/Development",
             "logo": "adium.png",
             "notes": "",
@@ -1774,7 +1774,7 @@
             "name": "Adium",
             "tos_url": "",
             "url": "https://adium.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
             "protocols": [
               "IRC",
               "OTR",
@@ -1813,7 +1813,7 @@
             ]
           },
           {
-            "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+            "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
             "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
             "logo": "bitlbee.png",
             "notes": "",
@@ -1903,7 +1903,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -1993,10 +1993,10 @@
             ]
           },
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -2074,8 +2074,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -2192,16 +2192,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -2318,7 +2318,7 @@
             ]
           },
           {
-            "description": "Multi-platform IM client for power users with built-in OTR support.",
+            "description": "Client di messaggistica istantanea per utenti avanzati con supporto OTR integrato.",
             "license_url": "https://github.com/psi-plus/main/blob/master/copying-psi.txt",
             "logo": "psi-plus.png",
             "notes": "",
@@ -2327,7 +2327,7 @@
             "name": "Psi+",
             "tos_url": "",
             "url": "http://psi-plus.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Psi_%28software%29",
             "protocols": [
               "GPG",
               "XMPP"
@@ -2387,16 +2387,16 @@
             ]
           },
           {
-            "description": "Piattaforma P2P e libera per comunicazioni protette.",
+            "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
             "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
             "logo": "retroshare.png",
-            "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+            "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
             "privacy_url": "",
             "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
             "name": "RetroShare",
             "tos_url": "",
             "url": "http://retroshare.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
             "protocols": [
               "GPG",
               "VoIP"
@@ -2498,14 +2498,14 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "IRC",
         "slug": "irc",
         "projects": [
           {
-            "description": "Programma open source per chat multiprotocollo per OS X.",
+            "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
             "license_url": "https://trac.adium.im/wiki/Development",
             "logo": "adium.png",
             "notes": "",
@@ -2514,7 +2514,7 @@
             "name": "Adium",
             "tos_url": "",
             "url": "https://adium.im/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
             "protocols": [
               "IRC",
               "OTR",
@@ -2553,7 +2553,7 @@
             ]
           },
           {
-            "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+            "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
             "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
             "logo": "bitlbee.png",
             "notes": "",
@@ -2643,10 +2643,10 @@
             ]
           },
           {
-            "description": "Cross-platform IRC client.",
+            "description": "Client IRC multipiattaforma.",
             "license_url": "https://github.com/hexchat/hexchat/blob/master/COPYING",
             "logo": "hexchat.png",
-            "notes": "HexChat does not offer encrypted IRC by default. You need to enable the FiSHLiM plugin for IRC message encryption.",
+            "notes": "HexChat non offre una chat criptata in modo predefinito. Devi abilitare il plugin FiSHLiM per cifrare i messaggi IRC.",
             "privacy_url": "",
             "source_url": "https://github.com/HexChat/hexchat",
             "name": "HexChat",
@@ -2707,16 +2707,16 @@
             ]
           },
           {
-            "description": "Client email open source.",
+            "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-thunderbird.png",
-            "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+            "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Thunderbird",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-            "url": "https://www.mozilla.org/en-US/thunderbird/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+            "url": "https://www.mozilla.org/it/thunderbird/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
             "protocols": [
               "GPG",
               "IRC",
@@ -2833,16 +2833,16 @@
             ]
           },
           {
-            "description": "Extensible and customisable chat client for IRC and XMPP/Jabber.",
+            "description": "Client CLI di chat estensibile e personalizzabile per IRC e XMPP/Jabber.",
             "license_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "weechat.png",
-            "notes": "WeeChat does not offer encryption by default, but there is a FiSH encryption plugin available.",
+            "notes": "WeeChat non offre la cifratura in modo predefinito, ma &egrave; disponibile un plugin FiSH.",
             "privacy_url": "",
             "source_url": "http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=summary",
             "name": "WeeChat",
             "tos_url": "",
             "url": "http://www.weechat.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/WeeChat",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/WeeChat",
             "protocols": [
               "IRC"
             ],
@@ -2904,14 +2904,14 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+            "description": "Byzantium &egrave; una distribuzione live di Linux che offre una mesh network di semplice utilizzo.",
             "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
             "logo": "byzantium.png",
             "notes": "",
@@ -2988,7 +2988,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "Cjdns &egrave; un protocollo di rete, un sistema di regole digitali per scambio di messaggi tra computer. \"Invece di permettere agli altri computer di connettersi a te tramite un indirizzo IP che tutti possono usare, cjdns permette ai computer di comunicare solo dopo aver verificato l&#39;un l&#39;altro in modo criptato. ",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -3055,10 +3055,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Uses mobile phones, computers, and wireless routers to create decentralized mesh networks.",
+            "description": "Usa cellulari, computer e router wireless per creare mesh network decentralizzate.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Fare riferimento al [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -3144,7 +3144,7 @@
         "slug": "operating-systems",
         "projects": [
           {
-            "description": "Elegant, minimal, and flexible Linux&reg; distribution.",
+            "description": "Distribuzione GNU/Linux elegante, minimale e flessibile.",
             "license_url": "https://wiki.archlinux.org/index.php/Licenses",
             "logo": "arch-linux.png",
             "notes": "",
@@ -3153,7 +3153,7 @@
             "name": "Arch Linux",
             "tos_url": "",
             "url": "https://www.archlinux.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Arch_Linux",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Arch_Linux",
             "protocols": [],
             "categories": [
               {
@@ -3200,7 +3200,7 @@
             "name": "Debian",
             "tos_url": "",
             "url": "http://debian.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Debian",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Debian",
             "protocols": [],
             "categories": [
               {
@@ -3248,7 +3248,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "DragonFly BSD is a free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
+            "description": "DragonFly BSD &egrave; un sistema operativo libero Unix-like creato come fork di FreeBSD 4.8. Matthew Dillon, sviluppatore Amiga tra fine anni &#39;80 e inizio anni &#39;90 e sviluppatore FreeBSD tra il 1994 e il 2003, inizi&ograve; a lavorare a DragonFly BSD nel giugno 2003 e lo annunci&ograve; nella mailing list di FreeBSD il 16 luglio 2003.",
             "license_url": "https://www.dragonflybsd.org/docs/developer/DragonFly_BSD_License/",
             "logo": "dragonfly-bsd.png",
             "notes": "",
@@ -3257,7 +3257,7 @@
             "name": "DragonFly BSD",
             "tos_url": "",
             "url": "https://www.dragonflybsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/PC-BSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/PC-BSD",
             "protocols": [],
             "categories": [
               {
@@ -3314,7 +3314,7 @@
             "name": "Fedora",
             "tos_url": "",
             "url": "https://fedoraproject.org/",
-            "wikipedia_url": "https://es.wikipedia.org/wiki/Fedora_%28distribuci%C3%B3n_Linux%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Fedora_%28informatica%29",
             "protocols": [],
             "categories": [
               {
@@ -3352,7 +3352,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "A free BSD-derived operating system.",
+            "description": "Un sistema operativo libero derivato da BSD.",
             "license_url": "https://www.freebsd.org/copyright/freebsd-license.html",
             "logo": "freebsd.png",
             "notes": "",
@@ -3361,7 +3361,7 @@
             "name": "FreeBSD",
             "tos_url": "",
             "url": "https://www.freebsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/FreeBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/FreeBSD",
             "protocols": [],
             "categories": [
               {
@@ -3409,16 +3409,16 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Distribuzione GNU/Linux orientata a customizzazione, controllo e sicurezza.",
+            "description": "Distribuzione GNU/Linux orientata alla personalizzazione, controllo e sicurezza.",
             "license_url": "https://wiki.gentoo.org/wiki/License_Groups",
             "logo": "gentoo.png",
             "notes": "",
             "privacy_url": "",
-            "source_url": "https://www.gentoo.org/main/en/where.xml",
+            "source_url": "https://www.gentoo.org/main/it/where.xml",
             "name": "Gentoo",
             "tos_url": "",
             "url": "https://www.gentoo.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Gentoo_Linux",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Gentoo_Linux",
             "protocols": [],
             "categories": [
               {
@@ -3456,7 +3456,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Distribuzione GNU/Linux basata su Debian.",
+            "description": "Distribuzione GNU/Linux completamente libera basata su Debian.",
             "license_url": "http://www.gnewsense.org/Documentation/3/AboutgNewSense/WhatIsgNewSense#Community_Guidelines",
             "logo": "gnewsense.png",
             "notes": "",
@@ -3465,7 +3465,7 @@
             "name": "gNewSense",
             "tos_url": "",
             "url": "http://www.gnewsense.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/GNewSense",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/GNewSense",
             "protocols": [],
             "categories": [
               {
@@ -3512,7 +3512,7 @@
             "name": "Linux Mint Debian",
             "tos_url": "",
             "url": "http://www.linuxmint.com/download_lmde.php",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Linux_Mint",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Linux_Mint",
             "protocols": [],
             "categories": [
               {
@@ -3550,7 +3550,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "NetBSD is an open-source Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
+            "description": "NetBSD &egrave; un sistema operativo Unix-like open source che discende dalla Berkeley Software Distribution (BSD), una derivata di Unix sviluppata nell&#39;Universit&agrave; della California, Berkeley. &Egrave; stato il secondo discendente BSD open source ad essere pubblicato ufficialmente, dopo 386BSD, e il suo sviluppo continua tuttora. Il progetto NetBSD &egrave; incentrato principalmente su un design accattivante, stabilit&agrave; e prestazioni del sistema. ",
             "license_url": "https://www.netbsd.org/about/redistribution.html",
             "logo": "netbsd.png",
             "notes": "",
@@ -3559,7 +3559,7 @@
             "name": "NetBSD",
             "tos_url": "",
             "url": "https://www.netbsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/NetBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/NetBSD",
             "protocols": [],
             "categories": [
               {
@@ -3616,7 +3616,7 @@
             "name": "OpenSUSE",
             "tos_url": "https://en.opensuse.org/Terms_of_site",
             "url": "https://www.opensuse.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenSUSE",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenSUSE",
             "protocols": [],
             "categories": [
               {
@@ -3664,7 +3664,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Libre, lightweight, and flexible GNU/Linux distribution based on Arch Linux.",
+            "description": "Distribuzione GNU/Linux libera, leggera e flessibile basata su Arch Linux.",
             "license_url": "https://wiki.parabolagnulinux.org/Parabola/GNU_Linux_Social_Contract",
             "logo": "parabola.png",
             "notes": "",
@@ -3711,7 +3711,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Fedora/Xen-based OS designed to provide strong security through isolation.",
+            "description": "Sistema operativo basato su Fedora/Xen progettato per offrire un&#39;elevato livello di sicurezza grazie all&#39;isolamento.",
             "license_url": "http://qubes-os.org/trac/wiki/QubesLicensing",
             "logo": "qubes-os.png",
             "notes": "",
@@ -3758,10 +3758,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "VM-friendly OS based on Debian and Tor focused on anonymity, privacy and security.",
+            "description": "Sistema operativo VM-compatibile basato su Debian e Tor incentrato sull&#39;anonimato, privacy e sicurezza.",
             "license_url": "https://github.com/Whonix/Whonix/blob/master/GPLv3",
             "logo": "whonix.png",
-            "notes": "Whonix is designed to be run inside of a virtualization package like [VirtualBox](https://www.virtualbox.org/). VirtualBox can be installed on Windows, Linux, OS X, and Solaris. This means that if you're stuck using Windows or OS X for whatever reason, you can install VirtualBox and use Whonix to increase your privacy and security.",
+            "notes": "Whonix &egrave; progettato per essere eseguito all&#39;interno di un pacchetto di virtualizzazione come [VirtualBox](https://www.virtualbox.org/). VirtualBox pu&ograve; essere installato su Windows, Linux, OS X e Solaris. Quindi se sarai obbligato ad usare Windows o OS X per qualsiasi ragione, potrai installare VirtualBox e usare Whonix per aumentare la tua privacy e sicurezza.",
             "privacy_url": "",
             "source_url": "https://github.com/Whonix/Whonix/",
             "name": "Whonix",
@@ -3827,14 +3827,14 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "fedora.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
         "slug": "operating-systems-live",
         "projects": [
           {
-            "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+            "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -3918,13 +3918,13 @@
             ]
           },
           {
-            "description": "Live CD/USB designed as a communication aid in hostile environments.",
+            "description": "Live CD/USB progettato per aiutare la comunicazione in ambienti ostili.",
             "license_url": "https://github.com/mkdesu/liberte/blob/master/README.md",
             "logo": "liberte-linux.png",
             "notes": "",
             "privacy_url": "",
             "source_url": "https://github.com/mkdesu/liberte",
-            "name": "Liberté Linux",
+            "name": "Libert&eacute; Linux",
             "tos_url": "",
             "url": "http://dee.su/liberte",
             "wikipedia_url": "https://en.wikipedia.org/wiki/Security-focused_operating_system#Libert.C3.A9_Linux.5B7.5D",
@@ -3971,11 +3971,11 @@
                 "slug": "windows"
               }
             ],
-            "slug": "liberte-linux",
+            "slug": "liberteacute-linux",
             "protocolsSlugged": []
           },
           {
-            "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+            "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
             "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
             "logo": "tails.png",
             "notes": "",
@@ -4064,14 +4064,14 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
         "slug": "social-networks",
         "projects": [
           {
-            "description": "Rete anonima I2P per Android.",
+            "description": "Rete anonima I2P per Android e computer.",
             "license_url": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE",
             "logo": "nightweb.png",
             "notes": "",
@@ -4179,16 +4179,16 @@
             ]
           },
           {
-            "description": "Piattaforma P2P e libera per comunicazioni protette.",
+            "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
             "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
             "logo": "retroshare.png",
-            "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+            "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
             "privacy_url": "",
             "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
             "name": "RetroShare",
             "tos_url": "",
             "url": "http://retroshare.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
             "protocols": [
               "GPG",
               "VoIP"
@@ -4358,17 +4358,17 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
         "slug": "video-voice",
         "projects": [
           {
-            "description": "Chat e videoconferenze cifrate.",
+            "description": "Chat e videoconferenze cifrate, multipiattaforma.",
             "license_url": "https://github.com/jitsi/jitsi/blob/master/LICENSE",
             "logo": "jitsi.png",
-            "notes": "Jitsi may [request non-secure information during encrypted chat](https://github.com/nylira/prism-break/issues/291) if you paste a link into it. \nAlso, if Jitsi is set up to use Tor, it may [leak DNS information](https://trac.jitsi.org/ticket/1060) by not using Tor for DNS resolution.\n\nLastly, note that Jitsi records chat history in unencrypted form.",
+            "notes": "Jitsi potrebbe [richiedere informazioni non-sicure durante le chat cifrate](https://github.com/nylira/prism-break/issues/291) se incolli un link. \nInoltre, se Jitsi &egrave; configurato per usare Tor, potrebbe [rivelare le informazioni DNS](https://trac.jitsi.org/ticket/1060) non usando Tor per la risoluzione degli indirizzi.\n\nInfine, tieni presente che Jitsi registra la cronologia di chat in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/jitsi",
             "name": "Jitsi",
@@ -4446,8 +4446,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -4564,7 +4564,7 @@
             ]
           },
           {
-            "description": "Chat vocale cifrata e a bassa latenza.",
+            "description": "Chat vocale cifrata multiutente e a bassa latenza.",
             "license_url": "http://mumble.sourceforge.net/License",
             "logo": "mumble.png",
             "notes": "",
@@ -4573,7 +4573,7 @@
             "name": "Mumble",
             "tos_url": "",
             "url": "http://mumble.sourceforge.net/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mumble",
             "protocols": [
               "VoIP",
               "ZRTP"
@@ -4668,14 +4668,14 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
         "slug": "vpn-clients",
         "projects": [
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -4684,7 +4684,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -4779,7 +4779,7 @@
         "slug": "web-browser-addons",
         "projects": [
           {
-            "description": "Blocca gli annunci pubblicitari sul web",
+            "description": "Blocca gli annunci pubblicitari e i tracker sul web.",
             "license_url": "https://bitbucket.org/adstomper/adblockedge/src/a7aaa868e017c1cd35b400813319d2084da3d418/LICENSE?at=default",
             "logo": "adblock-edge.png",
             "notes": "",
@@ -4787,7 +4787,7 @@
             "source_url": "https://bitbucket.org/adstomper/adblockedge/",
             "name": "Adblock Edge",
             "tos_url": "",
-            "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/",
+            "url": "https://addons.mozilla.org/it/firefox/addon/adblock-edge/",
             "wikipedia_url": "",
             "protocols": [],
             "categories": [
@@ -4836,7 +4836,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -4926,7 +4926,7 @@
             ]
           },
           {
-            "description": "Blocca il tracciamento dati di siti di terze parti.",
+            "description": "Blocca il tracciamento invisibile dei siti e delle ricerche in rete.",
             "license_url": "https://github.com/disconnectme/disconnect/blob/master/README.markdown",
             "logo": "disconnect.png",
             "notes": "",
@@ -4993,7 +4993,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cripta le tue comunicazioni con molti importanti siti internet.",
+            "description": "Cripta le tue comunicazioni con molti siti internet forzando una connessione HTTPS.",
             "license_url": "https://gitweb.torproject.org/https-everywhere.git/blob_plain/HEAD:/LICENSE.txt",
             "logo": "https-everywhere.png",
             "notes": "",
@@ -5057,7 +5057,7 @@
             ]
           },
           {
-            "description": "Cifratura OpenPGP per webmail.",
+            "description": "Strumento di cifratura OpenPGP per webmail.",
             "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
             "logo": "mailvelope.png",
             "notes": "",
@@ -5137,11 +5137,11 @@
             ]
           },
           {
-            "description": "Only enable JavaScript, Java, and Flash for sites you trust.",
+            "description": "Abilita JavaScript, Java e Flash solo per i siti fidati.",
             "license_url": "https://github.com/avian2/noscript",
             "logo": "noscript.png",
-            "notes": "Install **NoScript** and enable &lsquo;Forbid scripts globally&rsquo; to improve the security of your browser by preventing 0day JavaScript attacks. This is a drastic option as it will render many websites unusable as they rely heavily on JavaScript.\n\nNoScript offers a whitelist you can use to selectively enable JavaScript for sites you trust, but this is considered [especially bad for your anonymity](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) if you're using NoScript with the **Tor Browser Bundle**.",
-            "privacy_url": "https://addons.mozilla.org/en-US/firefox/addon/noscript/privacy/",
+            "notes": "Installa **NoScript** e attiva &lsquo;Disabilita gli script globalmente&rsquo; per incrementare la sicurezza del tuo browser prevenendo gli attacchi 0day in JavaScript. Questa &egrave; un&#39;opzione drastica dato che molti siti non saranno mostrati correttamente visto che dipendono molto da JavaScript.\n\nNoScript offre una lista fidata che puoi usare per abilitare JavaScript specificamente per i siti di cui ti fidi, ma ci&ograve; &egrave; considerato [controproducente per la tua anonimit&agrave;](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) se usi NoScript con il **Tor Browser Bundle**.",
+            "privacy_url": "https://addons.mozilla.org/it/firefox/addon/noscript/privacy/",
             "source_url": "https://github.com/avian2/noscript",
             "name": "NoScript",
             "tos_url": "",
@@ -5194,7 +5194,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Control which cross-site requests are allowed by sites you visit.",
+            "description": "Controlla quali richieste cross-site autorizzare nei siti che visiti.",
             "license_url": "https://github.com/RequestPolicy/requestpolicy/blob/master/src/LICENSE",
             "logo": "request-policy.png",
             "notes": "",
@@ -5251,15 +5251,15 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Automatically delete cookies and local storage when they are no longer used by open browser tabs.",
-            "license_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/file/LICENSE",
+            "description": "Elimina automaticamente i cookie e il LocalStorage quando non vengono pi&ugrave; usati dalle schede aperte del browser.",
+            "license_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/file/LICENSE",
             "logo": "self-destructing-cookies.png",
-            "notes": "Only works with Firefox version 24 and above.\n\n The Android version is [available here](https://addons.mozilla.org/en-US/android/addon/self-destructing-cookies/).",
+            "notes": "Funziona solo con le versione 24 di Firefox e superiori.\n\n La verione per Android &egrave; [disponibile qui](https://addons.mozilla.org/it/android/addon/self-destructing-cookies/).",
             "privacy_url": "",
-            "source_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/",
+            "source_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/",
             "name": "Self-Destructing Cookies",
             "tos_url": "",
-            "url": "https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/",
+            "url": "https://addons.mozilla.org/it/firefox/addon/self-destructing-cookies/",
             "wikipedia_url": "",
             "protocols": [],
             "categories": [
@@ -5328,14 +5328,14 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "noscript.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Web Browsers",
         "slug": "web-browsers",
         "projects": [
           {
-            "description": "Private browsing with the JonDo IP anonymization service and JonDoFox profile for Firefox.",
+            "description": "Navigazione anonima con il servizio JonDo e il profilo JonDoFox per Firefox.",
             "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
             "logo": "jondonym.png",
             "notes": "",
@@ -5404,16 +5404,16 @@
             ]
           },
           {
-            "description": "Browser internet open source.",
+            "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+            "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-            "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+            "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
             "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
             "url": "https://mozilla.org/firefox",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Firefox",
             "protocols": [
               "SSL/TLS"
             ],
@@ -5478,10 +5478,10 @@
             ]
           },
           {
-            "description": "Navigazione anonima e criptata.",
+            "description": "Navigazione anonima e criptata grazie alla rete Tor.",
             "license_url": "https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE",
             "logo": "tor-browser-bundle.png",
-            "notes": "Using the TBB to sign into websites that contain your real ID is counterproductive, and may trip the site's fraud protection. Make sure to check for HTTPS before signing in to a website through Tor.\n\nSigning into HTTP websites can result in your ID being captured by a Tor exit node.",
+            "notes": "Usare TBB per accedere a siti che contengono la tua vera identit&agrave; &egrave; controproducente e pu&ograve; far saltare la protezione contro le frodi del sito. Accertati di una connessione HTTPS prima di accedere ad un sito con Tor.\n\nAccedere ai siti in HTTP pu&ograve; portare alla rilevazione della tua identit&agrave; da un nodo di uscita di Tor.",
             "privacy_url": "https://www.torproject.org/about/overview.html.en",
             "source_url": "https://gitweb.torproject.org/tor.git",
             "name": "Tor Browser Bundle",
@@ -5552,14 +5552,14 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
         "slug": "web-search",
         "projects": [
           {
-            "description": "Ricerca decentralizzata.",
+            "description": "Ricerca web decentralizzata.",
             "license_url": "https://gitorious.org/yacy/rc1/source/234a974955c0ab4f7de63157738e4b00a8ffcae8:COPYRIGHT",
             "logo": "yacy.png",
             "notes": "",
@@ -5568,7 +5568,7 @@
             "name": "YaCy",
             "tos_url": "",
             "url": "http://yacy.de/en/index.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/YaCy",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/YaCy",
             "protocols": [],
             "categories": [
               {
@@ -5616,7 +5616,7 @@
         "slug": "world-maps",
         "projects": [
           {
-            "description": "Free virtual globe and world atlas.",
+            "description": "Globo virtuale e atlante del mondo, totalmente libero.",
             "license_url": "https://projects.kde.org/projects/kde/kdeedu/marble/repository/revisions/master/entry/LICENSE.txt",
             "logo": "marble.png",
             "notes": "",
@@ -5625,7 +5625,7 @@
             "name": "Marble",
             "tos_url": "",
             "url": "http://marble.kde.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Marble_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Marble_%28KDE%29",
             "protocols": [],
             "categories": [
               {
@@ -5663,10 +5663,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
+            "description": "La Open Source Routing Machine (OSRM) &egrave; un&#39;implementazione in C++ di un motore per mappe ad alte prestazioni per trovare i percorsi pi&ugrave; brevi nelle reti stradali. Dotata di una licenza permissiva con doppia clausola BSD, OSRM &egrave; un servizio di rete libero. OSRM supporta Linux, FreeBSD, Windows e Mac.",
             "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
             "logo": "osrm.png",
-            "notes": "OSRM should be installed and run locally on your PC to avoid potential data leaks from the unencrypted online service.",
+            "notes": "OSRM dovrebbe essere installato e usato localmente sul tuo PC per evitare possibili fughe di dati dalla versione online del servizio in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/DennisOSRM/Project-OSRM",
             "name": "Open Source Routing Machine",
@@ -5743,7 +5743,7 @@
     "slug": "web-browser-addons",
     "projects": [
       {
-        "description": "Blocca gli annunci pubblicitari sul web",
+        "description": "Blocca gli annunci pubblicitari e i tracker sul web.",
         "license_url": "https://bitbucket.org/adstomper/adblockedge/src/a7aaa868e017c1cd35b400813319d2084da3d418/LICENSE?at=default",
         "logo": "adblock-edge.png",
         "notes": "",
@@ -5751,7 +5751,7 @@
         "source_url": "https://bitbucket.org/adstomper/adblockedge/",
         "name": "Adblock Edge",
         "tos_url": "",
-        "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/",
+        "url": "https://addons.mozilla.org/it/firefox/addon/adblock-edge/",
         "wikipedia_url": "",
         "protocols": [],
         "categories": [
@@ -5800,7 +5800,7 @@
         "protocolsSlugged": []
       },
       {
-        "description": "Private and encrypted instant messaging within the web browser.",
+        "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
         "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
         "logo": "cryptocat.png",
         "notes": "",
@@ -5890,7 +5890,7 @@
         ]
       },
       {
-        "description": "Blocca il tracciamento dati di siti di terze parti.",
+        "description": "Blocca il tracciamento invisibile dei siti e delle ricerche in rete.",
         "license_url": "https://github.com/disconnectme/disconnect/blob/master/README.markdown",
         "logo": "disconnect.png",
         "notes": "",
@@ -5957,7 +5957,7 @@
         "protocolsSlugged": []
       },
       {
-        "description": "Cripta le tue comunicazioni con molti importanti siti internet.",
+        "description": "Cripta le tue comunicazioni con molti siti internet forzando una connessione HTTPS.",
         "license_url": "https://gitweb.torproject.org/https-everywhere.git/blob_plain/HEAD:/LICENSE.txt",
         "logo": "https-everywhere.png",
         "notes": "",
@@ -6021,7 +6021,7 @@
         ]
       },
       {
-        "description": "Cifratura OpenPGP per webmail.",
+        "description": "Strumento di cifratura OpenPGP per webmail.",
         "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
         "logo": "mailvelope.png",
         "notes": "",
@@ -6101,11 +6101,11 @@
         ]
       },
       {
-        "description": "Only enable JavaScript, Java, and Flash for sites you trust.",
+        "description": "Abilita JavaScript, Java e Flash solo per i siti fidati.",
         "license_url": "https://github.com/avian2/noscript",
         "logo": "noscript.png",
-        "notes": "Install **NoScript** and enable &lsquo;Forbid scripts globally&rsquo; to improve the security of your browser by preventing 0day JavaScript attacks. This is a drastic option as it will render many websites unusable as they rely heavily on JavaScript.\n\nNoScript offers a whitelist you can use to selectively enable JavaScript for sites you trust, but this is considered [especially bad for your anonymity](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) if you're using NoScript with the **Tor Browser Bundle**.",
-        "privacy_url": "https://addons.mozilla.org/en-US/firefox/addon/noscript/privacy/",
+        "notes": "Installa **NoScript** e attiva &lsquo;Disabilita gli script globalmente&rsquo; per incrementare la sicurezza del tuo browser prevenendo gli attacchi 0day in JavaScript. Questa &egrave; un&#39;opzione drastica dato che molti siti non saranno mostrati correttamente visto che dipendono molto da JavaScript.\n\nNoScript offre una lista fidata che puoi usare per abilitare JavaScript specificamente per i siti di cui ti fidi, ma ci&ograve; &egrave; considerato [controproducente per la tua anonimit&agrave;](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) se usi NoScript con il **Tor Browser Bundle**.",
+        "privacy_url": "https://addons.mozilla.org/it/firefox/addon/noscript/privacy/",
         "source_url": "https://github.com/avian2/noscript",
         "name": "NoScript",
         "tos_url": "",
@@ -6158,7 +6158,7 @@
         "protocolsSlugged": []
       },
       {
-        "description": "Control which cross-site requests are allowed by sites you visit.",
+        "description": "Controlla quali richieste cross-site autorizzare nei siti che visiti.",
         "license_url": "https://github.com/RequestPolicy/requestpolicy/blob/master/src/LICENSE",
         "logo": "request-policy.png",
         "notes": "",
@@ -6215,15 +6215,15 @@
         "protocolsSlugged": []
       },
       {
-        "description": "Automatically delete cookies and local storage when they are no longer used by open browser tabs.",
-        "license_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/file/LICENSE",
+        "description": "Elimina automaticamente i cookie e il LocalStorage quando non vengono pi&ugrave; usati dalle schede aperte del browser.",
+        "license_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/file/LICENSE",
         "logo": "self-destructing-cookies.png",
-        "notes": "Only works with Firefox version 24 and above.\n\n The Android version is [available here](https://addons.mozilla.org/en-US/android/addon/self-destructing-cookies/).",
+        "notes": "Funziona solo con le versione 24 di Firefox e superiori.\n\n La verione per Android &egrave; [disponibile qui](https://addons.mozilla.org/it/android/addon/self-destructing-cookies/).",
         "privacy_url": "",
-        "source_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/",
+        "source_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/",
         "name": "Self-Destructing Cookies",
         "tos_url": "",
-        "url": "https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/",
+        "url": "https://addons.mozilla.org/it/firefox/addon/self-destructing-cookies/",
         "wikipedia_url": "",
         "protocols": [],
         "categories": [
@@ -6292,11 +6292,11 @@
       "request-policy.png",
       "self-destructing-cookies.png"
     ],
-    "randomLogo": "noscript.png"
+    "randomLogo": "mailvelope.png"
   },
   "projects": [
     {
-      "description": "Blocca gli annunci pubblicitari sul web",
+      "description": "Blocca gli annunci pubblicitari e i tracker sul web.",
       "license_url": "https://bitbucket.org/adstomper/adblockedge/src/a7aaa868e017c1cd35b400813319d2084da3d418/LICENSE?at=default",
       "logo": "adblock-edge.png",
       "notes": "",
@@ -6304,7 +6304,7 @@
       "source_url": "https://bitbucket.org/adstomper/adblockedge/",
       "name": "Adblock Edge",
       "tos_url": "",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/",
+      "url": "https://addons.mozilla.org/it/firefox/addon/adblock-edge/",
       "wikipedia_url": "",
       "protocols": [],
       "categories": [
@@ -6353,7 +6353,7 @@
       "protocolsSlugged": []
     },
     {
-      "description": "Private and encrypted instant messaging within the web browser.",
+      "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
       "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
       "logo": "cryptocat.png",
       "notes": "",
@@ -6443,7 +6443,7 @@
       ]
     },
     {
-      "description": "Blocca il tracciamento dati di siti di terze parti.",
+      "description": "Blocca il tracciamento invisibile dei siti e delle ricerche in rete.",
       "license_url": "https://github.com/disconnectme/disconnect/blob/master/README.markdown",
       "logo": "disconnect.png",
       "notes": "",
@@ -6510,7 +6510,7 @@
       "protocolsSlugged": []
     },
     {
-      "description": "Cripta le tue comunicazioni con molti importanti siti internet.",
+      "description": "Cripta le tue comunicazioni con molti siti internet forzando una connessione HTTPS.",
       "license_url": "https://gitweb.torproject.org/https-everywhere.git/blob_plain/HEAD:/LICENSE.txt",
       "logo": "https-everywhere.png",
       "notes": "",
@@ -6574,7 +6574,7 @@
       ]
     },
     {
-      "description": "Cifratura OpenPGP per webmail.",
+      "description": "Strumento di cifratura OpenPGP per webmail.",
       "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
       "logo": "mailvelope.png",
       "notes": "",
@@ -6654,11 +6654,11 @@
       ]
     },
     {
-      "description": "Only enable JavaScript, Java, and Flash for sites you trust.",
+      "description": "Abilita JavaScript, Java e Flash solo per i siti fidati.",
       "license_url": "https://github.com/avian2/noscript",
       "logo": "noscript.png",
-      "notes": "Install **NoScript** and enable &lsquo;Forbid scripts globally&rsquo; to improve the security of your browser by preventing 0day JavaScript attacks. This is a drastic option as it will render many websites unusable as they rely heavily on JavaScript.\n\nNoScript offers a whitelist you can use to selectively enable JavaScript for sites you trust, but this is considered [especially bad for your anonymity](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) if you're using NoScript with the **Tor Browser Bundle**.",
-      "privacy_url": "https://addons.mozilla.org/en-US/firefox/addon/noscript/privacy/",
+      "notes": "Installa **NoScript** e attiva &lsquo;Disabilita gli script globalmente&rsquo; per incrementare la sicurezza del tuo browser prevenendo gli attacchi 0day in JavaScript. Questa &egrave; un&#39;opzione drastica dato che molti siti non saranno mostrati correttamente visto che dipendono molto da JavaScript.\n\nNoScript offre una lista fidata che puoi usare per abilitare JavaScript specificamente per i siti di cui ti fidi, ma ci&ograve; &egrave; considerato [controproducente per la tua anonimit&agrave;](https://www.torproject.org/docs/faq.html.en#TBBJavaScriptEnabled) se usi NoScript con il **Tor Browser Bundle**.",
+      "privacy_url": "https://addons.mozilla.org/it/firefox/addon/noscript/privacy/",
       "source_url": "https://github.com/avian2/noscript",
       "name": "NoScript",
       "tos_url": "",
@@ -6711,7 +6711,7 @@
       "protocolsSlugged": []
     },
     {
-      "description": "Control which cross-site requests are allowed by sites you visit.",
+      "description": "Controlla quali richieste cross-site autorizzare nei siti che visiti.",
       "license_url": "https://github.com/RequestPolicy/requestpolicy/blob/master/src/LICENSE",
       "logo": "request-policy.png",
       "notes": "",
@@ -6768,15 +6768,15 @@
       "protocolsSlugged": []
     },
     {
-      "description": "Automatically delete cookies and local storage when they are no longer used by open browser tabs.",
-      "license_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/file/LICENSE",
+      "description": "Elimina automaticamente i cookie e il LocalStorage quando non vengono pi&ugrave; usati dalle schede aperte del browser.",
+      "license_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/file/LICENSE",
       "logo": "self-destructing-cookies.png",
-      "notes": "Only works with Firefox version 24 and above.\n\n The Android version is [available here](https://addons.mozilla.org/en-US/android/addon/self-destructing-cookies/).",
+      "notes": "Funziona solo con le versione 24 di Firefox e superiori.\n\n La verione per Android &egrave; [disponibile qui](https://addons.mozilla.org/it/android/addon/self-destructing-cookies/).",
       "privacy_url": "",
-      "source_url": "https://addons.mozilla.org/en-US/firefox/files/browse/235317/",
+      "source_url": "https://addons.mozilla.org/it/firefox/files/browse/235317/",
       "name": "Self-Destructing Cookies",
       "tos_url": "",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/",
+      "url": "https://addons.mozilla.org/it/firefox/addon/self-destructing-cookies/",
       "wikipedia_url": "",
       "protocols": [],
       "categories": [

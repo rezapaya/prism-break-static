@@ -1,14 +1,14 @@
 {
-  "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+  "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
   "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
   "logo": "kopete.png",
-  "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+  "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
   "privacy_url": "",
   "source_url": "http://kopete.kde.org/svnaccess.php",
   "name": "Kopete",
   "tos_url": "",
   "url": "http://kopete.kde.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
   "protocols": [
     "GPG",
     "OTR",

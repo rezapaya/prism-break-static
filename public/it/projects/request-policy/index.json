@@ -1,5 +1,5 @@
 {
-  "description": "Control which cross-site requests are allowed by sites you visit.",
+  "description": "Controlla quali richieste cross-site autorizzare nei siti che visiti.",
   "license_url": "https://github.com/RequestPolicy/requestpolicy/blob/master/src/LICENSE",
   "logo": "request-policy.png",
   "notes": "",

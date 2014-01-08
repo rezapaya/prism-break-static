@@ -11,7 +11,7 @@
   "slug": "gpg",
   "projects": [
     {
-      "description": "OpenPGP implementation for Android.",
+      "description": "Implementazione OpenPGP per Android.",
       "license_url": "https://github.com/thialfihar/apg/blob/master/AndroidManifest.xml",
       "logo": "apg.png",
       "notes": "",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "description": "Leggero client email con supporto GnuPG.",
+      "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
       "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
       "logo": "claws-mail.png",
       "notes": "",
@@ -54,7 +54,7 @@
       "name": "Claws Mail",
       "tos_url": "",
       "url": "http://www.claws-mail.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
       "protocols": [
         "GPG",
         "RSS",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "description": "Plugin per Thunderbird/Icedove con supporto OpenPGP.",
+      "description": "Plugin per Thunderbird e Icedove con supporto OpenPGP.",
       "license_url": "http://sourceforge.net/p/enigmail/source/ci/master/tree/genxpi",
       "logo": "enigmail.png",
-      "notes": "[Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.",
+      "notes": "[Qua si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.",
       "privacy_url": "",
       "source_url": "https://www.enigmail.net/download/source.php",
       "name": "Enigmail",
       "tos_url": "",
       "url": "https://www.enigmail.net/home/index.php",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Enigmail",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Enigmail",
       "protocols": [
         "GPG"
       ],
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "description": "Client email e calendario libero.",
+      "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
       "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
       "logo": "evolution.png",
       "notes": "",
@@ -192,7 +192,7 @@
       "name": "Evolution",
       "tos_url": "",
       "url": "https://projects.gnome.org/evolution/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
       "protocols": [
         "CalDAV",
         "GPG",
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+      "description": "FreedomBox integra protezioni per la privacy per server personali basati su software libero.",
       "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
       "logo": "freedombox.png",
       "notes": "",
@@ -251,7 +251,7 @@
       "name": "FreedomBox",
       "tos_url": "",
       "url": "https://www.freedomboxfoundation.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/FreedomBox",
       "protocols": [
         "GPG",
         "TOR",
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "description": "Light and fast IM client for GNU/Linux and Windows&mdash;OTR support via plugin.",
+      "description": "Client di messaggistica istantanea leggero e veloce per GNU/Linux e Windows&mdash;supporto OTR via plugin.",
       "license_url": "https://trac.gajim.org/browser/COPYING",
       "logo": "gajim.png",
       "notes": "",
@@ -299,7 +299,7 @@
       "name": "Gajim",
       "tos_url": "",
       "url": "http://gajim.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gajim",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Gajim",
       "protocols": [
         "GPG",
         "OTR",
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "description": "Implementazione libera di OpenPGP.",
+      "description": "Implementazione libera di OpenPGP per vari programmi, inclusi Thunderbird/Icedove.",
       "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=blob;f=COPYING;h=443254047416efc10bc53cb1adb5421680d5a647;hb=refs/heads/master",
       "logo": "gnupg.png",
       "notes": "",
@@ -442,7 +442,7 @@
       "name": "GNU Privacy Guard",
       "tos_url": "",
       "url": "http://www.gnupg.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/GNU_Privacy_Guard",
       "protocols": [
         "GPG"
       ],
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+      "description": "Un port per Android dell&#39;intera suite GnuPG 2.1 .\n\nGnu Privacy Guard (GPG) ti d&agrave; accesso all&#39;intera suite di crittografia GnuPG. GnuPG &egrave; lo strumento di GNU per comunicazioni e memorizzazione di dati in modo sicuro. Questo protocollo fidato &egrave; l&#39;alternativa libera a PGP. GnuPG 2.1 &egrave; la nuova versione modulare di GnuPG che ora supporta OpenPGP e S/MIME.",
       "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
       "logo": "gnupg-for-android.png",
       "notes": "",
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "description": "Gpg4win is an installation package for Windows (XP, Vista, 7 and 8) with software tools and manuals for email and file encryption on behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
+      "description": "Gpg4win &egrave; un pacchetto di installazione per Windows (XP, Vista, 7 e 8) con strumenti e manuali per cifrare email e file a nome della German Information Security Agency. Lo stesso Gpg4win e tutti i suoi strumenti sono programmi liberi e open source. Il software usa principalmente la crittografia a chiave pubblica per i dati e le firme digitali.",
       "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=COPYING;h=623b6258a134210f0b0ada106fdaab7f0370d9c5;hb=HEAD",
       "logo": "gpg4win.png",
       "notes": "",
@@ -545,7 +545,7 @@
       "name": "Gpg4win",
       "tos_url": "",
       "url": "http://www.gpg4win.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gpg4win",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Gpg4win",
       "protocols": [
         "GPG"
       ],
@@ -570,7 +570,7 @@
       ]
     },
     {
-      "description": "OpenPGP add-on for Apple OS X Mail.",
+      "description": "Componente aggiuntivo OpenPGP per Apple OS X Mail.",
       "license_url": "https://github.com/GPGTools/MacGPG2/blob/dev/LICENSE.txt",
       "logo": "gpgtools.png",
       "notes": "",
@@ -604,7 +604,7 @@
       ]
     },
     {
-      "description": "Live CD/USB based on Debian with pre-configured tools for anonymous surfing and more.",
+      "description": "Live CD/USB basato su Debian con strumenti preconfigurati per una navigazione anonima e molto altro.",
       "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
       "logo": "jondonym.png",
       "notes": "",
@@ -688,7 +688,7 @@
       ]
     },
     {
-      "description": "Open source email app for Android with PGP support.",
+      "description": "Applicazione email per dispositivi Android con supporto PGP integrato.",
       "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
       "logo": "k9-mail.png",
       "notes": "",
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "description": "Client email per ambiente KDE con supporto GnuPG.",
+      "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
       "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
       "logo": "kontact.png",
       "notes": "",
@@ -741,7 +741,7 @@
       "name": "Kontact",
       "tos_url": "",
       "url": "http://www.kontact.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
       "protocols": [
         "GPG",
         "RSS",
@@ -791,16 +791,16 @@
       ]
     },
     {
-      "description": "Flexible and extensible multi-protocol IM client suitable for personal and enterprise use.",
+      "description": "Client multiprotocollo di messaggistica istantanea flessibile ed estensibile per uso personale o aziendale.",
       "license_url": "http://docs.kde.org/development/en/kdenetwork/kopete/credits-and-license.html",
       "logo": "kopete.png",
-      "notes": "Encrypted chat is available for Kopete through the 'Off-the-Record Messaging' plugin. GPG encryption is available through the Debian package `kopete-cryptography`",
+      "notes": "La chat cifrata &egrave; disponibile per Kopete tramite il plugin 'Off-the-Record Messaging'. La cifratura GPG &egrave; disponibile tramite il pacchetto Debian 'kopete-cryptography'",
       "privacy_url": "",
       "source_url": "http://kopete.kde.org/svnaccess.php",
       "name": "Kopete",
       "tos_url": "",
       "url": "http://kopete.kde.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kopete",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Kopete",
       "protocols": [
         "GPG",
         "OTR",
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "description": "Cifratura OpenPGP per webmail.",
+      "description": "Strumento di cifratura OpenPGP per webmail.",
       "license_url": "https://github.com/toberndo/mailvelope/blob/master/LICENSE",
       "logo": "mailvelope.png",
       "notes": "",
@@ -915,16 +915,16 @@
       ]
     },
     {
-      "description": "Client email open source.",
+      "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
       "license_url": "https://www.mozilla.org/MPL/",
       "logo": "mozilla-thunderbird.png",
-      "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+      "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
       "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-      "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+      "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
       "name": "Mozilla Thunderbird",
       "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-      "url": "https://www.mozilla.org/en-US/thunderbird/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+      "url": "https://www.mozilla.org/it/thunderbird/",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
       "protocols": [
         "GPG",
         "IRC",
@@ -1041,10 +1041,10 @@
       ]
     },
     {
-      "description": "OpenPGP Keychain is an OpenPGP implementation for Android.",
+      "description": "OpenPGP Keychain &egrave; un&#39;implementazione OpenPGP per Android.",
       "license_url": "https://github.com/dschuermann/openpgp-keychain/blob/master/LICENSE",
       "logo": "openpgp-keychain.png",
-      "notes": "OpenPGP Keychain is EXPERIMENTAL software. Use at your own risk!\r",
+      "notes": "OpenPGP Keychain &egrave; un software SPERIMENTALE. Usare a proprio rischio!\r",
       "privacy_url": "",
       "source_url": "https://github.com/dschuermann/openpgp-keychain",
       "name": "OpenPGP Keychain",
@@ -1075,7 +1075,7 @@
       ]
     },
     {
-      "description": "Multi-platform IM client for power users with built-in OTR support.",
+      "description": "Client di messaggistica istantanea per utenti avanzati con supporto OTR integrato.",
       "license_url": "https://github.com/psi-plus/main/blob/master/copying-psi.txt",
       "logo": "psi-plus.png",
       "notes": "",
@@ -1084,7 +1084,7 @@
       "name": "Psi+",
       "tos_url": "",
       "url": "http://psi-plus.com/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Psi_%28software%29",
       "protocols": [
         "GPG",
         "XMPP"
@@ -1144,16 +1144,16 @@
       ]
     },
     {
-      "description": "Piattaforma P2P e libera per comunicazioni protette.",
+      "description": "Piattaforma di comunicazione P2P sicura per chat, forum, VoIP, condivisione di file e altro.",
       "license_url": "http://retroshare.sourceforge.net/wiki/index.php/Frequently_Asked_Questions#Is_RetroShare_Open_source.3F",
       "logo": "retroshare.png",
-      "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+      "notes": "Da notare che RetroShare non &egrave; stato controllato da esperti di sicurezza per eventuali problemi di sicurezza.\n\nPer chi non ha un server, RetroShare &egrave; probabilmente il mezzo pi&ugrave; semplice per creare il tuo social network criptato.",
       "privacy_url": "",
       "source_url": "http://sourceforge.net/p/retroshare/code/HEAD/tree/",
       "name": "RetroShare",
       "tos_url": "",
       "url": "http://retroshare.sourceforge.net/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/RetroShare",
       "protocols": [
         "GPG",
         "VoIP"
@@ -1245,7 +1245,7 @@
       ]
     },
     {
-      "description": "Lightweight and user-friendly e-mail client.",
+      "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
       "license_url": "https://www.gnu.org/copyleft/gpl.html",
       "logo": "sylpheed.png",
       "notes": "",
@@ -1319,7 +1319,7 @@
       ]
     },
     {
-      "description": "Distribuzione GNU/Linux live che tutela la propria riservatezza.",
+      "description": "Distribuzione GNU/Linux live CD/USB progettata per tutelare la propria privacy.",
       "license_url": "https://tails.boum.org/doc/about/license/index.en.html",
       "logo": "tails.png",
       "notes": "",

@@ -1,5 +1,5 @@
 {
-  "description": "Personal distribution based on Debian with preconfigured mail, IM, and web server.",
+  "description": "Distribuzione personale basata su Debian con email, messaggistica istantanea e server web preconfigurati.",
   "license_url": "https://github.com/YunoHost/admin_v1/blob/master/LICENCE",
   "logo": "yunohost.png",
   "notes": "",

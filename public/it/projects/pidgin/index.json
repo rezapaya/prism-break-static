@@ -1,14 +1,14 @@
 {
-  "description": "Programma open source per chat multiprotocollo.",
+  "description": "Programma libero per messaggistica istantanea multiprotocollo.",
   "license_url": "http://hg.pidgin.im/pidgin/main/file/cefaf531281e/COPYING",
   "logo": "pidgin.png",
-  "notes": "Pidgin stores your IM account passwords in [plain text](https://developer.pidgin.im/wiki/PlainTextPasswords). You can avoid this by (1) not saving your password in Pidgin, (2) encrypting your file system with software like [TrueCrypt](http://www.truecrypt.org/), or (3) storing your Pidgin password securely with the Debian package [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin with OTR and dbus enabled has a local security bug. See the [upstream bug report](https://developer.pidgin.im/ticket/14830) for more information and possible workarounds.",
+  "notes": "Pidgin memorizza le password dei tuoi account di chat [in chiaro](https://developer.pidgin.im/wiki/PlainTextPasswords). Se vuoi evitarlo puoi (1) non salvare le password in Pidgin, (2) criptare il tuo file system con programmi come [TrueCrypt](http://www.truecrypt.org/), oppure (3) salvare le tue password di Pidgin in modo sicuro con il pacchetto Debian [pidgin-gnome-keyring](https://code.google.com/p/pidgin-gnome-keyring/).\n\nPidgin con OTR e dbus attivi ha un bug di sicurezza locale. Vedi la [segnalazione del bug](https://developer.pidgin.im/ticket/14830) per maggiori informazioni e possibili soluzioni.",
   "privacy_url": "",
   "source_url": "http://hg.pidgin.im/pidgin/main/",
   "name": "Pidgin",
   "tos_url": "",
   "url": "https://www.pidgin.im/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Pidgin_%28software%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Pidgin_%28software%29",
   "protocols": [
     "IRC",
     "OTR",

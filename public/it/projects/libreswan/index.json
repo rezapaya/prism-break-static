@@ -1,5 +1,5 @@
 {
-  "description": "Free software VPN client (3rd generation) derived from Openswan.",
+  "description": "Client VPN libero (terza generazione) derivato da Openswan.",
   "license_url": "https://github.com/libreswan/libreswan/blob/master/COPYING",
   "logo": "libreswan.png",
   "notes": "",

@@ -1,5 +1,5 @@
 {
-  "description": "A secure BSD operating system.",
+  "description": "Un sistema operativo BSD sicuro.",
   "license_url": "http://openbsd.org/policy.html",
   "logo": "openbsd.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "OpenBSD",
   "tos_url": "",
   "url": "http://openbsd.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/OpenBSD",
   "protocols": [],
   "categories": [
     {

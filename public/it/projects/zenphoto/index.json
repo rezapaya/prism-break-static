@@ -2,7 +2,7 @@
   "description": "CMS libero per multimedia.",
   "license_url": "http://www.zenphoto.org/pages/licenses",
   "logo": "zenphoto.png",
-  "notes": "Zenphoto does not encrypt any of your data by default.",
+  "notes": "Zenphoto non cripta alcun dato in modo predefinito.",
   "privacy_url": "http://www.zenphoto.org/pages/privacy",
   "source_url": "https://github.com/zenphoto/zenphoto",
   "name": "Zenphoto",

@@ -8,7 +8,7 @@
         "slug": "dns",
         "projects": [
           {
-            "description": "DNS hosting service with DNSCrypt, DNSSec, and Namecoin support.",
+            "description": "Servizio di hosting DNS con supporto a DNSCrypt, DNSSec e Namecoin.",
             "license_url": "",
             "logo": "cloudns.png",
             "notes": "",
@@ -35,10 +35,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Open, democratic, and anti-censorship DNS provider.",
+            "description": "Provider DNS aperto, democratico e contro la censura.",
             "license_url": "",
             "logo": "opennic.png",
-            "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
+            "notes": "OpenNIC non ha adottato una politica ufficiale sulla privacy/anonimizzazione delle richieste inviate. Maggiori informazioni [qui](http://wiki.opennicproject.org/Tier2).",
             "privacy_url": "http://wiki.opennicproject.org/Tier2",
             "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
             "name": "OpenNIC",
@@ -66,14 +66,14 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
         "slug": "email-accounts",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -81,7 +81,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -123,10 +123,10 @@
             ]
           },
           {
-            "description": "Secure and private Kolab accounts hosted in Switzerland.",
+            "description": "Account Kolab sicuri e privati mantenuti in Svizzera per 10 CHF mensili.",
             "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
             "logo": "mykolab.png",
-            "notes": "MyKolab is hosted in Switzerland and benefits from the [strong Swiss privacy laws](https://MyKolab.com/privacy). It is run exclusively with free software and using the service supports the development of Kolab. \nAlso, you can export all your data at any time.",
+            "notes": "MyKolab &egrave; situato in Svizzera e trae beneficio dalle [severe leggi sulla privacy svizzere](https://MyKolab.com/privacy). &Egrave; composto esclusivamente da software libero e l&#39;uso del servizio supporta lo sviluppo di Kolab. \nInoltre, puoi esportare tutti i tuoi dati in qualsiasi momento.",
             "privacy_url": "https://mykolab.com/privacy",
             "source_url": "http://git.kolab.org/",
             "name": "MyKolab",
@@ -160,10 +160,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -221,14 +221,14 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
         "slug": "finance",
         "projects": [
           {
-            "description": "Valuta digitale P2P senza un'autorit&agrave; centrale.",
+            "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
             "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
             "logo": "bitcoin.png",
             "notes": "",
@@ -237,7 +237,7 @@
             "name": "Bitcoin",
             "tos_url": "",
             "url": "http://bitcoin.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
             "protocols": [],
             "categories": [
               {
@@ -315,7 +315,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Litecoin (simbolo : Ł ; codice : LTC) &egrave; una criptovaluta peer-to-peer e progetto open source pubblicato con licenza MIT/X11. Ispirato e tecnicamente quasi identico a Bitcoin (BTC), la creazione e il trasferimento di Litecoin sono basati su un protocollo open source e non sono gestiti da un&#39;autorit&agrave; centrale. Litecoin &egrave;, secondo i suoi sviluppatori, progettato per migliorare Bitcoin e offre tre differenze chiave.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "",
@@ -406,14 +406,14 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
         "slug": "instant-messaging",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -421,7 +421,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -463,7 +463,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -553,7 +553,7 @@
             ]
           },
           {
-            "description": "Private XMPP service run on the DuckDuckGo Community Platform&mdash;guide included.",
+            "description": "Servizio XMPP privato gestito dalla DuckDuckGo Community Platform&mdash;guida inclusa.",
             "license_url": "",
             "logo": "duckduckgo.png",
             "notes": "",
@@ -587,8 +587,8 @@
             ]
           },
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -705,10 +705,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -768,14 +768,14 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
         "slug": "media-publishing",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -783,7 +783,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -825,10 +825,10 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
-            "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
             "privacy_url": "https://img.bi/",
             "source_url": "https://github.com/imgbi",
             "name": "img.bi",
@@ -879,10 +879,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Hosting veloce incentrato sulla privacy, per immagini, audio e video.",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Attenzione: MediaCrush include Google Analytics e Google Adsense se non hai l&#39;opzione Do Not Track abilitata.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -928,14 +928,14 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Productivity",
         "slug": "productivity",
         "projects": [
           {
-            "description": "A free securely-hosted online poll, with a privacy-enhanced version.",
+            "description": "Un sito per sondaggi libero e sicuro, con una versione dedicata alla privacy.",
             "license_url": "https://dudle.inf.tu-dresden.de/about.cgi",
             "logo": "dudle.png",
             "notes": "",
@@ -975,7 +975,7 @@
             "description": "Server per fogli di calcolo multi-utente.",
             "license_url": "https://github.com/audreyt/ethercalc/blob/master/LICENSE.txt",
             "logo": "ethercalc.png",
-            "notes": "The EtherCalc service does not encrypt your data transmission with HTTPS, and there's no privacy policy regarding what is done with your data either. Download and run your own EtherCalc server if you care about privacy.",
+            "notes": "Il servizio EtherCalc non cripta la trasmissione dei dati  con HTTPS e non si trova alcuna politica sulla privacy su ci&ograve; che fanno con i tuoi dati. Scarica e gestisci un server EtherCalc personale se ci tieni alla privacy.",
             "privacy_url": "",
             "source_url": "https://github.com/audreyt/ethercalc",
             "name": "EtherCalc",
@@ -1009,10 +1009,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Sistema open source per documenti collaborativi in real-time.",
+            "description": "Sistema autogestito per documenti collaborativi in tempo reale.",
             "license_url": "https://github.com/ether/etherpad-lite/blob/develop/LICENSE",
             "logo": "etherpad.png",
-            "notes": "The etherpad project maintains a list of [sites that run etherpad services](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Please only choose from the services that use SSL, and research the site's background before trusting them with your data.",
+            "notes": "Il progetto etherpad mantiene una lista di [siti che ospitano servizi etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Si consiglia di scegliere solo servizi che usano SSL e controllare la storia del sito prima di affidare loro i tuoi dati.",
             "privacy_url": "",
             "source_url": "https://github.com/ether/etherpad-lite",
             "name": "Etherpad",
@@ -1053,10 +1053,10 @@
             ]
           },
           {
-            "description": "Free online encrypted notepad.",
+            "description": "Blocco note online libero e criptato.",
             "license_url": "",
             "logo": "protextedtext.png",
-            "notes": "ProtectedText encrypts/decrypts text in the browser, and password (or it's hash) is never sent to the server - so that text can't be decrypted even if requested by authorities.",
+            "notes": "ProtectedText cifra/decifra i testi nel browser, mentre la password (o il suo hash) non &egrave; mai inviata al server - quindi i testi non possono essere decifrati anche se venisse richiesto dalle autorit&agrave;.",
             "privacy_url": "",
             "source_url": "https://www.protectedtext.com/js/main.js",
             "name": "ProtectedText",
@@ -1087,10 +1087,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Social Networks",
@@ -1166,7 +1166,7 @@
             "name": "diaspora*",
             "tos_url": "",
             "url": "https://diasporafoundation.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1254,15 +1254,15 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
         "slug": "video-voice",
         "projects": [
           {
-            "description": "Client per VoIP e videoconferenze cifrate.",
-            "license_url": "https://en.wikipedia.org/wiki/Linphone#cite_note-4",
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
             "logo": "linphone.png",
             "notes": "",
             "privacy_url": "",
@@ -1379,7 +1379,7 @@
             ]
           },
           {
-            "description": "Secure SIP accounts by the Guardian Project for use with CSipSimple, Jitsi, et al.",
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
             "license_url": "",
             "logo": "ostel.png",
             "notes": "",
@@ -1439,7 +1439,7 @@
         "slug": "vpn-accounts",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -1447,7 +1447,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -1489,10 +1489,10 @@
             ]
           },
           {
-            "description": "Account email protetti e privati.",
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
             "license_url": "",
             "logo": "riseup.png",
-            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nRiseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
             "privacy_url": "https://help.riseup.net/en/privacy-policy",
             "source_url": "http://riseuplabs.org/",
             "name": "Riseup",
@@ -1549,14 +1549,14 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
         "slug": "web-hosting",
         "projects": [
           {
-            "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
             "license_url": "",
             "logo": "autistici-inventati.png",
             "notes": "",
@@ -1564,7 +1564,7 @@
             "source_url": "",
             "name": "Autistici/Inventati",
             "tos_url": "",
-            "url": "http://www.autistici.org/en/index.html",
+            "url": "http://www.autistici.org/it/index.html",
             "wikipedia_url": "",
             "protocols": [
               "SSL/TLS"
@@ -1616,10 +1616,10 @@
         "slug": "web-search",
         "projects": [
           {
-            "description": "Anonymous VPN service for popular search engines like Google, Bing, and Yahoo.",
+            "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
             "license_url": "",
             "logo": "disconnect-search.png",
-            "notes": "The source code can be downloaded for viewing by right clicking \"Get Disconnect Search\" on the official website and selecting \"Save Link As...\".\n\nWith \"search.xpi\" downloaded, change the file extension to \".zip\" and extract it to view the source code.",
+            "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
             "privacy_url": "",
             "source_url": "https://disconnect.me/search",
             "name": "Disconnect Search",
@@ -1653,13 +1653,13 @@
             "description": "Ricerche anonime e non registrate.",
             "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
             "logo": "duckduckgo.png",
-            "notes": "DuckDuckGo is a software-as-a-service (SaaS) hosted around the world that provides you with anonymous search results from [these sources](https://dukgo.com/help/en_US/results/sources). DDG open source components are [available here](https://github.com/duckduckgo).\n\nThere is also a DuckDuckGo hidden service at [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) for Tor users.",
+            "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
             "privacy_url": "https://duckduckgo.com/privacy",
             "source_url": "https://github.com/duckduckgo/duckduckgo",
             "name": "DuckDuckGo",
             "tos_url": "",
             "url": "https://duckduckgo.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDuckGo",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
             "protocols": [
               "SSL/TLS",
               "Tor"
@@ -1689,7 +1689,7 @@
             ]
           },
           {
-            "description": "Ixquick is a metasearch engine based in New York and the Netherlands. ",
+            "description": "Ixquick &egrave; un metamotore di ricerca situato a New York e nei Paesi Bassi. ",
             "license_url": "",
             "logo": "ixquick.png",
             "notes": "",
@@ -1698,7 +1698,7 @@
             "name": "Ixquick",
             "tos_url": "",
             "url": "https://ixquick.com/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Ixquick",
             "protocols": [
               "SSL/TLS"
             ],
@@ -1723,7 +1723,7 @@
             ]
           },
           {
-            "description": "Meta search engine that proxies your queries to multiple search providers.",
+            "description": "Metamotore di ricerca che inoltra le tue richieste via proxy ad altri motori di ricerca.",
             "license_url": "",
             "logo": "metager.png",
             "notes": "",
@@ -1757,10 +1757,10 @@
             ]
           },
           {
-            "description": "Ricerche private e non registrate.",
+            "description": "Ricerche web private e non registrate.",
             "license_url": "",
             "logo": "startpage.png",
-            "notes": "Startpage is a SaaS hosted in the USA and the Netherlands that provides you with anonymous Google search and image results through a free proxy.",
+            "notes": "Startpage &egrave; un SaaS situato in USA e nei Paesi Bassi che offre ricerche Google anonime attraverso un proxy.",
             "privacy_url": "https://startpage.com/eng/protect-privacy.html",
             "source_url": "",
             "name": "Startpage",
@@ -1798,17 +1798,17 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "startpage.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
         "slug": "world-maps",
         "projects": [
           {
-            "description": "The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
+            "description": "La Open Source Routing Machine (OSRM) &egrave; un&#39;implementazione in C++ di un motore per mappe ad alte prestazioni per trovare i percorsi pi&ugrave; brevi nelle reti stradali. Dotata di una licenza permissiva con doppia clausola BSD, OSRM &egrave; un servizio di rete libero. OSRM supporta Linux, FreeBSD, Windows e Mac.",
             "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
             "logo": "osrm.png",
-            "notes": "OSRM should be installed and run locally on your PC to avoid potential data leaks from the unencrypted online service.",
+            "notes": "OSRM dovrebbe essere installato e usato localmente sul tuo PC per evitare possibili fughe di dati dalla versione online del servizio in chiaro.",
             "privacy_url": "",
             "source_url": "https://github.com/DennisOSRM/Project-OSRM",
             "name": "Open Source Routing Machine",
@@ -1881,7 +1881,7 @@
             "name": "OpenStreetMap",
             "tos_url": "",
             "url": "http://www.openstreetmap.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenStreetMap",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenStreetMap",
             "protocols": [],
             "categories": [
               {
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -1921,7 +1921,7 @@
         "name": "diaspora*",
         "tos_url": "",
         "url": "https://diasporafoundation.org/",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
         "protocols": [
           "SSL/TLS"
         ],
@@ -2009,7 +2009,7 @@
       "diaspora.png",
       "movim.png"
     ],
-    "randomLogo": "movim.png"
+    "randomLogo": "diaspora.png"
   },
   "projects": [
     {
@@ -2022,7 +2022,7 @@
       "name": "diaspora*",
       "tos_url": "",
       "url": "https://diasporafoundation.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
       "protocols": [
         "SSL/TLS"
       ],

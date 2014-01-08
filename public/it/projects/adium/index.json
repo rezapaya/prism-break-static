@@ -1,5 +1,5 @@
 {
-  "description": "Programma open source per chat multiprotocollo per OS X.",
+  "description": "Programma per chat multiprotocollo su Apple OS X con supporto OTR.",
   "license_url": "https://trac.adium.im/wiki/Development",
   "logo": "adium.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Adium",
   "tos_url": "",
   "url": "https://adium.im/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Adium",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Adium",
   "protocols": [
     "IRC",
     "OTR",

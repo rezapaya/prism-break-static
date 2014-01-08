@@ -11,7 +11,7 @@
   "slug": "rss",
   "projects": [
     {
-      "description": "Leggero client email con supporto GnuPG.",
+      "description": "Applicazione email leggera e veloce, multipiattaforma, con supporto PGP.",
       "license_url": "http://git.claws-mail.org/?p=claws.git;a=blob;f=COPYING;h=bd673f83dcf2a113448b2adfaf8b72cea97fe0d0;hb=HEAD",
       "logo": "claws-mail.png",
       "notes": "",
@@ -20,7 +20,7 @@
       "name": "Claws Mail",
       "tos_url": "",
       "url": "http://www.claws-mail.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Claws_Mail",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Claws_Mail",
       "protocols": [
         "GPG",
         "RSS",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "description": "Client email e calendario libero.",
+      "description": "Client email, rubrica e calendario per desktop GNOME, con supporto PGP.",
       "license_url": "https://git.gnome.org/browse/evolution/tree/COPYING",
       "logo": "evolution.png",
       "notes": "",
@@ -94,7 +94,7 @@
       "name": "Evolution",
       "tos_url": "",
       "url": "https://projects.gnome.org/evolution/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Evolution_%28software%29",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Evolution_%28software%29",
       "protocols": [
         "CalDAV",
         "GPG",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "description": "Web server sociale libero, open source e distribuito.",
+      "description": "Software per social network libero, open source e distribuito.",
       "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
       "logo": "friendica.png",
       "notes": "",
@@ -153,7 +153,7 @@
       "name": "friendica",
       "tos_url": "",
       "url": "http://friendica.com/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
       "protocols": [
         "RSS",
         "SSL/TLS",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "description": "Client email per ambiente KDE con supporto GnuPG.",
+      "description": "Client email, rubrica, calendario e altro per ambiente KDE con supporto PGP.",
       "license_url": "https://projects.kde.org/projects/kde/kdepim/repository/revisions/master/entry/COPYING",
       "logo": "kontact.png",
       "notes": "",
@@ -197,7 +197,7 @@
       "name": "Kontact",
       "tos_url": "",
       "url": "http://www.kontact.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kontact",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Kontact",
       "protocols": [
         "GPG",
         "RSS",
@@ -247,16 +247,16 @@
       ]
     },
     {
-      "description": "Client email open source.",
+      "description": "Applicazione per email multipiattaforma con supporto alla cifratura tramite il componente aggiuntivo Enigmail.",
       "license_url": "https://www.mozilla.org/MPL/",
       "logo": "mozilla-thunderbird.png",
-      "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/thunderbird_main) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+      "notes": "Thunderbird non cifra le email in modo predefinito. [Qui si trova una guida](https://securityinabox.org/en/thunderbird_main) di Security In A Box per cifrare le tue email con Mozilla Thunderbird, GNU Privacy Guard (GPG) ed Enigmail.\n\nThunderbird pu&ograve; anche connettersi a Tor con l&#39;addon TorBirdy.\n\nSebbene Thunderbird possa essere usato anche come client di chat e IRC, non permette la cifratura dei messaggi.",
       "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
-      "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
+      "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
       "name": "Mozilla Thunderbird",
       "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-      "url": "https://www.mozilla.org/en-US/thunderbird/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird",
+      "url": "https://www.mozilla.org/it/thunderbird/",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mozilla_Thunderbird",
       "protocols": [
         "GPG",
         "IRC",
@@ -373,7 +373,7 @@
       ]
     },
     {
-      "description": "Lightweight and user-friendly e-mail client.",
+      "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
       "license_url": "https://www.gnu.org/copyleft/gpl.html",
       "logo": "sylpheed.png",
       "notes": "",

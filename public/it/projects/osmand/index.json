@@ -1,5 +1,5 @@
 {
-  "description": "OsmAnd (OSM Automated Navigation Directions) is a map and navigation app that uses OpenStreetMap data.",
+  "description": "OsmAnd (OSM Automated Navigation Directions) &egrave; un&#39;applicazione per mappe e navigazione che usa i dati di OpenStreetMap.",
   "license_url": "https://github.com/osmandapp/Osmand/blob/master/LICENSE",
   "logo": "osmand.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "OsmAnd",
   "tos_url": "",
   "url": "http://osmand.net/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/OsmAnd",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/OsmAnd",
   "protocols": [],
   "categories": [
     {

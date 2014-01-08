@@ -1,5 +1,5 @@
 {
-  "description": "Free virtual globe and world atlas.",
+  "description": "Globo virtuale e atlante del mondo, totalmente libero.",
   "license_url": "https://projects.kde.org/projects/kde/kdeedu/marble/repository/revisions/master/entry/LICENSE.txt",
   "logo": "marble.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Marble",
   "tos_url": "",
   "url": "http://marble.kde.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Marble_%28software%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Marble_%28KDE%29",
   "protocols": [],
   "categories": [
     {

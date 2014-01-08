@@ -1,5 +1,5 @@
 {
-  "description": "Simple distro based on CentOS with preconfigured mail, file sharing, web server, and more.",
+  "description": "Semplice distribuzione basata su CentOS con email preconfigurata, condivisione file, web server e altro.",
   "license_url": "http://wiki.contribs.org/SME_Server:Documentation:Developers_Manual:Chapter14#Configuring_your_development_environment",
   "logo": "sme-server.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "SME Server",
   "tos_url": "",
   "url": "http://wiki.contribs.org/Main_Page",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/SME_Server",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/SME_Server",
   "protocols": [],
   "categories": [
     {

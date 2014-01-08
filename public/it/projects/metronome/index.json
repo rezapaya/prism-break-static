@@ -1,5 +1,5 @@
 {
-  "description": "XMPP server based on Prosody, with advanced management/microblogging features.",
+  "description": "Server XMPP basato su Prosody, con gestione avanzata/funzioni di microblogging.",
   "license_url": "https://code.lightwitch.org/metronome/file/f9f76843539a/COPYING",
   "logo": "metronome.png",
   "notes": "",

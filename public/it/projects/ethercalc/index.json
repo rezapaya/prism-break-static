@@ -2,7 +2,7 @@
   "description": "Server per fogli di calcolo multi-utente.",
   "license_url": "https://github.com/audreyt/ethercalc/blob/master/LICENSE.txt",
   "logo": "ethercalc.png",
-  "notes": "The EtherCalc service does not encrypt your data transmission with HTTPS, and there's no privacy policy regarding what is done with your data either. Download and run your own EtherCalc server if you care about privacy.",
+  "notes": "Il servizio EtherCalc non cripta la trasmissione dei dati  con HTTPS e non si trova alcuna politica sulla privacy su ci&ograve; che fanno con i tuoi dati. Scarica e gestisci un server EtherCalc personale se ci tieni alla privacy.",
   "privacy_url": "",
   "source_url": "https://github.com/audreyt/ethercalc",
   "name": "EtherCalc",

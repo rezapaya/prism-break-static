@@ -1,5 +1,5 @@
 {
-  "description": "Cripta le tue comunicazioni con molti importanti siti internet.",
+  "description": "Cripta le tue comunicazioni con molti siti internet forzando una connessione HTTPS.",
   "license_url": "https://gitweb.torproject.org/https-everywhere.git/blob_plain/HEAD:/LICENSE.txt",
   "logo": "https-everywhere.png",
   "notes": "",

@@ -1,5 +1,5 @@
 {
-  "description": "Lightweight and user-friendly e-mail client.",
+  "description": "Applicazione per email multipiattaforma leggera e facile da usare, con supporto PGP integrato.",
   "license_url": "https://www.gnu.org/copyleft/gpl.html",
   "logo": "sylpheed.png",
   "notes": "",

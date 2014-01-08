@@ -1,5 +1,5 @@
 {
-  "description": "Valuta digitale P2P senza un'autorit&agrave; centrale.",
+  "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
   "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
   "logo": "bitcoin.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Bitcoin",
   "tos_url": "",
   "url": "http://bitcoin.org",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
   "protocols": [],
   "categories": [
     {

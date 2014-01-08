@@ -1,8 +1,8 @@
 {
-  "description": "Uses mobile phones, computers, and wireless routers to create decentralized mesh networks.",
+  "description": "Usa cellulari, computer e router wireless per creare mesh network decentralizzate.",
   "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
   "logo": "commotion.png",
-  "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+  "notes": "Fare riferimento al [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
   "privacy_url": "https://commotionwireless.net/about/license-privacy",
   "source_url": "https://github.com/opentechinstitute",
   "name": "Commotion",

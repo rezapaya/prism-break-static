@@ -1,5 +1,5 @@
 {
-  "description": "Open source VoIP/SIP server.",
+  "description": "Server VoIP/SIP open source.",
   "license_url": "http://git.sip-router.org/cgi-bin/gitweb.cgi?p=kamailio;a=blob;f=COPYING;h=5d1f230d079d446cf5c15d1664c31ed2550bcac6;hb=HEAD",
   "logo": "kamailio.png",
   "notes": "",

@@ -1,5 +1,5 @@
 {
-  "description": "Disk encryption subsystem included in the FreeBSD operating system.",
+  "description": "Sottosistema di cifratura del disco incluso nel sistema operativo FreeBSD.",
   "license_url": "http://svnweb.freebsd.org/base/head/etc/rc.d/geli?view=markup&pathrev=239595",
   "logo": "geli.png",
   "notes": "",

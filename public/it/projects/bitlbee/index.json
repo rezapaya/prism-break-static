@@ -1,5 +1,5 @@
 {
-  "description": "IRC instant messaging gateway that supports a bunch of protocols.",
+  "description": "Programma di messaggistica istantanea IRC compatibile con numerosi protocolli.",
   "license_url": "http://code.bitlbee.org/lh/bitlbee/view/head:/COPYING",
   "logo": "bitlbee.png",
   "notes": "",

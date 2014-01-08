@@ -1,5 +1,5 @@
 {
-  "description": "DNS hosting service with DNSCrypt, DNSSec, and Namecoin support.",
+  "description": "Servizio di hosting DNS con supporto a DNSCrypt, DNSSec e Namecoin.",
   "license_url": "",
   "logo": "cloudns.png",
   "notes": "",

@@ -8,7 +8,7 @@
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+            "description": "Byzantium &egrave; una distribuzione live di Linux che offre una mesh network di semplice utilizzo.",
             "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
             "logo": "byzantium.png",
             "notes": "",
@@ -85,7 +85,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "Cjdns &egrave; un protocollo di rete, un sistema di regole digitali per scambio di messaggi tra computer. \"Invece di permettere agli altri computer di connettersi a te tramite un indirizzo IP che tutti possono usare, cjdns permette ai computer di comunicare solo dopo aver verificato l&#39;un l&#39;altro in modo criptato. ",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -152,10 +152,10 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Uses mobile phones, computers, and wireless routers to create decentralized mesh networks.",
+            "description": "Usa cellulari, computer e router wireless per creare mesh network decentralizzate.",
             "license_url": "https://github.com/opentechinstitute/commotion-openwrt/blob/master/LICENSE",
             "logo": "commotion.png",
-            "notes": "Please read [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
+            "notes": "Fare riferimento al [Commotion's Warning Label](https://commotionwireless.net/understanding-commotions-warning-label).",
             "privacy_url": "https://commotionwireless.net/about/license-privacy",
             "source_url": "https://github.com/opentechinstitute",
             "name": "Commotion",
@@ -229,7 +229,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "A non-commercial open grassroots initiative to support free radio networks around the world.",
+            "description": "Un&#39;iniziativa non commerciale di origine popolare per supportare reti radio libere in tutto il mondo.",
             "license_url": "https://github.com/freifunk/meshkit/blob/master/LICENSE",
             "logo": "freifunk.png",
             "notes": "",
@@ -238,7 +238,7 @@
             "name": "Freifunk",
             "tos_url": "",
             "url": "http://wiki.freifunk.net/Kategorie:English",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Freifunk",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Freifunk",
             "protocols": [],
             "categories": [
               {
@@ -256,7 +256,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Open, free and neutral wireless network for everyone.",
+            "description": "Reti wireless aperte, libere e neutrali per tutti.",
             "license_url": "https://github.com/freifunk/meshkit/blob/master/LICENSE",
             "logo": "guifi.png",
             "notes": "",
@@ -283,7 +283,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Free software daemon that uses tunnelling and encryption to create a secure private network",
+            "description": "Software demone libero che usa il tunnelling e la cifratura pre creare una rete privata sicura.",
             "license_url": "http://tinc-vpn.org/git/browse?p=tinc;a=blob;f=COPYING.README;h=2eb9c1facc212244a4103f9f9b81149c6f6a9d44;hb=HEAD",
             "logo": "tinc.png",
             "notes": "",
@@ -346,14 +346,14 @@
           "guifi.png",
           "tinc.png"
         ],
-        "randomLogo": "freifunk.png"
+        "randomLogo": "guifi.png"
       },
       {
         "name": "Operating Systems",
         "slug": "operating-systems",
         "projects": [
           {
-            "description": "A secure BSD operating system.",
+            "description": "Un sistema operativo BSD sicuro.",
             "license_url": "http://openbsd.org/policy.html",
             "logo": "openbsd.png",
             "notes": "",
@@ -362,7 +362,7 @@
             "name": "OpenBSD",
             "tos_url": "",
             "url": "http://openbsd.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenBSD",
             "protocols": [],
             "categories": [
               {
@@ -410,7 +410,7 @@
         "slug": "vpn",
         "projects": [
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -419,7 +419,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -514,7 +514,7 @@
         "slug": "vpn-servers",
         "projects": [
           {
-            "description": "Free software VPN client.",
+            "description": "Client VPN libero.",
             "license_url": "https://github.com/OpenVPN/openvpn/blob/master/COPYING",
             "logo": "openvpn.png",
             "notes": "",
@@ -523,7 +523,7 @@
             "name": "OpenVPN",
             "tos_url": "",
             "url": "http://openvpn.net/index.php/open-source.html",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenVPN",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenVPN",
             "protocols": [
               "SSL/TLS"
             ],
@@ -608,7 +608,7 @@
             ]
           },
           {
-            "description": "Free software daemon that uses tunnelling and encryption to create a secure private network",
+            "description": "Software demone libero che usa il tunnelling e la cifratura pre creare una rete privata sicura.",
             "license_url": "http://tinc-vpn.org/git/browse?p=tinc;a=blob;f=COPYING.README;h=2eb9c1facc212244a4103f9f9b81149c6f6a9d44;hb=HEAD",
             "logo": "tinc.png",
             "notes": "",
@@ -676,7 +676,7 @@
     "slug": "operating-systems",
     "projects": [
       {
-        "description": "A secure BSD operating system.",
+        "description": "Un sistema operativo BSD sicuro.",
         "license_url": "http://openbsd.org/policy.html",
         "logo": "openbsd.png",
         "notes": "",
@@ -685,7 +685,7 @@
         "name": "OpenBSD",
         "tos_url": "",
         "url": "http://openbsd.org/",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/OpenBSD",
         "protocols": [],
         "categories": [
           {
@@ -730,7 +730,7 @@
   },
   "projects": [
     {
-      "description": "A secure BSD operating system.",
+      "description": "Un sistema operativo BSD sicuro.",
       "license_url": "http://openbsd.org/policy.html",
       "logo": "openbsd.png",
       "notes": "",
@@ -739,7 +739,7 @@
       "name": "OpenBSD",
       "tos_url": "",
       "url": "http://openbsd.org/",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/OpenBSD",
       "protocols": [],
       "categories": [
         {

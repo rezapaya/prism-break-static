@@ -1,5 +1,5 @@
 {
-  "description": "Web server sociale libero, open source e distribuito.",
+  "description": "Software per social network libero, open source e distribuito.",
   "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
   "logo": "friendica.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "friendica",
   "tos_url": "",
   "url": "http://friendica.com/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Friendica",
   "protocols": [
     "RSS",
     "SSL/TLS",

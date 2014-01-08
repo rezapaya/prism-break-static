@@ -1,5 +1,5 @@
 {
-  "description": "Blocca gli annunci pubblicitari sul web",
+  "description": "Blocca gli annunci pubblicitari e i tracker sul web.",
   "license_url": "https://bitbucket.org/adstomper/adblockedge/src/a7aaa868e017c1cd35b400813319d2084da3d418/LICENSE?at=default",
   "logo": "adblock-edge.png",
   "notes": "",
@@ -7,7 +7,7 @@
   "source_url": "https://bitbucket.org/adstomper/adblockedge/",
   "name": "Adblock Edge",
   "tos_url": "",
-  "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/",
+  "url": "https://addons.mozilla.org/it/firefox/addon/adblock-edge/",
   "wikipedia_url": "",
   "protocols": [],
   "categories": [

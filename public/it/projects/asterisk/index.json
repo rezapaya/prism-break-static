@@ -1,5 +1,5 @@
 {
-  "description": "PBX implementation with VoIP/SIP support.",
+  "description": "Implementazione PBX con supporto VoIP/SIP.",
   "license_url": "http://svnview.digium.com/svn/asterisk/trunk/LICENSE?view=markup",
   "logo": "asterisk.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "Asterisk",
   "tos_url": "",
   "url": "http://www.asterisk.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Asterisk_%28PBX%29",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Asterisk_PBX",
   "protocols": [
     "SIP",
     "VoIP"

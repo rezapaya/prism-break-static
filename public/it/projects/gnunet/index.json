@@ -1,5 +1,5 @@
 {
-  "description": "GNUnet is a fully free P2P network.",
+  "description": "GNUnet &egrave; una rete P2P completamente libera.",
   "license_url": "https://gnunet.org/svn/gnunet/COPYING",
   "logo": "gnunet.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "GNUnet",
   "tos_url": "",
   "url": "https://gnunet.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/GNUnet",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/GNUnet",
   "protocols": [
     "SSL/TLS"
   ],

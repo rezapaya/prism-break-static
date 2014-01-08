@@ -1,8 +1,8 @@
 {
-  "description": "Open, democratic, and anti-censorship DNS provider.",
+  "description": "Provider DNS aperto, democratico e contro la censura.",
   "license_url": "",
   "logo": "opennic.png",
-  "notes": "OpenNIC has not adopted an official policy concerning log query privacy/anonymization. More information [here](http://wiki.opennicproject.org/Tier2).",
+  "notes": "OpenNIC non ha adottato una politica ufficiale sulla privacy/anonimizzazione delle richieste inviate. Maggiori informazioni [qui](http://wiki.opennicproject.org/Tier2).",
   "privacy_url": "http://wiki.opennicproject.org/Tier2",
   "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
   "name": "OpenNIC",

@@ -1,5 +1,5 @@
 {
-  "description": "XMPP server written in Erlang/OTP for GNU/Linux and OS X.",
+  "description": "Server XMPP scritto in Erlang/OTP per GNU/Linux e OS X.",
   "license_url": "https://github.com/processone/ejabberd/blob/master/COPYING",
   "logo": "ejabberd.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "ejabberd",
   "tos_url": "",
   "url": "http://www.ejabberd.im/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Ejabberd",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/Ejabberd",
   "protocols": [
     "XMPP"
   ],

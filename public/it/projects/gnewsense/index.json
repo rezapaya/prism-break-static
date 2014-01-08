@@ -1,5 +1,5 @@
 {
-  "description": "Distribuzione GNU/Linux basata su Debian.",
+  "description": "Distribuzione GNU/Linux completamente libera basata su Debian.",
   "license_url": "http://www.gnewsense.org/Documentation/3/AboutgNewSense/WhatIsgNewSense#Community_Guidelines",
   "logo": "gnewsense.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "gNewSense",
   "tos_url": "",
   "url": "http://www.gnewsense.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/GNewSense",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/GNewSense",
   "protocols": [],
   "categories": [
     {

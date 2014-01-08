@@ -1,5 +1,5 @@
 {
-  "description": "Una vasta gamma di servizi gratuiti di anonimizzazione, sicurezza e privacy",
+  "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
   "license_url": "",
   "logo": "autistici-inventati.png",
   "notes": "",
@@ -7,7 +7,7 @@
   "source_url": "",
   "name": "Autistici/Inventati",
   "tos_url": "",
-  "url": "http://www.autistici.org/en/index.html",
+  "url": "http://www.autistici.org/it/index.html",
   "wikipedia_url": "",
   "protocols": [
     "SSL/TLS"

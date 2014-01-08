@@ -1,5 +1,5 @@
 {
-  "description": "Messaggistica anonima e decentralizzata P2P basata su Tor Hidden Services",
+  "description": "Chat P2P anonima costruita sui Servizi Nascosti di Tor (non sponsorizzata dal Tor Project)",
   "license_url": "https://www.gnu.org/copyleft/gpl.html",
   "logo": "torchat.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "TorChat",
   "tos_url": "",
   "url": "https://github.com/prof7bit/TorChat/wiki",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/TorChat",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/TorChat",
   "protocols": [
     "Tor"
   ],

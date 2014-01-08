@@ -1,5 +1,5 @@
 {
-  "description": "NetBSD is an open-source Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
+  "description": "NetBSD &egrave; un sistema operativo Unix-like open source che discende dalla Berkeley Software Distribution (BSD), una derivata di Unix sviluppata nell&#39;Universit&agrave; della California, Berkeley. &Egrave; stato il secondo discendente BSD open source ad essere pubblicato ufficialmente, dopo 386BSD, e il suo sviluppo continua tuttora. Il progetto NetBSD &egrave; incentrato principalmente su un design accattivante, stabilit&agrave; e prestazioni del sistema. ",
   "license_url": "https://www.netbsd.org/about/redistribution.html",
   "logo": "netbsd.png",
   "notes": "",
@@ -8,7 +8,7 @@
   "name": "NetBSD",
   "tos_url": "",
   "url": "https://www.netbsd.org/",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/NetBSD",
+  "wikipedia_url": "https://it.wikipedia.org/wiki/NetBSD",
   "protocols": [],
   "categories": [
     {
