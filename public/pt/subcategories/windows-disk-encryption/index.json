@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gpg4win.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1855,7 +1855,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2798,7 +2798,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "torchat.png"
+        "randomLogo": "pidgin.png"
       },
       {
         "name": "IRC",
@@ -3237,7 +3237,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "pidgin.png"
       },
       {
         "name": "Mesh Networks",
@@ -3402,7 +3402,7 @@
           "byzantium.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -4092,7 +4092,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "linux-mint.png"
+        "randomLogo": "gentoo.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4329,7 +4329,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -4623,7 +4623,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -5999,7 +5999,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6164,7 +6164,7 @@
       "encfs.png",
       "truecrypt.png"
     ],
-    "randomLogo": "truecrypt.png"
+    "randomLogo": "encfs.png"
   },
   "projects": [
     {
@@ -6323,10 +6323,11 @@
     {
       "status": "rejected",
       "tags": [
-        "Proprietary"
+        "Proprietary",
+        "PRISM"
       ],
-      "logo": "mcafee.png",
-      "name": "McAfee Endpoint Encryption",
+      "logo": "ms-bitlocker.png",
+      "name": "BitLocker Drive Encryption",
       "categories": [
         {
           "name": "Windows",
@@ -6339,11 +6340,10 @@
     {
       "status": "rejected",
       "tags": [
-        "Proprietary",
-        "PRISM"
+        "Proprietary"
       ],
-      "logo": "ms-bitlocker.png",
-      "name": "BitLocker Drive Encryption",
+      "logo": "mcafee.png",
+      "name": "McAfee Endpoint Encryption",
       "categories": [
         {
           "name": "Windows",

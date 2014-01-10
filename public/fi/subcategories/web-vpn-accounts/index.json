@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
@@ -406,7 +406,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
@@ -928,7 +928,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Productivity",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Social Networks",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "disconnect-search.png"
+        "randomLogo": "metager.png"
       },
       {
         "name": "World Maps",
@@ -2022,7 +2022,7 @@
       "autistici-inventati.png",
       "riseup.png"
     ],
-    "randomLogo": "riseup.png"
+    "randomLogo": "autistici-inventati.png"
   },
   "projects": [
     {

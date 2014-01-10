@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "luks.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "pydio.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Groupware",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "kolab.png"
+        "randomLogo": "iredmail.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediagoblin.png"
+        "randomLogo": "piwigo.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "centos.png"
+        "randomLogo": "freedombox.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "asterisk.png"
+        "randomLogo": "kamailio.png"
       },
       {
         "name": "Social Networks",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "pumpio.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openswan.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "ejabberd.png"
+        "randomLogo": "prosody.png"
       }
     ]
   },
@@ -4164,7 +4164,7 @@
       "name": "Apple FaceTime",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Video & Voice"
           ]
@@ -4199,11 +4199,10 @@
       "name": "Facebook",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Email Accounts",
             "Instant Messaging",
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -4213,7 +4212,6 @@
           "subcategories": [
             "Email Server",
             "Instant Messaging",
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -4230,9 +4228,8 @@
       "name": "Google+",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -4240,7 +4237,6 @@
         {
           "name": "Servers",
           "subcategories": [
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -4257,7 +4253,7 @@
       "name": "Skype",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging",
             "Video & Voice"

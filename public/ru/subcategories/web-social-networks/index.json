@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Social Networks",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2106,5 +2106,104 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "facebook.png",
+      "name": "Facebook",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Server",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-plus.png",
+      "name": "Google+",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Social Networks",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Social Networks",
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "linkedin.png",
+      "name": "LinkedIn",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Social Networks"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Social Networks"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "twitter.png",
+      "name": "Twitter",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Social Networks"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Social Networks"
+          ]
+        }
+      ]
+    }
+  ]
 }

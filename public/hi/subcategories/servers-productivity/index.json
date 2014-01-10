@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "buddycloud.png"
       },
       {
         "name": "Groupware",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "kolab.png"
+        "randomLogo": "iredmail.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "exim.png"
+        "randomLogo": "postfix.png"
       },
       {
         "name": "Media Publishing",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "wordpress.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "librevpn.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Raspberry Pi",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "open-web-analytics.png"
+        "randomLogo": "piwik.png"
       },
       {
         "name": "XMPP Servers",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "openfire.png"
+        "randomLogo": "prosody.png"
       }
     ]
   },
@@ -4071,7 +4071,7 @@
       "ethercalc.png",
       "etherpad.png"
     ],
-    "randomLogo": "dudle.png"
+    "randomLogo": "ethercalc.png"
   },
   "projects": [
     {
@@ -4203,7 +4203,7 @@
       "name": "Doodle",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Productivity"
           ]
@@ -4225,7 +4225,7 @@
       "name": "Evernote",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Productivity"
           ]
@@ -4265,23 +4265,6 @@
     {
       "status": "rejected",
       "tags": [
-        "Proprietary"
-      ],
-      "logo": "groupwise.png",
-      "name": "Novell Groupwise",
-      "categories": [
-        {
-          "name": "Servers",
-          "subcategories": [
-            "Email Servers",
-            "Productivity"
-          ]
-        }
-      ]
-    },
-    {
-      "status": "rejected",
-      "tags": [
         "Proprietary",
         "PRISM"
       ],
@@ -4289,7 +4272,7 @@
       "name": "Microsoft Office Web Apps",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Productivity"
           ]
@@ -4307,11 +4290,28 @@
       "tags": [
         "Proprietary"
       ],
+      "logo": "groupwise.png",
+      "name": "Novell Groupwise",
+      "categories": [
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Servers",
+            "Productivity"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
       "logo": "zoho.png",
       "name": "Zoho Office Suite",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Productivity"
           ]

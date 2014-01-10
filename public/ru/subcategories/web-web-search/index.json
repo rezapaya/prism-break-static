@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Social Networks",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2273,5 +2273,40 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google.png",
+      "name": "Google Search",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-bing.png",
+      "name": "Microsoft Bing",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    }
+  ]
 }

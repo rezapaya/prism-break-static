@@ -1578,7 +1578,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "VPN Clients",
@@ -2495,7 +2495,7 @@
       "name": "AOL Instant Messenger",
       "categories": [
         {
-          "name": "Service",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging"
           ]
@@ -2542,7 +2542,7 @@
       "name": "Skype",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging",
             "Video & Voice"

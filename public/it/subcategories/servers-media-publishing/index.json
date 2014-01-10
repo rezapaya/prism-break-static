@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Communication Protocols",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "namecoin.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "tahoe-lafs.png"
+        "randomLogo": "owncloud.png"
       },
       {
         "name": "Groupware",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "postfix.png"
+        "randomLogo": "exim.png"
       },
       {
         "name": "Media Publishing",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "scientific-linux.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "asterisk.png"
+        "randomLogo": "kamailio.png"
       },
       {
         "name": "Social Networks",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "gnu-social.png"
+        "randomLogo": "lorea.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "libreswan.png"
+        "randomLogo": "strongswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "ejabberd.png"
+        "randomLogo": "tigase.png"
       }
     ]
   },
@@ -4435,11 +4435,11 @@
         "Proprietary",
         "PRISM"
       ],
-      "logo": "facebook-instagram.png",
-      "name": "Instagram",
+      "logo": "yahoo-flickr.png",
+      "name": "Flickr",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Media Publishing"
           ]
@@ -4458,27 +4458,19 @@
         "Proprietary",
         "PRISM"
       ],
-      "logo": "facebook.png",
-      "name": "Facebook",
+      "logo": "facebook-instagram.png",
+      "name": "Instagram",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
-            "Email Accounts",
-            "Instant Messaging",
-            "Media Publishing",
-            "Social Networks",
-            "Video & Voice"
+            "Media Publishing"
           ]
         },
         {
           "name": "Servers",
           "subcategories": [
-            "Email Server",
-            "Instant Messaging",
-            "Media Publishing",
-            "Social Networks",
-            "Video & Voice"
+            "Media Publishing"
           ]
         }
       ]
@@ -4493,7 +4485,7 @@
       "name": "Picasa",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Media Publishing"
           ]
@@ -4533,41 +4525,13 @@
     {
       "status": "rejected",
       "tags": [
-        "Proprietary",
-        "PRISM"
+        "Proprietary"
       ],
-      "logo": "google-plus.png",
-      "name": "Google+",
+      "logo": "yahoo-tumblr.png",
+      "name": "Tumblr",
       "categories": [
         {
-          "name": "Web Services",
-          "subcategories": [
-            "Media Publishing",
-            "Social Networks",
-            "Video & Voice"
-          ]
-        },
-        {
-          "name": "Servers",
-          "subcategories": [
-            "Media Publishing",
-            "Social Networks",
-            "Video & Voice"
-          ]
-        }
-      ]
-    },
-    {
-      "status": "rejected",
-      "tags": [
-        "Proprietary",
-        "PRISM"
-      ],
-      "logo": "google-youtube.png",
-      "name": "YouTube",
-      "categories": [
-        {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Media Publishing"
           ]
@@ -4589,7 +4553,7 @@
       "name": "Vimeo",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Media Publishing"
           ]
@@ -4608,33 +4572,11 @@
         "Proprietary",
         "PRISM"
       ],
-      "logo": "yahoo-flickr.png",
-      "name": "Flickr",
+      "logo": "google-youtube.png",
+      "name": "YouTube",
       "categories": [
         {
-          "name": "Web Services",
-          "subcategories": [
-            "Media Publishing"
-          ]
-        },
-        {
-          "name": "Servers",
-          "subcategories": [
-            "Media Publishing"
-          ]
-        }
-      ]
-    },
-    {
-      "status": "rejected",
-      "tags": [
-        "Proprietary"
-      ],
-      "logo": "yahoo-tumblr.png",
-      "name": "Tumblr",
-      "categories": [
-        {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Media Publishing"
           ]

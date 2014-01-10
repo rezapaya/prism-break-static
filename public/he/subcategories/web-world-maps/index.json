@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Media Publishing",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -2108,5 +2108,88 @@
       "protocolsSlugged": []
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "apple-maps.png",
+      "name": "Apple Maps",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "World Maps"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-earth.png",
+      "name": "Google Earth",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Android",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Linux",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            "World Maps"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "World Maps"
+          ]
+        }
+      ]
+    }
+  ]
 }

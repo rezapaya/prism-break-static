@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -726,15 +726,16 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "diskcryptor.png",
+      "randomLogo": "truecrypt.png",
       "projectsRejected": [
         {
           "status": "rejected",
           "tags": [
-            "Proprietary"
+            "Proprietary",
+            "PRISM"
           ],
-          "logo": "mcafee.png",
-          "name": "McAfee Endpoint Encryption",
+          "logo": "ms-bitlocker.png",
+          "name": "BitLocker Drive Encryption",
           "categories": [
             {
               "name": "Windows",
@@ -747,11 +748,10 @@
         {
           "status": "rejected",
           "tags": [
-            "Proprietary",
-            "PRISM"
+            "Proprietary"
           ],
-          "logo": "ms-bitlocker.png",
-          "name": "BitLocker Drive Encryption",
+          "logo": "mcafee.png",
+          "name": "McAfee Endpoint Encryption",
           "categories": [
             {
               "name": "Windows",
@@ -1308,7 +1308,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "kontact.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1655,7 +1655,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "gpg4win.png",
       "projectsRejected": []
     },
     {
@@ -1798,7 +1798,7 @@
         "git-annex.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1839,7 +1839,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1892,7 +1892,7 @@
           "name": "Google Drive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1939,7 +1939,7 @@
           "name": "Microsoft SkyDrive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -3105,7 +3105,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "otr.png",
+      "randomLogo": "psi-plus.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3116,7 +3116,7 @@
           "name": "AOL Instant Messenger",
           "categories": [
             {
-              "name": "Service",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging"
               ]
@@ -3163,7 +3163,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -3720,7 +3720,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -3886,7 +3886,7 @@
         "byzantium.png",
         "commotion.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "byzantium.png",
       "projectsRejected": []
     },
     {
@@ -4577,7 +4577,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "dragonfly-bsd.png",
+      "randomLogo": "arch-linux.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4839,7 +4839,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -5134,7 +5134,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -5445,7 +5445,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5457,7 +5457,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -6219,7 +6219,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "adblock-edge.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": []
     },
     {
@@ -6444,7 +6444,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6735,7 +6735,7 @@
         "marble.png",
         "osrm.png"
       ],
-      "randomLogo": "marble.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6747,7 +6747,7 @@
           "name": "Google Earth",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "World Maps"
               ]

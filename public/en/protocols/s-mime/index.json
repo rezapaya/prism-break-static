@@ -70,7 +70,7 @@
       ]
     },
     {
-      "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+      "description": "A port of GnuPG 2.1 to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
       "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
       "logo": "gnupg-for-android.png",
       "notes": "",

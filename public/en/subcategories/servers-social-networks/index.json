@@ -404,7 +404,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Communication Protocols",
@@ -530,7 +530,7 @@
         "slug": "disk-encryption",
         "projects": [
           {
-            "description": "LUKS is a convenience and ease-of-use layer for use on top of dm-crypt.",
+            "description": "A convenience and ease-of-use layer for use on top of dm-crypt.",
             "license_url": "https://code.google.com/p/cryptsetup/source/browse/COPYING",
             "logo": "luks.png",
             "notes": "Gentoo maintains [a guide](https://wiki.gentoo.org/wiki/DM-Crypt_LUKS) for dm-crypt with LUKS.\n\nArch Linux also maintains [a guide](https://wiki.archlinux.org/index.php/Dm-crypt_with_LUKS) to dm-crypt with LUKS.\n\ndm-crypt is available for DragonFly BSD.",
@@ -706,14 +706,14 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
         "slug": "dns",
         "projects": [
           {
-            "description": "A tool to secure communications between a client and a DNS resolver.",
+            "description": "Secure communications between a client and a DNS resolver.",
             "license_url": "https://github.com/jedisct1/dnscrypt-proxy/blob/master/COPYING",
             "logo": "dnscrypt.png",
             "notes": "",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1353,7 +1353,7 @@
         "slug": "media-publishing",
         "projects": [
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Client-side encrypted image hosting",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
             "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
@@ -1407,10 +1407,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Fast image, audio, and video hosting",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Warning: MediaCrush includes Google Analytics if you do not enable Do Not Track.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -1595,14 +1595,14 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediagoblin.png"
+        "randomLogo": "piwigo.png"
       },
       {
         "name": "Mesh Networks",
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+            "description": "Live Linux distribution that delivers easy-to-use mesh networking.",
             "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
             "logo": "byzantium.png",
             "notes": "",
@@ -1679,7 +1679,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "A networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically.",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -1929,7 +1929,7 @@
         "slug": "operating-systems",
         "projects": [
           {
-            "description": "arkOS is a lightweight software stack that runs on a Raspberry Pi to securely self-host your websites, email, files and more.",
+            "description": "Lightweight self-hosting for websites, email, files, and more on Raspberry Pi",
             "license_url": "https://github.com/cznweb/genesis/blob/master/LICENSE",
             "logo": "arkos.png",
             "notes": "",
@@ -1960,7 +1960,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Enterprise class computing platform with 100% binary compatbility with RHEL.",
+            "description": "REHL-compatible enterprise computing platform.",
             "license_url": "http://mirror.centos.org/centos/6/os/x86_64/GPL",
             "logo": "centos.png",
             "notes": "",
@@ -2044,7 +2044,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "DragonFly BSD is a free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
+            "description": "Free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
             "license_url": "https://www.dragonflybsd.org/docs/developer/DragonFly_BSD_License/",
             "logo": "dragonfly-bsd.png",
             "notes": "",
@@ -2158,7 +2158,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "Privacy protection on a cheap plug server so everybody can have privacy.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -2206,7 +2206,7 @@
             ]
           },
           {
-            "description": "NetBSD is an open-source Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
+            "description": "Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
             "license_url": "https://www.netbsd.org/about/redistribution.html",
             "logo": "netbsd.png",
             "notes": "",
@@ -2367,7 +2367,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Scientific Linux (SL) is a Linux distribution produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN). ",
+            "description": "Linux distribution produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN). ",
             "license_url": "https://www.scientificlinux.org/documentation/faq/legal",
             "logo": "scientific-linux.png",
             "notes": "",
@@ -2462,14 +2462,14 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "scientific-linux.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "Productivity",
         "slug": "productivity",
         "projects": [
           {
-            "description": "A free securely-hosted online poll with an optional privacy-enhanced version.",
+            "description": "A free online poll with an optional privacy-enhanced version.",
             "license_url": "https://dudle.inf.tu-dresden.de/about.cgi",
             "logo": "dudle.png",
             "notes": "",
@@ -2592,14 +2592,14 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Raspberry Pi",
         "slug": "raspberry-pi",
         "projects": [
           {
-            "description": "arkOS is a lightweight software stack that runs on a Raspberry Pi to securely self-host your websites, email, files and more.",
+            "description": "Lightweight self-hosting for websites, email, files, and more on Raspberry Pi",
             "license_url": "https://github.com/cznweb/genesis/blob/master/LICENSE",
             "logo": "arkos.png",
             "notes": "",
@@ -2630,7 +2630,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "Privacy protection on a cheap plug server so everybody can have privacy.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -2910,7 +2910,7 @@
             ]
           },
           {
-            "description": "Privacy respecting, distributed, federated social network.",
+            "description": "Distributed, federated social network.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "friendica.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "libreswan.png"
+        "randomLogo": "strongswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "open-web-analytics.png"
+        "randomLogo": "piwik.png"
       },
       {
         "name": "XMPP Servers",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "tigase.png"
+        "randomLogo": "ejabberd.png"
       }
     ]
   },
@@ -4035,7 +4035,7 @@
         ]
       },
       {
-        "description": "Privacy respecting, distributed, federated social network.",
+        "description": "Distributed, federated social network.",
         "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
         "logo": "friendica.png",
         "notes": "",
@@ -4462,7 +4462,7 @@
       "sat.png",
       "syndie.png"
     ],
-    "randomLogo": "diaspora.png"
+    "randomLogo": "friendica.png"
   },
   "projects": [
     {
@@ -4553,7 +4553,7 @@
       ]
     },
     {
-      "description": "Privacy respecting, distributed, federated social network.",
+      "description": "Distributed, federated social network.",
       "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
       "logo": "friendica.png",
       "notes": "",
@@ -4979,11 +4979,10 @@
       "name": "Facebook",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Email Accounts",
             "Instant Messaging",
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -4993,7 +4992,6 @@
           "subcategories": [
             "Email Server",
             "Instant Messaging",
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -5010,9 +5008,8 @@
       "name": "Google+",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -5020,7 +5017,6 @@
         {
           "name": "Servers",
           "subcategories": [
-            "Media Publishing",
             "Social Networks",
             "Video & Voice"
           ]
@@ -5036,7 +5032,7 @@
       "name": "LinkedIn",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Social Networks"
           ]
@@ -5058,7 +5054,7 @@
       "name": "Twitter",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Social Networks"
           ]

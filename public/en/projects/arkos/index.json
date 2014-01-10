@@ -1,5 +1,5 @@
 {
-  "description": "arkOS is a lightweight software stack that runs on a Raspberry Pi to securely self-host your websites, email, files and more.",
+  "description": "Lightweight self-hosting for websites, email, files, and more on Raspberry Pi",
   "license_url": "https://github.com/cznweb/genesis/blob/master/LICENSE",
   "logo": "arkos.png",
   "notes": "",

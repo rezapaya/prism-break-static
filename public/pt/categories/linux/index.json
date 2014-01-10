@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -976,7 +976,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "bitmessage.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -1383,7 +1383,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "kontact.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -1824,7 +1824,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -2052,7 +2052,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -3041,7 +3041,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3053,7 +3053,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -3542,7 +3542,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -3870,7 +3870,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -4387,7 +4387,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "whonix.png",
+      "randomLogo": "arch-linux.png",
       "projectsRejected": []
     },
     {
@@ -4625,7 +4625,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -4920,7 +4920,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -5243,7 +5243,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -5983,7 +5983,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "request-policy.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -6380,7 +6380,7 @@
         "seeks-project.png",
         "yacy.png"
       ],
-      "randomLogo": "seeks-project.png",
+      "randomLogo": "yacy.png",
       "projectsRejected": []
     },
     {
@@ -6518,7 +6518,7 @@
           "name": "Google Earth",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "World Maps"
               ]

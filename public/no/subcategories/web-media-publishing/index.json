@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -406,7 +406,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Social Networks",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "openstreetmap.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -2217,5 +2217,198 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "yahoo-flickr.png",
+      "name": "Flickr",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "imgur.png",
+      "name": "Imgur",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "facebook-instagram.png",
+      "name": "Instagram",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "minus.png",
+      "name": "Minus",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-picasa.png",
+      "name": "Picasa",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Android",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "yahoo-tumblr.png",
+      "name": "Tumblr",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "vimeo.png",
+      "name": "Vimeo",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-youtube.png",
+      "name": "YouTube",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Media Publishing"
+          ]
+        }
+      ]
+    }
+  ]
 }

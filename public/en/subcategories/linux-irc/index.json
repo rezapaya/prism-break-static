@@ -404,7 +404,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Digital Distribution",
@@ -540,7 +540,7 @@
         "slug": "disk-encryption",
         "projects": [
           {
-            "description": "LUKS is a convenience and ease-of-use layer for use on top of dm-crypt.",
+            "description": "A convenience and ease-of-use layer for use on top of dm-crypt.",
             "license_url": "https://code.google.com/p/cryptsetup/source/browse/COPYING",
             "logo": "luks.png",
             "notes": "Gentoo maintains [a guide](https://wiki.gentoo.org/wiki/DM-Crypt_LUKS) for dm-crypt with LUKS.\n\nArch Linux also maintains [a guide](https://wiki.archlinux.org/index.php/Dm-crypt_with_LUKS) to dm-crypt with LUKS.\n\ndm-crypt is available for DragonFly BSD.",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "evolution.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1743,7 +1743,7 @@
           "git-annex.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "git-annex.png"
       },
       {
         "name": "Finance",
@@ -1837,7 +1837,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "Please note that new, digital currencies may be very volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
@@ -1928,7 +1928,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2025,7 +2025,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Encrypted instant messaging within your web browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -2916,7 +2916,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "psi-plus.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "IRC",
@@ -3355,14 +3355,14 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
         "slug": "mesh-networks",
         "projects": [
           {
-            "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+            "description": "Live Linux distribution that delivers easy-to-use mesh networking.",
             "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
             "logo": "byzantium.png",
             "notes": "",
@@ -3439,7 +3439,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+            "description": "A networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically.",
             "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
             "logo": "cjdns.png",
             "notes": "",
@@ -3682,7 +3682,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -4198,7 +4198,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gnewsense.png"
+        "randomLogo": "debian.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4435,7 +4435,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4729,7 +4729,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -5039,7 +5039,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5207,7 +5207,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Encrypted instant messaging within your web browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -5699,7 +5699,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "https-everywhere.png"
       },
       {
         "name": "Web Browsers",
@@ -5923,7 +5923,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -6062,7 +6062,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
+            "description": "C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
             "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
             "logo": "osrm.png",
             "notes": "OSRM should be installed and run locally on your PC to avoid potential data leaks from the unencrypted online service.",
@@ -6133,7 +6133,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6574,7 +6574,7 @@
       "pidgin.png",
       "weechat.png"
     ],
-    "randomLogo": "mozilla-thunderbird.png"
+    "randomLogo": "bitlbee.png"
   },
   "projects": [
     {

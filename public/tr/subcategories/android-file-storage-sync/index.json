@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "openpgp-keychain.png"
+        "randomLogo": "gnupg-for-android.png"
       },
       {
         "name": "File Storage & Sync",
@@ -633,7 +633,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -905,7 +905,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "xabber.png"
       },
       {
         "name": "Mesh Networks",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -1827,7 +1827,7 @@
           "disconnect.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -2123,7 +2123,7 @@
       "name": "Dropbox",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -2176,7 +2176,7 @@
       "name": "Google Drive",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -2223,7 +2223,7 @@
       "name": "Microsoft SkyDrive",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "File Storage & Sync"
           ]

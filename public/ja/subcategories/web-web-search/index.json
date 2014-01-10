@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -928,7 +928,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Productivity",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "protextedtext.png"
       },
       {
         "name": "Social Networks",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "disconnect-search.png"
       },
       {
         "name": "World Maps",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2094,7 +2094,7 @@
       "metager.png",
       "startpage.png"
     ],
-    "randomLogo": "metager.png"
+    "randomLogo": "disconnect-search.png"
   },
   "projects": [
     {
@@ -2273,5 +2273,40 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google.png",
+      "name": "Google Search",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-bing.png",
+      "name": "Microsoft Bing",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    }
+  ]
 }

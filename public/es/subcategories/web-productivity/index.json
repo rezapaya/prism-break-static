@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -406,7 +406,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Media Publishing",
@@ -928,7 +928,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Productivity",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Social Networks",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "ixquick.png"
+        "randomLogo": "disconnect-search.png"
       },
       {
         "name": "World Maps",
@@ -2127,7 +2127,7 @@
       "protextedtext.png",
       "riseup.png"
     ],
-    "randomLogo": "dudle.png"
+    "randomLogo": "riseup.png"
   },
   "projects": [
     {
@@ -2339,5 +2339,119 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "doodle.png",
+      "name": "Doodle",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Productivity"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "evernote.png",
+      "name": "Evernote",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Android",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Productivity"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-office.png",
+      "name": "Microsoft Office Web Apps",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Productivity"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "zoho.png",
+      "name": "Zoho Office Suite",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Productivity"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Productivity"
+          ]
+        }
+      ]
+    }
+  ]
 }

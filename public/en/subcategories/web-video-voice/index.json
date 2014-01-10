@@ -8,7 +8,7 @@
         "slug": "dns",
         "projects": [
           {
-            "description": "DNS hosting service with DNSCrypt, DNSSec, and Namecoin support.",
+            "description": "DNS hosting with DNSCrypt, DNSSec, and Namecoin support.",
             "license_url": "",
             "logo": "cloudns.png",
             "notes": "",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -315,7 +315,7 @@
             "protocolsSlugged": []
           },
           {
-            "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+            "description": "Peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
             "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
             "logo": "litecoin.png",
             "notes": "Please note that new, digital currencies may be very volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
@@ -463,7 +463,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Encrypted instant messaging within your web browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -825,7 +825,7 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Client-side encrypted image hosting",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
             "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
@@ -879,10 +879,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Fast image, audio, and video hosting",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Warning: MediaCrush includes Google Analytics if you do not enable Do Not Track.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -928,14 +928,14 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Productivity",
         "slug": "productivity",
         "projects": [
           {
-            "description": "A free securely-hosted online poll with an optional privacy-enhanced version.",
+            "description": "A free online poll with an optional privacy-enhanced version.",
             "license_url": "https://dudle.inf.tu-dresden.de/about.cgi",
             "logo": "dudle.png",
             "notes": "",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -1689,7 +1689,7 @@
             ]
           },
           {
-            "description": "Ixquick is a metasearch engine based in New York and the Netherlands. ",
+            "description": "Metasearch engine based in New York and the Netherlands. ",
             "license_url": "",
             "logo": "ixquick.png",
             "notes": "",
@@ -1798,14 +1798,14 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "disconnect-search.png"
       },
       {
         "name": "World Maps",
         "slug": "world-maps",
         "projects": [
           {
-            "description": "The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
+            "description": "C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
             "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
             "logo": "osrm.png",
             "notes": "OSRM should be installed and run locally on your PC to avoid potential data leaks from the unencrypted online service.",
@@ -2254,5 +2254,155 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "apple-facetime.png",
+      "name": "Apple FaceTime",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "facebook.png",
+      "name": "Facebook",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Server",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-plus.png",
+      "name": "Google+",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Social Networks",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Social Networks",
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-skype.png",
+      "name": "Skype",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Android",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Linux",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Instant Messaging",
+            "Video & Voice"
+          ]
+        }
+      ]
+    }
+  ]
 }

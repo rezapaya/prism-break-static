@@ -186,7 +186,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Operating Systems",
@@ -1226,7 +1226,7 @@
       "name": "Apple FaceTime",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Video & Voice"
           ]
@@ -1261,7 +1261,7 @@
       "name": "Skype",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging",
             "Video & Voice"

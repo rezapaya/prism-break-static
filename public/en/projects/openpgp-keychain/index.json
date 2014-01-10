@@ -1,5 +1,5 @@
 {
-  "description": "OpenPGP Keychain is an OpenPGP implementation for Android.",
+  "description": "OpenPGP implementation for Android.",
   "license_url": "https://github.com/dschuermann/openpgp-keychain/blob/master/LICENSE",
   "logo": "openpgp-keychain.png",
   "notes": "OpenPGP Keychain is EXPERIMENTAL software. Use at your own risk!\r",

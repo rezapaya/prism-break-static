@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "Media Publishing",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -2060,7 +2060,7 @@
       "mykolab.png",
       "riseup.png"
     ],
-    "randomLogo": "riseup.png"
+    "randomLogo": "mykolab.png"
   },
   "projects": [
     {
@@ -2207,5 +2207,132 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "apple-mail.png",
+      "name": "Apple Mail",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        },
+        {
+          "name": "iOS",
+          "subcategories": [
+            "Email Clients"
+          ]
+        },
+        {
+          "name": "Mac",
+          "subcategories": [
+            "Email Clients"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Servers"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "facebook.png",
+      "name": "Facebook",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Server",
+            "Instant Messaging",
+            "Social Networks",
+            "Video & Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google-mail.png",
+      "name": "Gmail",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-outlook.png",
+      "name": "Microsoft Outlook.com",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary"
+      ],
+      "logo": "yahoo.png",
+      "name": "Yahoo! Mail",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        },
+        {
+          "name": "Servers",
+          "subcategories": [
+            "Email Accounts"
+          ]
+        }
+      ]
+    }
+  ]
 }

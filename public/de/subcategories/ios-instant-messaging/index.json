@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Operating Systems",
@@ -944,7 +944,7 @@
       "chatsecure.png",
       "linphone.png"
     ],
-    "randomLogo": "chatsecure.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {
@@ -1125,7 +1125,7 @@
       "name": "AOL Instant Messenger",
       "categories": [
         {
-          "name": "Service",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging"
           ]
@@ -1172,7 +1172,7 @@
       "name": "Apple Messages",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging"
           ]
@@ -1207,7 +1207,7 @@
       "name": "Skype",
       "categories": [
         {
-          "name": "Web Services",
+          "name": "Web",
           "subcategories": [
             "Instant Messaging",
             "Video & Voice"

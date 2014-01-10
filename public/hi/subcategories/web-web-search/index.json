@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Finance",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Media Publishing",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Social Networks",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "ostel.png"
       },
       {
         "name": "VPN Accounts",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "startpage.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -2094,7 +2094,7 @@
       "metager.png",
       "startpage.png"
     ],
-    "randomLogo": "startpage.png"
+    "randomLogo": "ixquick.png"
   },
   "projects": [
     {
@@ -2273,5 +2273,40 @@
       ]
     }
   ],
-  "projectsRejected": []
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google.png",
+      "name": "Google Search",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-bing.png",
+      "name": "Microsoft Bing",
+      "categories": [
+        {
+          "name": "Web",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    }
+  ]
 }

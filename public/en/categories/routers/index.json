@@ -7,7 +7,7 @@
       "slug": "mesh-networks",
       "projects": [
         {
-          "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+          "description": "Live Linux distribution that delivers easy-to-use mesh networking.",
           "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
           "logo": "byzantium.png",
           "notes": "",
@@ -84,7 +84,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+          "description": "A networking protocol, a system of digital rules for message exchange between computers. \"Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically.",
           "license_url": "https://github.com/cjdelisle/cjdns/blob/master/LICENSE",
           "logo": "cjdns.png",
           "notes": "",
@@ -345,7 +345,7 @@
         "guifi.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {

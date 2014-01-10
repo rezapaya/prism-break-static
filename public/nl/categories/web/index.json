@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -221,8 +221,135 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
-      "projectsRejected": []
+      "randomLogo": "riseup.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "apple-mail.png",
+          "name": "Apple Mail",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Email Clients"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Email Clients"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Servers"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "facebook.png",
+          "name": "Facebook",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Server",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-mail.png",
+          "name": "Gmail",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "ms-outlook.png",
+          "name": "Microsoft Outlook.com",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "yahoo.png",
+          "name": "Yahoo! Mail",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Accounts"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Finance",
@@ -408,7 +535,24 @@
         "litecoin.png"
       ],
       "randomLogo": "bitcoin.png",
-      "projectsRejected": []
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "paypal.png",
+          "name": "PayPal",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Finance"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Instant Messaging",
@@ -770,8 +914,202 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "linphone.png",
-      "projectsRejected": []
+      "randomLogo": "duckduckgo.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "aim.png",
+          "name": "AOL Instant Messenger",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "apple-messages.png",
+          "name": "Apple Messages",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "facebook.png",
+          "name": "Facebook",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Server",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google.png",
+          "name": "Google Talk",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Instant Messaging"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "XMPP Servers"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "ms-skype.png",
+          "name": "Skype",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Linux",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Media Publishing",
@@ -931,8 +1269,201 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "mediacrush.png",
-      "projectsRejected": []
+      "randomLogo": "imgbi.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "yahoo-flickr.png",
+          "name": "Flickr",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "imgur.png",
+          "name": "Imgur",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "facebook-instagram.png",
+          "name": "Instagram",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "minus.png",
+          "name": "Minus",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-picasa.png",
+          "name": "Picasa",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "yahoo-tumblr.png",
+          "name": "Tumblr",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "vimeo.png",
+          "name": "Vimeo",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-youtube.png",
+          "name": "YouTube",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Media Publishing"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Productivity",
@@ -1154,8 +1685,122 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
-      "projectsRejected": []
+      "randomLogo": "dudle.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "doodle.png",
+          "name": "Doodle",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Productivity"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "evernote.png",
+          "name": "Evernote",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Productivity"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "ms-office.png",
+          "name": "Microsoft Office Web Apps",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Productivity"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "zoho.png",
+          "name": "Zoho Office Suite",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Productivity"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Productivity"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Social Networks",
@@ -1260,7 +1905,106 @@
         "movim.png"
       ],
       "randomLogo": "diaspora.png",
-      "projectsRejected": []
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "facebook.png",
+          "name": "Facebook",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Server",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-plus.png",
+          "name": "Google+",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "linkedin.png",
+          "name": "LinkedIn",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Social Networks"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Social Networks"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
+          "logo": "twitter.png",
+          "name": "Twitter",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Social Networks"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Social Networks"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Video & Voice",
@@ -1438,8 +2182,158 @@
         "linphone.png",
         "ostel.png"
       ],
-      "randomLogo": "linphone.png",
-      "projectsRejected": []
+      "randomLogo": "ostel.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "apple-facetime.png",
+          "name": "Apple FaceTime",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "facebook.png",
+          "name": "Facebook",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Email Accounts",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Server",
+                "Instant Messaging",
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-plus.png",
+          "name": "Google+",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Social Networks",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Social Networks",
+                "Video & Voice"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "ms-skype.png",
+          "name": "Skype",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Linux",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Instant Messaging",
+                "Video & Voice"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "VPN Accounts",
@@ -1556,7 +2450,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -1807,8 +2701,43 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
-      "projectsRejected": []
+      "randomLogo": "startpage.png",
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google.png",
+          "name": "Google Search",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Web Search"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "ms-bing.png",
+          "name": "Microsoft Bing",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "Web Search"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "World Maps",
@@ -1914,7 +2843,90 @@
         "openstreetmap.png"
       ],
       "randomLogo": "openstreetmap.png",
-      "projectsRejected": []
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "apple-maps.png",
+          "name": "Apple Maps",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "World Maps"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google-earth.png",
+          "name": "Google Earth",
+          "categories": [
+            {
+              "name": "Web",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Android",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "iOS",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Linux",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Mac",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                "World Maps"
+              ]
+            },
+            {
+              "name": "Servers",
+              "subcategories": [
+                "World Maps"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

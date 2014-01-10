@@ -90,7 +90,7 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Client-side encrypted image hosting",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
             "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
@@ -359,7 +359,7 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Client-side encrypted image hosting",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
             "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
@@ -905,7 +905,7 @@
             ]
           },
           {
-            "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+            "description": "Free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
             "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
             "logo": "tor.png",
             "notes": "",
@@ -2913,7 +2913,7 @@
             ]
           },
           {
-            "description": "Privacy respecting, distributed, federated social network.",
+            "description": "Distributed, federated social network.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -4170,7 +4170,7 @@
             ]
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "Privacy protection on a cheap plug server so everybody can have privacy.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -4425,7 +4425,7 @@
             ]
           },
           {
-            "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+            "description": "A port of GnuPG 2.1 to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
             "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
             "logo": "gnupg-for-android.png",
             "notes": "",
@@ -4464,7 +4464,7 @@
             ]
           },
           {
-            "description": "Gpg4win is an installation package for Windows (XP, Vista, 7 and 8) with software tools and manuals for email and file encryption on behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
+            "description": "Email and file encryption for Windows (XP, Vista, 7 and 8) behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
             "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=COPYING;h=623b6258a134210f0b0ada106fdaab7f0370d9c5;hb=HEAD",
             "logo": "gpg4win.png",
             "notes": "",
@@ -4969,7 +4969,7 @@
             ]
           },
           {
-            "description": "OpenPGP Keychain is an OpenPGP implementation for Android.",
+            "description": "OpenPGP implementation for Android.",
             "license_url": "https://github.com/dschuermann/openpgp-keychain/blob/master/LICENSE",
             "logo": "openpgp-keychain.png",
             "notes": "OpenPGP Keychain is EXPERIMENTAL software. Use at your own risk!\r",
@@ -5532,7 +5532,7 @@
             ]
           },
           {
-            "description": "Private and encrypted instant messaging within the web browser.",
+            "description": "Encrypted instant messaging within your web browser.",
             "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
             "logo": "cryptocat.png",
             "notes": "",
@@ -6236,7 +6236,7 @@
             ]
           },
           {
-            "description": "A port of the whole GnuPG 2.1 suite to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
+            "description": "A port of GnuPG 2.1 to Android.\n\nGnu Privacy Guard (GPG) gives you access to the entire GnuPG suite of encryption software. GnuPG is GNU’s tool for end-to-end secure communication and encrypted data storage. This trusted protocol is the free software alternative to PGP. GnuPG 2.1 is the new modularized version of GnuPG that now supports OpenPGP and S/MIME.",
             "license_url": "https://github.com/guardianproject/gnupg-for-android/blob/master/LICENSE.txt",
             "logo": "gnupg-for-android.png",
             "notes": "",
@@ -6909,7 +6909,7 @@
             ]
           },
           {
-            "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+            "description": "Privacy protection on a cheap plug server so everybody can have privacy.",
             "license_url": "http://anonscm.debian.org/gitweb/?p=freedombox/freedom-maker.git;a=blob;f=COPYING;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD",
             "logo": "freedombox.png",
             "notes": "",
@@ -6957,7 +6957,7 @@
             ]
           },
           {
-            "description": "Privacy respecting, distributed, federated social network.",
+            "description": "Distributed, federated social network.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",
@@ -7242,7 +7242,7 @@
             ]
           },
           {
-            "description": "Image hosting with in-browser AES-256 encryption.",
+            "description": "Client-side encrypted image hosting",
             "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
             "logo": "imgbi.png",
             "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
@@ -7296,7 +7296,7 @@
             ]
           },
           {
-            "description": "Ixquick is a metasearch engine based in New York and the Netherlands. ",
+            "description": "Metasearch engine based in New York and the Netherlands. ",
             "license_url": "",
             "logo": "ixquick.png",
             "notes": "",
@@ -7782,10 +7782,10 @@
             ]
           },
           {
-            "description": "Privacy-first fast media (image, audio, video) hosting",
+            "description": "Fast image, audio, and video hosting",
             "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
             "logo": "mediacrush.png",
-            "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+            "notes": "Warning: MediaCrush includes Google Analytics if you do not enable Do Not Track.",
             "privacy_url": "https://mediacru.sh/serious",
             "source_url": "https://github.com/MediaCrush/MediaCrush",
             "name": "MediaCrush",
@@ -9889,7 +9889,7 @@
             ]
           },
           {
-            "description": "Privacy respecting, distributed, federated social network.",
+            "description": "Distributed, federated social network.",
             "license_url": "https://github.com/friendica/friendica/blob/master/LICENSE",
             "logo": "friendica.png",
             "notes": "",

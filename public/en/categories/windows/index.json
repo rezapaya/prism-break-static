@@ -403,7 +403,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+          "description": "Free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including \"visits to Web sites, online posts, instant messages, and other communication forms\", back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
           "license_url": "https://gitweb.torproject.org/tor.git/blob/HEAD:/LICENSE",
           "logo": "tor.png",
           "notes": "",
@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -726,15 +726,16 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "diskcryptor.png",
       "projectsRejected": [
         {
           "status": "rejected",
           "tags": [
-            "Proprietary"
+            "Proprietary",
+            "PRISM"
           ],
-          "logo": "mcafee.png",
-          "name": "McAfee Endpoint Encryption",
+          "logo": "ms-bitlocker.png",
+          "name": "BitLocker Drive Encryption",
           "categories": [
             {
               "name": "Windows",
@@ -747,11 +748,10 @@
         {
           "status": "rejected",
           "tags": [
-            "Proprietary",
-            "PRISM"
+            "Proprietary"
           ],
-          "logo": "ms-bitlocker.png",
-          "name": "BitLocker Drive Encryption",
+          "logo": "mcafee.png",
+          "name": "McAfee Endpoint Encryption",
           "categories": [
             {
               "name": "Windows",
@@ -961,7 +961,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "bitmessage.png",
       "projectsRejected": []
     },
     {
@@ -1470,7 +1470,7 @@
           ]
         },
         {
-          "description": "Gpg4win is an installation package for Windows (XP, Vista, 7 and 8) with software tools and manuals for email and file encryption on behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
+          "description": "Email and file encryption for Windows (XP, Vista, 7 and 8) behalf of the German Information Security Agency. Gpg4win itself and all tools of Gpg4win are free and open source software. The software mainly uses public-key cryptography for data encryption and digital signatures.",
           "license_url": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=blob;f=COPYING;h=623b6258a134210f0b0ada106fdaab7f0370d9c5;hb=HEAD",
           "logo": "gpg4win.png",
           "notes": "",
@@ -1655,7 +1655,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "torbirdy.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -1798,7 +1798,7 @@
         "git-annex.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1839,7 +1839,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1892,7 +1892,7 @@
           "name": "Google Drive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1939,7 +1939,7 @@
           "name": "Microsoft SkyDrive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -2070,7 +2070,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "Litecoin (sign : Ł ; code : LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
+          "description": "Peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Inspired by and technically nearly identical to Bitcoin (BTC), Litecoin creation and transfer is based on an open source protocol and is not managed by any central authority. Litecoin is intended by its developers to improve upon Bitcoin and offers three key differences.",
           "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
           "logo": "litecoin.png",
           "notes": "Please note that new, digital currencies may be very volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
@@ -2161,7 +2161,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -2259,7 +2259,7 @@
           ]
         },
         {
-          "description": "Private and encrypted instant messaging within the web browser.",
+          "description": "Encrypted instant messaging within your web browser.",
           "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
           "logo": "cryptocat.png",
           "notes": "",
@@ -3105,7 +3105,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "otr.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3116,7 +3116,7 @@
           "name": "AOL Instant Messenger",
           "categories": [
             {
-              "name": "Service",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging"
               ]
@@ -3163,7 +3163,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -3720,7 +3720,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -3728,7 +3728,7 @@
       "slug": "mesh-networks",
       "projects": [
         {
-          "description": "Byzantium is a live Linux distribution that delivers easy-to-use mesh networking.",
+          "description": "Live Linux distribution that delivers easy-to-use mesh networking.",
           "license_url": "https://github.com/Byzantium/Byzantium/blob/master/LICENSE",
           "logo": "byzantium.png",
           "notes": "",
@@ -3998,7 +3998,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "DragonFly BSD is a free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
+          "description": "Free Unix-like operating system created as a fork of FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s and a FreeBSD developer between 1994 and 2003, began work on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003.",
           "license_url": "https://www.dragonflybsd.org/docs/developer/DragonFly_BSD_License/",
           "logo": "dragonfly-bsd.png",
           "notes": "",
@@ -4300,7 +4300,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "NetBSD is an open-source Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
+          "description": "Unix-like operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was the second open-source BSD descendant to be formally released, after 386BSD, and it continues to be actively developed. The NetBSD project is primarily focused on high-quality design, stability and performance of the system. ",
           "license_url": "https://www.netbsd.org/about/redistribution.html",
           "logo": "netbsd.png",
           "notes": "",
@@ -4577,7 +4577,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "debian.png",
+      "randomLogo": "gentoo.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4839,7 +4839,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -5134,7 +5134,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -5445,7 +5445,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "jitsi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5457,7 +5457,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -5727,7 +5727,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "Private and encrypted instant messaging within the web browser.",
+          "description": "Encrypted instant messaging within your web browser.",
           "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
           "logo": "cryptocat.png",
           "notes": "",
@@ -6219,7 +6219,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "https-everywhere.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
@@ -6444,7 +6444,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6664,7 +6664,7 @@
           "protocolsSlugged": []
         },
         {
-          "description": "The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
+          "description": "C++ implementation of a high-performance routing engine for shortest paths in road networks. Licensed under the permissive 2-clause BSD license, OSRM is a free network service. OSRM supports Linux, FreeBSD, Windows, and Mac platform.",
           "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
           "logo": "osrm.png",
           "notes": "OSRM should be installed and run locally on your PC to avoid potential data leaks from the unencrypted online service.",
@@ -6747,7 +6747,7 @@
           "name": "Google Earth",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "World Maps"
               ]

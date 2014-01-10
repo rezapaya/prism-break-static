@@ -1,5 +1,5 @@
 {
-  "description": "Enterprise class computing platform with 100% binary compatbility with RHEL.",
+  "description": "REHL-compatible enterprise computing platform.",
   "license_url": "http://mirror.centos.org/centos/6/os/x86_64/GPL",
   "logo": "centos.png",
   "notes": "",

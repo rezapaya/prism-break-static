@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "namecoin.png",
+      "randomLogo": "dnscrypt.png",
       "projectsRejected": []
     },
     {
@@ -1182,7 +1182,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1235,7 +1235,7 @@
           "name": "Google Drive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1282,7 +1282,7 @@
           "name": "Microsoft SkyDrive",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1492,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "kolab.png",
+      "randomLogo": "iredmail.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "zenphoto.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1816,11 +1816,11 @@
             "Proprietary",
             "PRISM"
           ],
-          "logo": "facebook-instagram.png",
-          "name": "Instagram",
+          "logo": "yahoo-flickr.png",
+          "name": "Flickr",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Media Publishing"
               ]
@@ -1839,27 +1839,19 @@
             "Proprietary",
             "PRISM"
           ],
-          "logo": "facebook.png",
-          "name": "Facebook",
+          "logo": "facebook-instagram.png",
+          "name": "Instagram",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
-                "Email Accounts",
-                "Instant Messaging",
-                "Media Publishing",
-                "Social Networks",
-                "Video & Voice"
+                "Media Publishing"
               ]
             },
             {
               "name": "Servers",
               "subcategories": [
-                "Email Server",
-                "Instant Messaging",
-                "Media Publishing",
-                "Social Networks",
-                "Video & Voice"
+                "Media Publishing"
               ]
             }
           ]
@@ -1874,7 +1866,7 @@
           "name": "Picasa",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Media Publishing"
               ]
@@ -1914,41 +1906,13 @@
         {
           "status": "rejected",
           "tags": [
-            "Proprietary",
-            "PRISM"
+            "Proprietary"
           ],
-          "logo": "google-plus.png",
-          "name": "Google+",
+          "logo": "yahoo-tumblr.png",
+          "name": "Tumblr",
           "categories": [
             {
-              "name": "Web Services",
-              "subcategories": [
-                "Media Publishing",
-                "Social Networks",
-                "Video & Voice"
-              ]
-            },
-            {
-              "name": "Servers",
-              "subcategories": [
-                "Media Publishing",
-                "Social Networks",
-                "Video & Voice"
-              ]
-            }
-          ]
-        },
-        {
-          "status": "rejected",
-          "tags": [
-            "Proprietary",
-            "PRISM"
-          ],
-          "logo": "google-youtube.png",
-          "name": "YouTube",
-          "categories": [
-            {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Media Publishing"
               ]
@@ -1970,7 +1934,7 @@
           "name": "Vimeo",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Media Publishing"
               ]
@@ -1989,33 +1953,11 @@
             "Proprietary",
             "PRISM"
           ],
-          "logo": "yahoo-flickr.png",
-          "name": "Flickr",
+          "logo": "google-youtube.png",
+          "name": "YouTube",
           "categories": [
             {
-              "name": "Web Services",
-              "subcategories": [
-                "Media Publishing"
-              ]
-            },
-            {
-              "name": "Servers",
-              "subcategories": [
-                "Media Publishing"
-              ]
-            }
-          ]
-        },
-        {
-          "status": "rejected",
-          "tags": [
-            "Proprietary"
-          ],
-          "logo": "yahoo-tumblr.png",
-          "name": "Tumblr",
-          "categories": [
-            {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Media Publishing"
               ]
@@ -2355,7 +2297,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "cjdns.png",
+      "randomLogo": "librevpn.png",
       "projectsRejected": []
     },
     {
@@ -2896,7 +2838,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "debian.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3073,7 +3015,7 @@
           "name": "Doodle",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Productivity"
               ]
@@ -3095,7 +3037,7 @@
           "name": "Evernote",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Productivity"
               ]
@@ -3135,23 +3077,6 @@
         {
           "status": "rejected",
           "tags": [
-            "Proprietary"
-          ],
-          "logo": "groupwise.png",
-          "name": "Novell Groupwise",
-          "categories": [
-            {
-              "name": "Servers",
-              "subcategories": [
-                "Email Servers",
-                "Productivity"
-              ]
-            }
-          ]
-        },
-        {
-          "status": "rejected",
-          "tags": [
             "Proprietary",
             "PRISM"
           ],
@@ -3159,7 +3084,7 @@
           "name": "Microsoft Office Web Apps",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Productivity"
               ]
@@ -3177,11 +3102,28 @@
           "tags": [
             "Proprietary"
           ],
+          "logo": "groupwise.png",
+          "name": "Novell Groupwise",
+          "categories": [
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Email Servers",
+                "Productivity"
+              ]
+            }
+          ]
+        },
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary"
+          ],
           "logo": "zoho.png",
           "name": "Zoho Office Suite",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Productivity"
               ]
@@ -3284,7 +3226,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": []
     },
     {
@@ -3941,7 +3883,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "buddycloud.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3953,11 +3895,10 @@
           "name": "Facebook",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Email Accounts",
                 "Instant Messaging",
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -3967,7 +3908,6 @@
               "subcategories": [
                 "Email Server",
                 "Instant Messaging",
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -3984,9 +3924,8 @@
           "name": "Google+",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -3994,7 +3933,6 @@
             {
               "name": "Servers",
               "subcategories": [
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -4010,7 +3948,7 @@
           "name": "LinkedIn",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Social Networks"
               ]
@@ -4032,7 +3970,7 @@
           "name": "Twitter",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Social Networks"
               ]
@@ -4166,7 +4104,7 @@
           "name": "Apple FaceTime",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Video & Voice"
               ]
@@ -4201,11 +4139,10 @@
           "name": "Facebook",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Email Accounts",
                 "Instant Messaging",
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -4215,7 +4152,6 @@
               "subcategories": [
                 "Email Server",
                 "Instant Messaging",
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -4232,9 +4168,8 @@
           "name": "Google+",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -4242,7 +4177,6 @@
             {
               "name": "Servers",
               "subcategories": [
-                "Media Publishing",
                 "Social Networks",
                 "Video & Voice"
               ]
@@ -4259,7 +4193,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -4553,7 +4487,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "openvpn.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {
@@ -4804,7 +4738,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "openfire.png",
+      "randomLogo": "ejabberd.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4816,7 +4750,7 @@
           "name": "Google Talk",
           "categories": [
             {
-              "name": "Web Services",
+              "name": "Web",
               "subcategories": [
                 "Instant Messaging"
               ]
