@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "cozy.png",
+      "randomLogo": "buddycloud.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1492,7 +1492,7 @@
         "iredmail.png",
         "kolab.png"
       ],
-      "randomLogo": "iredmail.png",
+      "randomLogo": "indimail.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "mediagoblin.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2297,7 +2297,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "librevpn.png",
+      "randomLogo": "tinc.png",
       "projectsRejected": []
     },
     {
@@ -2838,7 +2838,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "debian.png",
+      "randomLogo": "yunohost.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3226,7 +3226,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "freedombox.png",
+      "randomLogo": "arkos.png",
       "projectsRejected": []
     },
     {
@@ -3361,7 +3361,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "freeswitch.png",
+      "randomLogo": "asterisk.png",
       "projectsRejected": []
     },
     {
@@ -3883,7 +3883,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "buddycloud.png",
+      "randomLogo": "gnu-social.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4487,7 +4487,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "tinc.png",
+      "randomLogo": "openswan.png",
       "projectsRejected": []
     },
     {
@@ -4554,7 +4554,25 @@
         "piwik.png"
       ],
       "randomLogo": "piwik.png",
-      "projectsRejected": []
+      "projectsRejected": [
+        {
+          "status": "rejected",
+          "tags": [
+            "Proprietary",
+            "PRISM"
+          ],
+          "logo": "google.png",
+          "name": "Google Analytics",
+          "categories": [
+            {
+              "name": "Servers",
+              "subcategories": [
+                "Web Analytics"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "XMPP Servers",
@@ -4738,7 +4756,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "ejabberd.png",
+      "randomLogo": "openfire.png",
       "projectsRejected": [
         {
           "status": "rejected",
