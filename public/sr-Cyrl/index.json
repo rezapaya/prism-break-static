@@ -33,14 +33,14 @@
         "slug": "bsd"
       },
       {
-        "name": "Linux",
+        "name": "GNU/Linux",
         "fa": "fa-linux",
-        "slug": "linux"
+        "slug": "gnu-linux"
       },
       {
-        "name": "Mac",
+        "name": "OS X",
         "fa": "fa-apple",
-        "slug": "mac"
+        "slug": "os-x"
       },
       {
         "name": "Windows",

@@ -32,6 +32,16 @@
       "slug": "bsd"
     },
     {
+      "name": "GNU/Linux",
+      "subcategories": [
+        {
+          "name": "Finance",
+          "slug": "finance"
+        }
+      ],
+      "slug": "gnu-linux"
+    },
+    {
       "name": "iOS",
       "subcategories": [
         {
@@ -42,24 +52,14 @@
       "slug": "ios"
     },
     {
-      "name": "Linux",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Finance",
           "slug": "finance"
         }
       ],
-      "slug": "linux"
-    },
-    {
-      "name": "Mac",
-      "subcategories": [
-        {
-          "name": "Finance",
-          "slug": "finance"
-        }
-      ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Web",

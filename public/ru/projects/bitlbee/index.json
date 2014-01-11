@@ -30,7 +30,7 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -41,10 +41,10 @@
           "slug": "irc"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -55,7 +55,7 @@
           "slug": "irc"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

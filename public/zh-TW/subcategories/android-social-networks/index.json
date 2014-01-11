@@ -51,7 +51,7 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -62,10 +62,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -76,7 +76,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -154,7 +154,7 @@
           "nightweb.png",
           "orbot.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "orbot.png"
       },
       {
         "name": "App Store",
@@ -396,24 +396,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -488,6 +488,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -498,24 +508,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -575,6 +575,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -585,24 +595,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -633,7 +633,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,6 +768,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -782,7 +796,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -793,21 +807,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -905,7 +905,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "xabber.png"
+        "randomLogo": "chatsecure.png"
       },
       {
         "name": "Mesh Networks",
@@ -935,24 +935,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1002,24 +1002,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1060,7 +1060,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1183,7 +1183,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "cyanogenmod.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Social Networks",
@@ -1233,7 +1233,7 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -1244,10 +1244,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -1258,7 +1258,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -1387,6 +1387,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -1401,7 +1415,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -1412,21 +1426,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -1510,6 +1510,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -1520,24 +1530,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -1578,7 +1578,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -1620,24 +1620,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "VPN Clients",
                     "slug": "vpn-clients"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "VPN Clients",
                     "slug": "vpn-clients"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1722,24 +1722,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
                     "slug": "web-browser-addons"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
                     "slug": "web-browser-addons"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Windows",
@@ -1789,24 +1789,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
                     "slug": "web-browser-addons"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
                     "slug": "web-browser-addons"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Windows",
@@ -1827,7 +1827,7 @@
           "disconnect.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -1869,24 +1869,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Web Browsers",
                     "slug": "web-browsers"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Web Browsers",
                     "slug": "web-browsers"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Windows",
@@ -2000,7 +2000,7 @@
             "slug": "bsd"
           },
           {
-            "name": "Linux",
+            "name": "GNU/Linux",
             "subcategories": [
               {
                 "name": "Anonymizing Networks",
@@ -2011,10 +2011,10 @@
                 "slug": "social-networks"
               }
             ],
-            "slug": "linux"
+            "slug": "gnu-linux"
           },
           {
-            "name": "Mac",
+            "name": "OS X",
             "subcategories": [
               {
                 "name": "Anonymizing Networks",
@@ -2025,7 +2025,7 @@
                 "slug": "social-networks"
               }
             ],
-            "slug": "mac"
+            "slug": "os-x"
           },
           {
             "name": "Servers",
@@ -2115,7 +2115,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
@@ -2126,10 +2126,10 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
@@ -2140,7 +2140,7 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",

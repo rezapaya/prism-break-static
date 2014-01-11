@@ -169,6 +169,16 @@
           "slug": "bsd"
         },
         {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "Video & Voice",
+              "slug": "video-voice"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
+        {
           "name": "iOS",
           "subcategories": [
             {
@@ -179,24 +189,14 @@
           "slug": "ios"
         },
         {
-          "name": "Linux",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Video & Voice",
               "slug": "video-voice"
             }
           ],
-          "slug": "linux"
-        },
-        {
-          "name": "Mac",
-          "subcategories": [
-            {
-              "name": "Video & Voice",
-              "slug": "video-voice"
-            }
-          ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",
@@ -315,7 +315,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Alternatives",
@@ -330,10 +330,10 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Alternatives",
@@ -348,7 +348,7 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",

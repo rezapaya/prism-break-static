@@ -22,24 +22,24 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Operating Systems (Live)",
           "slug": "operating-systems-live"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Operating Systems (Live)",
           "slug": "operating-systems-live"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

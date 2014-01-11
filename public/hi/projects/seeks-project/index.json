@@ -12,14 +12,14 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Web Search",
           "slug": "web-search"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     }
   ],
   "slug": "seeks-project",

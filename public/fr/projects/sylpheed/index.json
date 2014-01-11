@@ -26,24 +26,24 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Email Clients",
           "slug": "email-clients"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Email Clients",
           "slug": "email-clients"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

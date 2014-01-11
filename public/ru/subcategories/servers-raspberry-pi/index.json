@@ -31,24 +31,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -100,24 +100,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -174,24 +174,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -266,7 +266,7 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -277,10 +277,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -291,7 +291,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -344,7 +344,7 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -355,10 +355,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -369,7 +369,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -429,24 +429,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
                     "slug": "anonymizing-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Communication Protocols",
@@ -553,14 +553,14 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Disk Encryption",
                     "slug": "disk-encryption"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
                 "name": "Servers",
@@ -600,24 +600,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Disk Encryption",
                     "slug": "disk-encryption"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Disk Encryption",
                     "slug": "disk-encryption"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -657,24 +657,24 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Disk Encryption",
                     "slug": "disk-encryption"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Disk Encryption",
                     "slug": "disk-encryption"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -901,24 +901,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -1029,24 +1029,24 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediagoblin.png"
+        "randomLogo": "zenphoto.png"
       },
       {
         "name": "Mesh Networks",
@@ -1625,24 +1625,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1702,24 +1702,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1769,24 +1769,24 @@
                 "slug": "android"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -1836,14 +1836,14 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
                 "name": "Servers",
@@ -1873,14 +1873,14 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
                 "name": "Routers",
@@ -2000,24 +2000,24 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -2067,14 +2067,14 @@
                 "slug": "bsd"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -2124,14 +2124,14 @@
                 "slug": "bsd"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -2229,14 +2229,14 @@
                 "slug": "bsd"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -2323,24 +2323,24 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Operating Systems",
                     "slug": "operating-systems"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -3114,7 +3114,7 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -3125,10 +3125,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -3139,7 +3139,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -3265,7 +3265,7 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -3276,10 +3276,10 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Anonymizing Networks",
@@ -3290,7 +3290,7 @@
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "sat.png"
       },
       {
         "name": "Video & Voice",
@@ -3380,6 +3380,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -3390,24 +3400,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -3542,24 +3542,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "VPN Clients",
                     "slug": "vpn-clients"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "VPN Clients",
                     "slug": "vpn-clients"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Routers",
@@ -3641,14 +3641,14 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Mesh Networks",
                     "slug": "mesh-networks"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
                 "name": "Routers",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "metronome.png"
+        "randomLogo": "openfire.png"
       }
     ]
   },
@@ -4031,7 +4031,7 @@
       "arkos.png",
       "freedombox.png"
     ],
-    "randomLogo": "freedombox.png"
+    "randomLogo": "arkos.png"
   },
   "projects": [
     {

@@ -28,7 +28,7 @@
       ],
       "categories": [
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -39,7 +39,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         }
       ],
       "slug": "adium",
@@ -90,7 +90,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -101,10 +101,10 @@
               "slug": "irc"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -115,7 +115,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -227,7 +227,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Web Browser Addons",
@@ -238,10 +238,10 @@
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Web Browser Addons",
@@ -252,7 +252,7 @@
               "slug": "instant-messaging"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Web",
@@ -316,14 +316,14 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -375,7 +375,7 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -386,10 +386,10 @@
               "slug": "video-voice"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -400,7 +400,7 @@
               "slug": "video-voice"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -467,24 +467,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -539,14 +539,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "kopete",
@@ -591,14 +591,14 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -652,7 +652,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -663,7 +663,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -730,24 +730,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",

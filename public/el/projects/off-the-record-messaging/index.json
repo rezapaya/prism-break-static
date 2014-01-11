@@ -24,14 +24,14 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Instant Messaging",
           "slug": "instant-messaging"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
       "name": "Windows",

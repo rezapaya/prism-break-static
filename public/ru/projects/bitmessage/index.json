@@ -14,24 +14,24 @@
   ],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Email Alternatives",
           "slug": "email-alternatives"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Email Alternatives",
           "slug": "email-alternatives"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

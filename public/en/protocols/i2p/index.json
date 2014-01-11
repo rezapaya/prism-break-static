@@ -36,24 +36,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
               "slug": "anonymizing-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
               "slug": "anonymizing-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",
@@ -182,7 +182,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
@@ -193,10 +193,10 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
@@ -207,7 +207,7 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",

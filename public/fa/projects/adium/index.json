@@ -16,7 +16,7 @@
   ],
   "categories": [
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -27,7 +27,7 @@
           "slug": "irc"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     }
   ],
   "slug": "adium",

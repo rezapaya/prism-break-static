@@ -22,24 +22,24 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "World Maps",
           "slug": "world-maps"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "World Maps",
           "slug": "world-maps"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Web",

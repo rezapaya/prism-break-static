@@ -28,7 +28,7 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Email Encryption",
@@ -39,10 +39,10 @@
           "slug": "web-browser-addons"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Email Encryption",
@@ -53,7 +53,7 @@
           "slug": "web-browser-addons"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

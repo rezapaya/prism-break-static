@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
@@ -136,14 +136,14 @@
             "protocols": [],
             "categories": [
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "File Storage & Sync",
                     "slug": "file-storage-sync"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Finance",
@@ -261,6 +261,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -271,24 +281,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -348,6 +348,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -358,24 +368,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -492,7 +492,7 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
@@ -503,10 +503,10 @@
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Web Browser Addons",
@@ -517,7 +517,7 @@
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -618,6 +618,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -632,7 +646,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -643,21 +657,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "Media Publishing",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Social Networks",
@@ -1254,7 +1254,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1292,6 +1292,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -1306,7 +1320,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -1317,21 +1331,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "ostel.png"
       },
       {
         "name": "VPN Accounts",
@@ -1549,7 +1549,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "startpage.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1828,24 +1828,24 @@
                 "slug": "bsd"
               },
               {
-                "name": "Linux",
+                "name": "GNU/Linux",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "linux"
+                "slug": "gnu-linux"
               },
               {
-                "name": "Mac",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -1975,14 +1975,14 @@
         "protocols": [],
         "categories": [
           {
-            "name": "Mac",
+            "name": "OS X",
             "subcategories": [
               {
                 "name": "File Storage & Sync",
                 "slug": "file-storage-sync"
               }
             ],
-            "slug": "mac"
+            "slug": "os-x"
           },
           {
             "name": "Web",
@@ -2060,7 +2060,7 @@
       "mykolab.png",
       "riseup.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "riseup.png"
   },
   "projects": [
     {
@@ -2127,14 +2127,14 @@
       "protocols": [],
       "categories": [
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "File Storage & Sync",
               "slug": "file-storage-sync"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Web",
@@ -2230,7 +2230,7 @@
           ]
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             "Email Clients"
           ]

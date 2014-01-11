@@ -41,6 +41,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -51,24 +61,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -128,6 +128,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -138,24 +148,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -273,6 +273,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -287,7 +301,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -298,21 +312,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -487,7 +487,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "cyanogenmod.png"
       },
       {
         "name": "Video & Voice",
@@ -525,6 +525,20 @@
                 "slug": "android"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -539,7 +553,7 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -550,21 +564,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Instant Messaging",
-                    "slug": "instant-messaging"
-                  },
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Web",
@@ -648,6 +648,16 @@
                 "slug": "bsd"
               },
               {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
                 "name": "iOS",
                 "subcategories": [
                   {
@@ -658,24 +668,14 @@
                 "slug": "ios"
               },
               {
-                "name": "Linux",
+                "name": "OS X",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "linux"
-              },
-              {
-                "name": "Mac",
-                "subcategories": [
-                  {
-                    "name": "Video & Voice",
-                    "slug": "video-voice"
-                  }
-                ],
-                "slug": "mac"
+                "slug": "os-x"
               },
               {
                 "name": "Servers",
@@ -715,7 +715,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Web Browsers",
@@ -806,6 +806,16 @@
             "slug": "bsd"
           },
           {
+            "name": "GNU/Linux",
+            "subcategories": [
+              {
+                "name": "Finance",
+                "slug": "finance"
+              }
+            ],
+            "slug": "gnu-linux"
+          },
+          {
             "name": "iOS",
             "subcategories": [
               {
@@ -816,24 +826,14 @@
             "slug": "ios"
           },
           {
-            "name": "Linux",
+            "name": "OS X",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "linux"
-          },
-          {
-            "name": "Mac",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "mac"
+            "slug": "os-x"
           },
           {
             "name": "Web",
@@ -893,6 +893,16 @@
             "slug": "bsd"
           },
           {
+            "name": "GNU/Linux",
+            "subcategories": [
+              {
+                "name": "Finance",
+                "slug": "finance"
+              }
+            ],
+            "slug": "gnu-linux"
+          },
+          {
             "name": "iOS",
             "subcategories": [
               {
@@ -903,24 +913,14 @@
             "slug": "ios"
           },
           {
-            "name": "Linux",
+            "name": "OS X",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "linux"
-          },
-          {
-            "name": "Mac",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "mac"
+            "slug": "os-x"
           },
           {
             "name": "Web",
@@ -988,6 +988,16 @@
           "slug": "bsd"
         },
         {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "Finance",
+              "slug": "finance"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
+        {
           "name": "iOS",
           "subcategories": [
             {
@@ -998,24 +1008,14 @@
           "slug": "ios"
         },
         {
-          "name": "Linux",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "linux"
-        },
-        {
-          "name": "Mac",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Web",
@@ -1075,6 +1075,16 @@
           "slug": "bsd"
         },
         {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "Finance",
+              "slug": "finance"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
+        {
           "name": "iOS",
           "subcategories": [
             {
@@ -1085,24 +1095,14 @@
           "slug": "ios"
         },
         {
-          "name": "Linux",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "linux"
-        },
-        {
-          "name": "Mac",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Web",

@@ -30,6 +30,20 @@
       "slug": "android"
     },
     {
+      "name": "GNU/Linux",
+      "subcategories": [
+        {
+          "name": "Instant Messaging",
+          "slug": "instant-messaging"
+        },
+        {
+          "name": "Video & Voice",
+          "slug": "video-voice"
+        }
+      ],
+      "slug": "gnu-linux"
+    },
+    {
       "name": "iOS",
       "subcategories": [
         {
@@ -44,7 +58,7 @@
       "slug": "ios"
     },
     {
-      "name": "Linux",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -55,21 +69,7 @@
           "slug": "video-voice"
         }
       ],
-      "slug": "linux"
-    },
-    {
-      "name": "Mac",
-      "subcategories": [
-        {
-          "name": "Instant Messaging",
-          "slug": "instant-messaging"
-        },
-        {
-          "name": "Video & Voice",
-          "slug": "video-voice"
-        }
-      ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Web",

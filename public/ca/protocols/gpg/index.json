@@ -72,24 +72,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -144,24 +144,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Encryption",
               "slug": "email-encryption"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Encryption",
               "slug": "email-encryption"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -203,14 +203,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "evolution",
@@ -318,14 +318,14 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -384,24 +384,24 @@
           "slug": "android"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "File Storage & Sync",
               "slug": "file-storage-sync"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "File Storage & Sync",
               "slug": "file-storage-sync"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",
@@ -458,24 +458,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Encryption",
               "slug": "email-encryption"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Encryption",
               "slug": "email-encryption"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -585,14 +585,14 @@
       ],
       "categories": [
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Encryption",
               "slug": "email-encryption"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         }
       ],
       "slug": "gpgtools",
@@ -633,24 +633,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -750,14 +750,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -808,14 +808,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "kopete",
@@ -864,7 +864,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Encryption",
@@ -875,10 +875,10 @@
               "slug": "web-browser-addons"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Encryption",
@@ -889,7 +889,7 @@
               "slug": "web-browser-addons"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -954,7 +954,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -969,10 +969,10 @@
               "slug": "irc"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -987,7 +987,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1101,24 +1101,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1178,7 +1178,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Alternatives",
@@ -1193,10 +1193,10 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Alternatives",
@@ -1211,7 +1211,7 @@
               "slug": "social-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1272,24 +1272,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1348,24 +1348,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",

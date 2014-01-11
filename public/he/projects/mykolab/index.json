@@ -12,14 +12,14 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "File Storage & Sync",
           "slug": "file-storage-sync"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Web",

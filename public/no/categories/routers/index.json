@@ -30,24 +30,24 @@
               "slug": "bsd"
             },
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
-              "name": "Mac",
+              "name": "OS X",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "mac"
+              "slug": "os-x"
             },
             {
               "name": "Routers",
@@ -107,24 +107,24 @@
               "slug": "android"
             },
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
-              "name": "Mac",
+              "name": "OS X",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "mac"
+              "slug": "os-x"
             },
             {
               "name": "Routers",
@@ -174,24 +174,24 @@
               "slug": "android"
             },
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
-              "name": "Mac",
+              "name": "OS X",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "mac"
+              "slug": "os-x"
             },
             {
               "name": "Routers",
@@ -295,14 +295,14 @@
           "protocols": [],
           "categories": [
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
               "name": "Routers",
@@ -345,7 +345,7 @@
         "guifi.png",
         "tinc.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "guifi.png",
       "projectsRejected": []
     },
     {
@@ -446,24 +446,24 @@
               "slug": "bsd"
             },
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "VPN Clients",
                   "slug": "vpn-clients"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
-              "name": "Mac",
+              "name": "OS X",
               "subcategories": [
                 {
                   "name": "VPN Clients",
                   "slug": "vpn-clients"
                 }
               ],
-              "slug": "mac"
+              "slug": "os-x"
             },
             {
               "name": "Routers",
@@ -551,24 +551,24 @@
               "slug": "bsd"
             },
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "VPN Clients",
                   "slug": "vpn-clients"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
-              "name": "Mac",
+              "name": "OS X",
               "subcategories": [
                 {
                   "name": "VPN Clients",
                   "slug": "vpn-clients"
                 }
               ],
-              "slug": "mac"
+              "slug": "os-x"
             },
             {
               "name": "Routers",
@@ -623,14 +623,14 @@
           "protocols": [],
           "categories": [
             {
-              "name": "Linux",
+              "name": "GNU/Linux",
               "subcategories": [
                 {
                   "name": "Mesh Networks",
                   "slug": "mesh-networks"
                 }
               ],
-              "slug": "linux"
+              "slug": "gnu-linux"
             },
             {
               "name": "Routers",

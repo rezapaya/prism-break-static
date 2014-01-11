@@ -14,14 +14,14 @@
   ],
   "categories": [
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Email Encryption",
           "slug": "email-encryption"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     }
   ],
   "slug": "gpgtools",

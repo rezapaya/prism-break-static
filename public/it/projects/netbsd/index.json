@@ -22,14 +22,14 @@
       "slug": "bsd"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Operating Systems",
           "slug": "operating-systems"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Servers",

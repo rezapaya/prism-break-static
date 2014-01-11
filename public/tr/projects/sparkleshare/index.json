@@ -12,24 +12,24 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "File Storage & Sync",
           "slug": "file-storage-sync"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "File Storage & Sync",
           "slug": "file-storage-sync"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Servers",

@@ -12,24 +12,24 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Disk Encryption",
           "slug": "disk-encryption"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Disk Encryption",
           "slug": "disk-encryption"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Servers",

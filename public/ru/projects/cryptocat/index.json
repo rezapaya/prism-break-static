@@ -28,7 +28,7 @@
       "slug": "bsd"
     },
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Web Browser Addons",
@@ -39,10 +39,10 @@
           "slug": "instant-messaging"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Web Browser Addons",
@@ -53,7 +53,7 @@
           "slug": "instant-messaging"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Web",

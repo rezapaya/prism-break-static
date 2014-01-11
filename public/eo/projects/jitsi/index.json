@@ -17,7 +17,7 @@
   ],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -28,10 +28,10 @@
           "slug": "video-voice"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
-      "name": "Mac",
+      "name": "OS X",
       "subcategories": [
         {
           "name": "Instant Messaging",
@@ -42,7 +42,7 @@
           "slug": "video-voice"
         }
       ],
-      "slug": "mac"
+      "slug": "os-x"
     },
     {
       "name": "Windows",

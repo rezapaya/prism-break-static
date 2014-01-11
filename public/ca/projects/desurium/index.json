@@ -12,14 +12,14 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Linux",
+      "name": "GNU/Linux",
       "subcategories": [
         {
           "name": "Digital Distribution",
           "slug": "digital-distribution"
         }
       ],
-      "slug": "linux"
+      "slug": "gnu-linux"
     },
     {
       "name": "Windows",

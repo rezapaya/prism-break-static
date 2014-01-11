@@ -31,14 +31,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "evolution",

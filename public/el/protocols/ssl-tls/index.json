@@ -131,24 +131,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -407,14 +407,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "evolution",
@@ -566,14 +566,14 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -666,24 +666,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
               "slug": "anonymizing-networks"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Anonymizing Networks",
               "slug": "anonymizing-networks"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Servers",
@@ -740,24 +740,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Web Browser Addons",
               "slug": "web-browser-addons"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Web Browser Addons",
               "slug": "web-browser-addons"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -896,24 +896,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -977,24 +977,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1126,14 +1126,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -1198,6 +1198,20 @@
           "slug": "android"
         },
         {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "Instant Messaging",
+              "slug": "instant-messaging"
+            },
+            {
+              "name": "Video & Voice",
+              "slug": "video-voice"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
+        {
           "name": "iOS",
           "subcategories": [
             {
@@ -1212,7 +1226,7 @@
           "slug": "ios"
         },
         {
-          "name": "Linux",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -1223,21 +1237,7 @@
               "slug": "video-voice"
             }
           ],
-          "slug": "linux"
-        },
-        {
-          "name": "Mac",
-          "subcategories": [
-            {
-              "name": "Instant Messaging",
-              "slug": "instant-messaging"
-            },
-            {
-              "name": "Video & Voice",
-              "slug": "video-voice"
-            }
-          ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Web",
@@ -1515,24 +1515,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1593,7 +1593,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -1608,10 +1608,10 @@
               "slug": "irc"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -1626,7 +1626,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -1754,24 +1754,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "VPN Clients",
               "slug": "vpn-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "VPN Clients",
               "slug": "vpn-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Routers",
@@ -2120,24 +2120,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -2196,24 +2196,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Operating Systems (Live)",
               "slug": "operating-systems-live"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -2277,24 +2277,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Web Browsers",
               "slug": "web-browsers"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",

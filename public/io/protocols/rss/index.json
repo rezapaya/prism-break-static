@@ -38,24 +38,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -105,14 +105,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         }
       ],
       "slug": "evolution",
@@ -206,14 +206,14 @@
       ],
       "categories": [
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
           "name": "Windows",
@@ -286,7 +286,7 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -301,10 +301,10 @@
               "slug": "irc"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
@@ -319,7 +319,7 @@
               "slug": "irc"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
@@ -400,24 +400,24 @@
           "slug": "bsd"
         },
         {
-          "name": "Linux",
+          "name": "GNU/Linux",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "linux"
+          "slug": "gnu-linux"
         },
         {
-          "name": "Mac",
+          "name": "OS X",
           "subcategories": [
             {
               "name": "Email Clients",
               "slug": "email-clients"
             }
           ],
-          "slug": "mac"
+          "slug": "os-x"
         },
         {
           "name": "Windows",
