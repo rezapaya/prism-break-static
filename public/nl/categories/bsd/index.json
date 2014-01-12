@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "torbirdy.png",
       "projectsRejected": []
     },
     {
@@ -1321,14 +1321,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1408,14 +1408,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1591,14 +1591,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": []
     },
     {
@@ -2894,7 +2894,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "netbsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": []
     },
     {
@@ -3132,7 +3132,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "tails.png",
       "projectsRejected": []
     },
     {
@@ -3690,14 +3690,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -4401,14 +4401,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "World Maps",
                   "slug": "world-maps"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",

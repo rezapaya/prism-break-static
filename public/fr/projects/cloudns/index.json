@@ -12,14 +12,14 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "DNS",
           "slug": "dns"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "cloudns",

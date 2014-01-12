@@ -14,14 +14,14 @@
   ],
   "categories": [
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Web Search",
           "slug": "web-search"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "disconnect-search",

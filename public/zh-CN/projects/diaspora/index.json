@@ -24,14 +24,14 @@
       "slug": "servers"
     },
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Social Networks",
           "slug": "social-networks"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "diaspora",

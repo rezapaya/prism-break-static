@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "kontact.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1813,14 +1813,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1900,14 +1900,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2082,14 +2082,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2382,7 +2382,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2393,7 +2393,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2916,7 +2916,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "kopete.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -3355,7 +3355,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
@@ -3682,7 +3682,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -4198,7 +4198,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "linux-mint.png"
+        "randomLogo": "parabola.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4435,7 +4435,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -4729,7 +4729,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -4890,7 +4890,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -4901,7 +4901,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5039,7 +5039,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -5264,14 +5264,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6105,14 +6105,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6574,7 +6574,7 @@
       "pidgin.png",
       "weechat.png"
     ],
-    "randomLogo": "hexchat.png"
+    "randomLogo": "bitlbee.png"
   },
   "projects": [
     {

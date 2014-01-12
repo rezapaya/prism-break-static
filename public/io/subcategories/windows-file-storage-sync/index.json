@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Digital Distribution",
@@ -1208,7 +1208,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1670,7 +1670,7 @@
           "git-annex.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "git-annex.png"
       },
       {
         "name": "Finance",
@@ -1740,14 +1740,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1827,14 +1827,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1855,7 +1855,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2009,14 +2009,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2265,7 +2265,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2276,7 +2276,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2798,7 +2798,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "pidgin.png"
+        "randomLogo": "psi-plus.png"
       },
       {
         "name": "IRC",
@@ -3237,7 +3237,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3402,7 +3402,7 @@
           "byzantium.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -4092,7 +4092,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "linux-mint.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4784,7 +4784,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -4795,7 +4795,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5158,14 +5158,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5593,7 +5593,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -5817,7 +5817,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Web Search",
@@ -5971,14 +5971,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5999,7 +5999,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6143,7 +6143,7 @@
       "git-annex.png",
       "sparkleshare.png"
     ],
-    "randomLogo": "sparkleshare.png"
+    "randomLogo": "git-annex.png"
   },
   "projects": [
     {
@@ -6318,7 +6318,7 @@
       "name": "Dropbox",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -6371,7 +6371,7 @@
       "name": "Google Drive",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -6418,7 +6418,7 @@
       "name": "Microsoft SkyDrive",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]

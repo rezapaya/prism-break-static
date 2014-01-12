@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "orbot.png",
       "projectsRejected": []
     },
     {
@@ -481,7 +481,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -534,7 +534,7 @@
           "name": "Google Drive",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -581,7 +581,7 @@
           "name": "Microsoft SkyDrive",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -688,14 +688,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -775,14 +775,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -981,7 +981,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -992,7 +992,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1087,7 +1087,7 @@
           "name": "AOL Instant Messenger",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging"
               ]
@@ -1134,7 +1134,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -1864,7 +1864,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -1875,7 +1875,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2013,7 +2013,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2025,7 +2025,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -2546,7 +2546,7 @@
           "name": "Google Earth",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "World Maps"
               ]

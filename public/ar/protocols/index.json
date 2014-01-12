@@ -117,14 +117,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -336,14 +336,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "duckduckgo",
@@ -386,14 +386,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -782,7 +782,7 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Email Accounts",
@@ -801,7 +801,7 @@
                     "slug": "vpn-accounts"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "riseup",
@@ -2041,7 +2041,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2052,7 +2052,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2104,14 +2104,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ostel",
@@ -2469,14 +2469,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ostel",
@@ -2860,14 +2860,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dukgocom",
@@ -3295,14 +3295,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3679,7 +3679,7 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Email Accounts",
@@ -3698,7 +3698,7 @@
                     "slug": "vpn-accounts"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "riseup",
@@ -5589,14 +5589,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6489,7 +6489,7 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Email Accounts",
@@ -6512,7 +6512,7 @@
                     "slug": "web-hosting"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "autistici-inventati",
@@ -6714,14 +6714,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -6748,14 +6748,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "disconnect-search",
@@ -6783,14 +6783,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "duckduckgo",
@@ -6831,14 +6831,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -7269,14 +7269,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -7311,14 +7311,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ixquick",
@@ -7703,7 +7703,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -7714,7 +7714,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -7807,14 +7807,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -7875,14 +7875,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "metager",
@@ -7920,14 +7920,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -8294,14 +8294,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ostel",
@@ -8374,14 +8374,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "protectedtext",
@@ -8444,7 +8444,7 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Email Accounts",
@@ -8463,7 +8463,7 @@
                     "slug": "vpn-accounts"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "riseup",
@@ -8537,14 +8537,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Web Search",
                     "slug": "web-search"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "startpage",
@@ -9111,7 +9111,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -9122,7 +9122,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -9273,14 +9273,14 @@
             ],
             "categories": [
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Video & Voice",
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ostel",

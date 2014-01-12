@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "freenet.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": []
     },
     {
@@ -964,7 +964,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "sylpheed.png",
       "projectsRejected": []
     },
     {
@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -1321,14 +1321,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1408,14 +1408,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1436,7 +1436,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -1591,14 +1591,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "otr.png",
       "projectsRejected": []
     },
     {
@@ -2574,7 +2574,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -2894,7 +2894,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "dragonfly-bsd.png",
+      "randomLogo": "openbsd.png",
       "projectsRejected": []
     },
     {
@@ -3132,7 +3132,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -3690,14 +3690,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -4125,7 +4125,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
@@ -4401,14 +4401,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "World Maps",
                   "slug": "world-maps"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",

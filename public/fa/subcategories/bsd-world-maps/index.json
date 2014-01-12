@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "geli.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "Finance",
@@ -1317,14 +1317,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1404,14 +1404,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1432,7 +1432,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -1586,14 +1586,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2129,7 +2129,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -2568,7 +2568,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -2886,7 +2886,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3123,7 +3123,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -3677,14 +3677,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -4112,7 +4112,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -4386,14 +4386,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -4465,14 +4465,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "World Maps",
                 "slug": "world-maps"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -4539,14 +4539,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "World Maps",
               "slug": "world-maps"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",

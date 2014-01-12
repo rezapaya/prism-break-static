@@ -81,14 +81,14 @@
       ],
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Web Search",
               "slug": "web-search"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "duckduckgo",
@@ -131,14 +131,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Media Publishing",
               "slug": "media-publishing"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "imgbi",
@@ -527,7 +527,7 @@
       ],
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Email Accounts",
@@ -546,7 +546,7 @@
               "slug": "vpn-accounts"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "riseup",

@@ -70,14 +70,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -157,14 +157,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -185,7 +185,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -315,7 +315,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -326,7 +326,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -375,7 +375,7 @@
           "name": "AOL Instant Messenger",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging"
               ]
@@ -422,7 +422,7 @@
           "name": "Apple Messages",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging"
               ]
@@ -457,7 +457,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -720,7 +720,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "replicant.png",
+      "randomLogo": "mozilla-firefox.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -864,7 +864,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -875,7 +875,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1024,7 +1024,7 @@
           "name": "Apple FaceTime",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Video & Voice"
               ]
@@ -1059,7 +1059,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"

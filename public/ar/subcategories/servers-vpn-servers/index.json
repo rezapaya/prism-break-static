@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "namecoin.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "tahoe-lafs.png"
       },
       {
         "name": "Groupware",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "iredmail.png"
+        "randomLogo": "indimail.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "exim.png"
+        "randomLogo": "postfix.png"
       },
       {
         "name": "Media Publishing",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "librevpn.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "yunohost.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "asterisk.png"
+        "randomLogo": "kamailio.png"
       },
       {
         "name": "Social Networks",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "friendica.png"
+        "randomLogo": "lorea.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "strongswan.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "tigase.png"
+        "randomLogo": "metronome.png"
       }
     ]
   },
@@ -4185,7 +4185,7 @@
       "strongswan.png",
       "tinc.png"
     ],
-    "randomLogo": "strongswan.png"
+    "randomLogo": "tinc.png"
   },
   "projects": [
     {

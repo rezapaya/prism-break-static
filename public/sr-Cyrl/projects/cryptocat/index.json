@@ -56,14 +56,14 @@
       "slug": "os-x"
     },
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Instant Messaging",
           "slug": "instant-messaging"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     },
     {
       "name": "Windows",

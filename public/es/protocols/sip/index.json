@@ -335,7 +335,7 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Instant Messaging",
@@ -346,7 +346,7 @@
               "slug": "video-voice"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",
@@ -398,14 +398,14 @@
       ],
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Video & Voice",
               "slug": "video-voice"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "ostel",

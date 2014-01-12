@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Disk Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "enigmail.png"
       },
       {
         "name": "Finance",
@@ -1317,14 +1317,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1404,14 +1404,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1432,7 +1432,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -1586,14 +1586,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2129,7 +2129,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "pidgin.png"
       },
       {
         "name": "IRC",
@@ -2568,7 +2568,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3123,7 +3123,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -3677,14 +3677,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -4112,7 +4112,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -4336,7 +4336,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "World Maps",
@@ -4386,14 +4386,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -4700,7 +4700,7 @@
       "mailvelope.png",
       "torbirdy.png"
     ],
-    "randomLogo": "mailvelope.png"
+    "randomLogo": "enigmail.png"
   },
   "projects": [
     {

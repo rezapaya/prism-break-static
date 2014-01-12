@@ -71,14 +71,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -158,14 +158,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -315,7 +315,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -326,7 +326,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "chatsecure.png"
       },
       {
         "name": "Operating Systems",
@@ -567,7 +567,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -578,7 +578,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -715,7 +715,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "mumble.png"
       },
       {
         "name": "Web Browsers",
@@ -836,14 +836,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -923,14 +923,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -1018,14 +1018,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",
@@ -1105,14 +1105,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",

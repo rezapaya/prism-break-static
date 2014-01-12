@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "tor.png",
       "projectsRejected": []
     },
     {
@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -1321,14 +1321,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1408,14 +1408,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -1436,7 +1436,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -1591,14 +1591,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "psi-plus.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -2894,7 +2894,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "netbsd.png",
+      "randomLogo": "freebsd.png",
       "projectsRejected": []
     },
     {
@@ -3353,7 +3353,7 @@
         "nightweb.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -3690,14 +3690,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -4125,7 +4125,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -4350,7 +4350,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "tor-browser-bundle.png",
       "projectsRejected": []
     },
     {
@@ -4401,14 +4401,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "World Maps",
                   "slug": "world-maps"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",

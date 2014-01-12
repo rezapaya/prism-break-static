@@ -154,7 +154,7 @@
           "nightweb.png",
           "orbot.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "orbot.png"
       },
       {
         "name": "App Store",
@@ -518,14 +518,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -605,14 +605,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -810,7 +810,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -821,7 +821,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -905,7 +905,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "Mesh Networks",
@@ -1183,7 +1183,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "cyanogenmod.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Social Networks",
@@ -1429,7 +1429,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -1440,7 +1440,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1578,7 +1578,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -2020,14 +2020,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -2107,14 +2107,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -2202,14 +2202,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",
@@ -2289,14 +2289,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",

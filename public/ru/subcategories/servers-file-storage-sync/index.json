@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "dnscrypt.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "sme-server.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "kamailio.png"
+        "randomLogo": "asterisk.png"
       },
       {
         "name": "Social Networks",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "sat.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "strongswan.png"
+        "randomLogo": "openswan.png"
       },
       {
         "name": "Web Analytics",
@@ -4560,7 +4560,7 @@
       "name": "Dropbox",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -4613,7 +4613,7 @@
       "name": "Google Drive",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]
@@ -4660,7 +4660,7 @@
       "name": "Microsoft SkyDrive",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "File Storage & Sync"
           ]

@@ -1,0 +1,2312 @@
+{
+  "category": {
+    "name": "Web Services",
+    "slug": "web-services",
+    "subcategories": [
+      {
+        "name": "DNS",
+        "slug": "dns",
+        "projects": [
+          {
+            "description": "Servizio di hosting DNS con supporto a DNSCrypt, DNSSec e Namecoin.",
+            "license_url": "",
+            "logo": "cloudns.png",
+            "notes": "",
+            "privacy_url": "https://cloudns.com.au/",
+            "source_url": "",
+            "name": "CloudNS",
+            "tos_url": "",
+            "url": "https://cloudns.com.au/",
+            "wikipedia_url": "",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "cloudns",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Provider DNS aperto, democratico e contro la censura.",
+            "license_url": "",
+            "logo": "opennic.png",
+            "notes": "OpenNIC non ha adottato una politica ufficiale sulla privacy/anonimizzazione delle richieste inviate. Maggiori informazioni [qui](http://wiki.opennicproject.org/Tier2).",
+            "privacy_url": "http://wiki.opennicproject.org/Tier2",
+            "source_url": "http://wiki.opennicproject.org/opennicZoneScript",
+            "name": "OpenNIC",
+            "tos_url": "",
+            "url": "http://www.opennicproject.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNIC",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "DNS",
+                    "slug": "dns"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "opennic",
+            "protocolsSlugged": []
+          }
+        ],
+        "projectLogos": [
+          "cloudns.png",
+          "opennic.png"
+        ],
+        "randomLogo": "cloudns.png"
+      },
+      {
+        "name": "Email Accounts",
+        "slug": "email-accounts",
+        "projects": [
+          {
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
+            "license_url": "",
+            "logo": "autistici-inventati.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "Autistici/Inventati",
+            "tos_url": "",
+            "url": "http://www.autistici.org/it/index.html",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  },
+                  {
+                    "name": "Web Hosting",
+                    "slug": "web-hosting"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "autistici-inventati",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Account Kolab sicuri e privati mantenuti in Svizzera per 10 CHF mensili.",
+            "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+            "logo": "mykolab.png",
+            "notes": "MyKolab &egrave; situato in Svizzera e trae beneficio dalle [severe leggi sulla privacy svizzere](https://MyKolab.com/privacy). &Egrave; composto esclusivamente da software libero e l&#39;uso del servizio supporta lo sviluppo di Kolab. \nInoltre, puoi esportare tutti i tuoi dati in qualsiasi momento.",
+            "privacy_url": "https://mykolab.com/privacy",
+            "source_url": "http://git.kolab.org/",
+            "name": "MyKolab",
+            "tos_url": "https://mykolab.com/tos",
+            "url": "https://mykolab.com/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "mykolab",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
+            "license_url": "",
+            "logo": "riseup.png",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "privacy_url": "https://help.riseup.net/en/privacy-policy",
+            "source_url": "http://riseuplabs.org/",
+            "name": "Riseup",
+            "tos_url": "",
+            "url": "https://riseup.net/en",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS",
+              "Tor",
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "riseup",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              },
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "autistici-inventati.png",
+          "mykolab.png",
+          "riseup.png"
+        ],
+        "randomLogo": "riseup.png"
+      },
+      {
+        "name": "Finance",
+        "slug": "finance",
+        "projects": [
+          {
+            "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
+            "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
+            "logo": "bitcoin.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://github.com/bitcoin/bitcoin",
+            "name": "Bitcoin",
+            "tos_url": "",
+            "url": "http://bitcoin.org",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Android",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "android"
+              },
+              {
+                "name": "BSD",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "bsd"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "iOS",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "ios"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "bitcoin",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Litecoin (simbolo : Ł ; codice : LTC) &egrave; una criptovaluta peer-to-peer e progetto open source pubblicato con licenza MIT/X11. Ispirato e tecnicamente quasi identico a Bitcoin (BTC), la creazione e il trasferimento di Litecoin sono basati su un protocollo open source e non sono gestiti da un&#39;autorit&agrave; centrale. Litecoin &egrave;, secondo i suoi sviluppatori, progettato per migliorare Bitcoin e offre tre differenze chiave.",
+            "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
+            "logo": "litecoin.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://github.com/litecoin-project/litecoin",
+            "name": "Litecoin",
+            "tos_url": "",
+            "url": "https://litecoin.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Litecoin",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Android",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "android"
+              },
+              {
+                "name": "BSD",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "bsd"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "iOS",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "ios"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "Finance",
+                    "slug": "finance"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "litecoin",
+            "protocolsSlugged": []
+          }
+        ],
+        "projectLogos": [
+          "bitcoin.png",
+          "litecoin.png"
+        ],
+        "randomLogo": "litecoin.png"
+      },
+      {
+        "name": "Instant Messaging",
+        "slug": "instant-messaging",
+        "projects": [
+          {
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
+            "license_url": "",
+            "logo": "autistici-inventati.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "Autistici/Inventati",
+            "tos_url": "",
+            "url": "http://www.autistici.org/it/index.html",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  },
+                  {
+                    "name": "Web Hosting",
+                    "slug": "web-hosting"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "autistici-inventati",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Messaggistica istantanea privata e criptata all&#39;interno del browser.",
+            "license_url": "https://github.com/cryptocat/cryptocat/blob/master/LICENSE.txt",
+            "logo": "cryptocat.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://github.com/cryptocat/cryptocat",
+            "name": "Cryptocat",
+            "tos_url": "",
+            "url": "https://crypto.cat/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cryptocat",
+            "protocols": [
+              "OTR"
+            ],
+            "categories": [
+              {
+                "name": "BSD",
+                "subcategories": [
+                  {
+                    "name": "Web Browser Addons",
+                    "slug": "web-browser-addons"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "bsd"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Web Browser Addons",
+                    "slug": "web-browser-addons"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "Web Browser Addons",
+                    "slug": "web-browser-addons"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "Web Browser Addons",
+                    "slug": "web-browser-addons"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "cryptocat",
+            "protocolsSlugged": [
+              {
+                "name": "OTR",
+                "slug": "otr"
+              }
+            ]
+          },
+          {
+            "description": "Servizio XMPP privato gestito dalla DuckDuckGo Community Platform&mdash;guida inclusa.",
+            "license_url": "",
+            "logo": "duckduckgo.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "dukgo.com",
+            "tos_url": "",
+            "url": "https://duck.co/blog/using-pidgin-with-xmpp-jabber",
+            "wikipedia_url": "",
+            "protocols": [
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "dukgocom",
+            "protocolsSlugged": [
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          },
+          {
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
+            "logo": "linphone.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://www.linphone.org/eng/download/git.html",
+            "name": "Linphone",
+            "tos_url": "",
+            "url": "https://www.linphone.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Linphone",
+            "protocols": [
+              "SIP",
+              "SSL/TLS",
+              "ZRTP"
+            ],
+            "categories": [
+              {
+                "name": "Android",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "android"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "iOS",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "ios"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "linphone",
+            "protocolsSlugged": [
+              {
+                "name": "SIP",
+                "slug": "sip"
+              },
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "ZRTP",
+                "slug": "zrtp"
+              }
+            ]
+          },
+          {
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
+            "license_url": "",
+            "logo": "riseup.png",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "privacy_url": "https://help.riseup.net/en/privacy-policy",
+            "source_url": "http://riseuplabs.org/",
+            "name": "Riseup",
+            "tos_url": "",
+            "url": "https://riseup.net/en",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS",
+              "Tor",
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "riseup",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              },
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "autistici-inventati.png",
+          "cryptocat.png",
+          "duckduckgo.png",
+          "linphone.png",
+          "riseup.png"
+        ],
+        "randomLogo": "cryptocat.png"
+      },
+      {
+        "name": "Media Publishing",
+        "slug": "media-publishing",
+        "projects": [
+          {
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
+            "license_url": "",
+            "logo": "autistici-inventati.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "Autistici/Inventati",
+            "tos_url": "",
+            "url": "http://www.autistici.org/it/index.html",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  },
+                  {
+                    "name": "Web Hosting",
+                    "slug": "web-hosting"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "autistici-inventati",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Hosting di immagini con cifratura AES-256 all&#39;interno del browser.",
+            "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
+            "logo": "imgbi.png",
+            "notes": "Il servizio img.bi &egrave; disponibile anche per Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nC&#39;&egrave; anche I2P come [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+            "privacy_url": "https://img.bi/",
+            "source_url": "https://github.com/imgbi",
+            "name": "img.bi",
+            "tos_url": "",
+            "url": "https://img.bi/",
+            "wikipedia_url": "",
+            "protocols": [
+              "I2P",
+              "SSL/TLS",
+              "Tor"
+            ],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "imgbi",
+            "protocolsSlugged": [
+              {
+                "name": "I2P",
+                "slug": "i2p"
+              },
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              }
+            ]
+          },
+          {
+            "description": "Hosting veloce incentrato sulla privacy, per immagini, audio e video.",
+            "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
+            "logo": "mediacrush.png",
+            "notes": "Attenzione: MediaCrush include Google Analytics e Google Adsense se non hai l&#39;opzione Do Not Track abilitata.",
+            "privacy_url": "https://mediacru.sh/serious",
+            "source_url": "https://github.com/MediaCrush/MediaCrush",
+            "name": "MediaCrush",
+            "tos_url": "https://mediacru.sh/serious",
+            "url": "https://mediacru.sh/",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "mediacrush",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "autistici-inventati.png",
+          "imgbi.png",
+          "mediacrush.png"
+        ],
+        "randomLogo": "imgbi.png"
+      },
+      {
+        "name": "Productivity",
+        "slug": "productivity",
+        "projects": [
+          {
+            "description": "Un sito per sondaggi libero e sicuro, con una versione dedicata alla privacy.",
+            "license_url": "https://dudle.inf.tu-dresden.de/about.cgi",
+            "logo": "dudle.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://dudle.inf.tu-dresden.de/about.cgi",
+            "name": "dudle",
+            "tos_url": "",
+            "url": "https://dudle.inf.tu-dresden.de/",
+            "wikipedia_url": "",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "dudle",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Server per fogli di calcolo multi-utente.",
+            "license_url": "https://github.com/audreyt/ethercalc/blob/master/LICENSE.txt",
+            "logo": "ethercalc.png",
+            "notes": "Il servizio EtherCalc non cripta la trasmissione dei dati  con HTTPS e non si trova alcuna politica sulla privacy su ci&ograve; che fanno con i tuoi dati. Scarica e gestisci un server EtherCalc personale se ci tieni alla privacy.",
+            "privacy_url": "",
+            "source_url": "https://github.com/audreyt/ethercalc",
+            "name": "EtherCalc",
+            "tos_url": "",
+            "url": "http://ethercalc.net/",
+            "wikipedia_url": "",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "ethercalc",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Sistema autogestito per documenti collaborativi in tempo reale.",
+            "license_url": "https://github.com/ether/etherpad-lite/blob/develop/LICENSE",
+            "logo": "etherpad.png",
+            "notes": "Il progetto etherpad mantiene una lista di [siti che ospitano servizi etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite). Si consiglia di scegliere solo servizi che usano SSL e controllare la storia del sito prima di affidare loro i tuoi dati.",
+            "privacy_url": "",
+            "source_url": "https://github.com/ether/etherpad-lite",
+            "name": "Etherpad",
+            "tos_url": "",
+            "url": "http://etherpad.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Etherpad",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "etherpad",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Blocco note online libero e criptato.",
+            "license_url": "",
+            "logo": "protextedtext.png",
+            "notes": "ProtectedText cifra/decifra i testi nel browser, mentre la password (o il suo hash) non &egrave; mai inviata al server - quindi i testi non possono essere decifrati anche se venisse richiesto dalle autorit&agrave;.",
+            "privacy_url": "",
+            "source_url": "https://www.protectedtext.com/js/main.js",
+            "name": "ProtectedText",
+            "tos_url": "",
+            "url": "https://www.protectedtext.com/",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "protectedtext",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
+            "license_url": "",
+            "logo": "riseup.png",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "privacy_url": "https://help.riseup.net/en/privacy-policy",
+            "source_url": "http://riseuplabs.org/",
+            "name": "Riseup",
+            "tos_url": "",
+            "url": "https://riseup.net/en",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS",
+              "Tor",
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "riseup",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              },
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "dudle.png",
+          "ethercalc.png",
+          "etherpad.png",
+          "protextedtext.png",
+          "riseup.png"
+        ],
+        "randomLogo": "dudle.png"
+      },
+      {
+        "name": "Social Networks",
+        "slug": "social-networks",
+        "projects": [
+          {
+            "description": "Social network distribuito e comunitario.",
+            "license_url": "https://github.com/diaspora/diaspora/blob/develop/COPYRIGHT",
+            "logo": "diaspora.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://github.com/diaspora/diaspora",
+            "name": "diaspora*",
+            "tos_url": "",
+            "url": "https://diasporafoundation.org/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Diaspora_%28software%29",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Social Networks",
+                    "slug": "social-networks"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Social Networks",
+                    "slug": "social-networks"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "diaspora",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Server per social network privato e decentralizzato.",
+            "license_url": "https://bazaar.launchpad.net/~movim/movim/trunk/view/head:/COPYING",
+            "logo": "movim.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://code.launchpad.net/movim",
+            "name": "Movim",
+            "tos_url": "",
+            "url": "http://movim.eu/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Movim",
+            "protocols": [
+              "SSL/TLS",
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Servers",
+                "subcategories": [
+                  {
+                    "name": "Social Networks",
+                    "slug": "social-networks"
+                  }
+                ],
+                "slug": "servers"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Social Networks",
+                    "slug": "social-networks"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "movim",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "diaspora.png",
+          "movim.png"
+        ],
+        "randomLogo": "diaspora.png"
+      },
+      {
+        "name": "Video & Voice",
+        "slug": "video-voice",
+        "projects": [
+          {
+            "description": "Client per VoIP e videoconferenze cifrate multipiattaforma.",
+            "license_url": "http://www.linphone.org/eng/linphone/license.html",
+            "logo": "linphone.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "https://www.linphone.org/eng/download/git.html",
+            "name": "Linphone",
+            "tos_url": "",
+            "url": "https://www.linphone.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Linphone",
+            "protocols": [
+              "SIP",
+              "SSL/TLS",
+              "ZRTP"
+            ],
+            "categories": [
+              {
+                "name": "Android",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "android"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "iOS",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "ios"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "linphone",
+            "protocolsSlugged": [
+              {
+                "name": "SIP",
+                "slug": "sip"
+              },
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "ZRTP",
+                "slug": "zrtp"
+              }
+            ]
+          },
+          {
+            "description": "Account SIP sicuri del Guardian Project da usare con CSipSimple, Jitsi e altri.",
+            "license_url": "",
+            "logo": "ostel.png",
+            "notes": "",
+            "privacy_url": "https://ostel.co/privacy",
+            "source_url": "https://github.com/guardianproject/OStel",
+            "name": "Ostel",
+            "tos_url": "",
+            "url": "https://ostel.co/",
+            "wikipedia_url": "",
+            "protocols": [
+              "SIP",
+              "SSL/TLS",
+              "VoIP",
+              "ZRTP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Video & Voice",
+                    "slug": "video-voice"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "ostel",
+            "protocolsSlugged": [
+              {
+                "name": "SIP",
+                "slug": "sip"
+              },
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "VoIP",
+                "slug": "voip"
+              },
+              {
+                "name": "ZRTP",
+                "slug": "zrtp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "linphone.png",
+          "ostel.png"
+        ],
+        "randomLogo": "linphone.png"
+      },
+      {
+        "name": "VPN Accounts",
+        "slug": "vpn-accounts",
+        "projects": [
+          {
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
+            "license_url": "",
+            "logo": "autistici-inventati.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "Autistici/Inventati",
+            "tos_url": "",
+            "url": "http://www.autistici.org/it/index.html",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  },
+                  {
+                    "name": "Web Hosting",
+                    "slug": "web-hosting"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "autistici-inventati",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
+            "license_url": "",
+            "logo": "riseup.png",
+            "notes": "Warning: Riseup's email service currently has a bug regarding deleted emails ([follow the ticket](https://user.riseup.net/ticket/615275)).\n\nI servizi di Riseup possono essere usati anche tramite i loro indirizzi nascosti su Tor. Una lista &egrave; [disponibile qui](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+            "privacy_url": "https://help.riseup.net/en/privacy-policy",
+            "source_url": "http://riseuplabs.org/",
+            "name": "Riseup",
+            "tos_url": "",
+            "url": "https://riseup.net/en",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS",
+              "Tor",
+              "XMPP"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Productivity",
+                    "slug": "productivity"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "riseup",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              },
+              {
+                "name": "XMPP",
+                "slug": "xmpp"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "autistici-inventati.png",
+          "riseup.png"
+        ],
+        "randomLogo": "riseup.png"
+      },
+      {
+        "name": "Web Hosting",
+        "slug": "web-hosting",
+        "projects": [
+          {
+            "description": "Una vasta gamma di servizi per la privacy, inclusi hosting, VPN, email, IM e altro.",
+            "license_url": "",
+            "logo": "autistici-inventati.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "",
+            "name": "Autistici/Inventati",
+            "tos_url": "",
+            "url": "http://www.autistici.org/it/index.html",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  },
+                  {
+                    "name": "Instant Messaging",
+                    "slug": "instant-messaging"
+                  },
+                  {
+                    "name": "Media Publishing",
+                    "slug": "media-publishing"
+                  },
+                  {
+                    "name": "VPN Accounts",
+                    "slug": "vpn-accounts"
+                  },
+                  {
+                    "name": "Web Hosting",
+                    "slug": "web-hosting"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "autistici-inventati",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "autistici-inventati.png"
+        ],
+        "randomLogo": "autistici-inventati.png"
+      },
+      {
+        "name": "Web Search",
+        "slug": "web-search",
+        "projects": [
+          {
+            "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
+            "license_url": "",
+            "logo": "disconnect-search.png",
+            "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
+            "privacy_url": "",
+            "source_url": "https://disconnect.me/search",
+            "name": "Disconnect Search",
+            "tos_url": "",
+            "url": "https://disconnect.me/search",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Web Search",
+                    "slug": "web-search"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "disconnect-search",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Ricerche anonime e non registrate.",
+            "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
+            "logo": "duckduckgo.png",
+            "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
+            "privacy_url": "https://duckduckgo.com/privacy",
+            "source_url": "https://github.com/duckduckgo/duckduckgo",
+            "name": "DuckDuckGo",
+            "tos_url": "",
+            "url": "https://duckduckgo.com/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
+            "protocols": [
+              "SSL/TLS",
+              "Tor"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Web Search",
+                    "slug": "web-search"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "duckduckgo",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "Tor",
+                "slug": "tor"
+              }
+            ]
+          },
+          {
+            "description": "Ixquick &egrave; un metamotore di ricerca situato a New York e nei Paesi Bassi. ",
+            "license_url": "",
+            "logo": "ixquick.png",
+            "notes": "",
+            "privacy_url": "https://ixquick.com/eng/privacy-policy.html",
+            "source_url": "",
+            "name": "Ixquick",
+            "tos_url": "",
+            "url": "https://ixquick.com/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/Ixquick",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Web Search",
+                    "slug": "web-search"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "ixquick",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Metamotore di ricerca che inoltra le tue richieste via proxy ad altri motori di ricerca.",
+            "license_url": "",
+            "logo": "metager.png",
+            "notes": "",
+            "privacy_url": "https://www.metager.de/en/privacy.html",
+            "source_url": "",
+            "name": "MetaGer",
+            "tos_url": "",
+            "url": "https://metager.de/en/",
+            "wikipedia_url": "",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Web Search",
+                    "slug": "web-search"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "metager",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          },
+          {
+            "description": "Ricerche web private e non registrate.",
+            "license_url": "",
+            "logo": "startpage.png",
+            "notes": "Startpage &egrave; un SaaS situato in USA e nei Paesi Bassi che offre ricerche Google anonime attraverso un proxy.",
+            "privacy_url": "https://startpage.com/eng/protect-privacy.html",
+            "source_url": "",
+            "name": "Startpage",
+            "tos_url": "",
+            "url": "https://startpage.com/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+            "protocols": [
+              "SSL/TLS"
+            ],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Web Search",
+                    "slug": "web-search"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "startpage",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              }
+            ]
+          }
+        ],
+        "projectLogos": [
+          "disconnect-search.png",
+          "duckduckgo.png",
+          "ixquick.png",
+          "metager.png",
+          "startpage.png"
+        ],
+        "randomLogo": "duckduckgo.png"
+      },
+      {
+        "name": "World Maps",
+        "slug": "world-maps",
+        "projects": [
+          {
+            "description": "La Open Source Routing Machine (OSRM) &egrave; un&#39;implementazione in C++ di un motore per mappe ad alte prestazioni per trovare i percorsi pi&ugrave; brevi nelle reti stradali. Dotata di una licenza permissiva con doppia clausola BSD, OSRM &egrave; un servizio di rete libero. OSRM supporta Linux, FreeBSD, Windows e Mac.",
+            "license_url": "https://github.com/DennisOSRM/Project-OSRM/blob/master/LICENCE.TXT",
+            "logo": "osrm.png",
+            "notes": "OSRM dovrebbe essere installato e usato localmente sul tuo PC per evitare possibili fughe di dati dalla versione online del servizio in chiaro.",
+            "privacy_url": "",
+            "source_url": "https://github.com/DennisOSRM/Project-OSRM",
+            "name": "Open Source Routing Machine",
+            "tos_url": "",
+            "url": "http://project-osrm.org/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Open_Source_Routing_Machine",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "BSD",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "bsd"
+              },
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "open-source-routing-machine",
+            "protocolsSlugged": []
+          },
+          {
+            "description": "Mappa mondiale collaborativa e libera.",
+            "license_url": "http://www.openstreetmap.org/copyright",
+            "logo": "openstreetmap.png",
+            "notes": "",
+            "privacy_url": "",
+            "source_url": "http://wiki.openstreetmap.org/wiki/Getting_The_Source",
+            "name": "OpenStreetMap",
+            "tos_url": "",
+            "url": "http://www.openstreetmap.org/",
+            "wikipedia_url": "https://it.wikipedia.org/wiki/OpenStreetMap",
+            "protocols": [],
+            "categories": [
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "World Maps",
+                    "slug": "world-maps"
+                  }
+                ],
+                "slug": "web-services"
+              }
+            ],
+            "slug": "openstreetmap",
+            "protocolsSlugged": []
+          }
+        ],
+        "projectLogos": [
+          "osrm.png",
+          "openstreetmap.png"
+        ],
+        "randomLogo": "osrm.png"
+      }
+    ]
+  },
+  "subcategory": {
+    "name": "Web Search",
+    "slug": "web-search",
+    "projects": [
+      {
+        "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
+        "license_url": "",
+        "logo": "disconnect-search.png",
+        "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
+        "privacy_url": "",
+        "source_url": "https://disconnect.me/search",
+        "name": "Disconnect Search",
+        "tos_url": "",
+        "url": "https://disconnect.me/search",
+        "wikipedia_url": "",
+        "protocols": [
+          "SSL/TLS"
+        ],
+        "categories": [
+          {
+            "name": "Web Services",
+            "subcategories": [
+              {
+                "name": "Web Search",
+                "slug": "web-search"
+              }
+            ],
+            "slug": "web-services"
+          }
+        ],
+        "slug": "disconnect-search",
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          }
+        ]
+      },
+      {
+        "description": "Ricerche anonime e non registrate.",
+        "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
+        "logo": "duckduckgo.png",
+        "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
+        "privacy_url": "https://duckduckgo.com/privacy",
+        "source_url": "https://github.com/duckduckgo/duckduckgo",
+        "name": "DuckDuckGo",
+        "tos_url": "",
+        "url": "https://duckduckgo.com/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
+        "protocols": [
+          "SSL/TLS",
+          "Tor"
+        ],
+        "categories": [
+          {
+            "name": "Web Services",
+            "subcategories": [
+              {
+                "name": "Web Search",
+                "slug": "web-search"
+              }
+            ],
+            "slug": "web-services"
+          }
+        ],
+        "slug": "duckduckgo",
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          },
+          {
+            "name": "Tor",
+            "slug": "tor"
+          }
+        ]
+      },
+      {
+        "description": "Ixquick &egrave; un metamotore di ricerca situato a New York e nei Paesi Bassi. ",
+        "license_url": "",
+        "logo": "ixquick.png",
+        "notes": "",
+        "privacy_url": "https://ixquick.com/eng/privacy-policy.html",
+        "source_url": "",
+        "name": "Ixquick",
+        "tos_url": "",
+        "url": "https://ixquick.com/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Ixquick",
+        "protocols": [
+          "SSL/TLS"
+        ],
+        "categories": [
+          {
+            "name": "Web Services",
+            "subcategories": [
+              {
+                "name": "Web Search",
+                "slug": "web-search"
+              }
+            ],
+            "slug": "web-services"
+          }
+        ],
+        "slug": "ixquick",
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          }
+        ]
+      },
+      {
+        "description": "Metamotore di ricerca che inoltra le tue richieste via proxy ad altri motori di ricerca.",
+        "license_url": "",
+        "logo": "metager.png",
+        "notes": "",
+        "privacy_url": "https://www.metager.de/en/privacy.html",
+        "source_url": "",
+        "name": "MetaGer",
+        "tos_url": "",
+        "url": "https://metager.de/en/",
+        "wikipedia_url": "",
+        "protocols": [
+          "SSL/TLS"
+        ],
+        "categories": [
+          {
+            "name": "Web Services",
+            "subcategories": [
+              {
+                "name": "Web Search",
+                "slug": "web-search"
+              }
+            ],
+            "slug": "web-services"
+          }
+        ],
+        "slug": "metager",
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          }
+        ]
+      },
+      {
+        "description": "Ricerche web private e non registrate.",
+        "license_url": "",
+        "logo": "startpage.png",
+        "notes": "Startpage &egrave; un SaaS situato in USA e nei Paesi Bassi che offre ricerche Google anonime attraverso un proxy.",
+        "privacy_url": "https://startpage.com/eng/protect-privacy.html",
+        "source_url": "",
+        "name": "Startpage",
+        "tos_url": "",
+        "url": "https://startpage.com/",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+        "protocols": [
+          "SSL/TLS"
+        ],
+        "categories": [
+          {
+            "name": "Web Services",
+            "subcategories": [
+              {
+                "name": "Web Search",
+                "slug": "web-search"
+              }
+            ],
+            "slug": "web-services"
+          }
+        ],
+        "slug": "startpage",
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          }
+        ]
+      }
+    ],
+    "projectLogos": [
+      "disconnect-search.png",
+      "duckduckgo.png",
+      "ixquick.png",
+      "metager.png",
+      "startpage.png"
+    ],
+    "randomLogo": "duckduckgo.png"
+  },
+  "projects": [
+    {
+      "description": "Servizio VPN anonimo per rinomati motori di ricerca come Google, Bing e Yahoo.",
+      "license_url": "",
+      "logo": "disconnect-search.png",
+      "notes": "Il codice sorgente pu&ograve; essere scaricato cliccando con il destro \"Get Disconnect Search\" sul sito ufficiale e selezionando \"Salva destinazione con nome...\".\n\nUna volta scaricato \"search.xpi\", cambiare l&#39;estensione del file in \".zip\" ed estrarlo per vedere il codice sorgente.",
+      "privacy_url": "",
+      "source_url": "https://disconnect.me/search",
+      "name": "Disconnect Search",
+      "tos_url": "",
+      "url": "https://disconnect.me/search",
+      "wikipedia_url": "",
+      "protocols": [
+        "SSL/TLS"
+      ],
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Web Search",
+              "slug": "web-search"
+            }
+          ],
+          "slug": "web-services"
+        }
+      ],
+      "slug": "disconnect-search",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        }
+      ]
+    },
+    {
+      "description": "Ricerche anonime e non registrate.",
+      "license_url": "https://github.com/duckduckgo/duckduckgo/blob/master/LICENSE",
+      "logo": "duckduckgo.png",
+      "notes": "DuckDuckGo &egrave; un software-as-a-service (SaaS) con server in varie parti del mondo che ti fornisce risultati di ricerca anonimi da [queste fonti](https://dukgo.com/help/en_US/results/sources). I componenti open source di DDG sono [disponibili qui](https://github.com/duckduckgo).\n\nEgrave; disponibile anche un servizio nascosto di DuckDuckGo all&#39;indirizzo [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) per gli utenti Tor.",
+      "privacy_url": "https://duckduckgo.com/privacy",
+      "source_url": "https://github.com/duckduckgo/duckduckgo",
+      "name": "DuckDuckGo",
+      "tos_url": "",
+      "url": "https://duckduckgo.com/",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/DuckDuckGo",
+      "protocols": [
+        "SSL/TLS",
+        "Tor"
+      ],
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Web Search",
+              "slug": "web-search"
+            }
+          ],
+          "slug": "web-services"
+        }
+      ],
+      "slug": "duckduckgo",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        },
+        {
+          "name": "Tor",
+          "slug": "tor"
+        }
+      ]
+    },
+    {
+      "description": "Ixquick &egrave; un metamotore di ricerca situato a New York e nei Paesi Bassi. ",
+      "license_url": "",
+      "logo": "ixquick.png",
+      "notes": "",
+      "privacy_url": "https://ixquick.com/eng/privacy-policy.html",
+      "source_url": "",
+      "name": "Ixquick",
+      "tos_url": "",
+      "url": "https://ixquick.com/",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ixquick",
+      "protocols": [
+        "SSL/TLS"
+      ],
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Web Search",
+              "slug": "web-search"
+            }
+          ],
+          "slug": "web-services"
+        }
+      ],
+      "slug": "ixquick",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        }
+      ]
+    },
+    {
+      "description": "Metamotore di ricerca che inoltra le tue richieste via proxy ad altri motori di ricerca.",
+      "license_url": "",
+      "logo": "metager.png",
+      "notes": "",
+      "privacy_url": "https://www.metager.de/en/privacy.html",
+      "source_url": "",
+      "name": "MetaGer",
+      "tos_url": "",
+      "url": "https://metager.de/en/",
+      "wikipedia_url": "",
+      "protocols": [
+        "SSL/TLS"
+      ],
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Web Search",
+              "slug": "web-search"
+            }
+          ],
+          "slug": "web-services"
+        }
+      ],
+      "slug": "metager",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        }
+      ]
+    },
+    {
+      "description": "Ricerche web private e non registrate.",
+      "license_url": "",
+      "logo": "startpage.png",
+      "notes": "Startpage &egrave; un SaaS situato in USA e nei Paesi Bassi che offre ricerche Google anonime attraverso un proxy.",
+      "privacy_url": "https://startpage.com/eng/protect-privacy.html",
+      "source_url": "",
+      "name": "Startpage",
+      "tos_url": "",
+      "url": "https://startpage.com/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+      "protocols": [
+        "SSL/TLS"
+      ],
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Web Search",
+              "slug": "web-search"
+            }
+          ],
+          "slug": "web-services"
+        }
+      ],
+      "slug": "startpage",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        }
+      ]
+    }
+  ],
+  "projectsRejected": [
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "google.png",
+      "name": "Google Search",
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    },
+    {
+      "status": "rejected",
+      "tags": [
+        "Proprietary",
+        "PRISM"
+      ],
+      "logo": "ms-bing.png",
+      "name": "Microsoft Bing",
+      "categories": [
+        {
+          "name": "Web Services",
+          "subcategories": [
+            "Web Search"
+          ]
+        }
+      ]
+    }
+  ]
+}

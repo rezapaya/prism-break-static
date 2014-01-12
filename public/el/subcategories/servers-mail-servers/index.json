@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "i2p.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Communication Protocols",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "owncloud.png"
+        "randomLogo": "buddycloud.png"
       },
       {
         "name": "Groupware",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "indimail.png"
+        "randomLogo": "kolab.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "freebsd.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "freedombox.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "freeswitch.png"
+        "randomLogo": "kamailio.png"
       },
       {
         "name": "Social Networks",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "friendica.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openvpn.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "ejabberd.png"
+        "randomLogo": "tigase.png"
       }
     ]
   },
@@ -4055,7 +4055,7 @@
       "iredmail.png",
       "kolab.png"
     ],
-    "randomLogo": "indimail.png"
+    "randomLogo": "kolab.png"
   },
   "projects": [
     {

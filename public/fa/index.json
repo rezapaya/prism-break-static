@@ -3,9 +3,9 @@
     "name": "Services",
     "categories": [
       {
-        "name": "Web",
+        "name": "Web Services",
         "fa": "fa-globe",
-        "slug": "web"
+        "slug": "web-services"
       }
     ]
   },

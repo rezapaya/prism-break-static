@@ -12,14 +12,14 @@
   "protocols": [],
   "categories": [
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "World Maps",
           "slug": "world-maps"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "openstreetmap",

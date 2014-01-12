@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Communication Protocols",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "cozy.png"
       },
       {
         "name": "Groupware",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "exim.png"
+        "randomLogo": "postfix.png"
       },
       {
         "name": "Media Publishing",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "zenphoto.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "scientific-linux.png"
+        "randomLogo": "centos.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "freedombox.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "kamailio.png"
+        "randomLogo": "freeswitch.png"
       },
       {
         "name": "Social Networks",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "strongswan.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "open-web-analytics.png"
+        "randomLogo": "piwik.png"
       },
       {
         "name": "XMPP Servers",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "openfire.png"
+        "randomLogo": "metronome.png"
       }
     ]
   },
@@ -3971,14 +3971,14 @@
             "slug": "servers"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Productivity",
                 "slug": "productivity"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           }
         ],
         "slug": "dudle",
@@ -4008,14 +4008,14 @@
             "slug": "servers"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Productivity",
                 "slug": "productivity"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           }
         ],
         "slug": "ethercalc",
@@ -4047,14 +4047,14 @@
             "slug": "servers"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Productivity",
                 "slug": "productivity"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           }
         ],
         "slug": "etherpad",
@@ -4098,14 +4098,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Productivity",
               "slug": "productivity"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "dudle",
@@ -4135,14 +4135,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Productivity",
               "slug": "productivity"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "ethercalc",
@@ -4174,14 +4174,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Productivity",
               "slug": "productivity"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "etherpad",
@@ -4203,7 +4203,7 @@
       "name": "Doodle",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Productivity"
           ]
@@ -4225,7 +4225,7 @@
       "name": "Evernote",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Productivity"
           ]
@@ -4272,7 +4272,7 @@
       "name": "Microsoft Office Web Apps",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Productivity"
           ]
@@ -4311,7 +4311,7 @@
       "name": "Zoho Office Suite",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Productivity"
           ]

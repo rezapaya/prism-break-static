@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "tahoe-lafs.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Groupware",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "piwigo.png"
+        "randomLogo": "wordpress.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "librevpn.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "yunohost.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "freeswitch.png"
+        "randomLogo": "asterisk.png"
       },
       {
         "name": "Social Networks",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnu-social.png"
       },
       {
         "name": "Video & Voice",
@@ -4016,14 +4016,14 @@
             "slug": "servers"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Social Networks",
                 "slug": "social-networks"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           }
         ],
         "slug": "diaspora",
@@ -4173,14 +4173,14 @@
             "slug": "servers"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Social Networks",
                 "slug": "social-networks"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           }
         ],
         "slug": "movim",
@@ -4462,7 +4462,7 @@
       "sat.png",
       "syndie.png"
     ],
-    "randomLogo": "nightweb.png"
+    "randomLogo": "gnu-social.png"
   },
   "projects": [
     {
@@ -4534,14 +4534,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Social Networks",
               "slug": "social-networks"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "diaspora",
@@ -4691,14 +4691,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Social Networks",
               "slug": "social-networks"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "movim",
@@ -4979,7 +4979,7 @@
       "name": "Facebook",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Email Accounts",
             "Instant Messaging",
@@ -5008,7 +5008,7 @@
       "name": "Google+",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Social Networks",
             "Video & Voice"
@@ -5032,7 +5032,7 @@
       "name": "LinkedIn",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Social Networks"
           ]
@@ -5054,7 +5054,7 @@
       "name": "Twitter",
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             "Social Networks"
           ]

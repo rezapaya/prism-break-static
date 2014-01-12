@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "dnscrypt.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "buddycloud.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Groupware",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "indimail.png"
+        "randomLogo": "iredmail.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "postfix.png"
+        "randomLogo": "exim.png"
       },
       {
         "name": "Media Publishing",
@@ -1380,14 +1380,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "imgbi",
@@ -1432,14 +1432,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Media Publishing",
                     "slug": "media-publishing"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "mediacrush",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "opensuse.png"
       },
       {
         "name": "Productivity",
@@ -2492,14 +2492,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "dudle",
@@ -2529,14 +2529,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "ethercalc",
@@ -2568,14 +2568,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Productivity",
                     "slug": "productivity"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "etherpad",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "freedombox.png"
       },
       {
         "name": "SIP Servers",
@@ -2891,14 +2891,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "diaspora",
@@ -3048,14 +3048,14 @@
                 "slug": "servers"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Social Networks",
                     "slug": "social-networks"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               }
             ],
             "slug": "movim",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "strongswan.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "openfire.png"
+        "randomLogo": "metronome.png"
       }
     ]
   },
@@ -4124,7 +4124,7 @@
       "encfs.png",
       "truecrypt.png"
     ],
-    "randomLogo": "luks.png"
+    "randomLogo": "truecrypt.png"
   },
   "projects": [
     {

@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "diskcryptor.png"
       },
       {
         "name": "Email Alternatives",
@@ -1740,14 +1740,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1827,14 +1827,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1855,7 +1855,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2009,14 +2009,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2265,7 +2265,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2276,7 +2276,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2798,7 +2798,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "IRC",
@@ -4092,7 +4092,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gentoo.png"
+        "randomLogo": "whonix.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4623,7 +4623,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -4784,7 +4784,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -4795,7 +4795,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5158,14 +5158,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5593,7 +5593,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "noscript.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -5817,7 +5817,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -5971,14 +5971,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6071,14 +6071,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -6158,14 +6158,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Finance",
                 "slug": "finance"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -6186,7 +6186,7 @@
       "bitcoin.png",
       "litecoin.png"
     ],
-    "randomLogo": "bitcoin.png"
+    "randomLogo": "litecoin.png"
   },
   "projects": [
     {
@@ -6253,14 +6253,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",
@@ -6340,14 +6340,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Finance",
               "slug": "finance"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",

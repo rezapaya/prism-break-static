@@ -22,14 +22,14 @@
       "slug": "os-x"
     },
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Email Accounts",
           "slug": "email-accounts"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "mykolab",

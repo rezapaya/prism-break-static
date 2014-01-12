@@ -256,14 +256,14 @@
       ],
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "dukgocom",
@@ -691,14 +691,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Social Networks",
               "slug": "social-networks"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "movim",
@@ -1075,7 +1075,7 @@
       ],
       "categories": [
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Email Accounts",
@@ -1094,7 +1094,7 @@
               "slug": "vpn-accounts"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "riseup",

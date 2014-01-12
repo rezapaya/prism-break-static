@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Digital Distribution",
@@ -744,7 +744,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -910,7 +910,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1813,14 +1813,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1900,14 +1900,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1928,7 +1928,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2082,14 +2082,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2382,7 +2382,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2393,7 +2393,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2916,7 +2916,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "otr.png"
       },
       {
         "name": "IRC",
@@ -3682,7 +3682,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -4198,7 +4198,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gentoo.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4435,7 +4435,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4890,7 +4890,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -4901,7 +4901,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5264,14 +5264,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5699,7 +5699,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "adblock-edge.png"
       },
       {
         "name": "Web Browsers",
@@ -6008,7 +6008,7 @@
           "seeks-project.png",
           "yacy.png"
         ],
-        "randomLogo": "seeks-project.png"
+        "randomLogo": "yacy.png"
       },
       {
         "name": "World Maps",
@@ -6105,14 +6105,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6133,7 +6133,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6301,7 +6301,7 @@
       "bitmessage.png",
       "retroshare.png"
     ],
-    "randomLogo": "retroshare.png"
+    "randomLogo": "bitmessage.png"
   },
   "projects": [
     {

@@ -22,14 +22,14 @@
       "slug": "servers"
     },
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Productivity",
           "slug": "productivity"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "dudle",

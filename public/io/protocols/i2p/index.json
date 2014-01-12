@@ -112,14 +112,14 @@
           "slug": "servers"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Media Publishing",
               "slug": "media-publishing"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         }
       ],
       "slug": "imgbi",

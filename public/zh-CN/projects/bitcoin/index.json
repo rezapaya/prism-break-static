@@ -62,14 +62,14 @@
       "slug": "os-x"
     },
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Finance",
           "slug": "finance"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     },
     {
       "name": "Windows",

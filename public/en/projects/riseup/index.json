@@ -16,7 +16,7 @@
   ],
   "categories": [
     {
-      "name": "Web",
+      "name": "Web Services",
       "subcategories": [
         {
           "name": "Email Accounts",
@@ -35,7 +35,7 @@
           "slug": "vpn-accounts"
         }
       ],
-      "slug": "web"
+      "slug": "web-services"
     }
   ],
   "slug": "riseup",

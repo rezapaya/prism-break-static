@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "geli.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1383,7 +1383,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": []
     },
     {
@@ -1812,7 +1812,7 @@
         "git-annex.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "sparkleshare.png",
+      "randomLogo": "git-annex.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1824,7 +1824,7 @@
           "name": "Dropbox",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "File Storage & Sync"
               ]
@@ -1937,14 +1937,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2024,14 +2024,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Finance",
                   "slug": "finance"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2052,7 +2052,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -2207,14 +2207,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -2507,7 +2507,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -2518,7 +2518,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -3041,7 +3041,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "kopete.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3053,7 +3053,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -3542,7 +3542,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -4387,7 +4387,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "arch-linux.png",
+      "randomLogo": "qubes-os.png",
       "projectsRejected": []
     },
     {
@@ -4920,7 +4920,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -5082,7 +5082,7 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
@@ -5093,7 +5093,7 @@
                   "slug": "video-voice"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -5231,7 +5231,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5243,7 +5243,7 @@
           "name": "Skype",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "Instant Messaging",
                 "Video & Voice"
@@ -5548,14 +5548,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "Instant Messaging",
                   "slug": "instant-messaging"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -5983,7 +5983,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "request-policy.png",
       "projectsRejected": []
     },
     {
@@ -6380,7 +6380,7 @@
         "seeks-project.png",
         "yacy.png"
       ],
-      "randomLogo": "seeks-project.png",
+      "randomLogo": "yacy.png",
       "projectsRejected": []
     },
     {
@@ -6478,14 +6478,14 @@
               "slug": "os-x"
             },
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 {
                   "name": "World Maps",
                   "slug": "world-maps"
                 }
               ],
-              "slug": "web"
+              "slug": "web-services"
             },
             {
               "name": "Windows",
@@ -6518,7 +6518,7 @@
           "name": "Google Earth",
           "categories": [
             {
-              "name": "Web",
+              "name": "Web Services",
               "subcategories": [
                 "World Maps"
               ]

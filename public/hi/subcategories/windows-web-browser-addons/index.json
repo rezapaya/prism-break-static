@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "diskcryptor.png"
       },
       {
         "name": "Email Alternatives",
@@ -1208,7 +1208,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1740,14 +1740,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1827,14 +1827,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Finance",
                     "slug": "finance"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2009,14 +2009,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2265,7 +2265,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -2276,7 +2276,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2798,7 +2798,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "torchat.png"
       },
       {
         "name": "IRC",
@@ -3237,7 +3237,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Mesh Networks",
@@ -4092,7 +4092,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "arch-linux.png"
+        "randomLogo": "qubes-os.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4329,7 +4329,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4623,7 +4623,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -4784,7 +4784,7 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
@@ -4795,7 +4795,7 @@
                     "slug": "video-voice"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5158,14 +5158,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "Instant Messaging",
                     "slug": "instant-messaging"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -5593,7 +5593,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "request-policy.png"
       },
       {
         "name": "Web Browsers",
@@ -5971,14 +5971,14 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web",
+                "name": "Web Services",
                 "subcategories": [
                   {
                     "name": "World Maps",
                     "slug": "world-maps"
                   }
                 ],
-                "slug": "web"
+                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -6122,14 +6122,14 @@
             "slug": "os-x"
           },
           {
-            "name": "Web",
+            "name": "Web Services",
             "subcategories": [
               {
                 "name": "Instant Messaging",
                 "slug": "instant-messaging"
               }
             ],
-            "slug": "web"
+            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -6557,7 +6557,7 @@
       "request-policy.png",
       "self-destructing-cookies.png"
     ],
-    "randomLogo": "adblock-edge.png"
+    "randomLogo": "request-policy.png"
   },
   "projects": [
     {
@@ -6675,14 +6675,14 @@
           "slug": "os-x"
         },
         {
-          "name": "Web",
+          "name": "Web Services",
           "subcategories": [
             {
               "name": "Instant Messaging",
               "slug": "instant-messaging"
             }
           ],
-          "slug": "web"
+          "slug": "web-services"
         },
         {
           "name": "Windows",
