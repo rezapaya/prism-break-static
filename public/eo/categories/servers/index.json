@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "pydio.png",
+      "randomLogo": "cozy.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1558,7 +1558,7 @@
         "exim.png",
         "postfix.png"
       ],
-      "randomLogo": "postfix.png",
+      "randomLogo": "exim.png",
       "projectsRejected": []
     },
     {
@@ -1808,7 +1808,7 @@
         "wordpress.png",
         "zenphoto.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "wordpress.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2297,7 +2297,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "byzantium.png",
       "projectsRejected": []
     },
     {
@@ -2838,7 +2838,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "yunohost.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3226,7 +3226,7 @@
         "arkos.png",
         "freedombox.png"
       ],
-      "randomLogo": "arkos.png",
+      "randomLogo": "freedombox.png",
       "projectsRejected": []
     },
     {
@@ -3883,7 +3883,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "pumpio.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4553,7 +4553,7 @@
         "open-web-analytics.png",
         "piwik.png"
       ],
-      "randomLogo": "piwik.png",
+      "randomLogo": "open-web-analytics.png",
       "projectsRejected": [
         {
           "status": "rejected",

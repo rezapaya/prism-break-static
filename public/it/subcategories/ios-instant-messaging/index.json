@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "chatsecure.png"
       },
       {
         "name": "Operating Systems",
@@ -715,7 +715,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Web Browsers",
@@ -944,7 +944,7 @@
       "chatsecure.png",
       "linphone.png"
     ],
-    "randomLogo": "linphone.png"
+    "randomLogo": "chatsecure.png"
   },
   "projects": [
     {

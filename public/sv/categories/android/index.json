@@ -384,7 +384,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "openpgp-keychain.png",
+      "randomLogo": "gnupg-for-android.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "xabber.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2325,7 +2325,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {

@@ -364,7 +364,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "chatsecure.png"
       },
       {
         "name": "Operating Systems",
@@ -944,7 +944,7 @@
       "chatsecure.png",
       "linphone.png"
     ],
-    "randomLogo": "linphone.png"
+    "randomLogo": "chatsecure.png"
   },
   "projects": [
     {
