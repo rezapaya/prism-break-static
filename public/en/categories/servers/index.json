@@ -707,7 +707,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "truecrypt.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -859,7 +859,7 @@
         "namecoin.png",
         "unbound.png"
       ],
-      "randomLogo": "namecoin.png",
+      "randomLogo": "unbound.png",
       "projectsRejected": []
     },
     {
@@ -1170,7 +1170,7 @@
         "sparkleshare.png",
         "tahoe-lafs.png"
       ],
-      "randomLogo": "tahoe-lafs.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2297,7 +2297,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "tinc.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2838,7 +2838,7 @@
         "sme-server.png",
         "yunohost.png"
       ],
-      "randomLogo": "freebsd.png",
+      "randomLogo": "opensuse.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3361,7 +3361,7 @@
         "freeswitch.png",
         "kamailio.png"
       ],
-      "randomLogo": "freeswitch.png",
+      "randomLogo": "asterisk.png",
       "projectsRejected": []
     },
     {
@@ -3883,7 +3883,7 @@
         "sat.png",
         "syndie.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4487,7 +4487,7 @@
         "strongswan.png",
         "tinc.png"
       ],
-      "randomLogo": "strongswan.png",
+      "randomLogo": "openvpn.png",
       "projectsRejected": []
     },
     {
@@ -4756,7 +4756,7 @@
         "prosody.png",
         "tigase.png"
       ],
-      "randomLogo": "ejabberd.png",
+      "randomLogo": "tigase.png",
       "projectsRejected": [
         {
           "status": "rejected",

@@ -914,7 +914,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1685,7 +1685,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "dudle.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1904,7 +1904,7 @@
         "diaspora.png",
         "movim.png"
       ],
-      "randomLogo": "diaspora.png",
+      "randomLogo": "movim.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2701,7 +2701,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "ixquick.png",
+      "randomLogo": "startpage.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2842,7 +2842,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

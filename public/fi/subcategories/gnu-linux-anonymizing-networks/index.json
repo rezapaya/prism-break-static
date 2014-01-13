@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Digital Distribution",
@@ -744,7 +744,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "evolution.png"
+        "randomLogo": "kontact.png"
       },
       {
         "name": "Email Encryption",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gnupg.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1743,7 +1743,7 @@
           "git-annex.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
@@ -1928,7 +1928,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2916,7 +2916,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -3355,7 +3355,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3682,7 +3682,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "librevpn.png"
       },
       {
         "name": "Operating Systems",
@@ -4198,7 +4198,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gentoo.png"
+        "randomLogo": "fedora.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4729,7 +4729,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -5039,7 +5039,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5699,7 +5699,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -5778,7 +5778,7 @@
             "description": "Yksi maailman suosituimmista verkkoselaimista, avointa lähdekoodia.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
             "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
@@ -5923,7 +5923,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
@@ -6620,7 +6620,7 @@
       "syndie.png",
       "tor.png"
     ],
-    "randomLogo": "syndie.png"
+    "randomLogo": "gnunet.png"
   },
   "projects": [
     {

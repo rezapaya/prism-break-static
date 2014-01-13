@@ -406,7 +406,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -928,7 +928,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Productivity",
@@ -1150,7 +1150,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "protextedtext.png"
       },
       {
         "name": "Social Networks",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "ostel.png"
       },
       {
         "name": "VPN Accounts",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "disconnect-search.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "World Maps",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2083,7 +2083,7 @@
       "linphone.png",
       "ostel.png"
     ],
-    "randomLogo": "linphone.png"
+    "randomLogo": "ostel.png"
   },
   "projects": [
     {

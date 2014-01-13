@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "freenet.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "geli.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": []
     },
     {
@@ -964,7 +964,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "claws-mail.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "psi-plus.png",
       "projectsRejected": []
     },
     {
@@ -2574,7 +2574,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "hexchat.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -2894,7 +2894,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "freebsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": []
     },
     {
@@ -3132,7 +3132,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -3353,7 +3353,7 @@
         "nightweb.png",
         "retroshare.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -4125,7 +4125,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "noscript.png",
       "projectsRejected": []
     },
     {
@@ -4205,7 +4205,7 @@
           "description": "Retumilo malfermitkoda.",
           "license_url": "https://www.mozilla.org/MPL/",
           "logo": "mozilla-firefox.png",
-          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
           "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
           "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
           "name": "Mozilla Firefox",
@@ -4350,7 +4350,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "tor-browser-bundle.png",
       "projectsRejected": []
     },
     {

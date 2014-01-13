@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Disk Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gpgtools.png"
+        "randomLogo": "enigmail.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1573,7 +1573,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2498,7 +2498,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "IRC",
@@ -2904,7 +2904,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "adium.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3137,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -3827,7 +3827,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "freebsd.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4064,7 +4064,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4358,7 +4358,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -5328,7 +5328,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "https-everywhere.png"
       },
       {
         "name": "Web Browsers",
@@ -5407,7 +5407,7 @@
             "description": "Hızlı, esnek ve güvenli web tarayıcısı, canlı bir eklenti ekosistemi de vardır.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+            "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
             "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
@@ -5734,7 +5734,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -5861,7 +5861,7 @@
       "marble.png",
       "osrm.png"
     ],
-    "randomLogo": "osrm.png"
+    "randomLogo": "marble.png"
   },
   "projects": [
     {

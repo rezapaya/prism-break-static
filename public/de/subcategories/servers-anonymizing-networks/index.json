@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "namecoin.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1281,7 +1281,7 @@
           "iredmail.png",
           "kolab.png"
         ],
-        "randomLogo": "iredmail.png"
+        "randomLogo": "indimail.png"
       },
       {
         "name": "Mail Transfer Agents",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Mesh Networks",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "arkos.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Raspberry Pi",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "ejabberd.png"
+        "randomLogo": "tigase.png"
       }
     ]
   },
@@ -4426,7 +4426,7 @@
       "syndie.png",
       "tor.png"
     ],
-    "randomLogo": "syndie.png"
+    "randomLogo": "nightweb.png"
   },
   "projects": [
     {

@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "gnunet.png",
       "projectsRejected": []
     },
     {
@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "geli.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1383,7 +1383,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "sylpheed.png",
+      "randomLogo": "evolution.png",
       "projectsRejected": []
     },
     {
@@ -1669,7 +1669,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "torbirdy.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -3041,7 +3041,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "kopete.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3542,7 +3542,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -3870,7 +3870,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "byzantium.png",
       "projectsRejected": []
     },
     {
@@ -4387,7 +4387,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "whonix.png",
+      "randomLogo": "fedora.png",
       "projectsRejected": []
     },
     {
@@ -4625,7 +4625,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -5231,7 +5231,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5983,7 +5983,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "https-everywhere.png",
       "projectsRejected": []
     },
     {
@@ -6063,7 +6063,7 @@
           "description": "Navegador web veloz, flexible y seguro de fuente libre y abierta con un gran sistema de extensiones.",
           "license_url": "https://www.mozilla.org/MPL/",
           "logo": "mozilla-firefox.png",
-          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
           "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
           "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
           "name": "Mozilla Firefox",
@@ -6208,7 +6208,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "tor-browser-bundle.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6380,7 +6380,7 @@
         "seeks-project.png",
         "yacy.png"
       ],
-      "randomLogo": "seeks-project.png",
+      "randomLogo": "yacy.png",
       "projectsRejected": []
     },
     {
@@ -6506,7 +6506,7 @@
         "marble.png",
         "osrm.png"
       ],
-      "randomLogo": "marble.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

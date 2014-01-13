@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -726,7 +726,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "diskcryptor.png",
+      "randomLogo": "truecrypt.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -961,7 +961,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "bitmessage.png",
       "projectsRejected": []
     },
     {
@@ -1308,7 +1308,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "kontact.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1655,7 +1655,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -3105,7 +3105,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "pidgin.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3886,7 +3886,7 @@
         "byzantium.png",
         "commotion.png"
       ],
-      "randomLogo": "byzantium.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -4577,7 +4577,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "linux-mint.png",
+      "randomLogo": "netbsd.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4839,7 +4839,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -6219,7 +6219,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "https-everywhere.png",
       "projectsRejected": []
     },
     {
@@ -6299,7 +6299,7 @@
           "description": "Retumilo malfermitkoda.",
           "license_url": "https://www.mozilla.org/MPL/",
           "logo": "mozilla-firefox.png",
-          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+          "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
           "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
           "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
           "name": "Mozilla Firefox",
@@ -6444,7 +6444,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "tor-browser-bundle.png",
       "projectsRejected": [
         {
           "status": "rejected",

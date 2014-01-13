@@ -1308,7 +1308,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "sylpheed.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1655,7 +1655,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -2161,7 +2161,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -3105,7 +3105,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "otr.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3720,7 +3720,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -4839,7 +4839,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "tails.png",
       "projectsRejected": []
     },
     {
@@ -5445,7 +5445,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6219,7 +6219,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "noscript.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -6299,7 +6299,7 @@
           "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
           "license_url": "https://www.mozilla.org/MPL/",
           "logo": "mozilla-firefox.png",
-          "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
+          "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
           "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
           "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
           "name": "Mozilla Firefox",
@@ -6444,7 +6444,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6735,7 +6735,7 @@
         "marble.png",
         "osrm.png"
       ],
-      "randomLogo": "marble.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

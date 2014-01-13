@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Disk Encryption",
@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -787,7 +787,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1573,7 +1573,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -1758,7 +1758,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2498,7 +2498,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -2904,7 +2904,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "adium.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3137,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -3827,7 +3827,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "freebsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4064,7 +4064,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -4358,7 +4358,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -5328,7 +5328,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "https-everywhere.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Web Browsers",
@@ -5407,7 +5407,7 @@
             "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
             "license_url": "https://www.mozilla.org/MPL/",
             "logo": "mozilla-firefox.png",
-            "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
+            "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
             "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
             "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
             "name": "Mozilla Firefox",
@@ -5552,7 +5552,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
@@ -5815,7 +5815,7 @@
         "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
         "license_url": "https://www.mozilla.org/MPL/",
         "logo": "mozilla-firefox.png",
-        "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
+        "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
         "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
         "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
         "name": "Mozilla Firefox",
@@ -5960,7 +5960,7 @@
       "mozilla-firefox.png",
       "tor-browser-bundle.png"
     ],
-    "randomLogo": "mozilla-firefox.png"
+    "randomLogo": "tor-browser-bundle.png"
   },
   "projects": [
     {
@@ -6036,7 +6036,7 @@
       "description": "Browser web veloce, flessibile e sicuro con un vivace ecosistema di componenti aggiuntivi.",
       "license_url": "https://www.mozilla.org/MPL/",
       "logo": "mozilla-firefox.png",
-      "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.",
+      "notes": "Firefox non nasconde il tuo indirizzo IP a terze parti in modo predefinito. Se vuoi nasconderlo, dovresti usare Tor Browser Bundle.\n\nIl motore di ricerca predefinito di Firefox &egrave; Google. Si consiglia di cambiarlo con DuckDuckGo o Startpage per effettuare ricerche anonime.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
       "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
       "source_url": "https://developer.mozilla.org/it/docs/Viewing_and_searching_Mozilla_source_code_online",
       "name": "Mozilla Firefox",

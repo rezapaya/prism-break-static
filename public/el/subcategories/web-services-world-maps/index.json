@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -221,7 +221,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Finance",
@@ -406,7 +406,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,7 +768,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -1432,7 +1432,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1798,7 +1798,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "startpage.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1903,7 +1903,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -2010,7 +2010,7 @@
       "osrm.png",
       "openstreetmap.png"
     ],
-    "randomLogo": "osrm.png"
+    "randomLogo": "openstreetmap.png"
   },
   "projects": [
     {
