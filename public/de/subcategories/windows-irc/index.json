@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "i2p.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "diskcryptor.png"
       },
       {
         "name": "Email Alternatives",
@@ -862,7 +862,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -1208,7 +1208,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "kontact.png"
       },
       {
         "name": "Email Encryption",
@@ -1609,6 +1609,90 @@
             ]
           },
           {
+            "description": "Sichere Kolab-Konten aus der Schweiz für 8.99 CHF pro Monat oder 4.55 CHF für reine E-Mail-Konten.",
+            "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+            "logo": "mykolab.png",
+            "notes": "MyKolab ist in der Schweiz beheimatet und profitiert von den [starken Datenschutzgesetzen](https://MyKolab.com/de/privacy). Es wird ausschließlich mit Freier Software betrieben und die Benutzung unterstützt die Entwicklung von [Kolab](https://kolab.org).\n\nAlle Daten können jederzeit exportiert werden und die Allgemeinen Geschäftsbedingungen haben die beste Bewertung von [ToS;DR](http://tosdr.org/#mykolab-com) erhalten.\n\nDer Dienst benutzt [Perfect Forwarding Secrecy](https://mykolab.com/de/faq#pfs) und [entfernt private Daten](https://mykolab.com/de/faq#stripheader) aus den E-Mail-Metadaten.",
+            "privacy_url": "https://mykolab.com/de/privacy",
+            "source_url": "http://git.kolab.org/",
+            "name": "MyKolab",
+            "tos_url": "https://mykolab.com/de/tos",
+            "url": "https://mykolab.com/de",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
+            "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "mykolab",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
+          },
+          {
             "description": "Selbst-gehostete Versionskontrolle und Dateisynchronisierung.",
             "license_url": "https://github.com/hbons/SparkleShare/tree/master/legal",
             "logo": "sparkleshare.png",
@@ -1668,6 +1752,7 @@
         ],
         "projectLogos": [
           "git-annex.png",
+          "mykolab.png",
           "sparkleshare.png"
         ],
         "randomLogo": "git-annex.png"
@@ -1855,7 +1940,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2798,7 +2883,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "psi-plus.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "IRC",
@@ -3237,7 +3322,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -4092,7 +4177,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gnewsense.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4329,7 +4414,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4623,7 +4708,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -4933,7 +5018,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5593,7 +5678,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "adblock-edge.png"
       },
       {
         "name": "Web Browsers",
@@ -5999,7 +6084,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6440,7 +6525,7 @@
       "pidgin.png",
       "weechat.png"
     ],
-    "randomLogo": "hexchat.png"
+    "randomLogo": "weechat.png"
   },
   "projects": [
     {

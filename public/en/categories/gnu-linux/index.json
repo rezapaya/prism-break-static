@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "truecrypt.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -976,7 +976,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "bitmessage.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -1383,7 +1383,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "sylpheed.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": []
     },
     {
@@ -1669,7 +1669,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "torbirdy.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -1751,6 +1751,90 @@
           ]
         },
         {
+          "description": "Secure Kolab accounts hosted in Switzerland for 8.99 CHF per month or 4.55 CHF for email-only accounts.",
+          "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+          "logo": "mykolab.png",
+          "notes": "MyKolab is hosted in Switzerland and benefits from the [strong Swiss privacy laws](https://MyKolab.com/privacy). It is run exclusively with Free Software and using the service supports the development of [Kolab](https://kolab.org).\n\nAlso, you can export all your data at any time and the terms of service received the best rating from [ToS;DR](http://tosdr.org/#mykolab-com).\n\nThe service uses [Perfect Forwarding Secrecy](https://mykolab.com/faq#pfs) and identifying information [is stripped](https://mykolab.com/faq#stripheader) from email headers.",
+          "privacy_url": "https://mykolab.com/privacy",
+          "source_url": "http://git.kolab.org/",
+          "name": "MyKolab",
+          "tos_url": "https://mykolab.com/tos",
+          "url": "https://mykolab.com/",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+          "protocols": [
+            "SSL/TLS",
+            "WebDAV",
+            "CalDAV",
+            "CardDAV",
+            "ActiveSync"
+          ],
+          "categories": [
+            {
+              "name": "GNU/Linux",
+              "subcategories": [
+                {
+                  "name": "File Storage & Sync",
+                  "slug": "file-storage-sync"
+                }
+              ],
+              "slug": "gnu-linux"
+            },
+            {
+              "name": "OS X",
+              "subcategories": [
+                {
+                  "name": "File Storage & Sync",
+                  "slug": "file-storage-sync"
+                }
+              ],
+              "slug": "os-x"
+            },
+            {
+              "name": "Web Services",
+              "subcategories": [
+                {
+                  "name": "Email Accounts",
+                  "slug": "email-accounts"
+                }
+              ],
+              "slug": "web-services"
+            },
+            {
+              "name": "Windows",
+              "subcategories": [
+                {
+                  "name": "File Storage & Sync",
+                  "slug": "file-storage-sync"
+                }
+              ],
+              "slug": "windows"
+            }
+          ],
+          "slug": "mykolab",
+          "protocolsSlugged": [
+            {
+              "name": "SSL/TLS",
+              "slug": "ssl-tls"
+            },
+            {
+              "name": "WebDAV",
+              "slug": "webdav"
+            },
+            {
+              "name": "CalDAV",
+              "slug": "caldav"
+            },
+            {
+              "name": "CardDAV",
+              "slug": "carddav"
+            },
+            {
+              "name": "ActiveSync",
+              "slug": "activesync"
+            }
+          ]
+        },
+        {
           "description": "Self-hosted version control and file sync.",
           "license_url": "https://github.com/hbons/SparkleShare/tree/master/legal",
           "logo": "sparkleshare.png",
@@ -1810,9 +1894,10 @@
       ],
       "projectLogos": [
         "git-annex.png",
+        "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3041,7 +3126,7 @@
         "retroshare.png",
         "torchat.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "psi-plus.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3870,7 +3955,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "byzantium.png",
       "projectsRejected": []
     },
     {
@@ -4387,7 +4472,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "opensuse.png",
+      "randomLogo": "qubes-os.png",
       "projectsRejected": []
     },
     {
@@ -4625,7 +4710,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -5231,7 +5316,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5983,7 +6068,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -6506,7 +6591,7 @@
         "marble.png",
         "osrm.png"
       ],
-      "randomLogo": "marble.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

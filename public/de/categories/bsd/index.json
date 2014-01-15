@@ -1250,7 +1250,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -1436,7 +1436,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -2134,7 +2134,7 @@
         "psi-plus.png",
         "retroshare.png"
       ],
-      "randomLogo": "psi-plus.png",
+      "randomLogo": "gajim.png",
       "projectsRejected": []
     },
     {
@@ -2574,7 +2574,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "hexchat.png",
+      "randomLogo": "pidgin.png",
       "projectsRejected": []
     },
     {
@@ -3132,7 +3132,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -4125,7 +4125,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "request-policy.png",
       "projectsRejected": []
     },
     {

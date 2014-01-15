@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -910,7 +910,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitmessage.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Email Clients",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "kontact.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Email Encryption",
@@ -1682,6 +1682,90 @@
             ]
           },
           {
+            "description": "Sichere Kolab-Konten aus der Schweiz für 8.99 CHF pro Monat oder 4.55 CHF für reine E-Mail-Konten.",
+            "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+            "logo": "mykolab.png",
+            "notes": "MyKolab ist in der Schweiz beheimatet und profitiert von den [starken Datenschutzgesetzen](https://MyKolab.com/de/privacy). Es wird ausschließlich mit Freier Software betrieben und die Benutzung unterstützt die Entwicklung von [Kolab](https://kolab.org).\n\nAlle Daten können jederzeit exportiert werden und die Allgemeinen Geschäftsbedingungen haben die beste Bewertung von [ToS;DR](http://tosdr.org/#mykolab-com) erhalten.\n\nDer Dienst benutzt [Perfect Forwarding Secrecy](https://mykolab.com/de/faq#pfs) und [entfernt private Daten](https://mykolab.com/de/faq#stripheader) aus den E-Mail-Metadaten.",
+            "privacy_url": "https://mykolab.com/de/privacy",
+            "source_url": "http://git.kolab.org/",
+            "name": "MyKolab",
+            "tos_url": "https://mykolab.com/de/tos",
+            "url": "https://mykolab.com/de",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
+            "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "mykolab",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
+          },
+          {
             "description": "Selbst-gehostete Versionskontrolle und Dateisynchronisierung.",
             "license_url": "https://github.com/hbons/SparkleShare/tree/master/legal",
             "logo": "sparkleshare.png",
@@ -1741,9 +1825,10 @@
         ],
         "projectLogos": [
           "git-annex.png",
+          "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2916,7 +3001,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "otr.png"
+        "randomLogo": "torchat.png"
       },
       {
         "name": "IRC",
@@ -3682,7 +3767,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -4198,7 +4283,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "debian.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4435,7 +4520,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4729,7 +4814,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -5699,7 +5784,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Web Browsers",
@@ -5923,7 +6008,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -6008,7 +6093,7 @@
           "seeks-project.png",
           "yacy.png"
         ],
-        "randomLogo": "seeks-project.png"
+        "randomLogo": "yacy.png"
       },
       {
         "name": "World Maps",
@@ -6462,7 +6547,7 @@
       "librevpn.png",
       "tinc.png"
     ],
-    "randomLogo": "commotion.png"
+    "randomLogo": "tinc.png"
   },
   "projects": [
     {

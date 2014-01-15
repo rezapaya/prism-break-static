@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "orbot.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -384,7 +384,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "apg.png",
+      "randomLogo": "openpgp-keychain.png",
       "projectsRejected": []
     },
     {
@@ -803,7 +803,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -1076,7 +1076,7 @@
         "linphone.png",
         "xabber.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1429,7 +1429,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "cjdns.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -2013,7 +2013,7 @@
         "linphone.png",
         "mumble.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2325,7 +2325,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
