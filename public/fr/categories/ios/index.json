@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -883,7 +883,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "chatsecure.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1448,7 +1448,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "replicant.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1734,7 +1734,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "etherpad.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2793,7 +2793,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "disconnect-search.png",
       "projectsRejected": []
     },
     {

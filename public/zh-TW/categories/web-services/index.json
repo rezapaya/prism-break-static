@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -758,7 +758,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "duckduckgo.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1113,7 +1113,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1529,7 +1529,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "etherpad.png",
+      "randomLogo": "protextedtext.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2545,7 +2545,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "startpage.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": [
         {
           "status": "rejected",

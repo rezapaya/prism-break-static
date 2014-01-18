@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -268,7 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Instant Messaging",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Social Networks",
@@ -1411,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Web Hosting",
@@ -1660,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "startpage.png"
       },
       {
         "name": "World Maps",
@@ -1765,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "openstreetmap.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -1989,7 +1989,7 @@
       "protextedtext.png",
       "riseup.png"
     ],
-    "randomLogo": "riseup.png"
+    "randomLogo": "dudle.png"
   },
   "projects": [
     {

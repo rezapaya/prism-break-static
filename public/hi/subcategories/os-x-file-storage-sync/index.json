@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1620,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2525,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "psi-plus.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "IRC",
@@ -2931,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "adium.png"
       },
       {
         "name": "Mesh Networks",
@@ -3164,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "debian.png"
+        "randomLogo": "parabola.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -5579,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -5990,7 +5990,7 @@
       "mykolab.png",
       "sparkleshare.png"
     ],
-    "randomLogo": "sparkleshare.png"
+    "randomLogo": "mykolab.png"
   },
   "projects": [
     {

@@ -268,7 +268,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "mykolab.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -470,7 +470,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -883,7 +883,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1448,7 +1448,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "cyanogenmod.png",
+      "randomLogo": "replicant.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1734,7 +1734,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2793,7 +2793,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "disconnect-search.png",
+      "randomLogo": "metager.png",
       "projectsRejected": []
     },
     {

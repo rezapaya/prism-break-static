@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "diskcryptor.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -1208,7 +1208,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1755,7 +1755,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -1920,7 +1920,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2863,7 +2863,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "pidgin.png"
+        "randomLogo": "torchat.png"
       },
       {
         "name": "IRC",
@@ -3302,7 +3302,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
@@ -6064,7 +6064,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },

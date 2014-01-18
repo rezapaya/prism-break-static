@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "diskcryptor.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -862,7 +862,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -2863,7 +2863,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "pidgin.png"
+        "randomLogo": "otr.png"
       },
       {
         "name": "IRC",
@@ -3302,7 +3302,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Mesh Networks",
@@ -3467,7 +3467,7 @@
           "byzantium.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -4157,7 +4157,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gnewsense.png"
+        "randomLogo": "parabola.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4394,7 +4394,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -4688,7 +4688,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -5658,7 +5658,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "https-everywhere.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Web Browsers",
@@ -6064,7 +6064,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6360,7 +6360,7 @@
       "retroshare.png",
       "syndie.png"
     ],
-    "randomLogo": "syndie.png"
+    "randomLogo": "retroshare.png"
   },
   "projects": [
     {

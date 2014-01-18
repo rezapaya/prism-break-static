@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "geli.png"
       },
       {
         "name": "Email Alternatives",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "Finance",
@@ -2109,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "otr.png"
+        "randomLogo": "gajim.png"
       },
       {
         "name": "IRC",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -2866,7 +2866,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "freebsd.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3103,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "adblock-edge.png"
       },
       {
         "name": "Web Browsers",
@@ -5092,7 +5092,7 @@
       "psi-plus.png",
       "retroshare.png"
     ],
-    "randomLogo": "otr.png"
+    "randomLogo": "gajim.png"
   },
   "projects": [
     {

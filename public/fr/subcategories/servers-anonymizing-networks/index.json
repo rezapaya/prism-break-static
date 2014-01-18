@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "namecoin.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediagoblin.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "sme-server.png"
       },
       {
         "name": "Productivity",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "freeswitch.png"
+        "randomLogo": "asterisk.png"
       },
       {
         "name": "Social Networks",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "buddycloud.png"
+        "randomLogo": "sat.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openvpn.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Web Analytics",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "metronome.png"
+        "randomLogo": "tigase.png"
       }
     ]
   },
@@ -4426,7 +4426,7 @@
       "syndie.png",
       "tor.png"
     ],
-    "randomLogo": "nightweb.png"
+    "randomLogo": "gnunet.png"
   },
   "projects": [
     {

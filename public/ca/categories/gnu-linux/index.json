@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "geli.png",
+      "randomLogo": "luks.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1078,7 +1078,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -2166,7 +2166,7 @@
         "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2386,7 +2386,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -3518,7 +3518,7 @@
         "riseup.png",
         "torchat.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4508,7 +4508,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "librevpn.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -5025,7 +5025,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "gentoo.png",
+      "randomLogo": "linux-mint.png",
       "projectsRejected": []
     },
     {
@@ -5263,7 +5263,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "liberte-linux.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -5486,7 +5486,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "protextedtext.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": []
     },
     {
@@ -5876,7 +5876,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": []
     },
     {
@@ -6237,7 +6237,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "jitsi.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6416,7 +6416,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -7107,7 +7107,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
@@ -7745,7 +7745,7 @@
         "startpage.png",
         "yacy.png"
       ],
-      "randomLogo": "yacy.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {
@@ -7899,7 +7899,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

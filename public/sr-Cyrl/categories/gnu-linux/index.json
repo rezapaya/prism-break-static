@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -774,7 +774,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "geli.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1652,7 +1652,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "kontact.png",
+      "randomLogo": "sylpheed.png",
       "projectsRejected": []
     },
     {
@@ -1938,7 +1938,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "torbirdy.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -2166,7 +2166,7 @@
         "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "git-annex.png",
+      "randomLogo": "sparkleshare.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3518,7 +3518,7 @@
         "riseup.png",
         "torchat.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4508,7 +4508,7 @@
         "librevpn.png",
         "tinc.png"
       ],
-      "randomLogo": "tinc.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -5025,7 +5025,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "whonix.png",
+      "randomLogo": "debian.png",
       "projectsRejected": []
     },
     {
@@ -5876,7 +5876,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -6237,7 +6237,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "ostel.png",
+      "randomLogo": "jitsi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -7107,7 +7107,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
@@ -7745,7 +7745,7 @@
         "startpage.png",
         "yacy.png"
       ],
-      "randomLogo": "seeks-project.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {
@@ -7899,7 +7899,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "marble.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

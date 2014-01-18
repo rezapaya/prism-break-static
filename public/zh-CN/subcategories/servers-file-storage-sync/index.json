@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "unbound.png"
+        "randomLogo": "dnscrypt.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "cozy.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Groupware",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "zenphoto.png"
+        "randomLogo": "piwigo.png"
       },
       {
         "name": "Mesh Networks",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "centos.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "ethercalc.png"
       },
       {
         "name": "Raspberry Pi",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "pumpio.png"
+        "randomLogo": "gnu-social.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openvpn.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -4251,7 +4251,7 @@
       "sparkleshare.png",
       "tahoe-lafs.png"
     ],
-    "randomLogo": "cozy.png"
+    "randomLogo": "sparkleshare.png"
   },
   "projects": [
     {

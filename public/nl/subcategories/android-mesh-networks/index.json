@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "apg.png"
+        "randomLogo": "openpgp-keychain.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1040,7 +1040,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1163,7 +1163,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "cyanogenmod.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Social Networks",
@@ -2085,7 +2085,7 @@
       "cjdns.png",
       "commotion.png"
     ],
-    "randomLogo": "cjdns.png"
+    "randomLogo": "commotion.png"
   },
   "projects": [
     {

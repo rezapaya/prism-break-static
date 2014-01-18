@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Digital Distribution",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1755,7 +1755,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -1920,7 +1920,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2863,7 +2863,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "otr.png"
       },
       {
         "name": "IRC",
@@ -3302,7 +3302,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3467,7 +3467,7 @@
           "byzantium.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -4998,7 +4998,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "mumble.png"
       },
       {
         "name": "VPN Clients",
@@ -5658,7 +5658,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "adblock-edge.png"
       },
       {
         "name": "Web Browsers",
@@ -5882,7 +5882,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
@@ -6231,7 +6231,7 @@
       "byzantium.png",
       "commotion.png"
     ],
-    "randomLogo": "commotion.png"
+    "randomLogo": "byzantium.png"
   },
   "projects": [
     {

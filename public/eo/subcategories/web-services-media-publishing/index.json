@@ -268,7 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Instant Messaging",
@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Productivity",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Social Networks",
@@ -1294,7 +1294,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1411,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Web Hosting",
@@ -1765,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -1927,7 +1927,7 @@
       "imgbi.png",
       "mediacrush.png"
     ],
-    "randomLogo": "imgbi.png"
+    "randomLogo": "autistici-inventati.png"
   },
   "projects": [
     {

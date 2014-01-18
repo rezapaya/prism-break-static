@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Communication Protocols",
@@ -706,7 +706,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "luks.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "DNS",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "namecoin.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Groupware",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "exim.png"
+        "randomLogo": "postfix.png"
       },
       {
         "name": "Media Publishing",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "librevpn.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "scientific-linux.png"
+        "randomLogo": "opensuse.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "ethercalc.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -2816,7 +2816,7 @@
           "freeswitch.png",
           "kamailio.png"
         ],
-        "randomLogo": "kamailio.png"
+        "randomLogo": "freeswitch.png"
       },
       {
         "name": "Social Networks",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "friendica.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "openvpn.png"
       },
       {
         "name": "Web Analytics",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "piwik.png"
+        "randomLogo": "open-web-analytics.png"
       },
       {
         "name": "XMPP Servers",
@@ -4185,7 +4185,7 @@
       "strongswan.png",
       "tinc.png"
     ],
-    "randomLogo": "tinc.png"
+    "randomLogo": "openvpn.png"
   },
   "projects": [
     {

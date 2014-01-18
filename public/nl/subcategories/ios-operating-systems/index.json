@@ -467,7 +467,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "replicant.png"
+        "randomLogo": "cyanogenmod.png"
       },
       {
         "name": "Video & Voice",
@@ -695,7 +695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Web Browsers",
@@ -869,7 +869,7 @@
       "mozilla-firefox.png",
       "replicant.png"
     ],
-    "randomLogo": "replicant.png"
+    "randomLogo": "cyanogenmod.png"
   },
   "projects": [
     {

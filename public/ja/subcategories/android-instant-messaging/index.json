@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "apg.png"
+        "randomLogo": "gnupg-for-android.png"
       },
       {
         "name": "File Storage & Sync",
@@ -613,7 +613,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -885,7 +885,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "Mesh Networks",
@@ -1040,7 +1040,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1163,7 +1163,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "cyanogenmod.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Social Networks",
@@ -2202,7 +2202,7 @@
       "linphone.png",
       "xabber.png"
     ],
-    "randomLogo": "chatsecure.png"
+    "randomLogo": "csipsimple.png"
   },
   "projects": [
     {

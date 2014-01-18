@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "orbot.png",
       "projectsRejected": []
     },
     {
@@ -478,7 +478,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "mykolab.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -653,7 +653,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "gnupg-for-android.png",
+      "randomLogo": "apg.png",
       "projectsRejected": []
     },
     {
@@ -1644,7 +1644,7 @@
         "riseup.png",
         "xabber.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2616,7 +2616,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "protextedtext.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3205,7 +3205,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3384,7 +3384,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -3726,7 +3726,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
@@ -4148,7 +4148,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "disconnect-search.png",
+      "randomLogo": "metager.png",
       "projectsRejected": []
     },
     {
@@ -4282,7 +4282,7 @@
         "openstreetmap.png",
         "osmand.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osmand.png",
       "projectsRejected": [
         {
           "status": "rejected",

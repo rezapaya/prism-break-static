@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "gnunet.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": []
     },
     {
@@ -834,7 +834,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "mykolab.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -1233,7 +1233,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "sylpheed.png",
       "projectsRejected": []
     },
     {
@@ -1519,7 +1519,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "torbirdy.png",
       "projectsRejected": []
     },
     {
@@ -1685,7 +1685,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -2645,7 +2645,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "psi-plus.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -3085,7 +3085,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -3246,7 +3246,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": []
     },
     {
@@ -3566,7 +3566,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "freebsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": []
     },
     {
@@ -3804,7 +3804,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -4027,7 +4027,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "ethercalc.png",
+      "randomLogo": "dudle.png",
       "projectsRejected": []
     },
     {
@@ -4343,7 +4343,7 @@
         "nightweb.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": []
     },
     {
@@ -4622,7 +4622,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "ostel.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": []
     },
     {
@@ -4740,7 +4740,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -5402,7 +5402,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
@@ -5878,7 +5878,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "disconnect-search.png",
       "projectsRejected": []
     },
     {

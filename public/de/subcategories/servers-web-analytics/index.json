@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Communication Protocols",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "piwigo.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Mesh Networks",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "openbsd.png"
       },
       {
         "name": "Productivity",
@@ -2682,7 +2682,7 @@
           "arkos.png",
           "freedombox.png"
         ],
-        "randomLogo": "freedombox.png"
+        "randomLogo": "arkos.png"
       },
       {
         "name": "SIP Servers",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "gnu-social.png"
+        "randomLogo": "buddycloud.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "openswan.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "piwik.png"
+        "randomLogo": "open-web-analytics.png"
       },
       {
         "name": "XMPP Servers",
@@ -3939,7 +3939,7 @@
           "prosody.png",
           "tigase.png"
         ],
-        "randomLogo": "metronome.png"
+        "randomLogo": "ejabberd.png"
       }
     ]
   },
@@ -4006,7 +4006,7 @@
       "open-web-analytics.png",
       "piwik.png"
     ],
-    "randomLogo": "piwik.png"
+    "randomLogo": "open-web-analytics.png"
   },
   "projects": [
     {

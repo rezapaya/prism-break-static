@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "geli.png"
+        "randomLogo": "luks.png"
       },
       {
         "name": "Email Alternatives",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "Finance",
@@ -2109,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "psi-plus.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "IRC",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "pidgin.png"
       },
       {
         "name": "Mesh Networks",
@@ -2866,7 +2866,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3103,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "https-everywhere.png"
       },
       {
         "name": "Web Browsers",
@@ -4834,7 +4834,7 @@
       "pidgin.png",
       "weechat.png"
     ],
-    "randomLogo": "bitlbee.png"
+    "randomLogo": "pidgin.png"
   },
   "projects": [
     {

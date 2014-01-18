@@ -470,7 +470,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -1276,7 +1276,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "imgbi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2165,7 +2165,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "mumble.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2793,7 +2793,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "startpage.png",
       "projectsRejected": []
     },
     {

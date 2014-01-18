@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "cloudns.png",
+      "randomLogo": "opennic.png",
       "projectsRejected": []
     },
     {
@@ -883,7 +883,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1448,7 +1448,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "cyanogenmod.png",
+      "randomLogo": "replicant.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1734,7 +1734,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "protextedtext.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1886,7 +1886,7 @@
         "diaspora.png",
         "movim.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": []
     },
     {
@@ -2379,7 +2379,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {

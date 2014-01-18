@@ -653,7 +653,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "apg.png",
+      "randomLogo": "openpgp-keychain.png",
       "projectsRejected": []
     },
     {
@@ -1137,7 +1137,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -1644,7 +1644,7 @@
         "riseup.png",
         "xabber.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "cryptocat.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2206,7 +2206,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2616,7 +2616,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "ethercalc.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2877,7 +2877,7 @@
         "movim.png",
         "nightweb.png"
       ],
-      "randomLogo": "diaspora.png",
+      "randomLogo": "movim.png",
       "projectsRejected": []
     },
     {
@@ -3205,7 +3205,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3384,7 +3384,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -3726,7 +3726,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
@@ -4148,7 +4148,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {
@@ -4282,7 +4282,7 @@
         "openstreetmap.png",
         "osmand.png"
       ],
-      "randomLogo": "osrm.png",
+      "randomLogo": "osmand.png",
       "projectsRejected": [
         {
           "status": "rejected",

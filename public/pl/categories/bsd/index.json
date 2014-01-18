@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "geli.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": []
     },
     {
@@ -631,7 +631,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -1233,7 +1233,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "sylpheed.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": []
     },
     {
@@ -1685,7 +1685,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "litecoin.png",
+      "randomLogo": "bitcoin.png",
       "projectsRejected": []
     },
     {
@@ -2645,7 +2645,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -3085,7 +3085,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "bitlbee.png",
       "projectsRejected": []
     },
     {
@@ -3566,7 +3566,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "freebsd.png",
+      "randomLogo": "dragonfly-bsd.png",
       "projectsRejected": []
     },
     {
@@ -4027,7 +4027,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": []
     },
     {
@@ -4343,7 +4343,7 @@
         "nightweb.png",
         "retroshare.png"
       ],
-      "randomLogo": "diaspora.png",
+      "randomLogo": "retroshare.png",
       "projectsRejected": []
     },
     {
@@ -5402,7 +5402,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -5627,7 +5627,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "jondonym.png",
+      "randomLogo": "tor-browser-bundle.png",
       "projectsRejected": []
     },
     {
@@ -5878,7 +5878,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {

@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Communication Protocols",
@@ -799,7 +799,7 @@
           "namecoin.png",
           "unbound.png"
         ],
-        "randomLogo": "dnscrypt.png"
+        "randomLogo": "unbound.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1109,7 +1109,7 @@
           "sparkleshare.png",
           "tahoe-lafs.png"
         ],
-        "randomLogo": "owncloud.png"
+        "randomLogo": "cozy.png"
       },
       {
         "name": "Groupware",
@@ -1346,7 +1346,7 @@
           "exim.png",
           "postfix.png"
         ],
-        "randomLogo": "postfix.png"
+        "randomLogo": "exim.png"
       },
       {
         "name": "Media Publishing",
@@ -1595,7 +1595,7 @@
           "wordpress.png",
           "zenphoto.png"
         ],
-        "randomLogo": "wordpress.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Mesh Networks",
@@ -1922,7 +1922,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -2462,7 +2462,7 @@
           "sme-server.png",
           "yunohost.png"
         ],
-        "randomLogo": "sme-server.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Productivity",
@@ -2592,7 +2592,7 @@
           "ethercalc.png",
           "etherpad.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Raspberry Pi",
@@ -3337,7 +3337,7 @@
           "sat.png",
           "syndie.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -3690,7 +3690,7 @@
           "strongswan.png",
           "tinc.png"
         ],
-        "randomLogo": "tinc.png"
+        "randomLogo": "libreswan.png"
       },
       {
         "name": "Web Analytics",
@@ -3755,7 +3755,7 @@
           "open-web-analytics.png",
           "piwik.png"
         ],
-        "randomLogo": "piwik.png"
+        "randomLogo": "open-web-analytics.png"
       },
       {
         "name": "XMPP Servers",
@@ -4462,7 +4462,7 @@
       "sat.png",
       "syndie.png"
     ],
-    "randomLogo": "diaspora.png"
+    "randomLogo": "syndie.png"
   },
   "projects": [
     {

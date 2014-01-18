@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "gnupg-for-android.png"
+        "randomLogo": "openpgp-keychain.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1558,7 +1558,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "VPN Clients",
@@ -1807,7 +1807,7 @@
           "disconnect.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -2207,7 +2207,7 @@
       "linphone.png",
       "mumble.png"
     ],
-    "randomLogo": "linphone.png"
+    "randomLogo": "csipsimple.png"
   },
   "projects": [
     {

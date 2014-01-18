@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Productivity",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "protextedtext.png"
+        "randomLogo": "etherpad.png"
       },
       {
         "name": "Social Networks",
@@ -1116,7 +1116,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1294,7 +1294,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "ostel.png"
       },
       {
         "name": "VPN Accounts",
@@ -1411,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Web Hosting",
@@ -1660,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "startpage.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1956,7 +1956,7 @@
       "metager.png",
       "startpage.png"
     ],
-    "randomLogo": "startpage.png"
+    "randomLogo": "ixquick.png"
   },
   "projects": [
     {

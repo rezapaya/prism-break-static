@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "geli.png",
       "projectsRejected": []
     },
     {
@@ -631,7 +631,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -1519,7 +1519,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "torbirdy.png",
+      "randomLogo": "gnupg.png",
       "projectsRejected": []
     },
     {
@@ -2645,7 +2645,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "pidgin.png",
       "projectsRejected": []
     },
     {
@@ -3085,7 +3085,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "bitlbee.png",
+      "randomLogo": "pidgin.png",
       "projectsRejected": []
     },
     {
@@ -3566,7 +3566,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "dragonfly-bsd.png",
+      "randomLogo": "openbsd.png",
       "projectsRejected": []
     },
     {
@@ -4740,7 +4740,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -5402,7 +5402,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "noscript.png",
       "projectsRejected": []
     },
     {
@@ -5878,7 +5878,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "ixquick.png",
+      "randomLogo": "duckduckgo.png",
       "projectsRejected": []
     },
     {
@@ -5984,7 +5984,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "osrm.png",
+      "randomLogo": "openstreetmap.png",
       "projectsRejected": []
     }
   ]

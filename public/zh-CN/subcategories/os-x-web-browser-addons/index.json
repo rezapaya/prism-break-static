@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Disk Encryption",
@@ -787,7 +787,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1620,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
@@ -2525,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "psi-plus.png"
       },
       {
         "name": "IRC",
@@ -3164,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "arch-linux.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4385,7 +4385,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -5355,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -5579,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Web Search",
@@ -5761,7 +5761,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6319,7 +6319,7 @@
       "request-policy.png",
       "self-destructing-cookies.png"
     ],
-    "randomLogo": "adblock-edge.png"
+    "randomLogo": "noscript.png"
   },
   "projects": [
     {

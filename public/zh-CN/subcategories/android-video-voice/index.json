@@ -885,7 +885,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "xabber.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "Mesh Networks",
@@ -1040,7 +1040,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1558,7 +1558,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -2207,7 +2207,7 @@
       "linphone.png",
       "mumble.png"
     ],
-    "randomLogo": "csipsimple.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {

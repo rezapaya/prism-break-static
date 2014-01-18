@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -1785,7 +1785,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "dragonfly-bsd.png"
+        "randomLogo": "debian.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4385,7 +4385,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -4695,7 +4695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5355,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -5579,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -5761,7 +5761,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6057,7 +6057,7 @@
       "retroshare.png",
       "syndie.png"
     ],
-    "randomLogo": "nightweb.png"
+    "randomLogo": "retroshare.png"
   },
   "projects": [
     {

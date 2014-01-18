@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
@@ -268,7 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Instant Messaging",
@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "mediacrush.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Productivity",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "dudle.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Social Networks",
@@ -1116,7 +1116,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "diaspora.png"
+        "randomLogo": "movim.png"
       },
       {
         "name": "Video & Voice",
@@ -1660,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "startpage.png"
       },
       {
         "name": "World Maps",
@@ -1765,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -1969,7 +1969,7 @@
       "mykolab.png",
       "riseup.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "riseup.png"
   },
   "projects": [
     {

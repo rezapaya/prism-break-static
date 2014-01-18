@@ -154,7 +154,7 @@
           "nightweb.png",
           "orbot.png"
         ],
-        "randomLogo": "orbot.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "App Store",
@@ -364,7 +364,7 @@
           "gnupg-for-android.png",
           "openpgp-keychain.png"
         ],
-        "randomLogo": "openpgp-keychain.png"
+        "randomLogo": "apg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -613,7 +613,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -885,7 +885,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "Mesh Networks",
@@ -1040,7 +1040,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -1163,7 +1163,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "cyanogenmod.png"
+        "randomLogo": "replicant.png"
       },
       {
         "name": "Social Networks",
@@ -1558,7 +1558,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -1807,7 +1807,7 @@
           "disconnect.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -2095,7 +2095,7 @@
       "bitcoin.png",
       "litecoin.png"
     ],
-    "randomLogo": "litecoin.png"
+    "randomLogo": "bitcoin.png"
   },
   "projects": [
     {

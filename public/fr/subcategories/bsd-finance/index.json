@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "i2p.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Disk Encryption",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gnupg.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "Finance",
@@ -1412,7 +1412,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2109,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "IRC",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "pidgin.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Mesh Networks",
@@ -2866,7 +2866,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "openbsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3323,7 +3323,7 @@
           "nightweb.png",
           "retroshare.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Web Browsers",
@@ -4316,7 +4316,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "World Maps",
@@ -4560,7 +4560,7 @@
       "bitcoin.png",
       "litecoin.png"
     ],
-    "randomLogo": "bitcoin.png"
+    "randomLogo": "litecoin.png"
   },
   "projects": [
     {

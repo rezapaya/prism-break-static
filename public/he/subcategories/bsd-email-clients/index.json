@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "geli.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "Finance",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -2866,7 +2866,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "openbsd.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3103,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -3323,7 +3323,7 @@
           "nightweb.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -4681,7 +4681,7 @@
       "mozilla-thunderbird.png",
       "sylpheed.png"
     ],
-    "randomLogo": "claws-mail.png"
+    "randomLogo": "mozilla-thunderbird.png"
   },
   "projects": [
     {

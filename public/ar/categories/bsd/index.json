@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "gnunet.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "encfs.png",
+      "randomLogo": "luks.png",
       "projectsRejected": []
     },
     {
@@ -1233,7 +1233,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "claws-mail.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -1519,7 +1519,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "gnupg.png",
       "projectsRejected": []
     },
     {
@@ -2645,7 +2645,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "otr.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -3085,7 +3085,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "hexchat.png",
+      "randomLogo": "weechat.png",
       "projectsRejected": []
     },
     {
@@ -3566,7 +3566,7 @@
         "netbsd.png",
         "openbsd.png"
       ],
-      "randomLogo": "openbsd.png",
+      "randomLogo": "netbsd.png",
       "projectsRejected": []
     },
     {
@@ -4027,7 +4027,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -4343,7 +4343,7 @@
         "nightweb.png",
         "retroshare.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": []
     },
     {
@@ -4740,7 +4740,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -5402,7 +5402,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "disconnect.png",
+      "randomLogo": "self-destructing-cookies.png",
       "projectsRejected": []
     },
     {
@@ -5878,7 +5878,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "duckduckgo.png",
       "projectsRejected": []
     },
     {

@@ -411,7 +411,7 @@
         "nightweb.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "gnunet.png",
       "projectsRejected": []
     },
     {
@@ -565,7 +565,7 @@
         "encfs.png",
         "geli.png"
       ],
-      "randomLogo": "luks.png",
+      "randomLogo": "geli.png",
       "projectsRejected": []
     },
     {
@@ -834,7 +834,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -1519,7 +1519,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "mailvelope.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -2645,7 +2645,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": []
     },
     {
@@ -3085,7 +3085,7 @@
         "pidgin.png",
         "weechat.png"
       ],
-      "randomLogo": "pidgin.png",
+      "randomLogo": "weechat.png",
       "projectsRejected": []
     },
     {
@@ -3246,7 +3246,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": []
     },
     {
@@ -3804,7 +3804,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": []
     },
     {
@@ -4622,7 +4622,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "ostel.png",
       "projectsRejected": []
     },
     {
@@ -5402,7 +5402,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "self-destructing-cookies.png",
+      "randomLogo": "adblock-edge.png",
       "projectsRejected": []
     },
     {
@@ -5627,7 +5627,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "tor-browser-bundle.png",
+      "randomLogo": "mozilla-firefox.png",
       "projectsRejected": []
     },
     {
@@ -5984,7 +5984,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": []
     }
   ]

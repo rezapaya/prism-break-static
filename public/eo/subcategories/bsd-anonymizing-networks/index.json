@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Disk Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gnupg.png"
+        "randomLogo": "enigmail.png"
       },
       {
         "name": "Finance",
@@ -2109,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "otr.png"
       },
       {
         "name": "IRC",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
@@ -3103,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -4806,7 +4806,7 @@
       "nightweb.png",
       "tor.png"
     ],
-    "randomLogo": "nightweb.png"
+    "randomLogo": "tor.png"
   },
   "projects": [
     {

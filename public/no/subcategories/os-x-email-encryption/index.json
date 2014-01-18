@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Disk Encryption",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "gpgtools.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1620,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2931,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "adium.png"
       },
       {
         "name": "Mesh Networks",
@@ -3164,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "opensuse.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4091,7 +4091,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -5355,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "noscript.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Web Browsers",
@@ -6083,7 +6083,7 @@
       "mailvelope.png",
       "torbirdy.png"
     ],
-    "randomLogo": "torbirdy.png"
+    "randomLogo": "gpgtools.png"
   },
   "projects": [
     {

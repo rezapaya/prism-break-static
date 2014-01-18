@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -696,7 +696,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -862,7 +862,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitmessage.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Email Clients",
@@ -1755,7 +1755,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2863,7 +2863,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "gajim.png"
       },
       {
         "name": "IRC",
@@ -3302,7 +3302,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -4157,7 +4157,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "fedora.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4394,7 +4394,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4688,7 +4688,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -5658,7 +5658,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Web Browsers",
@@ -5882,7 +5882,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -6064,7 +6064,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6303,7 +6303,7 @@
       "liberte-linux.png",
       "tails.png"
     ],
-    "randomLogo": "jondonym.png"
+    "randomLogo": "liberte-linux.png"
   },
   "projects": [
     {

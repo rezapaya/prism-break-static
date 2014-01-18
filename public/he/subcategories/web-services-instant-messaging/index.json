@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Productivity",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Social Networks",
@@ -1116,7 +1116,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -2129,7 +2129,7 @@
       "linphone.png",
       "riseup.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {

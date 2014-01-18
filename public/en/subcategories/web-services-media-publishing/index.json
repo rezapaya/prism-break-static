@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "cloudns.png"
+        "randomLogo": "opennic.png"
       },
       {
         "name": "Email Accounts",
@@ -268,7 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Instant Messaging",
@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "imgbi.png"
       },
       {
         "name": "Productivity",
@@ -1012,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "etherpad.png"
+        "randomLogo": "protextedtext.png"
       },
       {
         "name": "Social Networks",
@@ -1116,7 +1116,7 @@
           "diaspora.png",
           "movim.png"
         ],
-        "randomLogo": "movim.png"
+        "randomLogo": "diaspora.png"
       },
       {
         "name": "Video & Voice",
@@ -1294,7 +1294,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1660,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "World Maps",
@@ -1765,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "openstreetmap.png"
       }
     ]
   },
@@ -1927,7 +1927,7 @@
       "imgbi.png",
       "mediacrush.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "imgbi.png"
   },
   "projects": [
     {

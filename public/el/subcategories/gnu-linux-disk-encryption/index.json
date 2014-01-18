@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "freenet.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -744,7 +744,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "geli.png"
       },
       {
         "name": "Email Alternatives",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gnupg.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1828,7 +1828,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "git-annex.png"
       },
       {
         "name": "Finance",
@@ -1993,7 +1993,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2981,7 +2981,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -3747,7 +3747,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "librevpn.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -4794,7 +4794,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -5104,7 +5104,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -5764,7 +5764,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -6073,7 +6073,7 @@
           "seeks-project.png",
           "yacy.png"
         ],
-        "randomLogo": "yacy.png"
+        "randomLogo": "seeks-project.png"
       },
       {
         "name": "World Maps",
@@ -6198,7 +6198,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6411,7 +6411,7 @@
       "encfs.png",
       "truecrypt.png"
     ],
-    "randomLogo": "encfs.png"
+    "randomLogo": "geli.png"
   },
   "projects": [
     {

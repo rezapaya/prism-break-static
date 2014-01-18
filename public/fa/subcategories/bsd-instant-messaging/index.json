@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "geli.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "Finance",
@@ -1412,7 +1412,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2109,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "psi-plus.png"
+        "randomLogo": "gajim.png"
       },
       {
         "name": "IRC",
@@ -2548,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
@@ -2866,7 +2866,7 @@
           "netbsd.png",
           "openbsd.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "dragonfly-bsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -3103,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Social Networks",
@@ -4092,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "self-destructing-cookies.png"
+        "randomLogo": "noscript.png"
       },
       {
         "name": "Web Browsers",
@@ -5092,7 +5092,7 @@
       "psi-plus.png",
       "retroshare.png"
     ],
-    "randomLogo": "psi-plus.png"
+    "randomLogo": "gajim.png"
   },
   "projects": [
     {

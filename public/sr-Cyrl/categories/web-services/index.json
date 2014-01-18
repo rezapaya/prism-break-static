@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -268,7 +268,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "mykolab.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -758,7 +758,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1529,7 +1529,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2545,7 +2545,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "startpage.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2686,7 +2686,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

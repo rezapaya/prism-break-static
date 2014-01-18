@@ -268,7 +268,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "mykolab.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1276,7 +1276,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1448,7 +1448,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "replicant.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1734,7 +1734,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "ethercalc.png",
+      "randomLogo": "protextedtext.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1886,7 +1886,7 @@
         "diaspora.png",
         "movim.png"
       ],
-      "randomLogo": "diaspora.png",
+      "randomLogo": "movim.png",
       "projectsRejected": []
     },
     {
@@ -2165,7 +2165,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "ostel.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2379,7 +2379,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": []
     },
     {
@@ -2793,7 +2793,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": []
     },
     {

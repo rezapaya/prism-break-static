@@ -344,7 +344,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Operating Systems",
@@ -467,7 +467,7 @@
           "mozilla-firefox.png",
           "replicant.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "replicant.png"
       },
       {
         "name": "Video & Voice",
@@ -924,7 +924,7 @@
       "chatsecure.png",
       "linphone.png"
     ],
-    "randomLogo": "chatsecure.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {

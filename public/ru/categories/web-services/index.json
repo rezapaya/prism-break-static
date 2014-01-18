@@ -65,7 +65,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -1113,7 +1113,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1529,7 +1529,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "dudle.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1748,7 +1748,7 @@
         "diaspora.png",
         "movim.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2026,7 +2026,7 @@
         "linphone.png",
         "ostel.png"
       ],
-      "randomLogo": "linphone.png",
+      "randomLogo": "ostel.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2545,7 +2545,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "startpage.png",
+      "randomLogo": "metager.png",
       "projectsRejected": [
         {
           "status": "rejected",

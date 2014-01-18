@@ -268,7 +268,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "mykolab.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -758,7 +758,7 @@
         "linphone.png",
         "riseup.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1748,7 +1748,7 @@
         "diaspora.png",
         "movim.png"
       ],
-      "randomLogo": "movim.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2026,7 +2026,7 @@
         "linphone.png",
         "ostel.png"
       ],
-      "randomLogo": "ostel.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2545,7 +2545,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "startpage.png",
+      "randomLogo": "ixquick.png",
       "projectsRejected": [
         {
           "status": "rejected",

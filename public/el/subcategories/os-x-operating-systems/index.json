@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "tor.png"
       },
       {
         "name": "Disk Encryption",
@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1785,7 +1785,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2525,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -2931,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "adium.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Mesh Networks",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "qubes-os.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4695,7 +4695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5579,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "jondonym.png"
       },
       {
         "name": "Web Search",
@@ -6453,7 +6453,7 @@
       "qubes-os.png",
       "whonix.png"
     ],
-    "randomLogo": "qubes-os.png"
+    "randomLogo": "netbsd.png"
   },
   "projects": [
     {

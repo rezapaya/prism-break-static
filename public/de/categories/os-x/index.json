@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "i2p.png",
+      "randomLogo": "freenet.png",
       "projectsRejected": []
     },
     {
@@ -621,7 +621,7 @@
         "encfs.png",
         "truecrypt.png"
       ],
-      "randomLogo": "truecrypt.png",
+      "randomLogo": "encfs.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1820,7 +1820,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "mailvelope.png",
       "projectsRejected": []
     },
     {
@@ -2048,7 +2048,7 @@
         "mykolab.png",
         "sparkleshare.png"
       ],
-      "randomLogo": "mykolab.png",
+      "randomLogo": "git-annex.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3275,7 +3275,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "psi-plus.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3892,7 +3892,7 @@
         "mozilla-thunderbird.png",
         "weechat.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -5026,7 +5026,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "linux-mint.png",
+      "randomLogo": "opensuse.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5528,7 +5528,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "protextedtext.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5990,7 +5990,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "syndie.png",
+      "randomLogo": "diaspora.png",
       "projectsRejected": []
     },
     {
@@ -7503,7 +7503,7 @@
         "mozilla-firefox.png",
         "tor-browser-bundle.png"
       ],
-      "randomLogo": "mozilla-firefox.png",
+      "randomLogo": "jondonym.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -7915,7 +7915,7 @@
         "startpage.png",
         "yacy.png"
       ],
-      "randomLogo": "duckduckgo.png",
+      "randomLogo": "disconnect-search.png",
       "projectsRejected": []
     },
     {
@@ -8069,7 +8069,7 @@
         "osrm.png",
         "openstreetmap.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",

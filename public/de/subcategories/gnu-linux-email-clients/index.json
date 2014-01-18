@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Digital Distribution",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "evolution.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1828,7 +1828,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -2981,7 +2981,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "otr.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "IRC",
@@ -3420,7 +3420,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "weechat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3747,7 +3747,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -4263,7 +4263,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "fedora.png"
+        "randomLogo": "parabola.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4794,7 +4794,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Video & Voice",
@@ -5104,7 +5104,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "mumble.png"
       },
       {
         "name": "VPN Clients",
@@ -6073,7 +6073,7 @@
           "seeks-project.png",
           "yacy.png"
         ],
-        "randomLogo": "seeks-project.png"
+        "randomLogo": "yacy.png"
       },
       {
         "name": "World Maps",
@@ -6198,7 +6198,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "osrm.png"
+        "randomLogo": "marble.png"
       }
     ]
   },
@@ -6606,7 +6606,7 @@
       "mozilla-thunderbird.png",
       "sylpheed.png"
     ],
-    "randomLogo": "evolution.png"
+    "randomLogo": "claws-mail.png"
   },
   "projects": [
     {

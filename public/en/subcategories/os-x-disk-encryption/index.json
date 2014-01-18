@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Disk Encryption",
@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "enigmail.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1620,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
@@ -2525,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "psi-plus.png"
       },
       {
         "name": "IRC",
@@ -2931,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "adium.png"
       },
       {
         "name": "Mesh Networks",
@@ -3164,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -3854,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "dragonfly-bsd.png"
+        "randomLogo": "qubes-os.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4695,7 +4695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "mumble.png"
       },
       {
         "name": "VPN Clients",
@@ -5355,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "https-everywhere.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -5579,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Web Search",
@@ -5898,7 +5898,7 @@
       "encfs.png",
       "truecrypt.png"
     ],
-    "randomLogo": "truecrypt.png"
+    "randomLogo": "encfs.png"
   },
   "projects": [
     {

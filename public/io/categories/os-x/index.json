@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "freenet.png",
+      "randomLogo": "i2p.png",
       "projectsRejected": []
     },
     {
@@ -1438,7 +1438,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "claws-mail.png",
+      "randomLogo": "mozilla-thunderbird.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1820,7 +1820,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "enigmail.png",
+      "randomLogo": "gnupg.png",
       "projectsRejected": []
     },
     {
@@ -2391,7 +2391,7 @@
         "bitcoin.png",
         "litecoin.png"
       ],
-      "randomLogo": "bitcoin.png",
+      "randomLogo": "litecoin.png",
       "projectsRejected": []
     },
     {
@@ -3275,7 +3275,7 @@
         "retroshare.png",
         "riseup.png"
       ],
-      "randomLogo": "psi-plus.png",
+      "randomLogo": "linphone.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -3892,7 +3892,7 @@
         "mozilla-thunderbird.png",
         "weechat.png"
       ],
-      "randomLogo": "weechat.png",
+      "randomLogo": "adium.png",
       "projectsRejected": []
     },
     {
@@ -4053,7 +4053,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "mediacrush.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5026,7 +5026,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "gentoo.png",
+      "randomLogo": "whonix.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5528,7 +5528,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "protextedtext.png",
+      "randomLogo": "ethercalc.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5990,7 +5990,7 @@
         "retroshare.png",
         "syndie.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "movim.png",
       "projectsRejected": []
     },
     {
@@ -6351,7 +6351,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "mumble.png",
+      "randomLogo": "ostel.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -6565,7 +6565,7 @@
         "autistici-inventati.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "autistici-inventati.png",
       "projectsRejected": []
     },
     {
@@ -7278,7 +7278,7 @@
         "request-policy.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "request-policy.png",
+      "randomLogo": "https-everywhere.png",
       "projectsRejected": []
     },
     {

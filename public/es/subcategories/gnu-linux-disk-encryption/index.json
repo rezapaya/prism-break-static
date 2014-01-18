@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Digital Distribution",
@@ -744,7 +744,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "luks.png"
       },
       {
         "name": "Email Alternatives",
@@ -910,7 +910,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "bitmessage.png"
       },
       {
         "name": "Email Clients",
@@ -1316,7 +1316,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Email Encryption",
@@ -1601,7 +1601,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1828,7 +1828,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "sparkleshare.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -1993,7 +1993,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2981,7 +2981,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "otr.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "IRC",
@@ -3747,7 +3747,7 @@
           "librevpn.png",
           "tinc.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "tinc.png"
       },
       {
         "name": "Operating Systems",
@@ -4263,7 +4263,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "gnewsense.png"
+        "randomLogo": "qubes-os.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4794,7 +4794,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -5104,7 +5104,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -6073,7 +6073,7 @@
           "seeks-project.png",
           "yacy.png"
         ],
-        "randomLogo": "seeks-project.png"
+        "randomLogo": "yacy.png"
       },
       {
         "name": "World Maps",
@@ -6198,7 +6198,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6411,7 +6411,7 @@
       "encfs.png",
       "truecrypt.png"
     ],
-    "randomLogo": "truecrypt.png"
+    "randomLogo": "luks.png"
   },
   "projects": [
     {

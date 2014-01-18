@@ -485,7 +485,7 @@
         "syndie.png",
         "tor.png"
       ],
-      "randomLogo": "tor.png",
+      "randomLogo": "syndie.png",
       "projectsRejected": []
     },
     {
@@ -948,7 +948,7 @@
         "mykolab.png",
         "riseup.png"
       ],
-      "randomLogo": "riseup.png",
+      "randomLogo": "mykolab.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1151,7 +1151,7 @@
         "bitmessage.png",
         "retroshare.png"
       ],
-      "randomLogo": "retroshare.png",
+      "randomLogo": "bitmessage.png",
       "projectsRejected": []
     },
     {
@@ -1438,7 +1438,7 @@
         "mozilla-thunderbird.png",
         "sylpheed.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "claws-mail.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -1820,7 +1820,7 @@
         "mailvelope.png",
         "torbirdy.png"
       ],
-      "randomLogo": "gnupg.png",
+      "randomLogo": "enigmail.png",
       "projectsRejected": []
     },
     {
@@ -3892,7 +3892,7 @@
         "mozilla-thunderbird.png",
         "weechat.png"
       ],
-      "randomLogo": "mozilla-thunderbird.png",
+      "randomLogo": "hexchat.png",
       "projectsRejected": []
     },
     {
@@ -4053,7 +4053,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "imgbi.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5026,7 +5026,7 @@
         "qubes-os.png",
         "whonix.png"
       ],
-      "randomLogo": "gentoo.png",
+      "randomLogo": "gnewsense.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -5305,7 +5305,7 @@
         "liberte-linux.png",
         "tails.png"
       ],
-      "randomLogo": "tails.png",
+      "randomLogo": "liberte-linux.png",
       "projectsRejected": []
     },
     {
@@ -5528,7 +5528,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "ethercalc.png",
+      "randomLogo": "etherpad.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -7915,7 +7915,7 @@
         "startpage.png",
         "yacy.png"
       ],
-      "randomLogo": "metager.png",
+      "randomLogo": "duckduckgo.png",
       "projectsRejected": []
     },
     {

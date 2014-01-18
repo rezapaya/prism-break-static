@@ -275,7 +275,7 @@
         "cloudns.png",
         "opennic.png"
       ],
-      "randomLogo": "opennic.png",
+      "randomLogo": "cloudns.png",
       "projectsRejected": []
     },
     {
@@ -1644,7 +1644,7 @@
         "riseup.png",
         "xabber.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "csipsimple.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2002,7 +2002,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "mediacrush.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2206,7 +2206,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "cjdns.png",
+      "randomLogo": "commotion.png",
       "projectsRejected": []
     },
     {
@@ -2616,7 +2616,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "protextedtext.png",
+      "randomLogo": "riseup.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2877,7 +2877,7 @@
         "movim.png",
         "nightweb.png"
       ],
-      "randomLogo": "nightweb.png",
+      "randomLogo": "movim.png",
       "projectsRejected": []
     },
     {
@@ -3205,7 +3205,7 @@
         "mumble.png",
         "ostel.png"
       ],
-      "randomLogo": "csipsimple.png",
+      "randomLogo": "ostel.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -4282,7 +4282,7 @@
         "openstreetmap.png",
         "osmand.png"
       ],
-      "randomLogo": "osrm.png",
+      "randomLogo": "osmand.png",
       "projectsRejected": [
         {
           "status": "rejected",

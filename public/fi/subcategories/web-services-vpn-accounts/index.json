@@ -268,7 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Instant Messaging",
@@ -630,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -790,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "mediacrush.png"
       },
       {
         "name": "Productivity",
@@ -1294,7 +1294,7 @@
           "linphone.png",
           "ostel.png"
         ],
-        "randomLogo": "ostel.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Accounts",
@@ -1411,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Web Hosting",
@@ -1660,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "ixquick.png"
+        "randomLogo": "duckduckgo.png"
       },
       {
         "name": "World Maps",
@@ -1884,7 +1884,7 @@
       "autistici-inventati.png",
       "riseup.png"
     ],
-    "randomLogo": "autistici-inventati.png"
+    "randomLogo": "riseup.png"
   },
   "projects": [
     {

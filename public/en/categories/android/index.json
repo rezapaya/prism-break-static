@@ -153,7 +153,7 @@
         "nightweb.png",
         "orbot.png"
       ],
-      "randomLogo": "orbot.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -653,7 +653,7 @@
         "gnupg-for-android.png",
         "openpgp-keychain.png"
       ],
-      "randomLogo": "apg.png",
+      "randomLogo": "gnupg-for-android.png",
       "projectsRejected": []
     },
     {
@@ -1644,7 +1644,7 @@
         "riseup.png",
         "xabber.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "duckduckgo.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2002,7 +2002,7 @@
         "imgbi.png",
         "mediacrush.png"
       ],
-      "randomLogo": "autistici-inventati.png",
+      "randomLogo": "imgbi.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2206,7 +2206,7 @@
         "cjdns.png",
         "commotion.png"
       ],
-      "randomLogo": "commotion.png",
+      "randomLogo": "cjdns.png",
       "projectsRejected": []
     },
     {
@@ -2330,7 +2330,7 @@
         "mozilla-firefox.png",
         "replicant.png"
       ],
-      "randomLogo": "cyanogenmod.png",
+      "randomLogo": "mozilla-firefox.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2616,7 +2616,7 @@
         "protextedtext.png",
         "riseup.png"
       ],
-      "randomLogo": "etherpad.png",
+      "randomLogo": "protextedtext.png",
       "projectsRejected": [
         {
           "status": "rejected",
@@ -2877,7 +2877,7 @@
         "movim.png",
         "nightweb.png"
       ],
-      "randomLogo": "diaspora.png",
+      "randomLogo": "nightweb.png",
       "projectsRejected": []
     },
     {
@@ -3726,7 +3726,7 @@
         "disconnect.png",
         "self-destructing-cookies.png"
       ],
-      "randomLogo": "cryptocat.png",
+      "randomLogo": "disconnect.png",
       "projectsRejected": []
     },
     {
@@ -4148,7 +4148,7 @@
         "metager.png",
         "startpage.png"
       ],
-      "randomLogo": "ixquick.png",
+      "randomLogo": "disconnect-search.png",
       "projectsRejected": []
     },
     {
@@ -4282,7 +4282,7 @@
         "openstreetmap.png",
         "osmand.png"
       ],
-      "randomLogo": "openstreetmap.png",
+      "randomLogo": "osrm.png",
       "projectsRejected": [
         {
           "status": "rejected",
