@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Disk Encryption",
@@ -1484,8 +1484,24 @@
             "tos_url": "https://mykolab.com/tos",
             "url": "https://mykolab.com/",
             "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-            "protocols": [],
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
             "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
               {
                 "name": "OS X",
                 "subcategories": [
@@ -1505,10 +1521,41 @@
                   }
                 ],
                 "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
               }
             ],
             "slug": "mykolab",
-            "protocolsSlugged": []
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
           },
           {
             "description": "Lokal versjonskontroll og filsynkronisering.",
@@ -1573,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
@@ -1641,16 +1688,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1730,16 +1767,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -1758,7 +1785,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2498,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "IRC",
@@ -2904,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "adium.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "byzantium.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -4358,7 +4385,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "syndie.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "Video & Voice",
@@ -4668,7 +4695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "mumble.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "VPN Clients",
@@ -5552,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Web Search",
@@ -5734,7 +5761,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -5827,8 +5854,24 @@
         "tos_url": "https://mykolab.com/tos",
         "url": "https://mykolab.com/",
         "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-        "protocols": [],
+        "protocols": [
+          "SSL/TLS",
+          "WebDAV",
+          "CalDAV",
+          "CardDAV",
+          "ActiveSync"
+        ],
         "categories": [
+          {
+            "name": "GNU/Linux",
+            "subcategories": [
+              {
+                "name": "File Storage & Sync",
+                "slug": "file-storage-sync"
+              }
+            ],
+            "slug": "gnu-linux"
+          },
           {
             "name": "OS X",
             "subcategories": [
@@ -5848,10 +5891,41 @@
               }
             ],
             "slug": "web-services"
+          },
+          {
+            "name": "Windows",
+            "subcategories": [
+              {
+                "name": "File Storage & Sync",
+                "slug": "file-storage-sync"
+              }
+            ],
+            "slug": "windows"
           }
         ],
         "slug": "mykolab",
-        "protocolsSlugged": []
+        "protocolsSlugged": [
+          {
+            "name": "SSL/TLS",
+            "slug": "ssl-tls"
+          },
+          {
+            "name": "WebDAV",
+            "slug": "webdav"
+          },
+          {
+            "name": "CalDAV",
+            "slug": "caldav"
+          },
+          {
+            "name": "CardDAV",
+            "slug": "carddav"
+          },
+          {
+            "name": "ActiveSync",
+            "slug": "activesync"
+          }
+        ]
       },
       {
         "description": "Lokal versjonskontroll og filsynkronisering.",
@@ -5916,7 +5990,7 @@
       "mykolab.png",
       "sparkleshare.png"
     ],
-    "randomLogo": "git-annex.png"
+    "randomLogo": "sparkleshare.png"
   },
   "projects": [
     {
@@ -6004,8 +6078,24 @@
       "tos_url": "https://mykolab.com/tos",
       "url": "https://mykolab.com/",
       "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-      "protocols": [],
+      "protocols": [
+        "SSL/TLS",
+        "WebDAV",
+        "CalDAV",
+        "CardDAV",
+        "ActiveSync"
+      ],
       "categories": [
+        {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "File Storage & Sync",
+              "slug": "file-storage-sync"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
         {
           "name": "OS X",
           "subcategories": [
@@ -6025,10 +6115,41 @@
             }
           ],
           "slug": "web-services"
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            {
+              "name": "File Storage & Sync",
+              "slug": "file-storage-sync"
+            }
+          ],
+          "slug": "windows"
         }
       ],
       "slug": "mykolab",
-      "protocolsSlugged": []
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        },
+        {
+          "name": "WebDAV",
+          "slug": "webdav"
+        },
+        {
+          "name": "CalDAV",
+          "slug": "caldav"
+        },
+        {
+          "name": "CardDAV",
+          "slug": "carddav"
+        },
+        {
+          "name": "ActiveSync",
+          "slug": "activesync"
+        }
+      ]
     },
     {
       "description": "Lokal versjonskontroll og filsynkronisering.",

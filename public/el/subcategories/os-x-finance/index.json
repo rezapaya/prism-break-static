@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "gnunet.png"
       },
       {
         "name": "Disk Encryption",
@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "truecrypt.png"
       },
       {
         "name": "Email Alternatives",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1484,8 +1484,24 @@
             "tos_url": "https://mykolab.com/tos",
             "url": "https://mykolab.com/",
             "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-            "protocols": [],
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
             "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
               {
                 "name": "OS X",
                 "subcategories": [
@@ -1505,10 +1521,41 @@
                   }
                 ],
                 "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
               }
             ],
             "slug": "mykolab",
-            "protocolsSlugged": []
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
           },
           {
             "description": "Αυτοφιλοξενούμενο σύστημα εκδόσεων και συγχρονισμού αρχείων.",
@@ -1573,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "git-annex.png"
+        "randomLogo": "mykolab.png"
       },
       {
         "name": "Finance",
@@ -1641,16 +1688,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1730,16 +1767,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -1758,7 +1785,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "litecoin.png"
+        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2498,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "IRC",
@@ -2904,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "adium.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -3827,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "freebsd.png"
+        "randomLogo": "qubes-os.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4064,7 +4091,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4668,7 +4695,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -5328,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "https-everywhere.png"
+        "randomLogo": "disconnect.png"
       },
       {
         "name": "Web Browsers",
@@ -5552,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "mozilla-firefox.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
@@ -5806,16 +5833,6 @@
             "slug": "os-x"
           },
           {
-            "name": "Web Services",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "web-services"
-          },
-          {
             "name": "Windows",
             "subcategories": [
               {
@@ -5893,16 +5910,6 @@
             "slug": "os-x"
           },
           {
-            "name": "Web Services",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "web-services"
-          },
-          {
             "name": "Windows",
             "subcategories": [
               {
@@ -5921,7 +5928,7 @@
       "bitcoin.png",
       "litecoin.png"
     ],
-    "randomLogo": "litecoin.png"
+    "randomLogo": "bitcoin.png"
   },
   "projects": [
     {
@@ -5986,16 +5993,6 @@
             }
           ],
           "slug": "os-x"
-        },
-        {
-          "name": "Web Services",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "web-services"
         },
         {
           "name": "Windows",
@@ -6073,16 +6070,6 @@
             }
           ],
           "slug": "os-x"
-        },
-        {
-          "name": "Web Services",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "web-services"
         },
         {
           "name": "Windows",

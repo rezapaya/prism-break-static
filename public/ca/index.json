@@ -1,15 +1,5 @@
 [
   {
-    "name": "Services",
-    "categories": [
-      {
-        "name": "Web Services",
-        "fa": "fa-globe",
-        "slug": "web-services"
-      }
-    ]
-  },
-  {
     "name": "Mobile",
     "categories": [
       {

@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Disk Encryption",
@@ -621,7 +621,7 @@
           "encfs.png",
           "truecrypt.png"
         ],
-        "randomLogo": "truecrypt.png"
+        "randomLogo": "encfs.png"
       },
       {
         "name": "Email Alternatives",
@@ -787,7 +787,7 @@
           "bitmessage.png",
           "retroshare.png"
         ],
-        "randomLogo": "bitmessage.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "Email Clients",
@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "gpgtools.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1484,8 +1484,24 @@
             "tos_url": "https://mykolab.com/tos",
             "url": "https://mykolab.com/",
             "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-            "protocols": [],
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
             "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
               {
                 "name": "OS X",
                 "subcategories": [
@@ -1505,10 +1521,41 @@
                   }
                 ],
                 "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
               }
             ],
             "slug": "mykolab",
-            "protocolsSlugged": []
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
           },
           {
             "description": "Sistema self-hosted di sincronizzazione file e controllo versione.",
@@ -1573,7 +1620,7 @@
           "mykolab.png",
           "sparkleshare.png"
         ],
-        "randomLogo": "mykolab.png"
+        "randomLogo": "sparkleshare.png"
       },
       {
         "name": "Finance",
@@ -1641,16 +1688,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1728,16 +1765,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2904,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "hexchat.png"
+        "randomLogo": "bitlbee.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "byzantium.png"
       },
       {
         "name": "Operating Systems",
@@ -5552,7 +5579,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "tor-browser-bundle.png"
+        "randomLogo": "mozilla-firefox.png"
       },
       {
         "name": "Web Search",
@@ -5969,7 +5996,7 @@
       "cjdns.png",
       "commotion.png"
     ],
-    "randomLogo": "cjdns.png"
+    "randomLogo": "byzantium.png"
   },
   "projects": [
     {

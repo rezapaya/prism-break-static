@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "gnunet.png"
+        "randomLogo": "i2p.png"
       },
       {
         "name": "Disk Encryption",
@@ -565,7 +565,7 @@
           "encfs.png",
           "geli.png"
         ],
-        "randomLogo": "encfs.png"
+        "randomLogo": "geli.png"
       },
       {
         "name": "Email Alternatives",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "mailvelope.png"
+        "randomLogo": "torbirdy.png"
       },
       {
         "name": "Finance",
@@ -1315,16 +1315,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1404,16 +1394,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -1432,7 +1412,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2129,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "gajim.png"
+        "randomLogo": "otr.png"
       },
       {
         "name": "IRC",
@@ -2568,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "weechat.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3123,7 +3103,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4112,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "disconnect.png"
+        "randomLogo": "self-destructing-cookies.png"
       },
       {
         "name": "Web Browsers",
@@ -4700,7 +4680,7 @@
       "mailvelope.png",
       "torbirdy.png"
     ],
-    "randomLogo": "mailvelope.png"
+    "randomLogo": "torbirdy.png"
   },
   "projects": [
     {

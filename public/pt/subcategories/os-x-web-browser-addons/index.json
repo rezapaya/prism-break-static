@@ -1073,7 +1073,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "sylpheed.png"
+        "randomLogo": "claws-mail.png"
       },
       {
         "name": "Email Encryption",
@@ -1393,7 +1393,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "enigmail.png"
+        "randomLogo": "gnupg.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1484,8 +1484,24 @@
             "tos_url": "https://mykolab.com/tos",
             "url": "https://mykolab.com/",
             "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-            "protocols": [],
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
             "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
               {
                 "name": "OS X",
                 "subcategories": [
@@ -1505,10 +1521,41 @@
                   }
                 ],
                 "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
               }
             ],
             "slug": "mykolab",
-            "protocolsSlugged": []
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
           },
           {
             "description": "Controle de versão e sincronização de arquivos de hospedagem própria.",
@@ -1643,16 +1690,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -1728,16 +1765,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2498,7 +2525,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "linphone.png"
+        "randomLogo": "adium.png"
       },
       {
         "name": "IRC",
@@ -2904,7 +2931,7 @@
           "mozilla-thunderbird.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -3137,7 +3164,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "cjdns.png"
+        "randomLogo": "commotion.png"
       },
       {
         "name": "Operating Systems",
@@ -3827,7 +3854,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "dragonfly-bsd.png"
+        "randomLogo": "netbsd.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4064,7 +4091,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "liberte-linux.png"
+        "randomLogo": "tails.png"
       },
       {
         "name": "Social Networks",
@@ -4358,7 +4385,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "retroshare.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -5328,7 +5355,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "adblock-edge.png"
+        "randomLogo": "cryptocat.png"
       },
       {
         "name": "Web Browsers",
@@ -5734,7 +5761,7 @@
           "marble.png",
           "osrm.png"
         ],
-        "randomLogo": "marble.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -6292,7 +6319,7 @@
       "request-policy.png",
       "self-destructing-cookies.png"
     ],
-    "randomLogo": "adblock-edge.png"
+    "randomLogo": "cryptocat.png"
   },
   "projects": [
     {

@@ -518,16 +518,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -603,16 +593,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -905,7 +885,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "xabber.png"
+        "randomLogo": "csipsimple.png"
       },
       {
         "name": "Mesh Networks",
@@ -1060,7 +1040,7 @@
           "cjdns.png",
           "commotion.png"
         ],
-        "randomLogo": "commotion.png"
+        "randomLogo": "cjdns.png"
       },
       {
         "name": "Operating Systems",
@@ -2222,7 +2202,7 @@
       "linphone.png",
       "xabber.png"
     ],
-    "randomLogo": "xabber.png"
+    "randomLogo": "csipsimple.png"
   },
   "projects": [
     {

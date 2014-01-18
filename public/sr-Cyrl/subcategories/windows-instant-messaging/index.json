@@ -486,7 +486,7 @@
           "syndie.png",
           "tor.png"
         ],
-        "randomLogo": "i2p.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Digital Distribution",
@@ -1528,7 +1528,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "gpg4win.png"
+        "randomLogo": "enigmail.png"
       },
       {
         "name": "File Storage & Sync",
@@ -1609,6 +1609,90 @@
             ]
           },
           {
+            "description": "Защищенные Kolab аккаунты, расположенные в Швейцарии, за 10 CHF в месяц.",
+            "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+            "logo": "mykolab.png",
+            "notes": "MyKolab is hosted in Switzerland and benefits from the [strong Swiss privacy laws](https://MyKolab.com/privacy). It is run exclusively with free software and using the service supports the development of Kolab. \nAlso, you can export all your data at any time.",
+            "privacy_url": "https://mykolab.com/privacy",
+            "source_url": "http://git.kolab.org/",
+            "name": "MyKolab",
+            "tos_url": "https://mykolab.com/tos",
+            "url": "https://mykolab.com/",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
+            "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
+              {
+                "name": "OS X",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "os-x"
+              },
+              {
+                "name": "Web Services",
+                "subcategories": [
+                  {
+                    "name": "Email Accounts",
+                    "slug": "email-accounts"
+                  }
+                ],
+                "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
+              }
+            ],
+            "slug": "mykolab",
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
+          },
+          {
             "description": "Лично хостована верзија облак складишта.",
             "license_url": "https://github.com/hbons/SparkleShare/tree/master/legal",
             "logo": "sparkleshare.png",
@@ -1668,6 +1752,7 @@
         ],
         "projectLogos": [
           "git-annex.png",
+          "mykolab.png",
           "sparkleshare.png"
         ],
         "randomLogo": "sparkleshare.png"
@@ -1738,16 +1823,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1827,16 +1902,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -1855,7 +1920,7 @@
           "bitcoin.png",
           "litecoin.png"
         ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "litecoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -2798,7 +2863,7 @@
           "retroshare.png",
           "torchat.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "jitsi.png"
       },
       {
         "name": "IRC",
@@ -3237,7 +3302,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "mozilla-thunderbird.png"
+        "randomLogo": "hexchat.png"
       },
       {
         "name": "Mesh Networks",
@@ -4092,7 +4157,7 @@
           "qubes-os.png",
           "whonix.png"
         ],
-        "randomLogo": "netbsd.png"
+        "randomLogo": "whonix.png"
       },
       {
         "name": "Operating Systems (Live)",
@@ -4329,7 +4394,7 @@
           "liberte-linux.png",
           "tails.png"
         ],
-        "randomLogo": "tails.png"
+        "randomLogo": "liberte-linux.png"
       },
       {
         "name": "Social Networks",
@@ -4623,7 +4688,7 @@
           "retroshare.png",
           "syndie.png"
         ],
-        "randomLogo": "nightweb.png"
+        "randomLogo": "syndie.png"
       },
       {
         "name": "Video & Voice",
@@ -4933,7 +4998,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "jitsi.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -5593,7 +5658,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Web Browsers",
@@ -5817,7 +5882,7 @@
           "mozilla-firefox.png",
           "tor-browser-bundle.png"
         ],
-        "randomLogo": "jondonym.png"
+        "randomLogo": "tor-browser-bundle.png"
       },
       {
         "name": "Web Search",
@@ -6944,7 +7009,7 @@
       "retroshare.png",
       "torchat.png"
     ],
-    "randomLogo": "cryptocat.png"
+    "randomLogo": "jitsi.png"
   },
   "projects": [
     {

@@ -66,7 +66,7 @@
           "cloudns.png",
           "opennic.png"
         ],
-        "randomLogo": "opennic.png"
+        "randomLogo": "cloudns.png"
       },
       {
         "name": "Email Accounts",
@@ -268,192 +268,7 @@
           "mykolab.png",
           "riseup.png"
         ],
-        "randomLogo": "autistici-inventati.png"
-      },
-      {
-        "name": "Finance",
-        "slug": "finance",
-        "projects": [
-          {
-            "description": "P2P-basierte digitale Währung ohne zentrale Autorität.",
-            "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
-            "logo": "bitcoin.png",
-            "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
-            "privacy_url": "",
-            "source_url": "https://github.com/bitcoin/bitcoin",
-            "name": "Bitcoin",
-            "tos_url": "",
-            "url": "http://bitcoin.org",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Android",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "android"
-              },
-              {
-                "name": "BSD",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "bsd"
-              },
-              {
-                "name": "GNU/Linux",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "gnu-linux"
-              },
-              {
-                "name": "iOS",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "ios"
-              },
-              {
-                "name": "OS X",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
-                "name": "Windows",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "windows"
-              }
-            ],
-            "slug": "bitcoin",
-            "protocolsSlugged": []
-          },
-          {
-            "description": "Litecoin (sign : Ł ; code : LTC) ist eine Peer-to-Peer-Kryptowährung und ein quelloffenes Softwareprojekt unter der MIT/X11-Lizens. Inspiriert von (und technisch nahezu identisch mit) Bitcoin (BTC), werden Litecoins auf Basis eines quelloffenen Protokolls erstellt und transferiert, anstatt von einer zentralen Autorität. Litecoin ist von seinen Entwicklern als Verbesserung von Bitcoin vorgesehen und bietet 3 wichtige Unterschiede: schnellere Transaktionen, 4 Mal mehr Geldeinheiten und langsamere Deflation.",
-            "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
-            "logo": "litecoin.png",
-            "notes": "Bitte sei Dir bewusst, dass neue digitale Währungen starken Wertschwankungen ausgesetzt sein können. Vollständiger Verlusst deiner Investitionen ist aus diversen Gründen möglich (Softwarefehler oder Angriffe, Identitätsdiebstahl, etc.). Sei vorsichtig!",
-            "privacy_url": "",
-            "source_url": "https://github.com/litecoin-project/litecoin",
-            "name": "Litecoin",
-            "tos_url": "",
-            "url": "https://litecoin.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Litecoin",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Android",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "android"
-              },
-              {
-                "name": "BSD",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "bsd"
-              },
-              {
-                "name": "GNU/Linux",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "gnu-linux"
-              },
-              {
-                "name": "iOS",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "ios"
-              },
-              {
-                "name": "OS X",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
-                "name": "Windows",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "windows"
-              }
-            ],
-            "slug": "litecoin",
-            "protocolsSlugged": []
-          }
-        ],
-        "projectLogos": [
-          "bitcoin.png",
-          "litecoin.png"
-        ],
-        "randomLogo": "bitcoin.png"
+        "randomLogo": "riseup.png"
       },
       {
         "name": "Instant Messaging",
@@ -975,7 +790,7 @@
           "imgbi.png",
           "mediacrush.png"
         ],
-        "randomLogo": "imgbi.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Productivity",
@@ -1596,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1845,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "metager.png"
+        "randomLogo": "startpage.png"
       },
       {
         "name": "World Maps",
@@ -1950,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "openstreetmap.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -2141,7 +1956,7 @@
       "metager.png",
       "startpage.png"
     ],
-    "randomLogo": "metager.png"
+    "randomLogo": "startpage.png"
   },
   "projects": [
     {

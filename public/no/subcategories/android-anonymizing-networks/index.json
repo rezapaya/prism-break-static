@@ -154,7 +154,7 @@
           "nightweb.png",
           "orbot.png"
         ],
-        "randomLogo": "orbot.png"
+        "randomLogo": "nightweb.png"
       },
       {
         "name": "App Store",
@@ -518,16 +518,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -603,16 +593,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -905,7 +885,7 @@
           "linphone.png",
           "xabber.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Mesh Networks",
@@ -1578,7 +1558,7 @@
           "linphone.png",
           "mumble.png"
         ],
-        "randomLogo": "csipsimple.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "VPN Clients",
@@ -2103,7 +2083,7 @@
       "nightweb.png",
       "orbot.png"
     ],
-    "randomLogo": "orbot.png"
+    "randomLogo": "nightweb.png"
   },
   "projects": [
     {

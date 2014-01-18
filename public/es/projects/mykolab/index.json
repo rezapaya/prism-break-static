@@ -9,8 +9,24 @@
   "tos_url": "https://mykolab.com/tos",
   "url": "https://mykolab.com/",
   "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-  "protocols": [],
+  "protocols": [
+    "SSL/TLS",
+    "WebDAV",
+    "CalDAV",
+    "CardDAV",
+    "ActiveSync"
+  ],
   "categories": [
+    {
+      "name": "GNU/Linux",
+      "subcategories": [
+        {
+          "name": "File Storage & Sync",
+          "slug": "file-storage-sync"
+        }
+      ],
+      "slug": "gnu-linux"
+    },
     {
       "name": "OS X",
       "subcategories": [
@@ -30,8 +46,39 @@
         }
       ],
       "slug": "web-services"
+    },
+    {
+      "name": "Windows",
+      "subcategories": [
+        {
+          "name": "File Storage & Sync",
+          "slug": "file-storage-sync"
+        }
+      ],
+      "slug": "windows"
     }
   ],
   "slug": "mykolab",
-  "protocolsSlugged": []
+  "protocolsSlugged": [
+    {
+      "name": "SSL/TLS",
+      "slug": "ssl-tls"
+    },
+    {
+      "name": "WebDAV",
+      "slug": "webdav"
+    },
+    {
+      "name": "CalDAV",
+      "slug": "caldav"
+    },
+    {
+      "name": "CardDAV",
+      "slug": "carddav"
+    },
+    {
+      "name": "ActiveSync",
+      "slug": "activesync"
+    }
+  ]
 }

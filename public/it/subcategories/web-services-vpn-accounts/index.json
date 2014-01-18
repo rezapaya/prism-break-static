@@ -133,8 +133,24 @@
             "tos_url": "https://mykolab.com/tos",
             "url": "https://mykolab.com/",
             "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
-            "protocols": [],
+            "protocols": [
+              "SSL/TLS",
+              "WebDAV",
+              "CalDAV",
+              "CardDAV",
+              "ActiveSync"
+            ],
             "categories": [
+              {
+                "name": "GNU/Linux",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "gnu-linux"
+              },
               {
                 "name": "OS X",
                 "subcategories": [
@@ -154,10 +170,41 @@
                   }
                 ],
                 "slug": "web-services"
+              },
+              {
+                "name": "Windows",
+                "subcategories": [
+                  {
+                    "name": "File Storage & Sync",
+                    "slug": "file-storage-sync"
+                  }
+                ],
+                "slug": "windows"
               }
             ],
             "slug": "mykolab",
-            "protocolsSlugged": []
+            "protocolsSlugged": [
+              {
+                "name": "SSL/TLS",
+                "slug": "ssl-tls"
+              },
+              {
+                "name": "WebDAV",
+                "slug": "webdav"
+              },
+              {
+                "name": "CalDAV",
+                "slug": "caldav"
+              },
+              {
+                "name": "CardDAV",
+                "slug": "carddav"
+              },
+              {
+                "name": "ActiveSync",
+                "slug": "activesync"
+              }
+            ]
           },
           {
             "description": "Strumenti di comunicazione sicuri per coloro che desiderano una societ&agrave; pi&ugrave; libera.",
@@ -222,191 +269,6 @@
           "riseup.png"
         ],
         "randomLogo": "mykolab.png"
-      },
-      {
-        "name": "Finance",
-        "slug": "finance",
-        "projects": [
-          {
-            "description": "Valuta digitale P2P senza un&#39;autorit&agrave; centrale.",
-            "license_url": "https://github.com/bitcoin/bitcoin/blob/master/COPYING",
-            "logo": "bitcoin.png",
-            "notes": "",
-            "privacy_url": "",
-            "source_url": "https://github.com/bitcoin/bitcoin",
-            "name": "Bitcoin",
-            "tos_url": "",
-            "url": "http://bitcoin.org",
-            "wikipedia_url": "https://it.wikipedia.org/wiki/Bitcoin",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Android",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "android"
-              },
-              {
-                "name": "BSD",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "bsd"
-              },
-              {
-                "name": "GNU/Linux",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "gnu-linux"
-              },
-              {
-                "name": "iOS",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "ios"
-              },
-              {
-                "name": "OS X",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
-                "name": "Windows",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "windows"
-              }
-            ],
-            "slug": "bitcoin",
-            "protocolsSlugged": []
-          },
-          {
-            "description": "Litecoin (simbolo : Ł ; codice : LTC) &egrave; una criptovaluta peer-to-peer e progetto open source pubblicato con licenza MIT/X11. Ispirato e tecnicamente quasi identico a Bitcoin (BTC), la creazione e il trasferimento di Litecoin sono basati su un protocollo open source e non sono gestiti da un&#39;autorit&agrave; centrale. Litecoin &egrave;, secondo i suoi sviluppatori, progettato per migliorare Bitcoin e offre tre differenze chiave.",
-            "license_url": "https://github.com/litecoin-project/litecoin/blob/master-0.8/COPYING",
-            "logo": "litecoin.png",
-            "notes": "",
-            "privacy_url": "",
-            "source_url": "https://github.com/litecoin-project/litecoin",
-            "name": "Litecoin",
-            "tos_url": "",
-            "url": "https://litecoin.org/",
-            "wikipedia_url": "https://en.wikipedia.org/wiki/Litecoin",
-            "protocols": [],
-            "categories": [
-              {
-                "name": "Android",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "android"
-              },
-              {
-                "name": "BSD",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "bsd"
-              },
-              {
-                "name": "GNU/Linux",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "gnu-linux"
-              },
-              {
-                "name": "iOS",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "ios"
-              },
-              {
-                "name": "OS X",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
-                "name": "Windows",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "windows"
-              }
-            ],
-            "slug": "litecoin",
-            "protocolsSlugged": []
-          }
-        ],
-        "projectLogos": [
-          "bitcoin.png",
-          "litecoin.png"
-        ],
-        "randomLogo": "bitcoin.png"
       },
       {
         "name": "Instant Messaging",
@@ -768,7 +630,7 @@
           "linphone.png",
           "riseup.png"
         ],
-        "randomLogo": "cryptocat.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Media Publishing",
@@ -1150,7 +1012,7 @@
           "protextedtext.png",
           "riseup.png"
         ],
-        "randomLogo": "protextedtext.png"
+        "randomLogo": "dudle.png"
       },
       {
         "name": "Social Networks",
@@ -1549,7 +1411,7 @@
           "autistici-inventati.png",
           "riseup.png"
         ],
-        "randomLogo": "riseup.png"
+        "randomLogo": "autistici-inventati.png"
       },
       {
         "name": "Web Hosting",
@@ -1798,7 +1660,7 @@
           "metager.png",
           "startpage.png"
         ],
-        "randomLogo": "duckduckgo.png"
+        "randomLogo": "ixquick.png"
       },
       {
         "name": "World Maps",
@@ -1903,7 +1765,7 @@
           "osrm.png",
           "openstreetmap.png"
         ],
-        "randomLogo": "openstreetmap.png"
+        "randomLogo": "osrm.png"
       }
     ]
   },
@@ -2022,7 +1884,7 @@
       "autistici-inventati.png",
       "riseup.png"
     ],
-    "randomLogo": "riseup.png"
+    "randomLogo": "autistici-inventati.png"
   },
   "projects": [
     {

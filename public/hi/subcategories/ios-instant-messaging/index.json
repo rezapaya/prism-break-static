@@ -71,16 +71,6 @@
                 "slug": "os-x"
               },
               {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
-              },
-              {
                 "name": "Windows",
                 "subcategories": [
                   {
@@ -156,16 +146,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -364,7 +344,7 @@
           "chatsecure.png",
           "linphone.png"
         ],
-        "randomLogo": "chatsecure.png"
+        "randomLogo": "linphone.png"
       },
       {
         "name": "Operating Systems",
@@ -944,7 +924,7 @@
       "chatsecure.png",
       "linphone.png"
     ],
-    "randomLogo": "chatsecure.png"
+    "randomLogo": "linphone.png"
   },
   "projects": [
     {

@@ -1,0 +1,98 @@
+{
+  "name": "ActiveSync",
+  "full_name": "Mobile data synchronization protocol developed by Microsoft",
+  "description": "ActiveSync allows a mobile device to be synchronized with either a desktop PC or a server running a compatible software product. It is not an Open Standard but widely used and supported.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/ActiveSync",
+  "categories": [
+    {
+      "name": "Synchronization"
+    }
+  ],
+  "slug": "activesync",
+  "projects": [
+    {
+      "description": "Account Kolab sicuri e privati mantenuti in Svizzera per 10 CHF mensili.",
+      "license_url": "http://git.kolab.org/libkolab/tree/COPYING",
+      "logo": "mykolab.png",
+      "notes": "MyKolab &egrave; situato in Svizzera e trae beneficio dalle [severe leggi sulla privacy svizzere](https://MyKolab.com/privacy). &Egrave; composto esclusivamente da software libero e l&#39;uso del servizio supporta lo sviluppo di Kolab. \nInoltre, puoi esportare tutti i tuoi dati in qualsiasi momento.",
+      "privacy_url": "https://mykolab.com/privacy",
+      "source_url": "http://git.kolab.org/",
+      "name": "MyKolab",
+      "tos_url": "https://mykolab.com/tos",
+      "url": "https://mykolab.com/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/MyKolab",
+      "protocols": [
+        "SSL/TLS",
+        "WebDAV",
+        "CalDAV",
+        "CardDAV",
+        "ActiveSync"
+      ],
+      "categories": [
+        {
+          "name": "GNU/Linux",
+          "subcategories": [
+            {
+              "name": "File Storage & Sync",
+              "slug": "file-storage-sync"
+            }
+          ],
+          "slug": "gnu-linux"
+        },
+        {
+          "name": "OS X",
+          "subcategories": [
+            {
+              "name": "File Storage & Sync",
+              "slug": "file-storage-sync"
+            }
+          ],
+          "slug": "os-x"
+        },
+        {
+          "name": "Web Services",
+          "subcategories": [
+            {
+              "name": "Email Accounts",
+              "slug": "email-accounts"
+            }
+          ],
+          "slug": "web-services"
+        },
+        {
+          "name": "Windows",
+          "subcategories": [
+            {
+              "name": "File Storage & Sync",
+              "slug": "file-storage-sync"
+            }
+          ],
+          "slug": "windows"
+        }
+      ],
+      "slug": "mykolab",
+      "protocolsSlugged": [
+        {
+          "name": "SSL/TLS",
+          "slug": "ssl-tls"
+        },
+        {
+          "name": "WebDAV",
+          "slug": "webdav"
+        },
+        {
+          "name": "CalDAV",
+          "slug": "caldav"
+        },
+        {
+          "name": "CardDAV",
+          "slug": "carddav"
+        },
+        {
+          "name": "ActiveSync",
+          "slug": "activesync"
+        }
+      ]
+    }
+  ]
+}

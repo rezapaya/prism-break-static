@@ -412,7 +412,7 @@
           "nightweb.png",
           "tor.png"
         ],
-        "randomLogo": "tor.png"
+        "randomLogo": "freenet.png"
       },
       {
         "name": "Disk Encryption",
@@ -962,7 +962,7 @@
           "mozilla-thunderbird.png",
           "sylpheed.png"
         ],
-        "randomLogo": "claws-mail.png"
+        "randomLogo": "sylpheed.png"
       },
       {
         "name": "Email Encryption",
@@ -1247,7 +1247,7 @@
           "mailvelope.png",
           "torbirdy.png"
         ],
-        "randomLogo": "torbirdy.png"
+        "randomLogo": "mailvelope.png"
       },
       {
         "name": "Finance",
@@ -1315,16 +1315,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -1402,16 +1392,6 @@
                   }
                 ],
                 "slug": "os-x"
-              },
-              {
-                "name": "Web Services",
-                "subcategories": [
-                  {
-                    "name": "Finance",
-                    "slug": "finance"
-                  }
-                ],
-                "slug": "web-services"
               },
               {
                 "name": "Windows",
@@ -2129,7 +2109,7 @@
           "psi-plus.png",
           "retroshare.png"
         ],
-        "randomLogo": "otr.png"
+        "randomLogo": "retroshare.png"
       },
       {
         "name": "IRC",
@@ -2568,7 +2548,7 @@
           "pidgin.png",
           "weechat.png"
         ],
-        "randomLogo": "bitlbee.png"
+        "randomLogo": "mozilla-thunderbird.png"
       },
       {
         "name": "Mesh Networks",
@@ -4112,7 +4092,7 @@
           "request-policy.png",
           "self-destructing-cookies.png"
         ],
-        "randomLogo": "noscript.png"
+        "randomLogo": "request-policy.png"
       },
       {
         "name": "Web Browsers",
@@ -4485,16 +4465,6 @@
             "slug": "os-x"
           },
           {
-            "name": "Web Services",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "web-services"
-          },
-          {
             "name": "Windows",
             "subcategories": [
               {
@@ -4570,16 +4540,6 @@
               }
             ],
             "slug": "os-x"
-          },
-          {
-            "name": "Web Services",
-            "subcategories": [
-              {
-                "name": "Finance",
-                "slug": "finance"
-              }
-            ],
-            "slug": "web-services"
           },
           {
             "name": "Windows",
@@ -4667,16 +4627,6 @@
           "slug": "os-x"
         },
         {
-          "name": "Web Services",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "web-services"
-        },
-        {
           "name": "Windows",
           "subcategories": [
             {
@@ -4752,16 +4702,6 @@
             }
           ],
           "slug": "os-x"
-        },
-        {
-          "name": "Web Services",
-          "subcategories": [
-            {
-              "name": "Finance",
-              "slug": "finance"
-            }
-          ],
-          "slug": "web-services"
         },
         {
           "name": "Windows",

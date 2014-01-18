@@ -62,16 +62,6 @@
       "slug": "os-x"
     },
     {
-      "name": "Web Services",
-      "subcategories": [
-        {
-          "name": "Finance",
-          "slug": "finance"
-        }
-      ],
-      "slug": "web-services"
-    },
-    {
       "name": "Windows",
       "subcategories": [
         {
