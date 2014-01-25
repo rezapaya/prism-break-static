@@ -517,7 +517,7 @@ a.pipe{color:#333;}
 a.pipe:hover{color:#0467ae;background:#f5f5f5}
 a.pipe:active{color:#0467ae;background:#ebebeb}
 .text-block{padding:.66em 1em .33em;font:85%/1.5 'Helvetica Neue',Arial,Helvetica,sans-serif;background:#fff;border-bottom:1px solid #ddd;}
-.text-block p,.text-block ul,.text-block ol{margin:0 0 .66em;max-width:48em}
+.text-block p,.text-block ul,.text-block ol,.text-block blockquote{margin:0 0 .66em;max-width:48em}
 .text-block ul,.text-block ol{margin-left:2em}
 .text-block ul{list-style:disc}
 .text-block ol{list-style:decimal}
@@ -591,15 +591,13 @@ body.categories.show #container .content-main .box{margin-bottom:3em}
 body .sections{zoom:1;}
 body .sections:before,body .sections:after{content:"";display:table}
 body .sections:after{clear:both}
-body .sections .section{float:right;}
-body .sections .section.free{width:75%;}
-body .sections .section.free .pipe{border-right:1px solid #ddd}
-body .sections .section.prop{border-left:none;width:25%;}
+body .sections .section.prop{border-left:none;width:25%;float:right;}
 body .sections .section.prop.empty{display:block}
 body .sections .section .pipe i.fa{display:none}
 body .sections .section .bar{width:100% !important;float:none;border-right:none;}
 body .sections .section .bar .label{font-size:80%}
 body .sections .section .filler-columns-two{display:none}
+body .division{float:right;width:75%}
 }body.ar,body.fa,body.he{direction:rtl;}
 body.ar .ltr,body.fa .ltr,body.he .ltr{display:none}
 body.ar .rtl,body.fa .rtl,body.he .rtl{display:block}
