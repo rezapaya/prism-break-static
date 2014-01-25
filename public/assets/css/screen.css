@@ -604,11 +604,12 @@ body.ar .rtl,body.fa .rtl,body.he .rtl{display:block}
 body.ar #header a#brand,body.fa #header a#brand,body.he #header a#brand{float:right}
 body.ar #header .menu,body.fa #header .menu,body.he #header .menu{float:left;}
 body.ar #header .menu .nav,body.fa #header .menu .nav,body.he #header .menu .nav{float:right}
+body.ar #footer ul.nav li,body.fa #footer ul.nav li,body.he #footer ul.nav li{float:right}
 body.ar .pipe.positive i.fa,body.fa .pipe.positive i.fa,body.he .pipe.positive i.fa,body.ar .pipe.negative i.fa,body.fa .pipe.negative i.fa,body.he .pipe.negative i.fa{float:left;margin-left:-1em;margin-right:.5em;border-left:none;border-right:1px solid #ddd}
 body.ar .bar,body.fa .bar,body.he .bar{text-align:right;}
-body.ar .bar .label,body.fa .bar .label,body.he .bar .label{float:right;}
+body.ar .bar .label,body.fa .bar .label,body.he .bar .label{float:right;margin-right:0;}
 body.ar .bar .label .logo,body.fa .bar .label .logo,body.he .bar .label .logo,body.ar .bar .label i.fa,body.fa .bar .label i.fa,body.he .bar .label i.fa{float:right;margin:8px 0 0 12px}
-body.ar .bar .icon,body.fa .bar .icon,body.he .bar .icon{float:left;margin-left:-1em;margin-right:0}
+body.ar .bar .icon,body.fa .bar .icon,body.he .bar .icon{left:0;right:auto;margin-left:0;margin-right:1em}
 body.ar .card .btn-rectangle,body.fa .card .btn-rectangle,body.he .card .btn-rectangle{float:right}
 body.ar .card .btn-square,body.fa .card .btn-square,body.he .card .btn-square{position:absolute;((null)):0;((null)):0;top:0;left:0;right:inherit;border-left:none;border-right:1px solid #eee}
 body.ar .card .card-logo,body.fa .card .card-logo,body.he .card .card-logo{margin-right:0;margin-left:12px}
@@ -629,9 +630,8 @@ body.ar .content-side .section .bar.child,body.fa .content-side .section .bar.ch
 body.ar .content-main,body.fa .content-main,body.he .content-main{float:right}
 body.ar.categories.show #container .content-side .section,body.fa.categories.show #container .content-side .section,body.he.categories.show #container .content-side .section,body.ar.subcategories.show #container .content-side .section,body.fa.subcategories.show #container .content-side .section,body.he.subcategories.show #container .content-side .section,body.ar.protocols.show #container .content-side .section,body.fa.protocols.show #container .content-side .section,body.he.protocols.show #container .content-side .section,body.ar.projects.show #container .content-side .section,body.fa.projects.show #container .content-side .section,body.he.projects.show #container .content-side .section{margin:0 0 0 1em}
 body.ar.categories.show #container .content-main,body.fa.categories.show #container .content-main,body.he.categories.show #container .content-main,body.ar.subcategories.show #container .content-main,body.fa.subcategories.show #container .content-main,body.he.subcategories.show #container .content-main,body.ar.protocols.show #container .content-main,body.fa.protocols.show #container .content-main,body.he.protocols.show #container .content-main,body.ar.projects.show #container .content-main,body.fa.projects.show #container .content-main,body.he.projects.show #container .content-main{float:left}
-}@media (min-width: 1200px){body.ar .sections .section,body.fa .sections .section,body.he .sections .section{float:left;}
-body.ar .sections .section.free,body.fa .sections .section.free,body.he .sections .section.free{width:75%;}
+}@media (min-width: 1200px){body.ar .sections .division,body.fa .sections .division,body.he .sections .division{float:left !important}
 body.ar .sections .section.free .pipe,body.fa .sections .section.free .pipe,body.he .sections .section.free .pipe{border-right:none;border-left:1px solid #ddd}
-body.ar .sections .section.prop,body.fa .sections .section.prop,body.he .sections .section.prop{border-right:none;width:25%;}
+body.ar .sections .section.prop,body.fa .sections .section.prop,body.he .sections .section.prop{float:left !important;border-right:none;width:25%;}
 body.ar .sections .section.prop .bar,body.fa .sections .section.prop .bar,body.he .sections .section.prop .bar{border-left:none}
 }
